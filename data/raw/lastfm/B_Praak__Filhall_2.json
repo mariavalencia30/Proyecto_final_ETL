@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Filhall 2",
+    "url": "https://www.last.fm/music/B+Praak/_/Filhall+2",
+    "duration": "133000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1",
+    "playcount": "2",
+    "artist": {
+      "name": "B Praak",
+      "mbid": "9d7cac94-79ac-48e9-8be9-dcdcbb00e3df",
+      "url": "https://www.last.fm/music/B+Praak"
+    },
+    "album": {
+      "artist": "B Praak",
+      "title": "Filhall 2",
+      "url": "https://www.last.fm/music/B+Praak/Filhall+2",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "HARLEY QUINN",
+    "url": "https://www.last.fm/music/Fuerza+Regida/_/HARLEY+QUINN",
+    "duration": "143000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "154139",
+    "playcount": "1950923",
+    "artist": {
+      "name": "Fuerza Regida",
+      "mbid": "e665ce26-6ce9-4c42-8f6a-7a361a0ba328",
+      "url": "https://www.last.fm/music/Fuerza+Regida"
+    },
+    "album": {
+      "artist": "Fuerza Regida",
+      "title": "Pa las Baby's Y Belikeada",
+      "url": "https://www.last.fm/music/Fuerza+Regida/Pa+las+Baby%27s+Y+Belikeada",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0bcbf7c75cb9cbb1dbbf01dec7177b19.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0bcbf7c75cb9cbb1dbbf01dec7177b19.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0bcbf7c75cb9cbb1dbbf01dec7177b19.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0bcbf7c75cb9cbb1dbbf01dec7177b19.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

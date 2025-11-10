@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Jerusalema (feat. Nomcebo Zikode)",
+    "url": "https://www.last.fm/music/Master+KG/_/Jerusalema+(feat.+Nomcebo+Zikode)",
+    "duration": "187000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "94146",
+    "playcount": "616660",
+    "artist": {
+      "name": "Master KG",
+      "mbid": "b2a3cd7c-19dd-419e-b2e8-c1e2f8b3dff4",
+      "url": "https://www.last.fm/music/Master+KG"
+    },
+    "album": {
+      "artist": "Soca Gold",
+      "title": "Soca Gold 2021",
+      "url": "https://www.last.fm/music/Soca+Gold/Soca+Gold+2021",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a18d840d4933b48b82ee9486aa16fb9e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a18d840d4933b48b82ee9486aa16fb9e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a18d840d4933b48b82ee9486aa16fb9e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a18d840d4933b48b82ee9486aa16fb9e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

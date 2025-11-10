@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Mejor Que Ayer",
+    "url": "https://www.last.fm/music/Diego+Torres/_/Mejor+Que+Ayer",
+    "duration": "186000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "8416",
+    "playcount": "49007",
+    "artist": {
+      "name": "Diego Torres",
+      "url": "https://www.last.fm/music/Diego+Torres"
+    },
+    "album": {
+      "artist": "Diego Torres",
+      "title": "Mejor Que Ayer",
+      "url": "https://www.last.fm/music/Diego+Torres/Mejor+Que+Ayer",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/89f02f2ee881689322118cd2880c2528.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/89f02f2ee881689322118cd2880c2528.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/89f02f2ee881689322118cd2880c2528.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/89f02f2ee881689322118cd2880c2528.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

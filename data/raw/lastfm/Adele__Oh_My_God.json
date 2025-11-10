@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Oh My God",
+    "mbid": "5956edd6-99a5-4f14-ad46-db4969a1a4c4",
+    "url": "https://www.last.fm/music/Adele/_/Oh+My+God",
+    "duration": "230000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "540270",
+    "playcount": "5481894",
+    "artist": {
+      "name": "Adele",
+      "mbid": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+      "url": "https://www.last.fm/music/Adele"
+    },
+    "album": {
+      "artist": "Adele",
+      "title": "30",
+      "url": "https://www.last.fm/music/Adele/30",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/35a9537590ea3d5164b598c75b3a378c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/35a9537590ea3d5164b598c75b3a378c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/35a9537590ea3d5164b598c75b3a378c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/35a9537590ea3d5164b598c75b3a378c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "11 Jan 2022, 21:44",
+      "summary": "\"Oh My God\" is the second single from Adele's fourth studio album, 30.\n\nIt deals with a conflict on \"her desire to have fun for once\", while it seems like she never had the chance to do so. The song explores the topic of wanting to \"put yourself out there\" and the consequent difficulties due to being a superstar. Agnes Erickson at TheList.com dedicated an article to the meaning of the song. To her, a \"surprisingly upbeat song about dipping her toes in the romantic pool for the first time\" since the divorce <a href=\"http://www.last.fm/music/Adele/_/Oh+My+God\">Read more on Last.fm</a>.",
+      "content": "\"Oh My God\" is the second single from Adele's fourth studio album, 30.\n\nIt deals with a conflict on \"her desire to have fun for once\", while it seems like she never had the chance to do so. The song explores the topic of wanting to \"put yourself out there\" and the consequent difficulties due to being a superstar. Agnes Erickson at TheList.com dedicated an article to the meaning of the song. To her, a \"surprisingly upbeat song about dipping her toes in the romantic pool for the first time\" since the divorce, the lyrics showcase willingness to start dating again after an episode of anxiety that left her \"paralyzed completely\". <a href=\"http://www.last.fm/music/Adele/_/Oh+My+God\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

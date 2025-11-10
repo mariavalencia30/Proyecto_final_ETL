@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Lavender Haze",
+    "mbid": "b40e77fc-d782-468d-8a8d-cd52e53fcc60",
+    "url": "https://www.last.fm/music/Taylor+Swift/_/Lavender+Haze",
+    "duration": "200000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1021189",
+    "playcount": "26852943",
+    "artist": {
+      "name": "Taylor Swift",
+      "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+      "url": "https://www.last.fm/music/Taylor+Swift"
+    },
+    "album": {
+      "artist": "Taylor Swift",
+      "title": "Midnights",
+      "url": "https://www.last.fm/music/Taylor+Swift/Midnights",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8914bab2a0e4e454c6892f151d57208f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8914bab2a0e4e454c6892f151d57208f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8914bab2a0e4e454c6892f151d57208f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8914bab2a0e4e454c6892f151d57208f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "overrated",
+          "url": "https://www.last.fm/tag/overrated"
+        },
+        {
+          "name": "dream pop",
+          "url": "https://www.last.fm/tag/dream+pop"
+        },
+        {
+          "name": "alt-pop",
+          "url": "https://www.last.fm/tag/alt-pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "21 Oct 2022, 04:22",
+      "summary": "\"Lavender Haze\" is a song about staying true to one's self. It speaks to the feeling of being scrutinized and judged by society, and yet being determined to remain confident and sure of oneself, despite the outside pressures. The chorus references a \"lavender haze\" that symbolizes an emotional refuge from all the conflicting expectations that are imposed on her, allowing her to feel a sense of peace and contentment. <a href=\"http://www.last.fm/music/Taylor+Swift/_/Lavender+Haze\">Read more on Last.fm</a>.",
+      "content": "\"Lavender Haze\" is a song about staying true to one's self. It speaks to the feeling of being scrutinized and judged by society, and yet being determined to remain confident and sure of oneself, despite the outside pressures. The chorus references a \"lavender haze\" that symbolizes an emotional refuge from all the conflicting expectations that are imposed on her, allowing her to feel a sense of peace and contentment. <a href=\"http://www.last.fm/music/Taylor+Swift/_/Lavender+Haze\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

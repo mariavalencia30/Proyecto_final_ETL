@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Softly",
+    "mbid": "08579a38-22f9-4459-b4f3-6a8d16642bbd",
+    "url": "https://www.last.fm/music/Karan+Aujla/_/Softly",
+    "duration": "155000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "36749",
+    "playcount": "488356",
+    "artist": {
+      "name": "Karan Aujla",
+      "mbid": "4a779683-5404-4b90-a0d7-242495158265",
+      "url": "https://www.last.fm/music/Karan+Aujla"
+    },
+    "album": {
+      "artist": "Karan Aujla",
+      "title": "Making Memories",
+      "url": "https://www.last.fm/music/Karan+Aujla/Making+Memories",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e6a9becbc5060acb84e7ae8cbb8f14c1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e6a9becbc5060acb84e7ae8cbb8f14c1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e6a9becbc5060acb84e7ae8cbb8f14c1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e6a9becbc5060acb84e7ae8cbb8f14c1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

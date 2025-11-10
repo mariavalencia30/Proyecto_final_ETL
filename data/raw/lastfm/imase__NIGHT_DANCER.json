@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Night Dancer",
+    "mbid": "f814c10e-d4c7-4f2c-b6e6-1f128919071d",
+    "url": "https://www.last.fm/music/imase/_/Night+Dancer",
+    "duration": "210000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "327374",
+    "playcount": "3412307",
+    "artist": {
+      "name": "imase",
+      "mbid": "bc83173f-c86f-4343-b3e7-aad839a47a54",
+      "url": "https://www.last.fm/music/imase"
+    },
+    "album": {
+      "artist": "imase",
+      "title": "NIGHT DANCER - Single",
+      "url": "https://www.last.fm/music/imase/NIGHT+DANCER+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/935fc0da397bb9099df6445a76557c09.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/935fc0da397bb9099df6445a76557c09.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/935fc0da397bb9099df6445a76557c09.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/935fc0da397bb9099df6445a76557c09.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "lidarrDanielAnderson",
+          "url": "https://www.last.fm/tag/lidarrDanielAnderson"
+        },
+        {
+          "name": "vocal",
+          "url": "https://www.last.fm/tag/vocal"
+        },
+        {
+          "name": "danceable",
+          "url": "https://www.last.fm/tag/danceable"
+        },
+        {
+          "name": "happy",
+          "url": "https://www.last.fm/tag/happy"
+        },
+        {
+          "name": "Bittersweet",
+          "url": "https://www.last.fm/tag/Bittersweet"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "05 Jun 2023, 03:28",
+      "summary": "“NIGHT DANCER” is a song from Japan singer-songwriter ​imase with a strong focus on the theme of enjoying the present moment and creating lasting memories with a loved one. The lyrics express the speaker’s desire for their partner’s love and attention, while the composition captures the excitement of dancing and being together.\n\nFollowing a catchy melody and upbeat rhythm, the song received commercial success after several months of release, having received over 50M streams on both Spotify and YouTube and over 98K TikTok videos. <a href=\"http://www.last.fm/music/imase/_/Night+Dancer\">Read more on Last.fm</a>.",
+      "content": "“NIGHT DANCER” is a song from Japan singer-songwriter ​imase with a strong focus on the theme of enjoying the present moment and creating lasting memories with a loved one. The lyrics express the speaker’s desire for their partner’s love and attention, while the composition captures the excitement of dancing and being together.\n\nFollowing a catchy melody and upbeat rhythm, the song received commercial success after several months of release, having received over 50M streams on both Spotify and YouTube and over 98K TikTok videos. The song also charted in many country’s Spotify viral charts, including Taiwan, Thailand, Malaysia and more. <a href=\"http://www.last.fm/music/imase/_/Night+Dancer\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

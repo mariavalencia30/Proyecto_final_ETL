@@ -1,0 +1,20 @@
+{
+  "track": {
+    "name": "Bartolito",
+    "url": "https://www.last.fm/music/Duo+Tiempo+de+Sol/_/Bartolito",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "110",
+    "playcount": "554",
+    "artist": {
+      "name": "Duo Tiempo de Sol",
+      "url": "https://www.last.fm/music/Duo+Tiempo+de+Sol"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

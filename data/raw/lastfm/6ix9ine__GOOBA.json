@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "GOOBA",
+    "mbid": "a6c07726-65c0-47ad-9dc7-c3caebe227c8",
+    "url": "https://www.last.fm/music/6ix9ine/_/GOOBA",
+    "duration": "132000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "280944",
+    "playcount": "2223542",
+    "artist": {
+      "name": "6ix9ine",
+      "mbid": "2282c539-05a2-477c-82b7-fe40798d37f3",
+      "url": "https://www.last.fm/music/6ix9ine"
+    },
+    "album": {
+      "artist": "6ix9ine",
+      "title": "TattleTales",
+      "url": "https://www.last.fm/music/6ix9ine/TattleTales",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2f15f3b940db1b2225f5bf0852f354e3.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2f15f3b940db1b2225f5bf0852f354e3.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2f15f3b940db1b2225f5bf0852f354e3.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2f15f3b940db1b2225f5bf0852f354e3.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "09 Sep 2020, 12:55",
+      "summary": "\"Gooba\" is a song by American rapper 6ix9ine. It was released on May 8, 2020, 6ix9ine's birthday, as the first single after his prison release on April 2, 2020. It is the lead single from his second studio album, TattleTales, released on September 4, 2020. The song and its accompanying video were recorded under house arrest, stemming from the trial of the Nine Trey Gangsters, which 6ix9ine references in the song. He also targets his detractors. <a href=\"http://www.last.fm/music/6ix9ine/_/GOOBA\">Read more on Last.fm</a>.",
+      "content": "\"Gooba\" is a song by American rapper 6ix9ine. It was released on May 8, 2020, 6ix9ine's birthday, as the first single after his prison release on April 2, 2020. It is the lead single from his second studio album, TattleTales, released on September 4, 2020. The song and its accompanying video were recorded under house arrest, stemming from the trial of the Nine Trey Gangsters, which 6ix9ine references in the song. He also targets his detractors. <a href=\"http://www.last.fm/music/6ix9ine/_/GOOBA\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

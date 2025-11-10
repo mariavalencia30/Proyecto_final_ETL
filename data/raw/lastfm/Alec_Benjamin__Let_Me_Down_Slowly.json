@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Let Me Down Slowly",
+    "mbid": "00df4b23-feb5-4c7b-a23d-3515d1637edf",
+    "url": "https://www.last.fm/music/Alec+Benjamin/_/Let+Me+Down+Slowly",
+    "duration": "169000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "725354",
+    "playcount": "7536561",
+    "artist": {
+      "name": "Alec Benjamin",
+      "mbid": "21a14ee3-cede-420a-9d6d-a33517d2f952",
+      "url": "https://www.last.fm/music/Alec+Benjamin"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Bravo The Hits 2019",
+      "url": "https://www.last.fm/music/Various+Artists/Bravo+The+Hits+2019",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1b5da3c720e26e331feb6927f88d27b3.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1b5da3c720e26e331feb6927f88d27b3.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1b5da3c720e26e331feb6927f88d27b3.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1b5da3c720e26e331feb6927f88d27b3.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "singer-songwriter",
+          "url": "https://www.last.fm/tag/singer-songwriter"
+        },
+        {
+          "name": "chill",
+          "url": "https://www.last.fm/tag/chill"
+        },
+        {
+          "name": "teen pop",
+          "url": "https://www.last.fm/tag/teen+pop"
+        },
+        {
+          "name": "alec benjamin",
+          "url": "https://www.last.fm/tag/alec+benjamin"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "02 Jun 2019, 18:04",
+      "summary": "\"Let Me Down Slowly\" is a song by American singer Alec Benjamin, originally released as a solo version in 2018 and included on his mixtape Narrated for You before being re-released as a duet with Canadian singer Alessia Cara in early 2019. Billboard called the track Benjamin's \"vulnerable breakout hit\".  <a href=\"http://www.last.fm/music/Alec+Benjamin/_/Let+Me+Down+Slowly\">Read more on Last.fm</a>.",
+      "content": "\"Let Me Down Slowly\" is a song by American singer Alec Benjamin, originally released as a solo version in 2018 and included on his mixtape Narrated for You before being re-released as a duet with Canadian singer Alessia Cara in early 2019. Billboard called the track Benjamin's \"vulnerable breakout hit\".  <a href=\"http://www.last.fm/music/Alec+Benjamin/_/Let+Me+Down+Slowly\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Mi Gente",
+    "url": "https://www.last.fm/music/J+Balvin/_/Mi+Gente",
+    "duration": "189000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "591279",
+    "playcount": "3944445",
+    "artist": {
+      "name": "J Balvin",
+      "mbid": "5bdeb32d-56a5-4b6d-a768-264101fa0a0a",
+      "url": "https://www.last.fm/music/J+Balvin"
+    },
+    "album": {
+      "artist": "J Balvin",
+      "title": "Mi Gente",
+      "url": "https://www.last.fm/music/J+Balvin/Mi+Gente",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d145c84ab66ac6932547783726691c59.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d145c84ab66ac6932547783726691c59.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d145c84ab66ac6932547783726691c59.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d145c84ab66ac6932547783726691c59.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Reggaeton",
+          "url": "https://www.last.fm/tag/Reggaeton"
+        },
+        {
+          "name": "latin",
+          "url": "https://www.last.fm/tag/latin"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "latin pop",
+          "url": "https://www.last.fm/tag/latin+pop"
+        },
+        {
+          "name": "colombian",
+          "url": "https://www.last.fm/tag/colombian"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "09 Sep 2024, 03:15",
+      "summary": "“Mi Gente” es la primera colaboración entre la superestrella colombiana J Balvin y el reconocido productor francés Willy William.\n\nMi Gente tiene todos los elementos para ser el nuevo himno de los clubs; una canción que invita a todos a bailar, sin distinción de razas ni nacionalidades.\n\nLa canción debutó en el #70 del Billboard Hot 100, siendo este el lugar más alto que ha alcanzado J Balvin en esta prestigiosa lista, después de alcanzar el #84 con “Ginza” en Noviembre del 2015. <a href=\"http://www.last.fm/music/J+Balvin/_/Mi+Gente\">Read more on Last.fm</a>.",
+      "content": "“Mi Gente” es la primera colaboración entre la superestrella colombiana J Balvin y el reconocido productor francés Willy William.\n\nMi Gente tiene todos los elementos para ser el nuevo himno de los clubs; una canción que invita a todos a bailar, sin distinción de razas ni nacionalidades.\n\nLa canción debutó en el #70 del Billboard Hot 100, siendo este el lugar más alto que ha alcanzado J Balvin en esta prestigiosa lista, después de alcanzar el #84 con “Ginza” en Noviembre del 2015.\n\n--------------------------------------------------------------------------------------------------------------------------------------\n“Mi Gente” is the first collaboration between Colombian superstar J Balvin and the renowned French producer Willy William.\n\nMi Gente has all the elements to be the new club anthem; a song that invites everyone to dance, without any distinction of race or nationality.\n\nThe song debuted at #70 on Billboard’s Hot 100, being this the highest place that has reached J Balvin in this prestigious list, after reaching #84 with “Ginza” in November 2015. The song is already peaked at #19 on the issue of September 30, 2017. <a href=\"http://www.last.fm/music/J+Balvin/_/Mi+Gente\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

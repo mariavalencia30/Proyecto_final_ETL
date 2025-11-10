@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "This Side of Paradise",
+    "mbid": "d2f11dc2-e88f-3024-823b-c4209fba0b6d",
+    "url": "https://www.last.fm/music/Coyote+Theory/_/This+Side+of+Paradise",
+    "duration": "242000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "691553",
+    "playcount": "8257368",
+    "artist": {
+      "name": "Coyote Theory",
+      "mbid": "447b01a0-fcd9-4eb0-978a-d17aa48ea00b",
+      "url": "https://www.last.fm/music/Coyote+Theory"
+    },
+    "album": {
+      "artist": "Coyote Theory",
+      "title": "Color",
+      "url": "https://www.last.fm/music/Coyote+Theory/Color",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1e350f3b803b4f96ae81996c1eccba84.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1e350f3b803b4f96ae81996c1eccba84.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1e350f3b803b4f96ae81996c1eccba84.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1e350f3b803b4f96ae81996c1eccba84.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "26 Feb 2022, 23:08",
+      "summary": "“This Side Of Paradise” is the third single from Coyote Theory’s debut EP, Color. The song delves into the theme of loneliness and connection. The lyrics express the feelings of being alone and the desire to find someone to share that loneliness with. <a href=\"http://www.last.fm/music/Coyote+Theory/_/This+Side+of+Paradise\">Read more on Last.fm</a>.",
+      "content": "“This Side Of Paradise” is the third single from Coyote Theory’s debut EP, Color. The song delves into the theme of loneliness and connection. The lyrics express the feelings of being alone and the desire to find someone to share that loneliness with. <a href=\"http://www.last.fm/music/Coyote+Theory/_/This+Side+of+Paradise\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

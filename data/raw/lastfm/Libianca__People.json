@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "People",
+    "mbid": "f9e199c0-e783-43f6-9c6f-cdd5845e5385",
+    "url": "https://www.last.fm/music/Libianca/_/People",
+    "duration": "183000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "317194",
+    "playcount": "2469133",
+    "artist": {
+      "name": "Libianca",
+      "mbid": "6f73cf76-8550-459d-935a-d9b932b4266b",
+      "url": "https://www.last.fm/music/Libianca"
+    },
+    "album": {
+      "artist": "Libianca",
+      "title": "People",
+      "url": "https://www.last.fm/music/Libianca/People",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bebed6fcbbf2a84c0073b0eb382d7360.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bebed6fcbbf2a84c0073b0eb382d7360.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bebed6fcbbf2a84c0073b0eb382d7360.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bebed6fcbbf2a84c0073b0eb382d7360.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "10 Jan 2023, 03:50",
+      "summary": "“People” is a single by Cameroonian American musician Libianca, written about her experience with cyclothymia. The single initially gained traction on TikTok, later reaching the Top 10 in the UK, New Zealand and India. <a href=\"http://www.last.fm/music/Libianca/_/People\">Read more on Last.fm</a>.",
+      "content": "“People” is a single by Cameroonian American musician Libianca, written about her experience with cyclothymia. The single initially gained traction on TikTok, later reaching the Top 10 in the UK, New Zealand and India. <a href=\"http://www.last.fm/music/Libianca/_/People\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "Ojitos Rojos",
+    "url": "https://www.last.fm/music/Grupo+Frontera/_/Ojitos+Rojos",
+    "duration": "221000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "56829",
+    "playcount": "478458",
+    "artist": {
+      "name": "Grupo Frontera",
+      "mbid": "4c57c827-4ce3-4cf4-9492-0ff7f1ee2b0f",
+      "url": "https://www.last.fm/music/Grupo+Frontera"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Hrs and Hrs",
+    "mbid": "ed4e8b7b-cee5-4993-a107-16ca0d408342",
+    "url": "https://www.last.fm/music/Muni+Long/_/Hrs+and+Hrs",
+    "duration": "204000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "65969",
+    "playcount": "450192",
+    "artist": {
+      "name": "Muni Long",
+      "mbid": "66acfbaf-a28e-49c1-aeff-ef92e4358d90",
+      "url": "https://www.last.fm/music/Muni+Long"
+    },
+    "album": {
+      "artist": "Muni Long",
+      "title": "Public Displays Of Affection",
+      "url": "https://www.last.fm/music/Muni+Long/Public+Displays+Of+Affection",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/814b6d15582dd48bed5f209368ca304c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/814b6d15582dd48bed5f209368ca304c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/814b6d15582dd48bed5f209368ca304c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/814b6d15582dd48bed5f209368ca304c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

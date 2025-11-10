@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Mi Kryptonita",
+    "url": "https://www.last.fm/music/Doble+ONE+Flow+Letal/_/Mi+Kryptonita",
+    "duration": "188000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "42768",
+    "playcount": "458051",
+    "artist": {
+      "name": "Doble ONE Flow Letal",
+      "mbid": "6eb2f8d4-7a8a-41f1-b843-4c97d545fb95",
+      "url": "https://www.last.fm/music/Doble+ONE+Flow+Letal"
+    },
+    "album": {
+      "artist": "Doble ONE Flow Letal",
+      "title": "Talento De Vida [Explicit]",
+      "url": "https://www.last.fm/music/Doble+ONE+Flow+Letal/Talento+De+Vida+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d530e8541358955e92f186bee36f6bd5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d530e8541358955e92f186bee36f6bd5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d530e8541358955e92f186bee36f6bd5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d530e8541358955e92f186bee36f6bd5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

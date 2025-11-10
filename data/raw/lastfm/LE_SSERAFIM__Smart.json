@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Smart",
+    "mbid": "9b8c07f6-f0b4-4b7b-9d92-5f503307baaa",
+    "url": "https://www.last.fm/music/LE+SSERAFIM/_/Smart",
+    "duration": "166000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "542333",
+    "playcount": "11333686",
+    "artist": {
+      "name": "LE SSERAFIM",
+      "mbid": "1ee37742-1e3d-4e61-84d2-bc85f4c1459a",
+      "url": "https://www.last.fm/music/LE+SSERAFIM"
+    },
+    "album": {
+      "artist": "LE SSERAFIM",
+      "title": "EASY",
+      "url": "https://www.last.fm/music/LE+SSERAFIM/EASY",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0e4cc9281dc52c0957416b3b64fb9d05.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0e4cc9281dc52c0957416b3b64fb9d05.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0e4cc9281dc52c0957416b3b64fb9d05.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0e4cc9281dc52c0957416b3b64fb9d05.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Kpop",
+          "url": "https://www.last.fm/tag/Kpop"
+        },
+        {
+          "name": "k-pop",
+          "url": "https://www.last.fm/tag/k-pop"
+        },
+        {
+          "name": "amapiano",
+          "url": "https://www.last.fm/tag/amapiano"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "afrobeat",
+          "url": "https://www.last.fm/tag/afrobeat"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "04 Aug 2024, 15:33",
+      "summary": "\"Smart\" is a song recorded by South Korean girl group LE SSERAFIM for their third extended play Easy. It was released as the EP's second single on March 5, 2024. <a href=\"http://www.last.fm/music/LE+SSERAFIM/_/Smart\">Read more on Last.fm</a>.",
+      "content": "\"Smart\" is a song recorded by South Korean girl group LE SSERAFIM for their third extended play Easy. It was released as the EP's second single on March 5, 2024. <a href=\"http://www.last.fm/music/LE+SSERAFIM/_/Smart\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

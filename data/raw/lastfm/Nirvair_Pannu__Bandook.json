@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Bandook",
+    "url": "https://www.last.fm/music/Nirvair+Pannu/_/Bandook",
+    "duration": "172000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "2311",
+    "playcount": "15407",
+    "artist": {
+      "name": "Nirvair Pannu",
+      "mbid": "3538581d-2e3f-40ac-98fe-fd434f29d04d",
+      "url": "https://www.last.fm/music/Nirvair+Pannu"
+    },
+    "album": {
+      "artist": "Nirvair Pannu",
+      "title": "Bandook",
+      "url": "https://www.last.fm/music/Nirvair+Pannu/Bandook",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4d8a1687cd4f72bcb208322129af242a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4d8a1687cd4f72bcb208322129af242a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4d8a1687cd4f72bcb208322129af242a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4d8a1687cd4f72bcb208322129af242a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

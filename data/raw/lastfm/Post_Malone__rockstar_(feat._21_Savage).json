@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "rockstar (feat. 21 Savage)",
+    "url": "https://www.last.fm/music/Post+Malone/_/rockstar+(feat.+21+Savage)",
+    "duration": "218000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1142221",
+    "playcount": "12208542",
+    "artist": {
+      "name": "Post Malone",
+      "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+      "url": "https://www.last.fm/music/Post+Malone"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Verified Hits",
+      "url": "https://www.last.fm/music/Various+Artists/Verified+Hits",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5964585e3ffc6c638948a8b21b19b63b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5964585e3ffc6c638948a8b21b19b63b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5964585e3ffc6c638948a8b21b19b63b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5964585e3ffc6c638948a8b21b19b63b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "cloud rap",
+          "url": "https://www.last.fm/tag/cloud+rap"
+        },
+        {
+          "name": "2017",
+          "url": "https://www.last.fm/tag/2017"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "13 Jul 2019, 17:08",
+      "summary": "“rockstar” is a song by American rapper and singer-songwriter Post Malone. It was released on September 15, 2017, by Republic Records as the first single from his 2018 project beerbongs & bentleys. The track reached number one on the US Billboard Hot 100, and reached the top spot in several other countries, including Australia, Canada, Ireland, New Zealand, and the United Kingdom. It became Post Malone and 21 Savage’s first number one in all the countries mentioned. <a href=\"http://www.last.fm/music/Post+Malone/_/rockstar+(feat.+21+Savage)\">Read more on Last.fm</a>.",
+      "content": "“rockstar” is a song by American rapper and singer-songwriter Post Malone. It was released on September 15, 2017, by Republic Records as the first single from his 2018 project beerbongs & bentleys. The track reached number one on the US Billboard Hot 100, and reached the top spot in several other countries, including Australia, Canada, Ireland, New Zealand, and the United Kingdom. It became Post Malone and 21 Savage’s first number one in all the countries mentioned. <a href=\"http://www.last.fm/music/Post+Malone/_/rockstar+(feat.+21+Savage)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

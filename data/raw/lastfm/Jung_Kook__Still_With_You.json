@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Still With You",
+    "mbid": "21ca6993-c499-408b-babe-1ca6d370cfe3",
+    "url": "https://www.last.fm/music/Jung+Kook/_/Still+With+You",
+    "duration": "239000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "506082",
+    "playcount": "19494885",
+    "artist": {
+      "name": "Jung Kook",
+      "mbid": "23c8056b-ee13-4cfc-a772-2f5292e35bb5",
+      "url": "https://www.last.fm/music/Jung+Kook"
+    },
+    "album": {
+      "artist": "Jung Kook",
+      "title": "Still With You",
+      "url": "https://www.last.fm/music/Jung+Kook/Still+With+You",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/81f9e98d3ffc0bf1c9363f836a0e9b75.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/81f9e98d3ffc0bf1c9363f836a0e9b75.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/81f9e98d3ffc0bf1c9363f836a0e9b75.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/81f9e98d3ffc0bf1c9363f836a0e9b75.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "soul",
+          "url": "https://www.last.fm/tag/soul"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "bts",
+          "url": "https://www.last.fm/tag/bts"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "Korean",
+          "url": "https://www.last.fm/tag/Korean"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "04 Jul 2023, 13:29",
+      "summary": "\"Still With You\" is a song by BTS member Jung Kook. \nOriginally, it was released on June 5, 2020, as part of the 2020 BTS Festa on SoundCloud.\nThe song was officially released on global streaming platforms and digital stores on July 3, 2023. <a href=\"http://www.last.fm/music/Jung+Kook/_/Still+With+You\">Read more on Last.fm</a>.",
+      "content": "\"Still With You\" is a song by BTS member Jung Kook. \nOriginally, it was released on June 5, 2020, as part of the 2020 BTS Festa on SoundCloud.\nThe song was officially released on global streaming platforms and digital stores on July 3, 2023. <a href=\"http://www.last.fm/music/Jung+Kook/_/Still+With+You\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

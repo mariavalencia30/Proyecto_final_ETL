@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Monkeys Spinning Monkeys",
+    "url": "https://www.last.fm/music/Kevin+Macleod/_/Monkeys+Spinning+Monkeys",
+    "duration": "125000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "96069",
+    "playcount": "376667",
+    "artist": {
+      "name": "Kevin Macleod",
+      "mbid": "d0429304-ae84-40a9-8e3e-14745354862a",
+      "url": "https://www.last.fm/music/Kevin+Macleod"
+    },
+    "album": {
+      "artist": "Kevin Macleod",
+      "title": "Music to Delight",
+      "url": "https://www.last.fm/music/Kevin+Macleod/Music+to+Delight",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c0ca889738317ab1a4aff2b57f4fdef7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c0ca889738317ab1a4aff2b57f4fdef7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c0ca889738317ab1a4aff2b57f4fdef7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c0ca889738317ab1a4aff2b57f4fdef7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "GODS",
+    "mbid": "cda6b605-1937-4481-97a8-576f61ba9fe4",
+    "url": "https://www.last.fm/music/League+of+Legends/_/GODS",
+    "duration": "220000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "393292",
+    "playcount": "7084810",
+    "artist": {
+      "name": "League of Legends",
+      "mbid": "c68d3821-4222-4de4-acc3-a838f477433b",
+      "url": "https://www.last.fm/music/League+of+Legends"
+    },
+    "album": {
+      "artist": "League of Legends",
+      "title": "GODS",
+      "url": "https://www.last.fm/music/League+of+Legends/GODS",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8a047134bbc4dda160f9ce784e49b3fd.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8a047134bbc4dda160f9ce784e49b3fd.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8a047134bbc4dda160f9ce784e49b3fd.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8a047134bbc4dda160f9ce784e49b3fd.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "k-pop",
+          "url": "https://www.last.fm/tag/k-pop"
+        },
+        {
+          "name": "huh",
+          "url": "https://www.last.fm/tag/huh"
+        },
+        {
+          "name": "newjeans",
+          "url": "https://www.last.fm/tag/newjeans"
+        },
+        {
+          "name": "Slay",
+          "url": "https://www.last.fm/tag/Slay"
+        },
+        {
+          "name": "rhodacore",
+          "url": "https://www.last.fm/tag/rhodacore"
+        }
+      ]
+    }
+  }
+}

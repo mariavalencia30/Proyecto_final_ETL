@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "SkeeYee",
+    "mbid": "2766bec0-f8da-4963-9ca9-7eaf5cf12fbb",
+    "url": "https://www.last.fm/music/Sexyy+Red/_/SkeeYee",
+    "duration": "157000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "316588",
+    "playcount": "1922031",
+    "artist": {
+      "name": "Sexyy Red",
+      "mbid": "0953d634-b964-4f2a-b862-8de475aeaf47",
+      "url": "https://www.last.fm/music/Sexyy+Red"
+    },
+    "album": {
+      "artist": "Sexyy Red",
+      "title": "Hood Hottest Princess",
+      "url": "https://www.last.fm/music/Sexyy+Red/Hood+Hottest+Princess",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f9ac366848d1cef65b5e7cbaf71a5d37.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f9ac366848d1cef65b5e7cbaf71a5d37.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f9ac366848d1cef65b5e7cbaf71a5d37.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f9ac366848d1cef65b5e7cbaf71a5d37.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "12 Nov 2023, 03:35",
+      "summary": "\"SkeeYee\" is a song by American rapper Sexyy Red. It was released on June 9, 2023, as the fourth single from her mixtape Hood Hottest Princess with an accompanying music video.The song was produced by Tay Keith, DJ Meech and BanBwoi. <a href=\"http://www.last.fm/music/Sexyy+Red/_/SkeeYee\">Read more on Last.fm</a>.",
+      "content": "\"SkeeYee\" is a song by American rapper Sexyy Red. It was released on June 9, 2023, as the fourth single from her mixtape Hood Hottest Princess with an accompanying music video.The song was produced by Tay Keith, DJ Meech and BanBwoi. <a href=\"http://www.last.fm/music/Sexyy+Red/_/SkeeYee\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "track": {
+    "name": "Tell Ur Girlfriend",
+    "url": "https://www.last.fm/music/Lay+Bankz/_/Tell+Ur+Girlfriend",
+    "duration": "124000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "463911",
+    "playcount": "4443651",
+    "artist": {
+      "name": "Lay Bankz",
+      "url": "https://www.last.fm/music/Lay+Bankz"
+    },
+    "album": {
+      "artist": "Lay Bankz",
+      "title": "Tell Ur Girlfriend - Single",
+      "url": "https://www.last.fm/music/Lay+Bankz/Tell+Ur+Girlfriend+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b5166ce4ea4f3eb450309c6c188bc769.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b5166ce4ea4f3eb450309c6c188bc769.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b5166ce4ea4f3eb450309c6c188bc769.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b5166ce4ea4f3eb450309c6c188bc769.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "my top songs",
+          "url": "https://www.last.fm/tag/my+top+songs"
+        },
+        {
+          "name": "add",
+          "url": "https://www.last.fm/tag/add"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "alexcore",
+          "url": "https://www.last.fm/tag/alexcore"
+        }
+      ]
+    }
+  }
+}

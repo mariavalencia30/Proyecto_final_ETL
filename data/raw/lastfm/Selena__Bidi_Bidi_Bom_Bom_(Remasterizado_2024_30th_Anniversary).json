@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Bidi Bidi Bom Bom (Remasterizado 2024/30th Anniversary)",
+    "url": "https://www.last.fm/music/Selena/_/Bidi+Bidi+Bom+Bom+(Remasterizado+2024%2F30th+Anniversary)",
+    "duration": "204000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "526",
+    "playcount": "1745",
+    "artist": {
+      "name": "Selena",
+      "mbid": "03746227-c9f9-4b3b-b2c6-9b31f79564f7",
+      "url": "https://www.last.fm/music/Selena"
+    },
+    "album": {
+      "artist": "Selena",
+      "title": "Amor Prohibido (Remasterizado 2024/30th Anniversary)",
+      "url": "https://www.last.fm/music/Selena/Amor+Prohibido+(Remasterizado+2024%2F30th+Anniversary)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2d21cb085b94c11c79ddef621016b407.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2d21cb085b94c11c79ddef621016b407.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2d21cb085b94c11c79ddef621016b407.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2d21cb085b94c11c79ddef621016b407.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

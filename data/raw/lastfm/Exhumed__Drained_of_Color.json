@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Drained of Color",
+    "url": "https://www.last.fm/music/Exhumed/_/Drained+of+Color",
+    "duration": "272000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "6036",
+    "playcount": "18446",
+    "artist": {
+      "name": "Exhumed",
+      "mbid": "157fa1d2-3399-4523-9481-edd2e2f57400",
+      "url": "https://www.last.fm/music/Exhumed"
+    },
+    "album": {
+      "artist": "Exhumed",
+      "title": "To the Dead",
+      "url": "https://www.last.fm/music/Exhumed/To+the+Dead",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/caf49959ad1d2e51bcc3d290067bd28d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/caf49959ad1d2e51bcc3d290067bd28d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/caf49959ad1d2e51bcc3d290067bd28d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/caf49959ad1d2e51bcc3d290067bd28d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

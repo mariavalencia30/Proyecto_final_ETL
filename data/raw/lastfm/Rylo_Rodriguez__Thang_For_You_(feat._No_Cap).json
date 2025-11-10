@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Thang For You (feat. No Cap)",
+    "url": "https://www.last.fm/music/Rylo+Rodriguez/_/Thang+For+You+(feat.+No+Cap)",
+    "duration": "259000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "18600",
+    "playcount": "105984",
+    "artist": {
+      "name": "Rylo Rodriguez",
+      "mbid": "1c4b484c-746c-48b8-88b2-40f09e15159d",
+      "url": "https://www.last.fm/music/Rylo+Rodriguez"
+    },
+    "album": {
+      "artist": "Rylo Rodriguez",
+      "title": "Thang For You (feat. No Cap) - Single",
+      "url": "https://www.last.fm/music/Rylo+Rodriguez/Thang+For+You+(feat.+No+Cap)+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/028443220d29685c3233ba84f2e4d432.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/028443220d29685c3233ba84f2e4d432.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/028443220d29685c3233ba84f2e4d432.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/028443220d29685c3233ba84f2e4d432.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

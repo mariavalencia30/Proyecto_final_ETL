@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Stargazing",
+    "mbid": "ff052782-9fc5-4cf8-9f02-14c77c73f880",
+    "url": "https://www.last.fm/music/Myles+Smith/_/Stargazing",
+    "duration": "171000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "407695",
+    "playcount": "3179539",
+    "artist": {
+      "name": "Myles Smith",
+      "mbid": "73d2a9d4-de5d-4bcd-9acb-ddf67dfd71ac",
+      "url": "https://www.last.fm/music/Myles+Smith"
+    },
+    "album": {
+      "artist": "Myles Smith",
+      "title": "Stargazing",
+      "url": "https://www.last.fm/music/Myles+Smith/Stargazing",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/43d064aa6076c15a2f1eff800eaf5e23.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/43d064aa6076c15a2f1eff800eaf5e23.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/43d064aa6076c15a2f1eff800eaf5e23.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/43d064aa6076c15a2f1eff800eaf5e23.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "groovy",
+          "url": "https://www.last.fm/tag/groovy"
+        },
+        {
+          "name": "instrumental",
+          "url": "https://www.last.fm/tag/instrumental"
+        },
+        {
+          "name": "loud",
+          "url": "https://www.last.fm/tag/loud"
+        },
+        {
+          "name": "melodic",
+          "url": "https://www.last.fm/tag/melodic"
+        },
+        {
+          "name": "Moderate",
+          "url": "https://www.last.fm/tag/Moderate"
+        }
+      ]
+    }
+  }
+}

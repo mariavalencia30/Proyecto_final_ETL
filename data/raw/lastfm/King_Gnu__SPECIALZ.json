@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "SPECIALZ",
+    "mbid": "288611cf-0bc6-4827-879f-27e73cad623e",
+    "url": "https://www.last.fm/music/King+Gnu/_/SPECIALZ",
+    "duration": "239000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "261374",
+    "playcount": "4363203",
+    "artist": {
+      "name": "King Gnu",
+      "mbid": "338f5d97-3133-4bf8-a58e-068ff9b5405d",
+      "url": "https://www.last.fm/music/King+Gnu"
+    },
+    "album": {
+      "artist": "King Gnu",
+      "title": "SPECIALZ",
+      "url": "https://www.last.fm/music/King+Gnu/SPECIALZ",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/152ebb5d5c433fbd614ab970e2498632.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/152ebb5d5c433fbd614ab970e2498632.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/152ebb5d5c433fbd614ab970e2498632.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/152ebb5d5c433fbd614ab970e2498632.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "jujutsu kaisen",
+          "url": "https://www.last.fm/tag/jujutsu+kaisen"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "japanese",
+          "url": "https://www.last.fm/tag/japanese"
+        },
+        {
+          "name": "anime",
+          "url": "https://www.last.fm/tag/anime"
+        },
+        {
+          "name": "JUJUTSU KAISEN PORRA",
+          "url": "https://www.last.fm/tag/JUJUTSU+KAISEN+PORRA"
+        }
+      ]
+    }
+  }
+}

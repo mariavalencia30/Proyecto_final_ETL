@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Stitches",
+    "url": "https://www.last.fm/music/Shawn+Mendes/_/Stitches",
+    "duration": "206000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1086046",
+    "playcount": "9330472",
+    "artist": {
+      "name": "Shawn Mendes",
+      "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
+      "url": "https://www.last.fm/music/Shawn+Mendes"
+    },
+    "album": {
+      "artist": "Shawn Mendes",
+      "title": "Handwritten (Deluxe)",
+      "url": "https://www.last.fm/music/Shawn+Mendes/Handwritten+(Deluxe)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1271777d8595fc9fe8655bd7610db582.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1271777d8595fc9fe8655bd7610db582.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1271777d8595fc9fe8655bd7610db582.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1271777d8595fc9fe8655bd7610db582.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "Canadian",
+          "url": "https://www.last.fm/tag/Canadian"
+        },
+        {
+          "name": "acoustic",
+          "url": "https://www.last.fm/tag/acoustic"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "my love",
+          "url": "https://www.last.fm/tag/my+love"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "06 Feb 2016, 11:32",
+      "summary": "\"Stitches\" is the fourth major single recorded by Shawn Mendes after being signed to Island Records. It was written and produced by Danny Parker, Teddy Geiger, and Daniel Kyriakides, and recorded by Mendes in 2014. After that, it was initially released to iTunes via Island Records on March 16, 2015 as the third pre-order exclusive track and was subsequently serviced to radio via Republic Records on May 5, 2015 as the album's third official single. <a href=\"http://www.last.fm/music/Shawn+Mendes/_/Stitches\">Read more on Last.fm</a>.",
+      "content": "\"Stitches\" is the fourth major single recorded by Shawn Mendes after being signed to Island Records. It was written and produced by Danny Parker, Teddy Geiger, and Daniel Kyriakides, and recorded by Mendes in 2014. After that, it was initially released to iTunes via Island Records on March 16, 2015 as the third pre-order exclusive track and was subsequently serviced to radio via Republic Records on May 5, 2015 as the album's third official single. <a href=\"http://www.last.fm/music/Shawn+Mendes/_/Stitches\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

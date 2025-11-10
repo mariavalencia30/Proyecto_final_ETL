@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "love nwantiti (ah ah ah)",
+    "mbid": "27705ace-e1e4-4433-8ae3-b1ee804da011",
+    "url": "https://www.last.fm/music/Ckay/_/love+nwantiti+(ah+ah+ah)",
+    "duration": "145000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "430494",
+    "playcount": "3556190",
+    "artist": {
+      "name": "Ckay",
+      "url": "https://www.last.fm/music/Ckay"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "The Dome Vol. 100",
+      "url": "https://www.last.fm/music/Various+Artists/The+Dome+Vol.+100",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c81304dc083b718f76208236a83a9a59.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c81304dc083b718f76208236a83a9a59.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c81304dc083b718f76208236a83a9a59.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c81304dc083b718f76208236a83a9a59.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "10 Jan 2022, 15:42",
+      "summary": "‘Love Nwantinti’ drives us back into more familiar terrain. It’s a love song with a lo-fi, resonant afrobeats sound. <a href=\"http://www.last.fm/music/Ckay/_/love+nwantiti+(ah+ah+ah)\">Read more on Last.fm</a>.",
+      "content": "‘Love Nwantinti’ drives us back into more familiar terrain. It’s a love song with a lo-fi, resonant afrobeats sound. <a href=\"http://www.last.fm/music/Ckay/_/love+nwantiti+(ah+ah+ah)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Bathroom Floor",
+    "mbid": "578b950e-216d-4380-9c65-c31ff0591799",
+    "url": "https://www.last.fm/music/KIDS+WITH+BUNS/_/Bathroom+Floor",
+    "duration": "210000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "2462",
+    "playcount": "12666",
+    "artist": {
+      "name": "KIDS WITH BUNS",
+      "url": "https://www.last.fm/music/KIDS+WITH+BUNS"
+    },
+    "album": {
+      "artist": "KIDS WITH BUNS",
+      "title": "bathroom floor - Single",
+      "url": "https://www.last.fm/music/KIDS+WITH+BUNS/bathroom+floor+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6b083bf3ddbfbba8c15d3550796e62da.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6b083bf3ddbfbba8c15d3550796e62da.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6b083bf3ddbfbba8c15d3550796e62da.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6b083bf3ddbfbba8c15d3550796e62da.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

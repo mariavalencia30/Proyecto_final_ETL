@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Bad Blood",
+    "mbid": "7fad1aa3-d874-48d8-842a-9ca9afea068e",
+    "url": "https://www.last.fm/music/Taylor+Swift/_/Bad+Blood",
+    "duration": "146000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1121841",
+    "playcount": "13651877",
+    "artist": {
+      "name": "Taylor Swift",
+      "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+      "url": "https://www.last.fm/music/Taylor+Swift"
+    },
+    "album": {
+      "artist": "Taylor Swift",
+      "title": "1989",
+      "url": "https://www.last.fm/music/Taylor+Swift/1989",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e740f250a8e84ca392b14dd896a53ff9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e740f250a8e84ca392b14dd896a53ff9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e740f250a8e84ca392b14dd896a53ff9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e740f250a8e84ca392b14dd896a53ff9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "Chupa essa Katy perry",
+          "url": "https://www.last.fm/tag/Chupa+essa+Katy+perry"
+        },
+        {
+          "name": "love at first listen",
+          "url": "https://www.last.fm/tag/love+at+first+listen"
+        },
+        {
+          "name": "taylor swift",
+          "url": "https://www.last.fm/tag/taylor+swift"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "21 Jul 2015, 17:48",
+      "summary": "\"Bad Blood\" is about the end of a friendship or romantic relationship. It discusses how even though things were once very good between two people, deep betrayal and a broken trust has caused a rift that may be too difficult to mend. The chorus suggests that the person the song is directed at may be feeling regretful, while the verses and pre-choruses point to persistent hurt and resentment that speaks to a much deeper grudge. The bridge emphasizes how even apologies are not enough to repair the damage that has been done. <a href=\"http://www.last.fm/music/Taylor+Swift/_/Bad+Blood\">Read more on Last.fm</a>.",
+      "content": "\"Bad Blood\" is about the end of a friendship or romantic relationship. It discusses how even though things were once very good between two people, deep betrayal and a broken trust has caused a rift that may be too difficult to mend. The chorus suggests that the person the song is directed at may be feeling regretful, while the verses and pre-choruses point to persistent hurt and resentment that speaks to a much deeper grudge. The bridge emphasizes how even apologies are not enough to repair the damage that has been done. Ultimately, the song speaks to the knowledge that some relationships are beyond repair, no matter how hard we try. <a href=\"http://www.last.fm/music/Taylor+Swift/_/Bad+Blood\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

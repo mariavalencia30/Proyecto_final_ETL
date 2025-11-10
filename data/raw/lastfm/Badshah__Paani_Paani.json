@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Paani Paani",
+    "url": "https://www.last.fm/music/Badshah/_/Paani+Paani",
+    "duration": "174000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "10620",
+    "playcount": "56025",
+    "artist": {
+      "name": "Badshah",
+      "mbid": "cd67b8c8-8b2f-4d56-b564-fbd837490256",
+      "url": "https://www.last.fm/music/Badshah"
+    },
+    "album": {
+      "artist": "Badshah & Aastha Gill",
+      "title": "Paani Paani",
+      "url": "https://www.last.fm/music/Badshah+&+Aastha+Gill/Paani+Paani",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4a2156f8599d0292379130e09c68d605.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4a2156f8599d0292379130e09c68d605.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4a2156f8599d0292379130e09c68d605.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a2156f8599d0292379130e09c68d605.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "FRIENDS",
+    "mbid": "9258689f-9c4a-4e35-bd6b-824209a6deb1",
+    "url": "https://www.last.fm/music/Marshmello/_/FRIENDS",
+    "duration": "202000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "633538",
+    "playcount": "4451417",
+    "artist": {
+      "name": "Marshmello",
+      "mbid": "301b45a4-b8b9-410e-8344-4b4eaf96691a",
+      "url": "https://www.last.fm/music/Marshmello"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Rtl Hits 2018",
+      "url": "https://www.last.fm/music/Various+Artists/Rtl+Hits+2018",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4bd953953e138b9525bb72f555745100.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4bd953953e138b9525bb72f555745100.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4bd953953e138b9525bb72f555745100.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4bd953953e138b9525bb72f555745100.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "electronic dance music",
+          "url": "https://www.last.fm/tag/electronic+dance+music"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "28 Mar 2018, 20:53",
+      "summary": "A collaborative song with Marshmello and Anne-Marie about getting friendzoned by a lover. <a href=\"http://www.last.fm/music/Marshmello/_/FRIENDS\">Read more on Last.fm</a>.",
+      "content": "A collaborative song with Marshmello and Anne-Marie about getting friendzoned by a lover. <a href=\"http://www.last.fm/music/Marshmello/_/FRIENDS\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

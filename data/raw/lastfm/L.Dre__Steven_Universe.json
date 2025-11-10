@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Steven Universe",
+    "url": "https://www.last.fm/music/L.Dre/_/Steven+Universe",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "69104",
+    "playcount": "430270",
+    "artist": {
+      "name": "L.Dre",
+      "mbid": "ccf092d4-33d7-4fb7-9c23-5559cccc70d5",
+      "url": "https://www.last.fm/music/L.Dre"
+    },
+    "album": {
+      "artist": "L.Dre",
+      "title": "Steven Universe",
+      "url": "https://www.last.fm/music/L.Dre/Steven+Universe",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e1f3a71585c4dc37905a301786adc704.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e1f3a71585c4dc37905a301786adc704.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e1f3a71585c4dc37905a301786adc704.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1f3a71585c4dc37905a301786adc704.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

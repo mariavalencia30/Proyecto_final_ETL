@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Renklensin",
+    "url": "https://www.last.fm/music/Reynmen/_/Renklensin",
+    "duration": "190000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "14720",
+    "playcount": "160562",
+    "artist": {
+      "name": "Reynmen",
+      "mbid": "82bcf27a-a394-4fea-b2b7-8351a2660f2b",
+      "url": "https://www.last.fm/music/Reynmen"
+    },
+    "album": {
+      "artist": "Reynmen",
+      "title": "Renklensin",
+      "url": "https://www.last.fm/music/Reynmen/Renklensin",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fedceac8829896dbdab90c35c7e5c813.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fedceac8829896dbdab90c35c7e5c813.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fedceac8829896dbdab90c35c7e5c813.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fedceac8829896dbdab90c35c7e5c813.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

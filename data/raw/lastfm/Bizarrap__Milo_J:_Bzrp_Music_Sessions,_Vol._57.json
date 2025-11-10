@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Milo J: Bzrp Music Sessions, Vol. 57",
+    "url": "https://www.last.fm/music/Bizarrap/_/Milo+J:+Bzrp+Music+Sessions,+Vol.+57",
+    "duration": "189000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "101496",
+    "playcount": "1373591",
+    "artist": {
+      "name": "Bizarrap",
+      "mbid": "3b6abaef-febf-4cfe-943f-6a20cf0afdad",
+      "url": "https://www.last.fm/music/Bizarrap"
+    },
+    "album": {
+      "artist": "Bizarrap",
+      "title": "en dormir sin Madrid",
+      "url": "https://www.last.fm/music/Bizarrap/en+dormir+sin+Madrid",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/de16abb604ffac4267b6a387901fa89e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/de16abb604ffac4267b6a387901fa89e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/de16abb604ffac4267b6a387901fa89e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/de16abb604ffac4267b6a387901fa89e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

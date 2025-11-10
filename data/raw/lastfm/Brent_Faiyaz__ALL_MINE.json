@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "All Mine",
+    "mbid": "85e6f53d-b8af-48cd-b245-bdc9951c8a21",
+    "url": "https://www.last.fm/music/Brent+Faiyaz/_/All+Mine",
+    "duration": "373000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "695761",
+    "playcount": "10869975",
+    "artist": {
+      "name": "Brent Faiyaz",
+      "mbid": "201412c6-7ced-472b-87a9-9259ec3c07d3",
+      "url": "https://www.last.fm/music/Brent+Faiyaz"
+    },
+    "album": {
+      "artist": "Brent Faiyaz",
+      "title": "WASTELAND",
+      "url": "https://www.last.fm/music/Brent+Faiyaz/WASTELAND",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/74c7c0622904c1fdf629bc307952ccc4.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/74c7c0622904c1fdf629bc307952ccc4.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/74c7c0622904c1fdf629bc307952ccc4.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/74c7c0622904c1fdf629bc307952ccc4.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "soul",
+          "url": "https://www.last.fm/tag/soul"
+        },
+        {
+          "name": "american",
+          "url": "https://www.last.fm/tag/american"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "alternative rnb",
+          "url": "https://www.last.fm/tag/alternative+rnb"
+        }
+      ]
+    }
+  }
+}

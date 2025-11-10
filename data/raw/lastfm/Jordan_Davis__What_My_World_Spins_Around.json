@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "What My World Spins Around",
+    "mbid": "3f078df4-fbba-4697-bb8d-09cd0146fa05",
+    "url": "https://www.last.fm/music/Jordan+Davis/_/What+My+World+Spins+Around",
+    "duration": "186000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "72349",
+    "playcount": "649313",
+    "artist": {
+      "name": "Jordan Davis",
+      "mbid": "e90eaba7-aa99-40f6-8348-8b822dcf20d7",
+      "url": "https://www.last.fm/music/Jordan+Davis"
+    },
+    "album": {
+      "artist": "Jordan Davis",
+      "title": "What My World Spins Around",
+      "url": "https://www.last.fm/music/Jordan+Davis/What+My+World+Spins+Around",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ac7b3f6887904625261d13fd90e0ec3e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ac7b3f6887904625261d13fd90e0ec3e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ac7b3f6887904625261d13fd90e0ec3e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac7b3f6887904625261d13fd90e0ec3e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

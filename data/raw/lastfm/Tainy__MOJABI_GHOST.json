@@ -1,0 +1,62 @@
+{
+  "track": {
+    "name": "MOJABI GHOST",
+    "mbid": "17d71ed4-9811-48be-af28-70b8fe2e1b7c",
+    "url": "https://www.last.fm/music/Tainy/_/MOJABI+GHOST",
+    "duration": "233000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "300496",
+    "playcount": "4948363",
+    "artist": {
+      "name": "Tainy",
+      "mbid": "7e92584c-ca97-48bf-8a12-0327db0f6ac8",
+      "url": "https://www.last.fm/music/Tainy"
+    },
+    "album": {
+      "artist": "Tainy",
+      "title": "DATA",
+      "url": "https://www.last.fm/music/Tainy/DATA",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2e3199ef2707859146bda3c84de2530c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2e3199ef2707859146bda3c84de2530c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2e3199ef2707859146bda3c84de2530c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2e3199ef2707859146bda3c84de2530c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "chillwave",
+          "url": "https://www.last.fm/tag/chillwave"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "el veintitres de agosto la escuche siete veces ja",
+          "url": "https://www.last.fm/tag/el+veintitres+de+agosto+la+escuche+siete+veces+ja"
+        },
+        {
+          "name": "mudou minha vida",
+          "url": "https://www.last.fm/tag/mudou+minha+vida"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Iced Coffee",
+    "url": "https://www.last.fm/music/Arthur+Hill/_/Iced+Coffee",
+    "duration": "155000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "11578",
+    "playcount": "104657",
+    "artist": {
+      "name": "Arthur Hill",
+      "mbid": "174f4acf-894a-4baa-a603-52ca36b560fb",
+      "url": "https://www.last.fm/music/Arthur+Hill"
+    },
+    "album": {
+      "artist": "Arthur Hill",
+      "title": "Iced Coffee - Single",
+      "url": "https://www.last.fm/music/Arthur+Hill/Iced+Coffee+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b9d20a5f7746ada582dda8cbb44cceab.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b9d20a5f7746ada582dda8cbb44cceab.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b9d20a5f7746ada582dda8cbb44cceab.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b9d20a5f7746ada582dda8cbb44cceab.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

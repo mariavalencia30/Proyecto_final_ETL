@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Zhurek",
+    "url": "https://www.last.fm/music/Adam/_/Zhurek",
+    "duration": "196000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3392",
+    "playcount": "30336",
+    "artist": {
+      "name": "Adam",
+      "mbid": "2b695d42-a5c8-44d2-b74e-a6a3c7292c2b",
+      "url": "https://www.last.fm/music/Adam"
+    },
+    "album": {
+      "artist": "Adam",
+      "title": "Zhurek",
+      "url": "https://www.last.fm/music/Adam/Zhurek",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ec408ee05f78cc6f19b0d89fbeaec209.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ec408ee05f78cc6f19b0d89fbeaec209.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ec408ee05f78cc6f19b0d89fbeaec209.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ec408ee05f78cc6f19b0d89fbeaec209.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

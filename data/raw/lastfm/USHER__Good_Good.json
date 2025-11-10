@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "Good Good",
+    "url": "https://www.last.fm/music/Usher/_/Good+Good",
+    "duration": "247000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "101271",
+    "playcount": "475786",
+    "artist": {
+      "name": "Usher",
+      "mbid": "3414d446-735a-443c-931f-10634f57e5b9",
+      "url": "https://www.last.fm/music/Usher"
+    },
+    "album": {
+      "artist": "Usher",
+      "title": "Good Good",
+      "url": "https://www.last.fm/music/Usher/Good+Good",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9bf88c1692725f4e73dc3a991428d925.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9bf88c1692725f4e73dc3a991428d925.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9bf88c1692725f4e73dc3a991428d925.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9bf88c1692725f4e73dc3a991428d925.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "22 Oct 2023, 22:39",
+      "summary": "\"Good Good\" is a song by American singers Usher, Summer Walker and Atlanta-based rapper 21 Savage. It was released on August 4, 2023 as the lead single from Usher's upcoming ninth studio album Coming Home (2024). The song was produced by Mel & Mus. <a href=\"http://www.last.fm/music/Usher/_/Good+Good\">Read more on Last.fm</a>.",
+      "content": "\"Good Good\" is a song by American singers Usher, Summer Walker and Atlanta-based rapper 21 Savage. It was released on August 4, 2023 as the lead single from Usher's upcoming ninth studio album Coming Home (2024). The song was produced by Mel & Mus. <a href=\"http://www.last.fm/music/Usher/_/Good+Good\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

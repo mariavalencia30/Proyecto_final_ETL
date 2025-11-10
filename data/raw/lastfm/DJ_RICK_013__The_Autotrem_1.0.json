@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "THE AUTOTREM 1.0",
+    "url": "https://www.last.fm/music/DJ+RICK+013/_/THE+AUTOTREM+1.0",
+    "duration": "149000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "61629",
+    "playcount": "294448",
+    "artist": {
+      "name": "DJ RICK 013",
+      "url": "https://www.last.fm/music/DJ+RICK+013"
+    },
+    "album": {
+      "artist": "DJ RICK 013",
+      "title": "THE AUTOTREM 1.0",
+      "url": "https://www.last.fm/music/DJ+RICK+013/THE+AUTOTREM+1.0",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/519a0af22dcf38f96426d933b302b68c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/519a0af22dcf38f96426d933b302b68c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/519a0af22dcf38f96426d933b302b68c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/519a0af22dcf38f96426d933b302b68c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

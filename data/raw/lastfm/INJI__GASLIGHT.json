@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "GASLIGHT",
+    "url": "https://www.last.fm/music/Inji/_/GASLIGHT",
+    "duration": "197000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "77566",
+    "playcount": "560543",
+    "artist": {
+      "name": "Inji",
+      "url": "https://www.last.fm/music/Inji"
+    },
+    "album": {
+      "artist": "Inji",
+      "title": "GASLIGHT",
+      "url": "https://www.last.fm/music/Inji/GASLIGHT",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c29168a17531664d3653c694995e994a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c29168a17531664d3653c694995e994a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c29168a17531664d3653c694995e994a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c29168a17531664d3653c694995e994a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

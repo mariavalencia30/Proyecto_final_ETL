@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "April Rain in August Weather",
+    "url": "https://www.last.fm/music/Baba+Blakes/_/April+Rain+in+August+Weather",
+    "duration": "163000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "117",
+    "playcount": "609",
+    "artist": {
+      "name": "Baba Blakes",
+      "url": "https://www.last.fm/music/Baba+Blakes"
+    },
+    "album": {
+      "artist": "Baba Blakes",
+      "title": "April Rain in August Weather",
+      "url": "https://www.last.fm/music/Baba+Blakes/April+Rain+in+August+Weather",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/293d32bd1bf43c4a9117785dc3294439.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/293d32bd1bf43c4a9117785dc3294439.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/293d32bd1bf43c4a9117785dc3294439.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/293d32bd1bf43c4a9117785dc3294439.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

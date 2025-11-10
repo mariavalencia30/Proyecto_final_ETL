@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Spokojnie",
+    "url": "https://www.last.fm/music/Hot+Donuts/_/Spokojnie",
+    "duration": "382000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "5",
+    "playcount": "7",
+    "artist": {
+      "name": "Hot Donuts",
+      "url": "https://www.last.fm/music/Hot+Donuts"
+    },
+    "album": {
+      "artist": "Hot Donuts",
+      "title": "Ninja",
+      "url": "https://www.last.fm/music/Hot+Donuts/Ninja",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Go Crazy",
+    "mbid": "ccfc9222-0a6d-4445-b19d-fd2698a55824",
+    "url": "https://www.last.fm/music/Young+Thug/_/Go+Crazy",
+    "duration": "175000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "19821",
+    "playcount": "78120",
+    "artist": {
+      "name": "Young Thug",
+      "mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+      "url": "https://www.last.fm/music/Young+Thug"
+    },
+    "album": {
+      "artist": "Young Thug",
+      "title": "Slime Season 2",
+      "url": "https://www.last.fm/music/Young+Thug/Slime+Season+2",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d046d51e7b13a64ff571e5f9270a2b1d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d046d51e7b13a64ff571e5f9270a2b1d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d046d51e7b13a64ff571e5f9270a2b1d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d046d51e7b13a64ff571e5f9270a2b1d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

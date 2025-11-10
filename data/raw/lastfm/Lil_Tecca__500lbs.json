@@ -1,0 +1,63 @@
+{
+  "track": {
+    "name": "500lbs",
+    "mbid": "90f3d613-46ca-43c0-851b-90867e5bef5a",
+    "url": "https://www.last.fm/music/Lil+Tecca/_/500lbs",
+    "duration": "144000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "744152",
+    "playcount": "12349429",
+    "artist": {
+      "name": "Lil Tecca",
+      "mbid": "e6fdf3f9-8077-4126-b0cf-94da9a8b627e",
+      "url": "https://www.last.fm/music/Lil+Tecca"
+    },
+    "album": {
+      "artist": "Lil Tecca",
+      "title": "500lbs",
+      "url": "https://www.last.fm/music/Lil+Tecca/500lbs",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/96015a1ec235b4eed9715438b41b25bf.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/96015a1ec235b4eed9715438b41b25bf.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/96015a1ec235b4eed9715438b41b25bf.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/96015a1ec235b4eed9715438b41b25bf.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "new jazz",
+          "url": "https://www.last.fm/tag/new+jazz"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "24 Sep 2023, 09:28",
+      "summary": "On “500lbs,” Lil Tecca flaunts the benefits of his position alongside noting his devotion for his significant other.\n\nThe track was first previewed on June 2, 2023 through Taz Taylor’s Instagram story. The track later made an official release on July 21, 2023, followed by a Jordie Sanchez-directed music video a week later. <a href=\"http://www.last.fm/music/Lil+Tecca/_/500lbs\">Read more on Last.fm</a>.",
+      "content": "On “500lbs,” Lil Tecca flaunts the benefits of his position alongside noting his devotion for his significant other.\n\nThe track was first previewed on June 2, 2023 through Taz Taylor’s Instagram story. The track later made an official release on July 21, 2023, followed by a Jordie Sanchez-directed music video a week later. <a href=\"http://www.last.fm/music/Lil+Tecca/_/500lbs\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Me Niego (feat. Ozuna & Wisin)",
+    "url": "https://www.last.fm/music/Reik/_/Me+Niego+(feat.+Ozuna+&+Wisin)",
+    "duration": "221000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "70029",
+    "playcount": "446484",
+    "artist": {
+      "name": "Reik",
+      "mbid": "04cff564-a2e3-4560-8e7e-bc2539e7b46c",
+      "url": "https://www.last.fm/music/Reik"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Now 2018",
+      "url": "https://www.last.fm/music/Various+Artists/Now+2018",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/49842f6d9e65af57714b601628237216.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/49842f6d9e65af57714b601628237216.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/49842f6d9e65af57714b601628237216.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/49842f6d9e65af57714b601628237216.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Talk",
+    "mbid": "8b7212b1-a143-4641-a2ff-f7e209cba250",
+    "url": "https://www.last.fm/music/Yeat/_/Talk",
+    "duration": "174000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "483198",
+    "playcount": "8119727",
+    "artist": {
+      "name": "Yeat",
+      "mbid": "9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+      "url": "https://www.last.fm/music/Yeat"
+    },
+    "album": {
+      "artist": "Yeat",
+      "title": "Talk",
+      "url": "https://www.last.fm/music/Yeat/Talk",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1680554330d8eafbbe5c2da149d92598.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1680554330d8eafbbe5c2da149d92598.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1680554330d8eafbbe5c2da149d92598.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1680554330d8eafbbe5c2da149d92598.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "fbsdfdgh",
+          "url": "https://www.last.fm/tag/fbsdfdgh"
+        },
+        {
+          "name": "rage",
+          "url": "https://www.last.fm/tag/rage"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "electro-industrial",
+          "url": "https://www.last.fm/tag/electro-industrial"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "02 Sep 2022, 14:15",
+      "summary": "Dubbed “Lyfë” before release, “Talk” sees Yeat flaunting his luxuries from his newfound fame, braggadociously rapping about his chart-topping music.\n\nThe highly anticipated track was first previewed on June 15, 2022, through Yeat’s Instagram and quickly caught the attention of TikTok — going viral on the platform. <a href=\"http://www.last.fm/music/Yeat/_/Talk\">Read more on Last.fm</a>.",
+      "content": "Dubbed “Lyfë” before release, “Talk” sees Yeat flaunting his luxuries from his newfound fame, braggadociously rapping about his chart-topping music.\n\nThe highly anticipated track was first previewed on June 15, 2022, through Yeat’s Instagram and quickly caught the attention of TikTok — going viral on the platform. <a href=\"http://www.last.fm/music/Yeat/_/Talk\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

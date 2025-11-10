@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "BICHOTA",
+    "url": "https://www.last.fm/music/KAROL+G/_/BICHOTA",
+    "duration": "178000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "159645",
+    "playcount": "1314843",
+    "artist": {
+      "name": "KAROL G",
+      "mbid": "de22adae-f8ac-414f-b653-b0162611bd60",
+      "url": "https://www.last.fm/music/KAROL+G"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Perreo Total",
+      "url": "https://www.last.fm/music/Various+Artists/Perreo+Total",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2e632eedff9592478dc32d825423b53f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2e632eedff9592478dc32d825423b53f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2e632eedff9592478dc32d825423b53f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2e632eedff9592478dc32d825423b53f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

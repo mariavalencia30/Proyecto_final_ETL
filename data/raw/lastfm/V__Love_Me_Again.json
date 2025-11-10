@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Love Me Again",
+    "mbid": "5d546ff3-79b4-4694-ba60-bb2da19997f3",
+    "url": "https://www.last.fm/music/V/_/Love+Me+Again",
+    "duration": "182000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "381577",
+    "playcount": "137076627",
+    "artist": {
+      "name": "V",
+      "mbid": "6ea37194-8483-470c-8b3d-ca545903a853",
+      "url": "https://www.last.fm/music/V"
+    },
+    "album": {
+      "artist": "V",
+      "title": "Layover",
+      "url": "https://www.last.fm/music/V/Layover",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7ac15269581edd3802d91d781a6e524e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7ac15269581edd3802d91d781a6e524e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7ac15269581edd3802d91d781a6e524e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ac15269581edd3802d91d781a6e524e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "increible",
+          "url": "https://www.last.fm/tag/increible"
+        },
+        {
+          "name": "glam rock",
+          "url": "https://www.last.fm/tag/glam+rock"
+        },
+        {
+          "name": "bello",
+          "url": "https://www.last.fm/tag/bello"
+        },
+        {
+          "name": "Neo-Soul",
+          "url": "https://www.last.fm/tag/Neo-Soul"
+        },
+        {
+          "name": "V- love me again",
+          "url": "https://www.last.fm/tag/V-+love+me+again"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "09 Aug 2023, 18:50",
+      "summary": "\"Love Me Again\" is the third track of V of BTS's debut album, \" Layover\". It is a light and captivating R&B track with an alluring vibe that lingers long. V’s signature baritone shines through in this track.\n\nThe track was originally released on streaming on August 10, 2023 as a pre-release single along with the track \"Rainy Days\". <a href=\"http://www.last.fm/music/V/_/Love+Me+Again\">Read more on Last.fm</a>.",
+      "content": "\"Love Me Again\" is the third track of V of BTS's debut album, \" Layover\". It is a light and captivating R&B track with an alluring vibe that lingers long. V’s signature baritone shines through in this track.\n\nThe track was originally released on streaming on August 10, 2023 as a pre-release single along with the track \"Rainy Days\". <a href=\"http://www.last.fm/music/V/_/Love+Me+Again\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

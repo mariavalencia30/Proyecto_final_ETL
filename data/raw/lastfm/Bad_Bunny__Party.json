@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Party",
+    "url": "https://www.last.fm/music/Bad+Bunny/_/Party",
+    "duration": "227000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "321549",
+    "playcount": "4244847",
+    "artist": {
+      "name": "Bad Bunny",
+      "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "url": "https://www.last.fm/music/Bad+Bunny"
+    },
+    "album": {
+      "artist": "Bad Bunny",
+      "title": "Un Verano Sin Ti",
+      "url": "https://www.last.fm/music/Bad+Bunny/Un+Verano+Sin+Ti",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3fc1caf14abbd6d7e3853e4fb4dfa3be.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3fc1caf14abbd6d7e3853e4fb4dfa3be.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3fc1caf14abbd6d7e3853e4fb4dfa3be.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3fc1caf14abbd6d7e3853e4fb4dfa3be.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Reggaeton",
+          "url": "https://www.last.fm/tag/Reggaeton"
+        },
+        {
+          "name": "11",
+          "url": "https://www.last.fm/tag/11"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://www.last.fm/tag/Rauw+Alejandro"
+        },
+        {
+          "name": "neoperreo",
+          "url": "https://www.last.fm/tag/neoperreo"
+        },
+        {
+          "name": "RA-RAUW",
+          "url": "https://www.last.fm/tag/RA-RAUW"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "05 Aug 2023, 18:38",
+      "summary": "\"Party\" is a song by Puerto Rican singers Bad Bunny and Rauw Alejandro, from Bad Bunny's fifth studio album Un verano sin ti (2022). It was originally released on May 6, 2022 by Rimas Entertainment along with the rest of its parent album as the eleventh track, before its release as the sixth official single on August 5, 2022. <a href=\"http://www.last.fm/music/Bad+Bunny/_/Party\">Read more on Last.fm</a>.",
+      "content": "\"Party\" is a song by Puerto Rican singers Bad Bunny and Rauw Alejandro, from Bad Bunny's fifth studio album Un verano sin ti (2022). It was originally released on May 6, 2022 by Rimas Entertainment along with the rest of its parent album as the eleventh track, before its release as the sixth official single on August 5, 2022. <a href=\"http://www.last.fm/music/Bad+Bunny/_/Party\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

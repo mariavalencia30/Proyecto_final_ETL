@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "DJ Gamm Gamm Piri Slow",
+    "url": "https://www.last.fm/music/DJ+BAHBUS/_/DJ+Gamm+Gamm+Piri+Slow",
+    "duration": "263000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3",
+    "playcount": "21",
+    "artist": {
+      "name": "DJ BAHBUS",
+      "url": "https://www.last.fm/music/DJ+BAHBUS"
+    },
+    "album": {
+      "artist": "DJ BAHBUS",
+      "title": "DJ Gamm Gamm Piri Slow - Single",
+      "url": "https://www.last.fm/music/DJ+BAHBUS/DJ+Gamm+Gamm+Piri+Slow+-+Single",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

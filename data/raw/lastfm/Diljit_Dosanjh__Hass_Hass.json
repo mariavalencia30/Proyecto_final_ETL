@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Hass Hass",
+    "url": "https://www.last.fm/music/Diljit+Dosanjh/_/Hass+Hass",
+    "duration": "153000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "39269",
+    "playcount": "271050",
+    "artist": {
+      "name": "Diljit Dosanjh",
+      "mbid": "f931c961-b647-4861-be8c-f47d84a4de51",
+      "url": "https://www.last.fm/music/Diljit+Dosanjh"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Hity pełne energii",
+      "url": "https://www.last.fm/music/Various+Artists/Hity+pe%C5%82ne+energii",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "You Should Probably Leave",
+    "mbid": "f6c2c23b-f8f5-46d2-9c0a-c7d17cdc78b6",
+    "url": "https://www.last.fm/music/Chris+Stapleton/_/You+Should+Probably+Leave",
+    "duration": "211000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "266053",
+    "playcount": "2743448",
+    "artist": {
+      "name": "Chris Stapleton",
+      "mbid": "d996d607-52e4-40c7-b369-211653df6d18",
+      "url": "https://www.last.fm/music/Chris+Stapleton"
+    },
+    "album": {
+      "artist": "Chris Stapleton",
+      "title": "Starting Over",
+      "url": "https://www.last.fm/music/Chris+Stapleton/Starting+Over",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e331d7ccf4b99a326e9bd62cced019ab.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e331d7ccf4b99a326e9bd62cced019ab.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e331d7ccf4b99a326e9bd62cced019ab.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e331d7ccf4b99a326e9bd62cced019ab.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "country",
+          "url": "https://www.last.fm/tag/country"
+        },
+        {
+          "name": "Chris Stapleton",
+          "url": "https://www.last.fm/tag/Chris+Stapleton"
+        },
+        {
+          "name": "one track mind",
+          "url": "https://www.last.fm/tag/one+track+mind"
+        },
+        {
+          "name": "2021",
+          "url": "https://www.last.fm/tag/2021"
+        },
+        {
+          "name": "2020s",
+          "url": "https://www.last.fm/tag/2020s"
+        }
+      ]
+    }
+  }
+}

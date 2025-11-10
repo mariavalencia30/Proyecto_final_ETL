@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Desejo Imortal (It Must Have Been Love)",
+    "url": "https://www.last.fm/music/Gusttavo+Lima/_/Desejo+Imortal+(It+Must+Have+Been+Love)",
+    "duration": "184000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "17531",
+    "playcount": "75553",
+    "artist": {
+      "name": "Gusttavo Lima",
+      "mbid": "48a3a1c5-8cf3-4a9a-bd5c-5082cf8d3639",
+      "url": "https://www.last.fm/music/Gusttavo+Lima"
+    },
+    "album": {
+      "artist": "Gusttavo Lima",
+      "title": "Desejo Imortal (It Must Have Been Love)",
+      "url": "https://www.last.fm/music/Gusttavo+Lima/Desejo+Imortal+(It+Must+Have+Been+Love)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6eda9dc15bbdf284e8fc33383ac07c5e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6eda9dc15bbdf284e8fc33383ac07c5e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6eda9dc15bbdf284e8fc33383ac07c5e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6eda9dc15bbdf284e8fc33383ac07c5e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

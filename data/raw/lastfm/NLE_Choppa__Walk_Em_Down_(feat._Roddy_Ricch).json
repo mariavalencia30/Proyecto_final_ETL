@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "Walk Em Down (feat. Roddy Ricch)",
+    "url": "https://www.last.fm/music/NLE+Choppa/_/Walk+Em+Down+(feat.+Roddy+Ricch)",
+    "duration": "173000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "371394",
+    "playcount": "3426603",
+    "artist": {
+      "name": "NLE Choppa",
+      "mbid": "2873b450-13c6-4ca1-8ca3-646c25af3202",
+      "url": "https://www.last.fm/music/NLE+Choppa"
+    },
+    "album": {
+      "artist": "NLE Choppa",
+      "title": "Top Shotta",
+      "url": "https://www.last.fm/music/NLE+Choppa/Top+Shotta",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/579ed8a3dca4a0dc7c055316307a0056.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/579ed8a3dca4a0dc7c055316307a0056.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/579ed8a3dca4a0dc7c055316307a0056.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/579ed8a3dca4a0dc7c055316307a0056.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "01 Feb 2023, 04:18",
+      "summary": "“Walk Em Down” is the first collaboration between NLE Choppa and Roddy Ricch. On October 2, 2019, NLE Choppa shared a video of him dancing and previewed a snippet of the track via his Instagram story. <a href=\"http://www.last.fm/music/NLE+Choppa/_/Walk+Em+Down+(feat.+Roddy+Ricch)\">Read more on Last.fm</a>.",
+      "content": "“Walk Em Down” is the first collaboration between NLE Choppa and Roddy Ricch. On October 2, 2019, NLE Choppa shared a video of him dancing and previewed a snippet of the track via his Instagram story. <a href=\"http://www.last.fm/music/NLE+Choppa/_/Walk+Em+Down+(feat.+Roddy+Ricch)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

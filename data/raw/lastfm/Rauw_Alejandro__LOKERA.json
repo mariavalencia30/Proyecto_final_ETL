@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "LOKERA",
+    "url": "https://www.last.fm/music/Rauw+Alejandro/_/LOKERA",
+    "duration": "197000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "296498",
+    "playcount": "3776775",
+    "artist": {
+      "name": "Rauw Alejandro",
+      "mbid": "197b70c7-8910-4030-ad03-632d82aa40e3",
+      "url": "https://www.last.fm/music/Rauw+Alejandro"
+    },
+    "album": {
+      "artist": "Rauw Alejandro",
+      "title": "LOKERA",
+      "url": "https://www.last.fm/music/Rauw+Alejandro/LOKERA",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0653bdd4315454ef2afa795464a89dce.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0653bdd4315454ef2afa795464a89dce.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0653bdd4315454ef2afa795464a89dce.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0653bdd4315454ef2afa795464a89dce.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Reggaeton",
+          "url": "https://www.last.fm/tag/Reggaeton"
+        }
+      ]
+    }
+  }
+}

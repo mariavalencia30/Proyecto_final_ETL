@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "HEAT STICK",
+    "mbid": "39493f40-0570-41ec-b4b6-e9a25c1602d8",
+    "url": "https://www.last.fm/music/Shoreline+Mafia/_/HEAT+STICK",
+    "duration": "137000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "168192",
+    "playcount": "1627812",
+    "artist": {
+      "name": "Shoreline Mafia",
+      "mbid": "7f9477aa-a050-4373-accf-d1e81f3cdb2c",
+      "url": "https://www.last.fm/music/Shoreline+Mafia"
+    },
+    "album": {
+      "artist": "Shoreline Mafia",
+      "title": "HEAT STICK",
+      "url": "https://www.last.fm/music/Shoreline+Mafia/HEAT+STICK",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dfbf67998b0ec8f9dd9d6dad333486ac.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dfbf67998b0ec8f9dd9d6dad333486ac.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dfbf67998b0ec8f9dd9d6dad333486ac.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dfbf67998b0ec8f9dd9d6dad333486ac.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

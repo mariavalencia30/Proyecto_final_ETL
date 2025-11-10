@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Hymn for the Weekend - Seeb Remix",
+    "mbid": "02b36815-0dae-4923-9623-5e84ec907b12",
+    "url": "https://www.last.fm/music/Coldplay/_/Hymn+for+the+Weekend+-+Seeb+Remix",
+    "duration": "212000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "263082",
+    "playcount": "1443874",
+    "artist": {
+      "name": "Coldplay",
+      "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+      "url": "https://www.last.fm/music/Coldplay"
+    },
+    "album": {
+      "artist": "Coldplay",
+      "title": "Hymn for the Weekend (Seeb Remix)",
+      "url": "https://www.last.fm/music/Coldplay/Hymn+for+the+Weekend+(Seeb+Remix)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7859518ae0bbf3923793991cf35e0c2d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7859518ae0bbf3923793991cf35e0c2d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7859518ae0bbf3923793991cf35e0c2d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7859518ae0bbf3923793991cf35e0c2d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "you broke me first",
+    "mbid": "4737fc8c-1acf-446e-b8c4-b6cd33b9a581",
+    "url": "https://www.last.fm/music/Tate+McRae/_/you+broke+me+first",
+    "duration": "165000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "825268",
+    "playcount": "9081532",
+    "artist": {
+      "name": "Tate McRae",
+      "mbid": "f9133869-f87c-459c-9aa7-2f176cda7e06",
+      "url": "https://www.last.fm/music/Tate+McRae"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Now That's What I Call Music Vol. 83",
+      "url": "https://www.last.fm/music/Various+Artists/Now+That%27s+What+I+Call+Music+Vol.+83",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6406a634db64c91b49dff04b1b83ebbf.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6406a634db64c91b49dff04b1b83ebbf.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6406a634db64c91b49dff04b1b83ebbf.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6406a634db64c91b49dff04b1b83ebbf.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "my top songs",
+          "url": "https://www.last.fm/tag/my+top+songs"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "My Recommended Songs",
+          "url": "https://www.last.fm/tag/My+Recommended+Songs"
+        },
+        {
+          "name": "Canadian",
+          "url": "https://www.last.fm/tag/Canadian"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "27 Mar 2022, 12:37",
+      "summary": "“you broke me first” finds Tate confronting an ex who’s returned and wants to rekindle their painful relationship.\n\nThe song initially released on McRae’s YouTube channel on April 12, 2020, with piano instrumentals only. On the official release five days later, drums, backing vocals, and other instruments were added to the production. Some melodies were changed between Tate’s first and official versions. <a href=\"http://www.last.fm/music/Tate+McRae/_/you+broke+me+first\">Read more on Last.fm</a>.",
+      "content": "“you broke me first” finds Tate confronting an ex who’s returned and wants to rekindle their painful relationship.\n\nThe song initially released on McRae’s YouTube channel on April 12, 2020, with piano instrumentals only. On the official release five days later, drums, backing vocals, and other instruments were added to the production. Some melodies were changed between Tate’s first and official versions. <a href=\"http://www.last.fm/music/Tate+McRae/_/you+broke+me+first\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

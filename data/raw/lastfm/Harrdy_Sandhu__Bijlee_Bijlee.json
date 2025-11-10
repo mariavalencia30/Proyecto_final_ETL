@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Bijlee Bijlee",
+    "url": "https://www.last.fm/music/Harrdy+Sandhu/_/Bijlee+Bijlee",
+    "duration": "168000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "28666",
+    "playcount": "240539",
+    "artist": {
+      "name": "Harrdy Sandhu",
+      "mbid": "e2f526c6-09ed-4ef3-aa05-452eb12ff192",
+      "url": "https://www.last.fm/music/Harrdy+Sandhu"
+    },
+    "album": {
+      "artist": "Harrdy Sandhu",
+      "title": "Bijlee Bijlee - Single",
+      "url": "https://www.last.fm/music/Harrdy+Sandhu/Bijlee+Bijlee+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fa8f4f9217aef2d49cb14398d7291937.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fa8f4f9217aef2d49cb14398d7291937.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fa8f4f9217aef2d49cb14398d7291937.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fa8f4f9217aef2d49cb14398d7291937.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

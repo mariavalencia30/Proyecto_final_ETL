@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "La noia",
+    "mbid": "67c17510-fb34-4307-8df3-892b94549a07",
+    "url": "https://www.last.fm/music/Angelina+Mango/_/La+noia",
+    "duration": "189000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "100982",
+    "playcount": "1811712",
+    "artist": {
+      "name": "Angelina Mango",
+      "mbid": "7d10b972-fb3e-4880-8bab-f64cacc5f4da",
+      "url": "https://www.last.fm/music/Angelina+Mango"
+    },
+    "album": {
+      "artist": "Angelina Mango",
+      "title": "La noia - Single",
+      "url": "https://www.last.fm/music/Angelina+Mango/La+noia+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c81839135527307d2eff6dcf5a9abed6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c81839135527307d2eff6dcf5a9abed6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c81839135527307d2eff6dcf5a9abed6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c81839135527307d2eff6dcf5a9abed6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

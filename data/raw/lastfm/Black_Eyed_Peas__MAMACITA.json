@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Mamacita",
+    "mbid": "cf988373-5b89-486f-a7c6-8ccd8d935b7f",
+    "url": "https://www.last.fm/music/Black+Eyed+Peas/_/Mamacita",
+    "duration": "251000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "169768",
+    "playcount": "1035423",
+    "artist": {
+      "name": "Black Eyed Peas",
+      "mbid": "d5be5333-4171-427e-8e12-732087c6b78e",
+      "url": "https://www.last.fm/music/Black+Eyed+Peas"
+    },
+    "album": {
+      "artist": "Black Eyed Peas",
+      "title": "MAMACITA – The Remixes",
+      "url": "https://www.last.fm/music/Black+Eyed+Peas/MAMACITA+%E2%80%93+The+Remixes",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/93cc85e6a6674ae671eb88d76f69dbe6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/93cc85e6a6674ae671eb88d76f69dbe6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/93cc85e6a6674ae671eb88d76f69dbe6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/93cc85e6a6674ae671eb88d76f69dbe6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

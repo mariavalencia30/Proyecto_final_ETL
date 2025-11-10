@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "when the party's over",
+    "mbid": "ba7a88da-f864-4ead-9a63-36f92d10de46",
+    "url": "https://www.last.fm/music/Billie+Eilish/_/when+the+party%27s+over",
+    "duration": "196000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1516308",
+    "playcount": "20667519",
+    "artist": {
+      "name": "Billie Eilish",
+      "mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+      "url": "https://www.last.fm/music/Billie+Eilish"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "You Belong With Me",
+      "url": "https://www.last.fm/music/Various+Artists/You+Belong+With+Me",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2cf9e5aaccd5ba53bec96e1404f31421.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2cf9e5aaccd5ba53bec96e1404f31421.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2cf9e5aaccd5ba53bec96e1404f31421.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2cf9e5aaccd5ba53bec96e1404f31421.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "art pop",
+          "url": "https://www.last.fm/tag/art+pop"
+        },
+        {
+          "name": "Ballad",
+          "url": "https://www.last.fm/tag/Ballad"
+        },
+        {
+          "name": "ambient pop",
+          "url": "https://www.last.fm/tag/ambient+pop"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "19 Aug 2020, 07:25",
+      "summary": "\"when the party's over\" is the second single from American singer Billie Eilish's debut studio album \"When We All Fall Asleep, Where Do We Go?\" The song was released on October 17, 2018, through Darkroom and Interscope Records. It was written and produced by Finneas O'Connell. <a href=\"http://www.last.fm/music/Billie+Eilish/_/when+the+party%27s+over\">Read more on Last.fm</a>.",
+      "content": "\"when the party's over\" is the second single from American singer Billie Eilish's debut studio album \"When We All Fall Asleep, Where Do We Go?\" The song was released on October 17, 2018, through Darkroom and Interscope Records. It was written and produced by Finneas O'Connell. <a href=\"http://www.last.fm/music/Billie+Eilish/_/when+the+party%27s+over\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

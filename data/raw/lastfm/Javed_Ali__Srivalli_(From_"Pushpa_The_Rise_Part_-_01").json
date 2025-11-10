@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Srivalli (From \"Pushpa The Rise Part - 01\")",
+    "url": "https://www.last.fm/music/Javed+Ali/_/Srivalli+(From+%22Pushpa+The+Rise+Part+-+01%22)",
+    "duration": "224000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "11510",
+    "playcount": "56594",
+    "artist": {
+      "name": "Javed Ali",
+      "mbid": "cd4131f3-c7c5-45ca-8f6c-e510a650bdff",
+      "url": "https://www.last.fm/music/Javed+Ali"
+    },
+    "album": {
+      "artist": "Javed Ali",
+      "title": "Srivalli (From \"Pushpa The Rise Part - 01\")",
+      "url": "https://www.last.fm/music/Javed+Ali/Srivalli+(From+%22Pushpa+The+Rise+Part+-+01%22)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f781cb717f56b5ac5ed27de61251b9c7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f781cb717f56b5ac5ed27de61251b9c7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f781cb717f56b5ac5ed27de61251b9c7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f781cb717f56b5ac5ed27de61251b9c7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

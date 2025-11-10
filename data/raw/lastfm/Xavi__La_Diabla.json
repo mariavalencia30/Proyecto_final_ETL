@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "La Diabla",
+    "mbid": "8b927564-c440-4aa4-8aed-8672c533d41b",
+    "url": "https://www.last.fm/music/Xavi/_/La+Diabla",
+    "duration": "172000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "179599",
+    "playcount": "1977228",
+    "artist": {
+      "name": "Xavi",
+      "mbid": "59dfb6aa-2f42-499b-a982-914f6e9a30a5",
+      "url": "https://www.last.fm/music/Xavi"
+    },
+    "album": {
+      "artist": "Xavi",
+      "title": "La Diabla",
+      "url": "https://www.last.fm/music/Xavi/La+Diabla",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ae819a6c934814e127b3ace1a2ee5ee8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ae819a6c934814e127b3ace1a2ee5ee8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ae819a6c934814e127b3ace1a2ee5ee8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ae819a6c934814e127b3ace1a2ee5ee8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

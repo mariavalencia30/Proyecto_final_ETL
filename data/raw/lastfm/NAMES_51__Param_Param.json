@@ -1,0 +1,20 @@
+{
+  "track": {
+    "name": "Param Param",
+    "url": "https://www.last.fm/music/NAMES+51/_/Param+Param",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1",
+    "playcount": "1",
+    "artist": {
+      "name": "NAMES 51",
+      "url": "https://www.last.fm/music/NAMES+51"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

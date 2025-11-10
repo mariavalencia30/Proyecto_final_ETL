@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "You Got It",
+    "mbid": "2b0e5ba9-7737-4ab6-94ee-07e133c5a981",
+    "url": "https://www.last.fm/music/VEDO/_/You+Got+It",
+    "duration": "203000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "236596",
+    "playcount": "1706818",
+    "artist": {
+      "name": "VEDO",
+      "url": "https://www.last.fm/music/VEDO"
+    },
+    "album": {
+      "artist": "VEDO",
+      "title": "For You",
+      "url": "https://www.last.fm/music/VEDO/For+You",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f5947d3e8e38db4033d74115ef93cf30.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f5947d3e8e38db4033d74115ef93cf30.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f5947d3e8e38db4033d74115ef93cf30.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f5947d3e8e38db4033d74115ef93cf30.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

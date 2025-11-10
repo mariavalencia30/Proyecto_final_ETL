@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Vaaste",
+    "mbid": "8fd4934b-68dd-4cae-91fe-fc51b7f0eec5",
+    "url": "https://www.last.fm/music/Dhvani+Bhanushali/_/Vaaste",
+    "duration": "196000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "17672",
+    "playcount": "117756",
+    "artist": {
+      "name": "Dhvani Bhanushali",
+      "mbid": "c68b5992-5a74-4fbc-b839-b01d653d2444",
+      "url": "https://www.last.fm/music/Dhvani+Bhanushali"
+    },
+    "album": {
+      "artist": "Dhvani Bhanushali & Nikhil D'Souza",
+      "title": "Vaaste - Single",
+      "url": "https://www.last.fm/music/Dhvani+Bhanushali+&+Nikhil+D%27Souza/Vaaste+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fc6524b147474cf864046f417f0cf29e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fc6524b147474cf864046f417f0cf29e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fc6524b147474cf864046f417f0cf29e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fc6524b147474cf864046f417f0cf29e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

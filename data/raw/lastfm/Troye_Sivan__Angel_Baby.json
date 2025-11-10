@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Angel Baby",
+    "mbid": "055b91cb-af4e-439c-b9e4-4ac16c6f92b3",
+    "url": "https://www.last.fm/music/Troye+Sivan/_/Angel+Baby",
+    "duration": "220000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "467001",
+    "playcount": "6430384",
+    "artist": {
+      "name": "Troye Sivan",
+      "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+      "url": "https://www.last.fm/music/Troye+Sivan"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Christmas + Chill",
+      "url": "https://www.last.fm/music/Various+Artists/Christmas+%252B+Chill",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d61ed1179a2186073911403eb574ea34.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d61ed1179a2186073911403eb574ea34.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d61ed1179a2186073911403eb574ea34.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d61ed1179a2186073911403eb574ea34.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "troye baby",
+          "url": "https://www.last.fm/tag/troye+baby"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "indie pop",
+          "url": "https://www.last.fm/tag/indie+pop"
+        },
+        {
+          "name": "amazing",
+          "url": "https://www.last.fm/tag/amazing"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "12 Sep 2021, 02:50",
+      "summary": "“ANGEL BABY” is a single by Troye Sivan, released on September 9th, 2021. It was written with Jason Evigan, Michael Pollack, Sarah Hudson and JHart.\n\nTroye describes the song by saying “Angel Baby’ is my crack at an adoring, doting, love struck, mega pop, gay, power ballad.” <a href=\"http://www.last.fm/music/Troye+Sivan/_/Angel+Baby\">Read more on Last.fm</a>.",
+      "content": "“ANGEL BABY” is a single by Troye Sivan, released on September 9th, 2021. It was written with Jason Evigan, Michael Pollack, Sarah Hudson and JHart.\n\nTroye describes the song by saying “Angel Baby’ is my crack at an adoring, doting, love struck, mega pop, gay, power ballad.” <a href=\"http://www.last.fm/music/Troye+Sivan/_/Angel+Baby\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

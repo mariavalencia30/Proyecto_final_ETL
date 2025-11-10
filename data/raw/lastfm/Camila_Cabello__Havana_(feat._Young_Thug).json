@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Havana (feat. Young Thug)",
+    "url": "https://www.last.fm/music/Camila+Cabello/_/Havana+(feat.+Young+Thug)",
+    "duration": "214000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "829323",
+    "playcount": "5972265",
+    "artist": {
+      "name": "Camila Cabello",
+      "mbid": "01b8b5bf-06cb-45da-85fb-61ada72fcd69",
+      "url": "https://www.last.fm/music/Camila+Cabello"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Sommerhits",
+      "url": "https://www.last.fm/music/Various+Artists/Sommerhits",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e63891d272cadd3b462054e879700110.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e63891d272cadd3b462054e879700110.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e63891d272cadd3b462054e879700110.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e63891d272cadd3b462054e879700110.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "latin",
+          "url": "https://www.last.fm/tag/latin"
+        },
+        {
+          "name": "cuba",
+          "url": "https://www.last.fm/tag/cuba"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "latin pop",
+          "url": "https://www.last.fm/tag/latin+pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "09 Mar 2023, 13:46",
+      "summary": "Camila Cabello released two songs from her album \"Camila\" on August 3rd, 2017, one being \"OMG\" featuring Quavo and of course \"Havana\" featuring Young Thug. This song references Camila's Cuban heritage. Havana reached #1 on Billboard Hot 100 on January 23rd 2018, the same week 'Camila' debuted at #1 on Billboard 200. <a href=\"http://www.last.fm/music/Camila+Cabello/_/Havana+(feat.+Young+Thug)\">Read more on Last.fm</a>.",
+      "content": "Camila Cabello released two songs from her album \"Camila\" on August 3rd, 2017, one being \"OMG\" featuring Quavo and of course \"Havana\" featuring Young Thug. This song references Camila's Cuban heritage. Havana reached #1 on Billboard Hot 100 on January 23rd 2018, the same week 'Camila' debuted at #1 on Billboard 200. <a href=\"http://www.last.fm/music/Camila+Cabello/_/Havana+(feat.+Young+Thug)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

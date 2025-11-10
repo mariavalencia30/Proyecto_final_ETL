@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Body Like a Back Road",
+    "mbid": "021b8029-aeec-4dda-b5df-0684afc317ca",
+    "url": "https://www.last.fm/music/Sam+Hunt/_/Body+Like+a+Back+Road",
+    "duration": "165000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "240179",
+    "playcount": "1796940",
+    "artist": {
+      "name": "Sam Hunt",
+      "mbid": "be9a991d-319c-4a58-b115-ee3f4bb3613d",
+      "url": "https://www.last.fm/music/Sam+Hunt"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Now That's What I Call Music, Vol. 64",
+      "url": "https://www.last.fm/music/Various+Artists/Now+That%27s+What+I+Call+Music,+Vol.+64",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/40df24d6fd32a6d87f2d6e0d20cd79c4.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/40df24d6fd32a6d87f2d6e0d20cd79c4.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/40df24d6fd32a6d87f2d6e0d20cd79c4.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/40df24d6fd32a6d87f2d6e0d20cd79c4.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

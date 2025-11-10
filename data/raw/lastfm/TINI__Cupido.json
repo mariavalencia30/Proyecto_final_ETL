@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "CUPIDO",
+    "url": "https://www.last.fm/music/Tini/_/CUPIDO",
+    "duration": "175000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "108768",
+    "playcount": "1583216",
+    "artist": {
+      "name": "Tini",
+      "mbid": "082c8518-165b-4a8e-8fd2-fe606953f293",
+      "url": "https://www.last.fm/music/Tini"
+    },
+    "album": {
+      "artist": "Tini",
+      "title": "Cupido",
+      "url": "https://www.last.fm/music/Tini/Cupido",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0379a646905d9d9909681b47b0c7ef71.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0379a646905d9d9909681b47b0c7ef71.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0379a646905d9d9909681b47b0c7ef71.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0379a646905d9d9909681b47b0c7ef71.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "07 Apr 2023, 21:30",
+      "summary": "\"Cupido\" (ENG: \"Cupid\") is a song by the Argentinean singer Tini Stoessel. <a href=\"http://www.last.fm/music/Tini/_/CUPIDO\">Read more on Last.fm</a>.",
+      "content": "\"Cupido\" (ENG: \"Cupid\") is a song by the Argentinean singer Tini Stoessel. <a href=\"http://www.last.fm/music/Tini/_/CUPIDO\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

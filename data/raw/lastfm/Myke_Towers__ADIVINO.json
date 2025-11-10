@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "ADIVINO",
+    "url": "https://www.last.fm/music/Myke+Towers/_/ADIVINO",
+    "duration": "278000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "188410",
+    "playcount": "2054580",
+    "artist": {
+      "name": "Myke Towers",
+      "mbid": "d2945137-b01d-4195-9f82-64d20f8ba657",
+      "url": "https://www.last.fm/music/Myke+Towers"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "musica 2024",
+      "url": "https://www.last.fm/music/Various+Artists/musica+2024",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1aa1aad7669fe023ac79382fe77f94af.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1aa1aad7669fe023ac79382fe77f94af.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1aa1aad7669fe023ac79382fe77f94af.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1aa1aad7669fe023ac79382fe77f94af.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

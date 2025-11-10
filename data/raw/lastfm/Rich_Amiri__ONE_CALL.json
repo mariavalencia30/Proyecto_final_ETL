@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "One Call",
+    "mbid": "25b203b3-7f28-47ca-bba6-f034926537ae",
+    "url": "https://www.last.fm/music/Rich+Amiri/_/One+Call",
+    "duration": "121000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "630218",
+    "playcount": "11352147",
+    "artist": {
+      "name": "Rich Amiri",
+      "mbid": "8ae4189a-67e8-4466-91cb-8902f2b72ab2",
+      "url": "https://www.last.fm/music/Rich+Amiri"
+    },
+    "album": {
+      "artist": "Rich Amiri",
+      "title": "One Call - Single",
+      "url": "https://www.last.fm/music/Rich+Amiri/One+Call+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2473a158c4f337fec32c263475d5c777.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2473a158c4f337fec32c263475d5c777.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2473a158c4f337fec32c263475d5c777.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2473a158c4f337fec32c263475d5c777.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

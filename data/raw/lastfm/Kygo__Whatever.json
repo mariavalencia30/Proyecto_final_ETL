@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Whatever",
+    "mbid": "6213fae3-2d31-47e9-b4e3-696f76511efa",
+    "url": "https://www.last.fm/music/Kygo/_/Whatever",
+    "duration": "178000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "237245",
+    "playcount": "1622413",
+    "artist": {
+      "name": "Kygo",
+      "mbid": "ba0e7638-0cd6-4ff4-8987-c3e224d22c23",
+      "url": "https://www.last.fm/music/Kygo"
+    },
+    "album": {
+      "artist": "Kygo",
+      "title": "Whatever",
+      "url": "https://www.last.fm/music/Kygo/Whatever",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eed7dd9de7d3b45618c7afc3a1b06197.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eed7dd9de7d3b45618c7afc3a1b06197.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eed7dd9de7d3b45618c7afc3a1b06197.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eed7dd9de7d3b45618c7afc3a1b06197.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

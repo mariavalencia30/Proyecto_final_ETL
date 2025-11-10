@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "I AM",
+    "mbid": "46f73285-cdc1-41ac-8b6d-912bd15c6f19",
+    "url": "https://www.last.fm/music/IVE/_/I+AM",
+    "duration": "183000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "493421",
+    "playcount": "12990308",
+    "artist": {
+      "name": "IVE",
+      "mbid": "b2f2216a-d7a9-4ce0-8b8f-f494d9a8c196",
+      "url": "https://www.last.fm/music/IVE"
+    },
+    "album": {
+      "artist": "IVE",
+      "title": "I’ve IVE",
+      "url": "https://www.last.fm/music/IVE/I%E2%80%99ve+IVE",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6aa5705d0da9ba9d0b9d3867138ad455.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6aa5705d0da9ba9d0b9d3867138ad455.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6aa5705d0da9ba9d0b9d3867138ad455.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6aa5705d0da9ba9d0b9d3867138ad455.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "k-pop",
+          "url": "https://www.last.fm/tag/k-pop"
+        },
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "2023",
+          "url": "https://www.last.fm/tag/2023"
+        },
+        {
+          "name": "dance-pop",
+          "url": "https://www.last.fm/tag/dance-pop"
+        },
+        {
+          "name": "synthwave",
+          "url": "https://www.last.fm/tag/synthwave"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "10 Apr 2023, 13:55",
+      "summary": "\"I AM\" is a song recorded by South Korean girl group IVE for their debut studio album, I've IVE. It was released on April 10, 2023 as the album's second and final single. \n\nThis song sings about a proactive attitude toward life, telling you to be confident in the path you take. It is a stylish song with a strong message to discover a different me from yesterday. You can feel IVE's explosive vocals along with the unique and addictive synthesizer sound. <a href=\"http://www.last.fm/music/IVE/_/I+AM\">Read more on Last.fm</a>.",
+      "content": "\"I AM\" is a song recorded by South Korean girl group IVE for their debut studio album, I've IVE. It was released on April 10, 2023 as the album's second and final single. \n\nThis song sings about a proactive attitude toward life, telling you to be confident in the path you take. It is a stylish song with a strong message to discover a different me from yesterday. You can feel IVE's explosive vocals along with the unique and addictive synthesizer sound. In particular, the harmony of the rising drum beat, bass, and vocals maximizes the dynamics of the song and shows IVE's unique and diverse charm.\n\nThe track was written by Kim Eana, composed by Ryan Jhun, Kristin Marie, Audun Agnar and Eline Noelia Myreng, and arranged by Jhun, Agnar and Marie. <a href=\"http://www.last.fm/music/IVE/_/I+AM\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

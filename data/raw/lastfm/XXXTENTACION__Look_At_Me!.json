@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Look at Me!",
+    "mbid": "04610a07-4609-443b-8241-562e33c035ff",
+    "url": "https://www.last.fm/music/XXXTENTACION/_/Look+at+Me%21",
+    "duration": "132000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "988232",
+    "playcount": "11291411",
+    "artist": {
+      "name": "XXXTENTACION",
+      "mbid": "61af87f4-16ee-4431-8504-cc06187079fb",
+      "url": "https://www.last.fm/music/XXXTENTACION"
+    },
+    "album": {
+      "artist": "XXXTENTACION",
+      "title": "Look at Me!",
+      "url": "https://www.last.fm/music/XXXTENTACION/Look+at+Me%21",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f3511286965fbb86497f1a62d09e6550.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f3511286965fbb86497f1a62d09e6550.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f3511286965fbb86497f1a62d09e6550.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f3511286965fbb86497f1a62d09e6550.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://www.last.fm/tag/XXXTENTACION"
+        },
+        {
+          "name": "Trap Metal",
+          "url": "https://www.last.fm/tag/Trap+Metal"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "27 Feb 2017, 19:00",
+      "summary": "Look At Me! is the sixth single by American hip-hop recording artist XXXTENTACION. It premiered on December 31, 2015 on the SoundCloud account of Rojas, the song's co-producer, before being released for digital download on the iTunes Store as a single on January 29, 2016. \n\nIt was rereleased on the Revenge mixtape on May 16, 2017, where the intro was removed. <a href=\"http://www.last.fm/music/XXXTENTACION/_/Look+at+Me%21\">Read more on Last.fm</a>.",
+      "content": "Look At Me! is the sixth single by American hip-hop recording artist XXXTENTACION. It premiered on December 31, 2015 on the SoundCloud account of Rojas, the song's co-producer, before being released for digital download on the iTunes Store as a single on January 29, 2016. \n\nIt was rereleased on the Revenge mixtape on May 16, 2017, where the intro was removed. <a href=\"http://www.last.fm/music/XXXTENTACION/_/Look+at+Me%21\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

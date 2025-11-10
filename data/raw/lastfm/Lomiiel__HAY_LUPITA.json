@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "HAY LUPITA",
+    "url": "https://www.last.fm/music/Lomiiel/_/HAY+LUPITA",
+    "duration": "105000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "128633",
+    "playcount": "915337",
+    "artist": {
+      "name": "Lomiiel",
+      "mbid": "4318c500-cef6-4b98-ad4a-8e297011df4e",
+      "url": "https://www.last.fm/music/Lomiiel"
+    },
+    "album": {
+      "artist": "Lomiiel",
+      "title": "HAY LUPITA",
+      "url": "https://www.last.fm/music/Lomiiel/HAY+LUPITA",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4ccccfa3e93548cbfd02bae73fd08c75.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4ccccfa3e93548cbfd02bae73fd08c75.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4ccccfa3e93548cbfd02bae73fd08c75.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4ccccfa3e93548cbfd02bae73fd08c75.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

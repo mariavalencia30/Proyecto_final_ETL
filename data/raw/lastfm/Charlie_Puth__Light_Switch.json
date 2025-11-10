@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Light Switch",
+    "mbid": "c7cc2f43-6185-4ce7-8c3e-e3f7285f4818",
+    "url": "https://www.last.fm/music/Charlie+Puth/_/Light+Switch",
+    "duration": "186000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "474747",
+    "playcount": "4715755",
+    "artist": {
+      "name": "Charlie Puth",
+      "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+      "url": "https://www.last.fm/music/Charlie+Puth"
+    },
+    "album": {
+      "artist": "Charlie Puth",
+      "title": "Light Switch",
+      "url": "https://www.last.fm/music/Charlie+Puth/Light+Switch",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b1560d1e5735cd14249c13cc0c560018.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b1560d1e5735cd14249c13cc0c560018.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b1560d1e5735cd14249c13cc0c560018.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b1560d1e5735cd14249c13cc0c560018.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "28 Nov 2021, 11:39",
+      "summary": "“Light Switch” was released January 20, 2022 as the lead single for Charlie Puth's self-titled third studio album. In a Vogue interview, he calls this body of work \"his most personal\". Also during the interview, he confirmed his album would be released later in the year 2022. <a href=\"http://www.last.fm/music/Charlie+Puth/_/Light+Switch\">Read more on Last.fm</a>.",
+      "content": "“Light Switch” was released January 20, 2022 as the lead single for Charlie Puth's self-titled third studio album. In a Vogue interview, he calls this body of work \"his most personal\". Also during the interview, he confirmed his album would be released later in the year 2022. <a href=\"http://www.last.fm/music/Charlie+Puth/_/Light+Switch\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

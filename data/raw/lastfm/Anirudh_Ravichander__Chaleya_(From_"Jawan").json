@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Chaleya (From \"Jawan\")",
+    "url": "https://www.last.fm/music/Anirudh+Ravichander/_/Chaleya+(From+%22Jawan%22)",
+    "duration": "200000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "37766",
+    "playcount": "505722",
+    "artist": {
+      "name": "Anirudh Ravichander",
+      "mbid": "cf76861a-c1f5-456d-8d17-5994d05eecf8",
+      "url": "https://www.last.fm/music/Anirudh+Ravichander"
+    },
+    "album": {
+      "artist": "Anirudh Ravichander",
+      "title": "Chaleya (From \"Jawan\")",
+      "url": "https://www.last.fm/music/Anirudh+Ravichander/Chaleya+(From+%22Jawan%22)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ee6e4a263e8d4b73c1d02241bfc4c082.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ee6e4a263e8d4b73c1d02241bfc4c082.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ee6e4a263e8d4b73c1d02241bfc4c082.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ee6e4a263e8d4b73c1d02241bfc4c082.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Diamonds",
+    "mbid": "be2cfccd-4186-4eac-808c-fd74a8091164",
+    "url": "https://www.last.fm/music/Sam+Smith/_/Diamonds",
+    "duration": "213000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "285516",
+    "playcount": "2470262",
+    "artist": {
+      "name": "Sam Smith",
+      "mbid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
+      "url": "https://www.last.fm/music/Sam+Smith"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Now 35",
+      "url": "https://www.last.fm/music/Various+Artists/Now+35",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fdfd652fe474d2396dd5176fa130757e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fdfd652fe474d2396dd5176fa130757e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fdfd652fe474d2396dd5176fa130757e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fdfd652fe474d2396dd5176fa130757e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "03 Oct 2021, 02:50",
+      "summary": "\"Diamonds\" is a song by English singer Sam Smith, released through Capitol Records on 18 September 2020 as the second single from their third studio album, Love Goes (2020). The song was written by Smith with their producers Shellback and Oscar Görres.\n\n\"Diamonds\" is a breakup song that sees Smith \"snarl[ing] like Gloria Gaynor in divorce court\". Samantha Hissong of Rolling Stone called the song \"three minutes and 34 seconds of catharsis.\" <a href=\"http://www.last.fm/music/Sam+Smith/_/Diamonds\">Read more on Last.fm</a>.",
+      "content": "\"Diamonds\" is a song by English singer Sam Smith, released through Capitol Records on 18 September 2020 as the second single from their third studio album, Love Goes (2020). The song was written by Smith with their producers Shellback and Oscar Görres.\n\n\"Diamonds\" is a breakup song that sees Smith \"snarl[ing] like Gloria Gaynor in divorce court\". Samantha Hissong of Rolling Stone called the song \"three minutes and 34 seconds of catharsis.\" <a href=\"http://www.last.fm/music/Sam+Smith/_/Diamonds\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

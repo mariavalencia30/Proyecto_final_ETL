@@ -1,0 +1,65 @@
+{
+  "track": {
+    "name": "GOOD LOYAL THOTS",
+    "url": "https://www.last.fm/music/Odetari/_/GOOD+LOYAL+THOTS",
+    "duration": "102000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "412956",
+    "playcount": "5400895",
+    "artist": {
+      "name": "Odetari",
+      "mbid": "2d8be86e-dccf-481a-a01c-faf9e48edd6d",
+      "url": "https://www.last.fm/music/Odetari"
+    },
+    "album": {
+      "artist": "Odetari",
+      "title": "GOOD LOYAL THOTS",
+      "url": "https://www.last.fm/music/Odetari/GOOD+LOYAL+THOTS",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7b9c8888f7f9f4396e7d1993fae2dcf3.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7b9c8888f7f9f4396e7d1993fae2dcf3.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7b9c8888f7f9f4396e7d1993fae2dcf3.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7b9c8888f7f9f4396e7d1993fae2dcf3.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Sleep",
+          "url": "https://www.last.fm/tag/Sleep"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "fire",
+          "url": "https://www.last.fm/tag/fire"
+        },
+        {
+          "name": "pluggnb",
+          "url": "https://www.last.fm/tag/pluggnb"
+        },
+        {
+          "name": "odecore",
+          "url": "https://www.last.fm/tag/odecore"
+        }
+      ]
+    }
+  }
+}

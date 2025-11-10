@@ -1,0 +1,67 @@
+{
+  "track": {
+    "name": "double take",
+    "mbid": "ffe9cffb-4b02-40f5-b20a-fc3e5d44e388",
+    "url": "https://www.last.fm/music/dhruv/_/double+take",
+    "duration": "171000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "581391",
+    "playcount": "9049515",
+    "artist": {
+      "name": "dhruv",
+      "mbid": "57f8c80b-7255-4913-a096-713c6c6c51b4",
+      "url": "https://www.last.fm/music/dhruv"
+    },
+    "album": {
+      "artist": "dhruv",
+      "title": "double take",
+      "url": "https://www.last.fm/music/dhruv/double+take",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b5786dfa491730af5a471d1f2446947e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b5786dfa491730af5a471d1f2446947e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b5786dfa491730af5a471d1f2446947e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b5786dfa491730af5a471d1f2446947e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "queer",
+          "url": "https://www.last.fm/tag/queer"
+        },
+        {
+          "name": "Love",
+          "url": "https://www.last.fm/tag/Love"
+        },
+        {
+          "name": "double take",
+          "url": "https://www.last.fm/tag/double+take"
+        },
+        {
+          "name": "love song",
+          "url": "https://www.last.fm/tag/love+song"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "29 Aug 2021, 08:43",
+      "summary": "\"double take\" is the debut single by Indian-born, Singaporean-American musician dhruv. He independently released the song for digital download and streaming on May 24, 2019. It gained popularity on TikTok and was placed on Spotify's “Pop Rising” and “Today's Top Hits” playlist in 2021, two years after its release. \"double take\" peaked at number two on the Singapore charts. <a href=\"http://www.last.fm/music/dhruv/_/double+take\">Read more on Last.fm</a>.",
+      "content": "\"double take\" is the debut single by Indian-born, Singaporean-American musician dhruv. He independently released the song for digital download and streaming on May 24, 2019. It gained popularity on TikTok and was placed on Spotify's “Pop Rising” and “Today's Top Hits” playlist in 2021, two years after its release. \"double take\" peaked at number two on the Singapore charts. <a href=\"http://www.last.fm/music/dhruv/_/double+take\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "track": {
+    "name": "Gata Only",
+    "url": "https://www.last.fm/music/FloyyMenor/_/Gata+Only",
+    "duration": "222000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "525701",
+    "playcount": "7619678",
+    "artist": {
+      "name": "FloyyMenor",
+      "mbid": "04a5ed75-6c9f-4d50-87bd-9600abbe68f7",
+      "url": "https://www.last.fm/music/FloyyMenor"
+    },
+    "album": {
+      "artist": "FloyyMenor",
+      "title": "Gata Only",
+      "url": "https://www.last.fm/music/FloyyMenor/Gata+Only",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c5ba90a5160905da266592fc494a1d57.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c5ba90a5160905da266592fc494a1d57.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c5ba90a5160905da266592fc494a1d57.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c5ba90a5160905da266592fc494a1d57.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "my top songs",
+          "url": "https://www.last.fm/tag/my+top+songs"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "funk",
+          "url": "https://www.last.fm/tag/funk"
+        },
+        {
+          "name": "punk",
+          "url": "https://www.last.fm/tag/punk"
+        },
+        {
+          "name": "latino",
+          "url": "https://www.last.fm/tag/latino"
+        }
+      ]
+    }
+  }
+}

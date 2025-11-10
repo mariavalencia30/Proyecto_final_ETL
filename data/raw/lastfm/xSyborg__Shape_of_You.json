@@ -1,0 +1,20 @@
+{
+  "track": {
+    "name": "Shape of You",
+    "url": "https://www.last.fm/music/xSyborg/_/Shape+of+You",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1",
+    "playcount": "1",
+    "artist": {
+      "name": "xSyborg",
+      "url": "https://www.last.fm/music/xSyborg"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

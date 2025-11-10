@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "1-800-273-8255",
+    "mbid": "60dabc59-d1c0-461c-a969-0ddafebbf144",
+    "url": "https://www.last.fm/music/Logic/_/1-800-273-8255",
+    "duration": "250000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "651875",
+    "playcount": "5865174",
+    "artist": {
+      "name": "Logic",
+      "mbid": "96a83a1f-f78f-4f1c-bf89-9b8dd3d91872",
+      "url": "https://www.last.fm/music/Logic"
+    },
+    "album": {
+      "artist": "Logic",
+      "title": "Everybody",
+      "url": "https://www.last.fm/music/Logic/Everybody",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8899266798b2676226e2f7a3182a6146.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8899266798b2676226e2f7a3182a6146.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8899266798b2676226e2f7a3182a6146.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8899266798b2676226e2f7a3182a6146.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "alessia cara",
+          "url": "https://www.last.fm/tag/alessia+cara"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "logic",
+          "url": "https://www.last.fm/tag/logic"
+        },
+        {
+          "name": "2017",
+          "url": "https://www.last.fm/tag/2017"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "09 Nov 2017, 14:12",
+      "summary": "\"1-800-273-8255\" is a song by American rapper Logic. It was released on April 28, 2017, through Visionary Music Group and Def Jam Recordings, as the third single from his third studio album Everybody. The song's name is the phone number for the National Suicide Prevention Lifeline. Produced by Logic and 6ix, the song features guest vocals from singer-songwriters Alessia Cara and Khalid. <a href=\"http://www.last.fm/music/Logic/_/1-800-273-8255\">Read more on Last.fm</a>.",
+      "content": "\"1-800-273-8255\" is a song by American rapper Logic. It was released on April 28, 2017, through Visionary Music Group and Def Jam Recordings, as the third single from his third studio album Everybody. The song's name is the phone number for the National Suicide Prevention Lifeline. Produced by Logic and 6ix, the song features guest vocals from singer-songwriters Alessia Cara and Khalid. <a href=\"http://www.last.fm/music/Logic/_/1-800-273-8255\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "Put It On Da Floor Again (feat. Cardi B)",
+    "url": "https://www.last.fm/music/Latto/_/Put+It+On+Da+Floor+Again+(feat.+Cardi+B)",
+    "duration": "185000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "135567",
+    "playcount": "947899",
+    "artist": {
+      "name": "Latto",
+      "mbid": "355cc194-b8db-4af2-8678-c7ad54213f4b",
+      "url": "https://www.last.fm/music/Latto"
+    },
+    "album": {
+      "artist": "Latto",
+      "title": "Put It on da Floor Again (feat. Cardi B) - Single",
+      "url": "https://www.last.fm/music/Latto/Put+It+on+da+Floor+Again+(feat.+Cardi+B)+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2adfe2dd74939195d0e7b267235bedf3.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2adfe2dd74939195d0e7b267235bedf3.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2adfe2dd74939195d0e7b267235bedf3.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2adfe2dd74939195d0e7b267235bedf3.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "04 Jun 2023, 16:32",
+      "summary": "This record has Cardi featured on it, it is Latto and Cardi's first song together. The record was released on June 2nd 2023 this year. <a href=\"http://www.last.fm/music/Latto/_/Put+It+On+Da+Floor+Again+(feat.+Cardi+B)\">Read more on Last.fm</a>.",
+      "content": "This record has Cardi featured on it, it is Latto and Cardi's first song together. The record was released on June 2nd 2023 this year. <a href=\"http://www.last.fm/music/Latto/_/Put+It+On+Da+Floor+Again+(feat.+Cardi+B)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

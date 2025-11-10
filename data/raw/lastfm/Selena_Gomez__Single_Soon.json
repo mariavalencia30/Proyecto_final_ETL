@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Single Soon",
+    "mbid": "0077b350-d05d-4166-8885-91a9c1ddb707",
+    "url": "https://www.last.fm/music/Selena+Gomez/_/Single+Soon",
+    "duration": "172000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "367226",
+    "playcount": "3587130",
+    "artist": {
+      "name": "Selena Gomez",
+      "mbid": "e4bc69e2-a064-4f93-ada1-f7f209cc1cc3",
+      "url": "https://www.last.fm/music/Selena+Gomez"
+    },
+    "album": {
+      "artist": "Selena Gomez",
+      "title": "Single Soon",
+      "url": "https://www.last.fm/music/Selena+Gomez/Single+Soon",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ac28edc145070b697cdd63155301e406.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ac28edc145070b697cdd63155301e406.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ac28edc145070b697cdd63155301e406.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac28edc145070b697cdd63155301e406.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "26 Aug 2023, 23:57",
+      "summary": "\"Single Soon\" is a single by American singer Selena Gomez, released on August 25, 2023. Originally recorded for her third studio album, Rare, the single takes on a fun and feminine tone. It has been theorized that Gomez wrote the song about her relationship and subsequent breakup with Canadian singer The Weeknd. This theory has since been denied by Gomez on Instagram. <a href=\"http://www.last.fm/music/Selena+Gomez/_/Single+Soon\">Read more on Last.fm</a>.",
+      "content": "\"Single Soon\" is a single by American singer Selena Gomez, released on August 25, 2023. Originally recorded for her third studio album, Rare, the single takes on a fun and feminine tone. It has been theorized that Gomez wrote the song about her relationship and subsequent breakup with Canadian singer The Weeknd. This theory has since been denied by Gomez on Instagram. <a href=\"http://www.last.fm/music/Selena+Gomez/_/Single+Soon\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

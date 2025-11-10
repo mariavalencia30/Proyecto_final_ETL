@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Babba",
+    "mbid": "2cd91d8b-0576-4e0e-8e0f-6698d8162ecb",
+    "url": "https://www.last.fm/music/Guy+Mac/_/Babba",
+    "duration": "228000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "263",
+    "playcount": "655",
+    "artist": {
+      "name": "Guy Mac",
+      "mbid": "15c01f07-498c-4b63-a9e8-4c029a930049",
+      "url": "https://www.last.fm/music/Guy+Mac"
+    },
+    "album": {
+      "artist": "Guy Mac",
+      "title": "Babba",
+      "url": "https://www.last.fm/music/Guy+Mac/Babba",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/666c51f6cc3dc5ad4bd21b037f1ddce6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/666c51f6cc3dc5ad4bd21b037f1ddce6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/666c51f6cc3dc5ad4bd21b037f1ddce6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/666c51f6cc3dc5ad4bd21b037f1ddce6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

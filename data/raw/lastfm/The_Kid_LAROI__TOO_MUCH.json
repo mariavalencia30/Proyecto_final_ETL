@@ -1,0 +1,58 @@
+{
+  "track": {
+    "name": "TOO MUCH",
+    "url": "https://www.last.fm/music/The+Kid+LAROI/_/TOO+MUCH",
+    "duration": "203000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "321942",
+    "playcount": "8844563",
+    "artist": {
+      "name": "The Kid LAROI",
+      "mbid": "80609a00-b394-4a49-975b-2db6b543fa97",
+      "url": "https://www.last.fm/music/The+Kid+LAROI"
+    },
+    "album": {
+      "artist": "The Kid LAROI",
+      "title": "TOO MUCH",
+      "url": "https://www.last.fm/music/The+Kid+LAROI/TOO+MUCH",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3685bbb38a26fb6ada119cca8fb6363f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3685bbb38a26fb6ada119cca8fb6363f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3685bbb38a26fb6ada119cca8fb6363f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3685bbb38a26fb6ada119cca8fb6363f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "bts",
+          "url": "https://www.last.fm/tag/bts"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "25 Oct 2023, 18:30",
+      "summary": "“TOO MUCH” serves as the lead single in the second official rollout for The Kid LAROI’s debut studio album, THE FIRST TIME.\n\nThe track features Jung Kook and Central Cee, marking the first time these artists have collaborated with each other.\n\nThe song’s existence was revealed during a Discord conversation on June 26, 2023, with LAROI’s friend and photographer, Adam Kargenian, who said that his favorite song at the time was “TOO MUCH.” <a href=\"http://www.last.fm/music/The+Kid+LAROI/_/TOO+MUCH\">Read more on Last.fm</a>.",
+      "content": "“TOO MUCH” serves as the lead single in the second official rollout for The Kid LAROI’s debut studio album, THE FIRST TIME.\n\nThe track features Jung Kook and Central Cee, marking the first time these artists have collaborated with each other.\n\nThe song’s existence was revealed during a Discord conversation on June 26, 2023, with LAROI’s friend and photographer, Adam Kargenian, who said that his favorite song at the time was “TOO MUCH.” <a href=\"http://www.last.fm/music/The+Kid+LAROI/_/TOO+MUCH\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

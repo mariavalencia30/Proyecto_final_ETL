@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Orquestra Maldita",
+    "url": "https://www.last.fm/music/TRASHXRL/_/Orquestra+Maldita",
+    "duration": "119000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "150745",
+    "playcount": "1125997",
+    "artist": {
+      "name": "TRASHXRL",
+      "mbid": "005d1878-5bc9-4b7c-a85a-6a6835561b67",
+      "url": "https://www.last.fm/music/TRASHXRL"
+    },
+    "album": {
+      "artist": "TRASHXRL",
+      "title": "Orquestra Maldita",
+      "url": "https://www.last.fm/music/TRASHXRL/Orquestra+Maldita",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c450891fcf896e9132642627308070b9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c450891fcf896e9132642627308070b9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c450891fcf896e9132642627308070b9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c450891fcf896e9132642627308070b9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

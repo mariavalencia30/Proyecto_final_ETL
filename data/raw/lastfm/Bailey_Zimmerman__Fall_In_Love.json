@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Fall in Love",
+    "mbid": "fe59bb76-ec54-4c9d-9091-d0b98022931f",
+    "url": "https://www.last.fm/music/Bailey+Zimmerman/_/Fall+in+Love",
+    "duration": "232000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "100755",
+    "playcount": "1136237",
+    "artist": {
+      "name": "Bailey Zimmerman",
+      "mbid": "20543896-ec2c-48c4-b6b2-507c6cbe9918",
+      "url": "https://www.last.fm/music/Bailey+Zimmerman"
+    },
+    "album": {
+      "artist": "Bailey Zimmerman",
+      "title": "Fall in Love",
+      "url": "https://www.last.fm/music/Bailey+Zimmerman/Fall+in+Love",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ca1293a7e7147d5e0822e18372ef6d4e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ca1293a7e7147d5e0822e18372ef6d4e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ca1293a7e7147d5e0822e18372ef6d4e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ca1293a7e7147d5e0822e18372ef6d4e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

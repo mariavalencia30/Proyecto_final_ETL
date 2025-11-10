@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Pedro",
+    "mbid": "38a2947c-d26a-4b2f-8e21-f0d9d8890f72",
+    "url": "https://www.last.fm/music/Jaxomy/_/Pedro",
+    "duration": "144000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "279657",
+    "playcount": "2180302",
+    "artist": {
+      "name": "Jaxomy",
+      "mbid": "5e7a2cd2-591f-48d4-a699-4bd0497f625c",
+      "url": "https://www.last.fm/music/Jaxomy"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Bravo: The Hits 2024",
+      "url": "https://www.last.fm/music/Various+Artists/Bravo:+The+Hits+2024",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dbb7967d8dd4c7044bceecba36868e1b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dbb7967d8dd4c7044bceecba36868e1b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dbb7967d8dd4c7044bceecba36868e1b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dbb7967d8dd4c7044bceecba36868e1b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

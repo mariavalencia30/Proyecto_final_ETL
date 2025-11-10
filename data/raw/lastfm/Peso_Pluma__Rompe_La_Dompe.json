@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Rompe La Dompe",
+    "url": "https://www.last.fm/music/Peso+Pluma/_/Rompe+La+Dompe",
+    "duration": "161000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "75151",
+    "playcount": "858205",
+    "artist": {
+      "name": "Peso Pluma",
+      "mbid": "75e4f8ef-34c3-44fd-8467-88a7d9599f77",
+      "url": "https://www.last.fm/music/Peso+Pluma"
+    },
+    "album": {
+      "artist": "Peso Pluma",
+      "title": "Rompe La Dompe",
+      "url": "https://www.last.fm/music/Peso+Pluma/Rompe+La+Dompe",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b7ae8f36d3097969c8803de925d1f921.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b7ae8f36d3097969c8803de925d1f921.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b7ae8f36d3097969c8803de925d1f921.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7ae8f36d3097969c8803de925d1f921.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

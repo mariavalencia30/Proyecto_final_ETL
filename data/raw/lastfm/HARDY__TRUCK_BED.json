@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "TRUCK BED",
+    "mbid": "544ace75-89a2-4c0d-9c8b-7d6820b1a84f",
+    "url": "https://www.last.fm/music/HARDY/_/TRUCK+BED",
+    "duration": "167000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "77814",
+    "playcount": "799992",
+    "artist": {
+      "name": "HARDY",
+      "mbid": "f4fe9be1-8e34-47c8-bf16-33d1a94a235b",
+      "url": "https://www.last.fm/music/HARDY"
+    },
+    "album": {
+      "artist": "HARDY",
+      "title": "TRUCK BED",
+      "url": "https://www.last.fm/music/HARDY/TRUCK+BED",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9db19e9d5956e10720ffe68f989d3aaf.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9db19e9d5956e10720ffe68f989d3aaf.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9db19e9d5956e10720ffe68f989d3aaf.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9db19e9d5956e10720ffe68f989d3aaf.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

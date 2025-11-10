@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Crazy Form",
+    "url": "https://www.last.fm/music/ATEEZ/_/Crazy+Form",
+    "duration": "198000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "206046",
+    "playcount": "5243948",
+    "artist": {
+      "name": "ATEEZ",
+      "mbid": "cf0dbc16-4e24-4957-b5b4-955c8978f690",
+      "url": "https://www.last.fm/music/ATEEZ"
+    },
+    "album": {
+      "artist": "ATEEZ",
+      "title": "THE WORLD EP.FIN : WILL",
+      "url": "https://www.last.fm/music/ATEEZ/THE+WORLD+EP.FIN+:+WILL",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1bfcf677f3133afdef74da8ba123c940.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1bfcf677f3133afdef74da8ba123c940.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1bfcf677f3133afdef74da8ba123c940.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1bfcf677f3133afdef74da8ba123c940.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "k-pop",
+          "url": "https://www.last.fm/tag/k-pop"
+        },
+        {
+          "name": "funk",
+          "url": "https://www.last.fm/tag/funk"
+        },
+        {
+          "name": "mimi",
+          "url": "https://www.last.fm/tag/mimi"
+        },
+        {
+          "name": "boy group",
+          "url": "https://www.last.fm/tag/boy+group"
+        },
+        {
+          "name": "Nicolee",
+          "url": "https://www.last.fm/tag/Nicolee"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "13 Aug 2024, 21:06",
+      "summary": "\"미친 폼\" (English: Crazy Form) is the title song and third track featured on ATEEZ's second studio album, THE WORLD EP.FIN : WILL. It was released on December 1st, 2023. <a href=\"http://www.last.fm/music/ATEEZ/_/Crazy+Form\">Read more on Last.fm</a>.",
+      "content": "\"미친 폼\" (English: Crazy Form) is the title song and third track featured on ATEEZ's second studio album, THE WORLD EP.FIN : WILL. It was released on December 1st, 2023. <a href=\"http://www.last.fm/music/ATEEZ/_/Crazy+Form\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

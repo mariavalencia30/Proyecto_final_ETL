@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Bitch Let's Do It",
+    "mbid": "be16753a-aefe-4aa0-aa42-785389adf1c7",
+    "url": "https://www.last.fm/music/YoungBoy+Never+Broke+Again/_/Bitch+Let%27s+Do+It",
+    "duration": "185000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "76021",
+    "playcount": "960651",
+    "artist": {
+      "name": "YoungBoy Never Broke Again",
+      "mbid": "127d8614-0876-4408-886c-6f110b047a78",
+      "url": "https://www.last.fm/music/YoungBoy+Never+Broke+Again"
+    },
+    "album": {
+      "artist": "YoungBoy Never Broke Again",
+      "title": "Richest Opp",
+      "url": "https://www.last.fm/music/YoungBoy+Never+Broke+Again/Richest+Opp",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4a99197f94d17428d4959b1722807572.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4a99197f94d17428d4959b1722807572.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4a99197f94d17428d4959b1722807572.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a99197f94d17428d4959b1722807572.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

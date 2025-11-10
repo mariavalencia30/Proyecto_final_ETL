@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Ni Una Ni Dos",
+    "url": "https://www.last.fm/music/BM/_/Ni+Una+Ni+Dos",
+    "duration": "158000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "19780",
+    "playcount": "181810",
+    "artist": {
+      "name": "BM",
+      "mbid": "9aed0517-077d-416b-a75a-a0294108dfb8",
+      "url": "https://www.last.fm/music/BM"
+    },
+    "album": {
+      "artist": "BM",
+      "title": "Ni Una Ni Dos - Single",
+      "url": "https://www.last.fm/music/BM/Ni+Una+Ni+Dos+-+Single",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

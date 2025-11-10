@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "WORTH NOTHING (feat. Oliver Tree) - Fast & Furious: Drift Tape/Phonk Vol 1",
+    "url": "https://www.last.fm/music/Twisted/_/WORTH+NOTHING+(feat.+Oliver+Tree)+-+Fast+&+Furious:+Drift+Tape%2FPhonk+Vol+1",
+    "duration": "164000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "169849",
+    "playcount": "1098380",
+    "artist": {
+      "name": "Twisted",
+      "mbid": "c318aa3f-f3f4-43c9-b078-8bf9aae12883",
+      "url": "https://www.last.fm/music/Twisted"
+    },
+    "album": {
+      "artist": "Twisted",
+      "title": "WORTH NOTHING (feat. Oliver Tree) [Extended Drift Phonk / Fast & Furious: Drift Tape/Phonk Vol 1]",
+      "url": "https://www.last.fm/music/Twisted/WORTH+NOTHING+(feat.+Oliver+Tree)+%5BExtended+Drift+Phonk+%2F+Fast+&+Furious:+Drift+Tape%2FPhonk+Vol+1%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/de1cf32dbd763fa4734a484acf1b0abc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/de1cf32dbd763fa4734a484acf1b0abc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/de1cf32dbd763fa4734a484acf1b0abc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/de1cf32dbd763fa4734a484acf1b0abc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

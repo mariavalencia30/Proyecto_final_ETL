@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Sky",
+    "mbid": "509d7ad8-eb0e-47c4-a42a-2b93d54257e6",
+    "url": "https://www.last.fm/music/Playboi+Carti/_/Sky",
+    "duration": "193000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1231045",
+    "playcount": "23301433",
+    "artist": {
+      "name": "Playboi Carti",
+      "mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+      "url": "https://www.last.fm/music/Playboi+Carti"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Hip & Hop Gang",
+      "url": "https://www.last.fm/music/Various+Artists/Hip+&+Hop+Gang",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/893d19a9820be76e0b83ed34f898be7b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/893d19a9820be76e0b83ed34f898be7b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/893d19a9820be76e0b83ed34f898be7b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/893d19a9820be76e0b83ed34f898be7b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "rage",
+          "url": "https://www.last.fm/tag/rage"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "cloud rap",
+          "url": "https://www.last.fm/tag/cloud+rap"
+        },
+        {
+          "name": "Southern Hip Hop",
+          "url": "https://www.last.fm/tag/Southern+Hip+Hop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "20 Apr 2021, 13:09",
+      "summary": "“Sky” is an ode to getting high and what life feels like under the influence of weed, lean, and other drugs. The chorus suggests Carti indulges in various substances to reach a state of numbness. He also addresses his feelings towards his girl, and how he has fallen out of love for her over time.\n\nThe instrumental features video game-esque synths, booming 808s, and is done by Art Dealer who he previously collaborated with on “Long Time (Intro)” on Die Lit. <a href=\"http://www.last.fm/music/Playboi+Carti/_/Sky\">Read more on Last.fm</a>.",
+      "content": "“Sky” is an ode to getting high and what life feels like under the influence of weed, lean, and other drugs. The chorus suggests Carti indulges in various substances to reach a state of numbness. He also addresses his feelings towards his girl, and how he has fallen out of love for her over time.\n\nThe instrumental features video game-esque synths, booming 808s, and is done by Art Dealer who he previously collaborated with on “Long Time (Intro)” on Die Lit. <a href=\"http://www.last.fm/music/Playboi+Carti/_/Sky\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

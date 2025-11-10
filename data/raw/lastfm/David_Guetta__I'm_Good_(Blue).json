@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "I'm Good (Blue)",
+    "mbid": "1b884d1d-7a61-4ce8-a5f9-188c671b0a8c",
+    "url": "https://www.last.fm/music/David+Guetta/_/I%27m+Good+(Blue)",
+    "duration": "175000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "759782",
+    "playcount": "7932537",
+    "artist": {
+      "name": "David Guetta",
+      "mbid": "302bd7b9-d012-4360-897a-93b00c855680",
+      "url": "https://www.last.fm/music/David+Guetta"
+    },
+    "album": {
+      "artist": "David Guetta",
+      "title": "I'm Good (Blue)",
+      "url": "https://www.last.fm/music/David+Guetta/I%27m+Good+(Blue)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9ec15e64f71801819f40a48d3bdfde4b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9ec15e64f71801819f40a48d3bdfde4b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9ec15e64f71801819f40a48d3bdfde4b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9ec15e64f71801819f40a48d3bdfde4b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "House",
+          "url": "https://www.last.fm/tag/House"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "electro house",
+          "url": "https://www.last.fm/tag/electro+house"
+        },
+        {
+          "name": "2022",
+          "url": "https://www.last.fm/tag/2022"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "29 Aug 2022, 01:40",
+      "summary": "“I’m Good (Blue)” is a song by David Guetta and Bebe Rexha, becoming their second collaboration to feature only them together, with their first being 2014’s “Yesterday.” An early version of the song appeared online in May of 2021. The released version features newly recorded vocals from Rexha, as well as different instrumental production.\n\n“Blue (Da Ba Dee)” by Eiffel 65 is sampled both instrumentally during the chorus, as well as the melody that Bebe Rexha sings the lyrics in. <a href=\"http://www.last.fm/music/David+Guetta/_/I%27m+Good+(Blue)\">Read more on Last.fm</a>.",
+      "content": "“I’m Good (Blue)” is a song by David Guetta and Bebe Rexha, becoming their second collaboration to feature only them together, with their first being 2014’s “Yesterday.” An early version of the song appeared online in May of 2021. The released version features newly recorded vocals from Rexha, as well as different instrumental production.\n\n“Blue (Da Ba Dee)” by Eiffel 65 is sampled both instrumentally during the chorus, as well as the melody that Bebe Rexha sings the lyrics in.\n\n\"This one is an exclusive early track. […] You’re the very first people on the planet to hear this record and I made it especially for you.\"\n\n– David Guetta, UMF 2017 <a href=\"http://www.last.fm/music/David+Guetta/_/I%27m+Good+(Blue)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

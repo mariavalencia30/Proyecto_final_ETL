@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+    "url": "https://www.last.fm/music/DJ+Snake/_/Taki+Taki+(feat.+Selena+Gomez,+Ozuna+&+Cardi+B)",
+    "duration": "212000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "279480",
+    "playcount": "1358970",
+    "artist": {
+      "name": "DJ Snake",
+      "mbid": "aa114151-4a17-42b0-8e20-37b434627479",
+      "url": "https://www.last.fm/music/DJ+Snake"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "NRJ Play Hits 2019",
+      "url": "https://www.last.fm/music/Various+Artists/NRJ+Play+Hits+2019",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c81ff0029b32f43cfa37f8de6a5d846f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c81ff0029b32f43cfa37f8de6a5d846f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c81ff0029b32f43cfa37f8de6a5d846f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c81ff0029b32f43cfa37f8de6a5d846f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "28 Sep 2018, 01:43",
+      "summary": "DJ Snake announced he was collabing with Selena Gomez, Ozuna, and Cardi B in late August. \n\nOzuna later leaked the name ‘Taki Taki’\n\n‘Taki Taki’ was released on September 28th, 2018 <a href=\"http://www.last.fm/music/DJ+Snake/_/Taki+Taki+(feat.+Selena+Gomez,+Ozuna+&+Cardi+B)\">Read more on Last.fm</a>.",
+      "content": "DJ Snake announced he was collabing with Selena Gomez, Ozuna, and Cardi B in late August. \n\nOzuna later leaked the name ‘Taki Taki’\n\n‘Taki Taki’ was released on September 28th, 2018 <a href=\"http://www.last.fm/music/DJ+Snake/_/Taki+Taki+(feat.+Selena+Gomez,+Ozuna+&+Cardi+B)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

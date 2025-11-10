@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "hey! hey!",
+    "mbid": "cb18b994-6e65-4e62-9b43-a25ba59b3d4d",
+    "url": "https://www.last.fm/music/TWS/_/hey%21+hey%21",
+    "duration": "192000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "48706",
+    "playcount": "892331",
+    "artist": {
+      "name": "TWS",
+      "mbid": "f68e8675-5ad8-47eb-b7ec-da9cc210e0b4",
+      "url": "https://www.last.fm/music/TWS"
+    },
+    "album": {
+      "artist": "TWS",
+      "title": "hey! hey!",
+      "url": "https://www.last.fm/music/TWS/hey%21+hey%21",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/290958fb74f3d68cb039a44ed163b780.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/290958fb74f3d68cb039a44ed163b780.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/290958fb74f3d68cb039a44ed163b780.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/290958fb74f3d68cb039a44ed163b780.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "01 Jul 2024, 15:40",
+      "summary": "\"hey! hey!\" is a song recorded by South Korean boy group TWS for their second extended play SUMMER BEAT!. It was released on June 5, 2024 as the EP's lead single. The track was written by WASURENAI, Glenn, 153/Joombas' Bo-ra Choi, Jamfactory's Ji-yoo Song and lalala Studio's Min-woo Jang, composed by T-SK, Glenn, Heon Seo, Anchor, WASURENAI, YouthK and Jeon Jin & arranged by T-SK and Ohway!. <a href=\"http://www.last.fm/music/TWS/_/hey%21+hey%21\">Read more on Last.fm</a>.",
+      "content": "\"hey! hey!\" is a song recorded by South Korean boy group TWS for their second extended play SUMMER BEAT!. It was released on June 5, 2024 as the EP's lead single. The track was written by WASURENAI, Glenn, 153/Joombas' Bo-ra Choi, Jamfactory's Ji-yoo Song and lalala Studio's Min-woo Jang, composed by T-SK, Glenn, Heon Seo, Anchor, WASURENAI, YouthK and Jeon Jin & arranged by T-SK and Ohway!. <a href=\"http://www.last.fm/music/TWS/_/hey%21+hey%21\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

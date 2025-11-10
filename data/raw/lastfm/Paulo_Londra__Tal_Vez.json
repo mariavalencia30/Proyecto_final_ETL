@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Tal Vez",
+    "mbid": "073c26a9-cdd5-4690-b558-452b901d0828",
+    "url": "https://www.last.fm/music/Paulo+Londra/_/Tal+Vez",
+    "duration": "263000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "135648",
+    "playcount": "1320730",
+    "artist": {
+      "name": "Paulo Londra",
+      "mbid": "3c490f79-d333-47d6-8a4a-8d676da4d1d2",
+      "url": "https://www.last.fm/music/Paulo+Londra"
+    },
+    "album": {
+      "artist": "Paulo Londra",
+      "title": "Tal Vez - Single",
+      "url": "https://www.last.fm/music/Paulo+Londra/Tal+Vez+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/91246018031dc3fe7b1bbc893bad8a27.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/91246018031dc3fe7b1bbc893bad8a27.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/91246018031dc3fe7b1bbc893bad8a27.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/91246018031dc3fe7b1bbc893bad8a27.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

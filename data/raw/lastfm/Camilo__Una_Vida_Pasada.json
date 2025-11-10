@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Una Vida Pasada",
+    "url": "https://www.last.fm/music/Camilo/_/Una+Vida+Pasada",
+    "duration": "218000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "40723",
+    "playcount": "286900",
+    "artist": {
+      "name": "Camilo",
+      "mbid": "66287707-f62f-44f1-bc81-63489c8a4e3a",
+      "url": "https://www.last.fm/music/Camilo"
+    },
+    "album": {
+      "artist": "Camilo",
+      "title": "Dos",
+      "url": "https://www.last.fm/music/Camilo/Dos",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/15a198648ec984719664b8eab562e6a0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/15a198648ec984719664b8eab562e6a0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/15a198648ec984719664b8eab562e6a0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/15a198648ec984719664b8eab562e6a0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

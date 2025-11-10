@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "RUBICON",
+    "url": "https://www.last.fm/music/Peso+Pluma/_/RUBICON",
+    "duration": "375000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "78520",
+    "playcount": "1111853",
+    "artist": {
+      "name": "Peso Pluma",
+      "mbid": "75e4f8ef-34c3-44fd-8467-88a7d9599f77",
+      "url": "https://www.last.fm/music/Peso+Pluma"
+    },
+    "album": {
+      "artist": "Peso Pluma",
+      "title": "GÉNESIS",
+      "url": "https://www.last.fm/music/Peso+Pluma/G%C3%89NESIS",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e1798a004f87e216e8d2789e29e7a5a5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e1798a004f87e216e8d2789e29e7a5a5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e1798a004f87e216e8d2789e29e7a5a5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1798a004f87e216e8d2789e29e7a5a5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "ZOOM",
+    "mbid": "04851ffa-9a16-4f3f-8b28-7a847bb3bede",
+    "url": "https://www.last.fm/music/Jessi/_/ZOOM",
+    "duration": "247000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "219105",
+    "playcount": "1872639",
+    "artist": {
+      "name": "Jessi",
+      "mbid": "36f3d906-a440-45e1-b0c7-f7636807965e",
+      "url": "https://www.last.fm/music/Jessi"
+    },
+    "album": {
+      "artist": "Jessi",
+      "title": "ZOOM",
+      "url": "https://www.last.fm/music/Jessi/ZOOM",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eb77cc1a4622fcb78ea5b8a7e1a8d7e9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eb77cc1a4622fcb78ea5b8a7e1a8d7e9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eb77cc1a4622fcb78ea5b8a7e1a8d7e9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eb77cc1a4622fcb78ea5b8a7e1a8d7e9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

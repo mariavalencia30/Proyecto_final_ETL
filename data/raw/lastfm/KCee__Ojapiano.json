@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Ojapiano",
+    "url": "https://www.last.fm/music/Kcee/_/Ojapiano",
+    "duration": "168000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "13179",
+    "playcount": "86109",
+    "artist": {
+      "name": "Kcee",
+      "url": "https://www.last.fm/music/Kcee"
+    },
+    "album": {
+      "artist": "Kcee",
+      "title": "Ojapiano",
+      "url": "https://www.last.fm/music/Kcee/Ojapiano",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dcb9a254972e3e7db745386ec9ca4b21.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dcb9a254972e3e7db745386ec9ca4b21.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dcb9a254972e3e7db745386ec9ca4b21.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dcb9a254972e3e7db745386ec9ca4b21.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

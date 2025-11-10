@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "The Craving (single version)",
+    "mbid": "dbec96cd-21bc-4721-b886-789fa2f4d19c",
+    "url": "https://www.last.fm/music/twenty+one+pilots/_/The+Craving+(single+version)",
+    "duration": "173000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "53931",
+    "playcount": "279400",
+    "artist": {
+      "name": "twenty one pilots",
+      "mbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+      "url": "https://www.last.fm/music/twenty+one+pilots"
+    },
+    "album": {
+      "artist": "twenty one pilots",
+      "title": "The Craving (single version)",
+      "url": "https://www.last.fm/music/twenty+one+pilots/The+Craving+(single+version)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5b31c7c572c31248c7e20f9f81a374e9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5b31c7c572c31248c7e20f9f81a374e9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5b31c7c572c31248c7e20f9f81a374e9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5b31c7c572c31248c7e20f9f81a374e9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

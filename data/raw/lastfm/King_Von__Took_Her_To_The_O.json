@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Took Her To The O",
+    "mbid": "2dbe6b21-5cbf-46b1-8c96-cc48f958b3f3",
+    "url": "https://www.last.fm/music/King+Von/_/Took+Her+To+The+O",
+    "duration": "196000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "595181",
+    "playcount": "8196742",
+    "artist": {
+      "name": "King Von",
+      "mbid": "a542a08c-9434-4028-8da5-3120c4fdd3fb",
+      "url": "https://www.last.fm/music/King+Von"
+    },
+    "album": {
+      "artist": "King Von",
+      "title": "Took Her To The O",
+      "url": "https://www.last.fm/music/King+Von/Took+Her+To+The+O",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c27bfede4d6f98196a50aca1dbd3a698.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c27bfede4d6f98196a50aca1dbd3a698.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c27bfede4d6f98196a50aca1dbd3a698.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c27bfede4d6f98196a50aca1dbd3a698.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "furry",
+          "url": "https://www.last.fm/tag/furry"
+        },
+        {
+          "name": "2020",
+          "url": "https://www.last.fm/tag/2020"
+        },
+        {
+          "name": "chiraq",
+          "url": "https://www.last.fm/tag/chiraq"
+        },
+        {
+          "name": "Roblox",
+          "url": "https://www.last.fm/tag/Roblox"
+        },
+        {
+          "name": "femtanyl",
+          "url": "https://www.last.fm/tag/femtanyl"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "26 Apr 2021, 22:05",
+      "summary": "He took her to the o <a href=\"http://www.last.fm/music/King+Von/_/Took+Her+To+The+O\">Read more on Last.fm</a>.",
+      "content": "He took her to the o <a href=\"http://www.last.fm/music/King+Von/_/Took+Her+To+The+O\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

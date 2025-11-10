@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Supernova",
+    "mbid": "4d037b0c-bd99-4352-8fb7-43993597f109",
+    "url": "https://www.last.fm/music/aespa/_/Supernova",
+    "duration": "178000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "572286",
+    "playcount": "18358620",
+    "artist": {
+      "name": "aespa",
+      "mbid": "b51c672b-85e0-48fe-8648-470a2422229f",
+      "url": "https://www.last.fm/music/aespa"
+    },
+    "album": {
+      "artist": "aespa",
+      "title": "Armageddon",
+      "url": "https://www.last.fm/music/aespa/Armageddon",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/be03b7a5e82ebab5da134cf1f3150607.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/be03b7a5e82ebab5da134cf1f3150607.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/be03b7a5e82ebab5da134cf1f3150607.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be03b7a5e82ebab5da134cf1f3150607.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "k-pop",
+          "url": "https://www.last.fm/tag/k-pop"
+        },
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "soty",
+          "url": "https://www.last.fm/tag/soty"
+        },
+        {
+          "name": "Kpop",
+          "url": "https://www.last.fm/tag/Kpop"
+        },
+        {
+          "name": "julia mofada",
+          "url": "https://www.last.fm/tag/julia+mofada"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "13 May 2024, 20:26",
+      "summary": "\"Supernova\" is a song recorded by the South Korean girl group aespa. It was released on May 13, 2024, by SM Entertainment as a pre-release single from their debut full-length studio album, \"Armageddon\". The song addresses themes of explosive growth and overwhelming power, metaphorically likening the group's impact on the music industry to that of a supernova. Featuring a blend of innovative electronic elements and powerful vocals, \"Supernova\" received critical acclaim for its production quality and lyrical depth <a href=\"http://www.last.fm/music/aespa/_/Supernova\">Read more on Last.fm</a>.",
+      "content": "\"Supernova\" is a song recorded by the South Korean girl group aespa. It was released on May 13, 2024, by SM Entertainment as a pre-release single from their debut full-length studio album, \"Armageddon\". The song addresses themes of explosive growth and overwhelming power, metaphorically likening the group's impact on the music industry to that of a supernova. Featuring a blend of innovative electronic elements and powerful vocals, \"Supernova\" received critical acclaim for its production quality and lyrical depth, further establishing aespa as a leading force in the K-pop genre. <a href=\"http://www.last.fm/music/aespa/_/Supernova\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "track": {
+    "name": "Linger - SiriusXM Session",
+    "url": "https://www.last.fm/music/Royel+Otis/_/Linger+-+SiriusXM+Session",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "340437",
+    "playcount": "2881987",
+    "artist": {
+      "name": "Royel Otis",
+      "url": "https://www.last.fm/music/Royel+Otis"
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "indie rock",
+          "url": "https://www.last.fm/tag/indie+rock"
+        },
+        {
+          "name": "cover",
+          "url": "https://www.last.fm/tag/cover"
+        }
+      ]
+    }
+  }
+}

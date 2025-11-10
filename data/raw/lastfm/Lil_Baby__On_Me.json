@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "On Me",
+    "mbid": "38f5b26e-dbdb-4007-9bc0-7588b0506cee",
+    "url": "https://www.last.fm/music/Lil+Baby/_/On+Me",
+    "duration": "135000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "253812",
+    "playcount": "3115485",
+    "artist": {
+      "name": "Lil Baby",
+      "mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+      "url": "https://www.last.fm/music/Lil+Baby"
+    },
+    "album": {
+      "artist": "Megan Thee Stallion",
+      "title": "On Me (Remix) - Single",
+      "url": "https://www.last.fm/music/Megan+Thee+Stallion/On+Me+(Remix)+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b471488f122fb92cf27de296b8455f4b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b471488f122fb92cf27de296b8455f4b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b471488f122fb92cf27de296b8455f4b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b471488f122fb92cf27de296b8455f4b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

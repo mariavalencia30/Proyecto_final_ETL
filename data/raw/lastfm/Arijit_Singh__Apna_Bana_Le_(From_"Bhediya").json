@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Apna Bana Le (From \"Bhediya\")",
+    "url": "https://www.last.fm/music/Arijit+Singh/_/Apna+Bana+Le+(From+%22Bhediya%22)",
+    "duration": "261000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "6248",
+    "playcount": "50119",
+    "artist": {
+      "name": "Arijit Singh",
+      "mbid": "ed3f4831-e3e0-4dc0-9381-f5649e9df221",
+      "url": "https://www.last.fm/music/Arijit+Singh"
+    },
+    "album": {
+      "artist": "Arijit Singh",
+      "title": "Apna Bana Le (From \"Bhediya\")",
+      "url": "https://www.last.fm/music/Arijit+Singh/Apna+Bana+Le+(From+%22Bhediya%22)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cdef3e530871fccda6d9fbf073be460c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cdef3e530871fccda6d9fbf073be460c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cdef3e530871fccda6d9fbf073be460c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cdef3e530871fccda6d9fbf073be460c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Stay",
+    "mbid": "070a4ab0-98b5-3ab1-89a0-c542dcd89f30",
+    "url": "https://www.last.fm/music/Rihanna/_/Stay",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1066520",
+    "playcount": "8804078",
+    "artist": {
+      "name": "Rihanna",
+      "mbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+      "url": "https://www.last.fm/music/Rihanna"
+    },
+    "album": {
+      "artist": "Rihanna",
+      "title": "Live At SNL",
+      "url": "https://www.last.fm/music/Rihanna/Live+At+SNL",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/60871559aac0c254e329f80369f8fdd4.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/60871559aac0c254e329f80369f8fdd4.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/60871559aac0c254e329f80369f8fdd4.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/60871559aac0c254e329f80369f8fdd4.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://www.last.fm/tag/Rihanna"
+        },
+        {
+          "name": "Love",
+          "url": "https://www.last.fm/tag/Love"
+        },
+        {
+          "name": "Mikky Ekko",
+          "url": "https://www.last.fm/tag/Mikky+Ekko"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "18 Jul 2013, 14:54",
+      "summary": "\"Stay\" is the second single off of Unapologetic. It features guest vocals from Mikky Ekko and was written by Ekko and Justin Parker.\n\nWith this piano ballad, Rihanna puts a vulnerable spin on the Brown situation, repeating another theme of the album – failing to resist true love. She inspires melancholy and raw emotion with this track, and never fails to convey her honesty with her lyrics and her delivery.\n\nChartwise, the song was incredibly successful <a href=\"http://www.last.fm/music/Rihanna/_/Stay\">Read more on Last.fm</a>.",
+      "content": "\"Stay\" is the second single off of Unapologetic. It features guest vocals from Mikky Ekko and was written by Ekko and Justin Parker.\n\nWith this piano ballad, Rihanna puts a vulnerable spin on the Brown situation, repeating another theme of the album – failing to resist true love. She inspires melancholy and raw emotion with this track, and never fails to convey her honesty with her lyrics and her delivery.\n\nChartwise, the song was incredibly successful, moving over 10 million units all together, making it her third most successful single after \"Love The Way You Lie\" with Eminem and \"We Found Love\". <a href=\"http://www.last.fm/music/Rihanna/_/Stay\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

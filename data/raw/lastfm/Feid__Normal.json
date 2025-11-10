@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Normal",
+    "url": "https://www.last.fm/music/Feid/_/Normal",
+    "duration": "171000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "170882",
+    "playcount": "2671253",
+    "artist": {
+      "name": "Feid",
+      "mbid": "eaee97f6-f2e4-414a-966c-f31a1fb4696a",
+      "url": "https://www.last.fm/music/Feid"
+    },
+    "album": {
+      "artist": "Feid",
+      "title": "Normal",
+      "url": "https://www.last.fm/music/Feid/Normal",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f7f01d2db51b3e8089b4b335a93a5a83.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f7f01d2db51b3e8089b4b335a93a5a83.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f7f01d2db51b3e8089b4b335a93a5a83.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f7f01d2db51b3e8089b4b335a93a5a83.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

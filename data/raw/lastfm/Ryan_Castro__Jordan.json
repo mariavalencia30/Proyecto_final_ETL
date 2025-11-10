@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Jordan",
+    "url": "https://www.last.fm/music/Ryan+Castro/_/Jordan",
+    "duration": "176000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "103305",
+    "playcount": "858332",
+    "artist": {
+      "name": "Ryan Castro",
+      "mbid": "2f87ff5c-dd38-4e2f-8a63-ace112b44002",
+      "url": "https://www.last.fm/music/Ryan+Castro"
+    },
+    "album": {
+      "artist": "Ryan Castro",
+      "title": "Jordan",
+      "url": "https://www.last.fm/music/Ryan+Castro/Jordan",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bff9c0746dd5c29d6058b74bb73cca5c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bff9c0746dd5c29d6058b74bb73cca5c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bff9c0746dd5c29d6058b74bb73cca5c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bff9c0746dd5c29d6058b74bb73cca5c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

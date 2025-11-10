@@ -1,0 +1,48 @@
+{
+  "track": {
+    "name": "Addicted",
+    "url": "https://www.last.fm/music/zerb/_/Addicted",
+    "duration": "152000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "218898",
+    "playcount": "1514807",
+    "artist": {
+      "name": "zerb",
+      "url": "https://www.last.fm/music/zerb"
+    },
+    "album": {
+      "artist": "zerb",
+      "title": "Addicted",
+      "url": "https://www.last.fm/music/zerb/Addicted",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3ec3c7617352b221e70de4da832e5755.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3ec3c7617352b221e70de4da832e5755.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3ec3c7617352b221e70de4da832e5755.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3ec3c7617352b221e70de4da832e5755.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "02 Apr 2024, 15:09",
+      "summary": "Zerb & The Chainsmokers released “Addicted” on March 29, 2024. <a href=\"http://www.last.fm/music/zerb/_/Addicted\">Read more on Last.fm</a>.",
+      "content": "Zerb & The Chainsmokers released “Addicted” on March 29, 2024. <a href=\"http://www.last.fm/music/zerb/_/Addicted\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

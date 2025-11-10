@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "RAM TCHUM",
+    "url": "https://www.last.fm/music/Dennis/_/RAM+TCHUM",
+    "duration": "129000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "70398",
+    "playcount": "483399",
+    "artist": {
+      "name": "Dennis",
+      "mbid": "db262e4c-cdef-45a5-9d3f-652151bf5fab",
+      "url": "https://www.last.fm/music/Dennis"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

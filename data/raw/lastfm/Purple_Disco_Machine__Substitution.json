@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Substitution",
+    "mbid": "d18da756-7ec1-4ae0-9c95-7e03597cd1ec",
+    "url": "https://www.last.fm/music/Purple+Disco+Machine/_/Substitution",
+    "duration": "182000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "43742",
+    "playcount": "203913",
+    "artist": {
+      "name": "Purple Disco Machine",
+      "mbid": "dc71939a-416f-4804-b031-5749287943f9",
+      "url": "https://www.last.fm/music/Purple+Disco+Machine"
+    },
+    "album": {
+      "artist": "Purple Disco Machine",
+      "title": "Substitution",
+      "url": "https://www.last.fm/music/Purple+Disco+Machine/Substitution",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6d00d38f36d9808d782bbd1815a2ad2a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6d00d38f36d9808d782bbd1815a2ad2a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6d00d38f36d9808d782bbd1815a2ad2a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6d00d38f36d9808d782bbd1815a2ad2a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

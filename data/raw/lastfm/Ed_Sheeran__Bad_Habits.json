@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Bad Habits",
+    "mbid": "2d24a8d7-66ad-40b2-8ae7-5f6fc9981646",
+    "url": "https://www.last.fm/music/Ed+Sheeran/_/Bad+Habits",
+    "duration": "230000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "710421",
+    "playcount": "7278304",
+    "artist": {
+      "name": "Ed Sheeran",
+      "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+      "url": "https://www.last.fm/music/Ed+Sheeran"
+    },
+    "album": {
+      "artist": "Ed Sheeran",
+      "title": "=",
+      "url": "https://www.last.fm/music/Ed+Sheeran/=",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cb28e94e9867ea7388dc9b5b8eeab8f9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cb28e94e9867ea7388dc9b5b8eeab8f9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cb28e94e9867ea7388dc9b5b8eeab8f9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cb28e94e9867ea7388dc9b5b8eeab8f9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "2021",
+          "url": "https://www.last.fm/tag/2021"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://www.last.fm/tag/Ed+Sheeran"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "19 Jun 2021, 18:50",
+      "summary": "Bad Habits is a song that reflects Ed’s past habits of constant drinking and late night partying and what this leads to. Ed Sheeran is now a father and reflects in this song how he cannot continue these bad habits within himself. The vampire costume he uses reflects the dark side of him and displays the ‘bad habits’ he carries with himself and how he can’t seem to make it disappear. <a href=\"http://www.last.fm/music/Ed+Sheeran/_/Bad+Habits\">Read more on Last.fm</a>.",
+      "content": "Bad Habits is a song that reflects Ed’s past habits of constant drinking and late night partying and what this leads to. Ed Sheeran is now a father and reflects in this song how he cannot continue these bad habits within himself. The vampire costume he uses reflects the dark side of him and displays the ‘bad habits’ he carries with himself and how he can’t seem to make it disappear. <a href=\"http://www.last.fm/music/Ed+Sheeran/_/Bad+Habits\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "track": {
+    "name": "PERRO NEGRO",
+    "mbid": "2ae48a59-6ff8-436e-b6b0-abd395542f0e",
+    "url": "https://www.last.fm/music/Bad+Bunny/_/PERRO+NEGRO",
+    "duration": "162000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "367749",
+    "playcount": "4655982",
+    "artist": {
+      "name": "Bad Bunny",
+      "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "url": "https://www.last.fm/music/Bad+Bunny"
+    },
+    "album": {
+      "artist": "Bad Bunny",
+      "title": "nadie sabe lo que va a pasar mañana",
+      "url": "https://www.last.fm/music/Bad+Bunny/nadie+sabe+lo+que+va+a+pasar+ma%C3%B1ana",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a2ac0a222d699b52da57959612b1a9cc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a2ac0a222d699b52da57959612b1a9cc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a2ac0a222d699b52da57959612b1a9cc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a2ac0a222d699b52da57959612b1a9cc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Reggaeton",
+          "url": "https://www.last.fm/tag/Reggaeton"
+        },
+        {
+          "name": "puerto rico",
+          "url": "https://www.last.fm/tag/puerto+rico"
+        }
+      ]
+    }
+  }
+}

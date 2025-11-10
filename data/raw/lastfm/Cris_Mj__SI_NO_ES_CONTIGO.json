@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "SI NO ES CONTIGO",
+    "mbid": "b9716686-3392-4be5-b04a-7cc0209e363f",
+    "url": "https://www.last.fm/music/Cris+Mj/_/SI+NO+ES+CONTIGO",
+    "duration": "156000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "218406",
+    "playcount": "3140201",
+    "artist": {
+      "name": "Cris Mj",
+      "url": "https://www.last.fm/music/Cris+Mj"
+    },
+    "album": {
+      "artist": "Cris Mj",
+      "title": "SI NO ES CONTIGO - Single",
+      "url": "https://www.last.fm/music/Cris+Mj/SI+NO+ES+CONTIGO+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/35d57f7697c264104b2bd62249d7f9a6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/35d57f7697c264104b2bd62249d7f9a6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/35d57f7697c264104b2bd62249d7f9a6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/35d57f7697c264104b2bd62249d7f9a6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "latin",
+          "url": "https://www.last.fm/tag/latin"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Shirt",
+    "mbid": "02a8bfc1-adde-41b3-a38d-74f200c83cee",
+    "url": "https://www.last.fm/music/SZA/_/Shirt",
+    "duration": "181000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1012491",
+    "playcount": "15074767",
+    "artist": {
+      "name": "SZA",
+      "mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+      "url": "https://www.last.fm/music/SZA"
+    },
+    "album": {
+      "artist": "SZA",
+      "title": "Shirt",
+      "url": "https://www.last.fm/music/SZA/Shirt",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7f6eded6cfe999ddc394bbe709defc43.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7f6eded6cfe999ddc394bbe709defc43.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7f6eded6cfe999ddc394bbe709defc43.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7f6eded6cfe999ddc394bbe709defc43.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "sza",
+          "url": "https://www.last.fm/tag/sza"
+        },
+        {
+          "name": "alternative rnb",
+          "url": "https://www.last.fm/tag/alternative+rnb"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "29 Oct 2022, 00:19",
+      "summary": "\"Shirt\" is about the emotional struggle of being in a relationship where trust is difficult and worth is not always felt. The speaker is trying to navigate the power dynamics in the relationship and comes to the realization that they need more in order to stay in it. The bloodstain on the shirt could symbolize the pain and hurt from the relationship. The new bitch on their nerves could refer to their inner dissatisfaction or the idea of temptation to look elsewhere. <a href=\"http://www.last.fm/music/SZA/_/Shirt\">Read more on Last.fm</a>.",
+      "content": "\"Shirt\" is about the emotional struggle of being in a relationship where trust is difficult and worth is not always felt. The speaker is trying to navigate the power dynamics in the relationship and comes to the realization that they need more in order to stay in it. The bloodstain on the shirt could symbolize the pain and hurt from the relationship. The new bitch on their nerves could refer to their inner dissatisfaction or the idea of temptation to look elsewhere. The old men being curved could refer to the difficulties of trusting someone and rebuilding a newfound connection or past hurt. The idea of being thirsty could refer to the need for attachment and validation of worth. The stress over perfection being discussed could be the speaker's own struggles with not being seen as worthy or the constant need to be \"perfect\" within the relationship. The final lines reflect thespeaker's realization that they are looking too desperate and may not be getting their worth in the relationship. <a href=\"http://www.last.fm/music/SZA/_/Shirt\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

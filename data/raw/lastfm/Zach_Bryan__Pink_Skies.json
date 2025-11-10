@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Pink Skies",
+    "mbid": "abae80a9-e692-49a0-8f5a-cc05fc9f3a9f",
+    "url": "https://www.last.fm/music/Zach+Bryan/_/Pink+Skies",
+    "duration": "194000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "366676",
+    "playcount": "4266786",
+    "artist": {
+      "name": "Zach Bryan",
+      "mbid": "51e90731-08c0-4f60-89b6-5b78e5844de8",
+      "url": "https://www.last.fm/music/Zach+Bryan"
+    },
+    "album": {
+      "artist": "Zach Bryan",
+      "title": "Pink Skies",
+      "url": "https://www.last.fm/music/Zach+Bryan/Pink+Skies",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8be9da3772926a6f2993bf5e2ca86c78.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8be9da3772926a6f2993bf5e2ca86c78.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8be9da3772926a6f2993bf5e2ca86c78.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8be9da3772926a6f2993bf5e2ca86c78.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

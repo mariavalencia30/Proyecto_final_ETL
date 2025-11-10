@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Free Mind",
+    "mbid": "af2cabd9-fbf7-4642-a92a-f7eb1b15d2ac",
+    "url": "https://www.last.fm/music/Tems/_/Free+Mind",
+    "duration": "247000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "191071",
+    "playcount": "1754692",
+    "artist": {
+      "name": "Tems",
+      "mbid": "5b2a8faa-ffee-4706-a1a8-58f109bc8ca2",
+      "url": "https://www.last.fm/music/Tems"
+    },
+    "album": {
+      "artist": "Tems",
+      "title": "For Broken Ears",
+      "url": "https://www.last.fm/music/Tems/For+Broken+Ears",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/302bf4c53eea2c1d3665022bc978c88d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/302bf4c53eea2c1d3665022bc978c88d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/302bf4c53eea2c1d3665022bc978c88d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/302bf4c53eea2c1d3665022bc978c88d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "22 Jan 2023, 18:48",
+      "summary": "“Free Mind” debuted at #90 on the Billboard Hot 100 during the chart week ending of July 30, 2022.\n\nOn October 24, 2022, “Free Mind” was certified gold by the RIAA. <a href=\"http://www.last.fm/music/Tems/_/Free+Mind\">Read more on Last.fm</a>.",
+      "content": "“Free Mind” debuted at #90 on the Billboard Hot 100 during the chart week ending of July 30, 2022.\n\nOn October 24, 2022, “Free Mind” was certified gold by the RIAA. <a href=\"http://www.last.fm/music/Tems/_/Free+Mind\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

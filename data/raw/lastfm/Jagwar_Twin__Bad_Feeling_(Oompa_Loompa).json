@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Bad Feeling (Oompa Loompa)",
+    "mbid": "8eedd2ff-abad-461c-8b38-c98cc721fb2b",
+    "url": "https://www.last.fm/music/Jagwar+Twin/_/Bad+Feeling+(Oompa+Loompa)",
+    "duration": "133000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "103652",
+    "playcount": "829315",
+    "artist": {
+      "name": "Jagwar Twin",
+      "mbid": "dc89b77a-fede-4369-b0bc-c141e74702a6",
+      "url": "https://www.last.fm/music/Jagwar+Twin"
+    },
+    "album": {
+      "artist": "Jagwar Twin",
+      "title": "Bad Feeling (Oompa Loompa)",
+      "url": "https://www.last.fm/music/Jagwar+Twin/Bad+Feeling+(Oompa+Loompa)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3c41f60d57754ddac53fb4c7dda03519.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3c41f60d57754ddac53fb4c7dda03519.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3c41f60d57754ddac53fb4c7dda03519.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c41f60d57754ddac53fb4c7dda03519.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

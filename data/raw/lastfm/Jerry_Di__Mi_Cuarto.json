@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Mi Cuarto",
+    "url": "https://www.last.fm/music/Jerry+Di/_/Mi+Cuarto",
+    "duration": "197000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "61414",
+    "playcount": "450028",
+    "artist": {
+      "name": "Jerry Di",
+      "mbid": "ba2aa172-7974-44c1-beab-0d9250e4b2e9",
+      "url": "https://www.last.fm/music/Jerry+Di"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "El Perreo Hasta El Cielo",
+      "url": "https://www.last.fm/music/Various+Artists/El+Perreo+Hasta+El+Cielo",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

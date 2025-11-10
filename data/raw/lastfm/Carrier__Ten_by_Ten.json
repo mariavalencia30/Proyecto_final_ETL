@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Ten by Ten",
+    "url": "https://www.last.fm/music/Carrier/_/Ten+by+Ten",
+    "duration": "294000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "389",
+    "playcount": "840",
+    "artist": {
+      "name": "Carrier",
+      "mbid": "5e479917-e71b-4b0a-bf31-201bea326ebb",
+      "url": "https://www.last.fm/music/Carrier"
+    },
+    "album": {
+      "artist": "Carrier",
+      "title": "Lazy Mechanics",
+      "url": "https://www.last.fm/music/Carrier/Lazy+Mechanics",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/392d53051f59f20d9bc85bc2cbacb9e3.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/392d53051f59f20d9bc85bc2cbacb9e3.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/392d53051f59f20d9bc85bc2cbacb9e3.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/392d53051f59f20d9bc85bc2cbacb9e3.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

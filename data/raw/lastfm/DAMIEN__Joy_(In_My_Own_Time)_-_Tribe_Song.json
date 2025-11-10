@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Joy (In My Own Time) - Tribe Song",
+    "url": "https://www.last.fm/music/Damien/_/Joy+(In+My+Own+Time)+-+Tribe+Song",
+    "duration": "252000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "22",
+    "playcount": "32",
+    "artist": {
+      "name": "Damien",
+      "mbid": "2dc2ada3-16b2-4ef3-b376-42fcedc54712",
+      "url": "https://www.last.fm/music/Damien"
+    },
+    "album": {
+      "artist": "Damien",
+      "title": "Candidate For The Abyss",
+      "url": "https://www.last.fm/music/Damien/Candidate+For+The+Abyss",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8b51d99983e682f0367b5c403bb6c961.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8b51d99983e682f0367b5c403bb6c961.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8b51d99983e682f0367b5c403bb6c961.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8b51d99983e682f0367b5c403bb6c961.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

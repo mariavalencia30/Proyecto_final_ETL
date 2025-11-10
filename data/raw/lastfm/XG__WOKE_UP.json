@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "WOKE UP",
+    "mbid": "a71723fb-92a9-4bb5-8e40-d581f148e756",
+    "url": "https://www.last.fm/music/XG/_/WOKE+UP",
+    "duration": "188000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "287468",
+    "playcount": "5017357",
+    "artist": {
+      "name": "XG",
+      "mbid": "8dfe067c-ae90-472e-80f2-fcee9be4e158",
+      "url": "https://www.last.fm/music/XG"
+    },
+    "album": {
+      "artist": "XG",
+      "title": "WOKE UP",
+      "url": "https://www.last.fm/music/XG/WOKE+UP",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/434418c598af7b46b5b2563ae59adeb2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/434418c598af7b46b5b2563ae59adeb2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/434418c598af7b46b5b2563ae59adeb2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/434418c598af7b46b5b2563ae59adeb2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "better than selena gomez",
+          "url": "https://www.last.fm/tag/better+than+selena+gomez"
+        }
+      ]
+    }
+  }
+}

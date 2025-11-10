@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Shorty Party",
+    "url": "https://www.last.fm/music/Cartel+De+Santa/_/Shorty+Party",
+    "duration": "265000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "55485",
+    "playcount": "498922",
+    "artist": {
+      "name": "Cartel De Santa",
+      "url": "https://www.last.fm/music/Cartel+De+Santa"
+    },
+    "album": {
+      "artist": "Cartel De Santa",
+      "title": "Shorty Party",
+      "url": "https://www.last.fm/music/Cartel+De+Santa/Shorty+Party",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ca154be031e474e997b9afae0e71b170.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ca154be031e474e997b9afae0e71b170.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ca154be031e474e997b9afae0e71b170.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ca154be031e474e997b9afae0e71b170.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

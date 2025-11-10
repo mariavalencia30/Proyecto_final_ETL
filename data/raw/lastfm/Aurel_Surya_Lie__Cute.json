@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Cute",
+    "url": "https://www.last.fm/music/Aurel+surya+lie/_/Cute",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "382",
+    "playcount": "2511",
+    "artist": {
+      "name": "Aurel surya lie",
+      "url": "https://www.last.fm/music/Aurel+surya+lie"
+    },
+    "album": {
+      "artist": "Aurel surya lie",
+      "title": "Cute - Single",
+      "url": "https://www.last.fm/music/Aurel+surya+lie/Cute+-+Single",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

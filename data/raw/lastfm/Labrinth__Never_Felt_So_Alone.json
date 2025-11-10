@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Never Felt So Alone",
+    "mbid": "5b9558de-435b-49a9-b863-c17dfad43206",
+    "url": "https://www.last.fm/music/Labrinth/_/Never+Felt+So+Alone",
+    "duration": "160000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "547687",
+    "playcount": "5498185",
+    "artist": {
+      "name": "Labrinth",
+      "mbid": "dc99e6fd-c710-4f79-b74b-127b4d0b7849",
+      "url": "https://www.last.fm/music/Labrinth"
+    },
+    "album": {
+      "artist": "Labrinth",
+      "title": "Never Felt So Alone",
+      "url": "https://www.last.fm/music/Labrinth/Never+Felt+So+Alone",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/423cb46225829fb49f97b9f6c90e882f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/423cb46225829fb49f97b9f6c90e882f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/423cb46225829fb49f97b9f6c90e882f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/423cb46225829fb49f97b9f6c90e882f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "sad",
+          "url": "https://www.last.fm/tag/sad"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "melancholic",
+          "url": "https://www.last.fm/tag/melancholic"
+        },
+        {
+          "name": "euphoria",
+          "url": "https://www.last.fm/tag/euphoria"
+        },
+        {
+          "name": "triste",
+          "url": "https://www.last.fm/tag/triste"
+        }
+      ]
+    }
+  }
+}

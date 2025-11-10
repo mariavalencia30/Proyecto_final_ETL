@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "The Git Up",
+    "mbid": "075aad8b-1197-436d-b474-37b097314247",
+    "url": "https://www.last.fm/music/Blanco+Brown/_/The+Git+Up",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "120879",
+    "playcount": "720880",
+    "artist": {
+      "name": "Blanco Brown",
+      "mbid": "46b04bfe-70da-428e-9b7d-1f444f3446a4",
+      "url": "https://www.last.fm/music/Blanco+Brown"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "RTL HITS 2019 [Explicit]",
+      "url": "https://www.last.fm/music/Various+Artists/RTL+HITS+2019+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/abc7400085fed9b8ba9e86abb8c8e5e1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/abc7400085fed9b8ba9e86abb8c8e5e1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/abc7400085fed9b8ba9e86abb8c8e5e1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/abc7400085fed9b8ba9e86abb8c8e5e1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

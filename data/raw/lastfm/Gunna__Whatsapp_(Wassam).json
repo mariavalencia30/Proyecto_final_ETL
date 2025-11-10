@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "whatsapp (wassam)",
+    "url": "https://www.last.fm/music/Gunna/_/whatsapp+(wassam)",
+    "duration": "148000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "155229",
+    "playcount": "1009187",
+    "artist": {
+      "name": "Gunna",
+      "url": "https://www.last.fm/music/Gunna"
+    },
+    "album": {
+      "artist": "Gunna",
+      "title": "Whatsapp (Wassam) - Single",
+      "url": "https://www.last.fm/music/Gunna/Whatsapp+(Wassam)+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6caf8ec35216673f4cbd6f7293481163.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6caf8ec35216673f4cbd6f7293481163.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6caf8ec35216673f4cbd6f7293481163.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6caf8ec35216673f4cbd6f7293481163.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

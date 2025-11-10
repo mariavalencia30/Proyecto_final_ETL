@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "I Hope",
+    "mbid": "6a34d361-688c-419b-9d0a-2afc5a95cf25",
+    "url": "https://www.last.fm/music/Gabby+Barrett/_/I+Hope",
+    "duration": "209000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "140649",
+    "playcount": "1120386",
+    "artist": {
+      "name": "Gabby Barrett",
+      "mbid": "b779262a-e5c0-4ca1-b412-e2fbb5ea7318",
+      "url": "https://www.last.fm/music/Gabby+Barrett"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Now That's What I Call Music, Vol. 75",
+      "url": "https://www.last.fm/music/Various+Artists/Now+That%27s+What+I+Call+Music,+Vol.+75",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4c72dd3853c819c8dc0643375a64d037.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4c72dd3853c819c8dc0643375a64d037.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4c72dd3853c819c8dc0643375a64d037.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4c72dd3853c819c8dc0643375a64d037.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "17 Dec 2023, 05:14",
+      "summary": "“I Hope” is a song co-written and recorded by American country music singer Gabby Barrett. She released the single independently following her third-place finish on season 16 of American Idol. The song led to her signing a record deal with Warner Music Nashville, and it was officially released in July of 2019 as her debut and lead single from her debut studio album, Goldmine. A remix featuring pop singer Charlie Puth was released on April 17, 2020. <a href=\"http://www.last.fm/music/Gabby+Barrett/_/I+Hope\">Read more on Last.fm</a>.",
+      "content": "“I Hope” is a song co-written and recorded by American country music singer Gabby Barrett. She released the single independently following her third-place finish on season 16 of American Idol. The song led to her signing a record deal with Warner Music Nashville, and it was officially released in July of 2019 as her debut and lead single from her debut studio album, Goldmine. A remix featuring pop singer Charlie Puth was released on April 17, 2020.\n\nLyrically, the song is about wishing for an ex to fall in love only to be cheated on as karma for cheating themselves.\n\nThe song received a Country Music Association Award for Single of the Year nomination at the 54th Annual CMA Awards. <a href=\"http://www.last.fm/music/Gabby+Barrett/_/I+Hope\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

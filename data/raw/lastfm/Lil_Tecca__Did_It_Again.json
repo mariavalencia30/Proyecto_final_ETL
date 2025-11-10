@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Did It Again",
+    "mbid": "303f462f-c9c9-44e8-8f20-86d3d8ea185d",
+    "url": "https://www.last.fm/music/Lil+Tecca/_/Did+It+Again",
+    "duration": "116000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "405138",
+    "playcount": "4586914",
+    "artist": {
+      "name": "Lil Tecca",
+      "mbid": "e6fdf3f9-8077-4126-b0cf-94da9a8b627e",
+      "url": "https://www.last.fm/music/Lil+Tecca"
+    },
+    "album": {
+      "artist": "Lil Tecca",
+      "title": "Did It Again",
+      "url": "https://www.last.fm/music/Lil+Tecca/Did+It+Again",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cc1bce5820636dabd3cc2e9f3a5162f6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cc1bce5820636dabd3cc2e9f3a5162f6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cc1bce5820636dabd3cc2e9f3a5162f6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cc1bce5820636dabd3cc2e9f3a5162f6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "travis scott",
+          "url": "https://www.last.fm/tag/travis+scott"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "2019",
+          "url": "https://www.last.fm/tag/2019"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://www.last.fm/tag/Lil+Uzi+Vert"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://www.last.fm/tag/Lil+Tecca"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "19 Apr 2021, 13:15",
+      "summary": "Throughout “Did It Again,“ Lil Tecca raps about having sexual intercourse, making money, his exotic cars and traveling to foreign countries.\n\nThe track was originally released on January 21, 2019, becoming one of Tecca’s first hits: it eventually made it onto Tecca’s first mixtape We Love You Tecca, released on August 30, 2019. <a href=\"http://www.last.fm/music/Lil+Tecca/_/Did+It+Again\">Read more on Last.fm</a>.",
+      "content": "Throughout “Did It Again,“ Lil Tecca raps about having sexual intercourse, making money, his exotic cars and traveling to foreign countries.\n\nThe track was originally released on January 21, 2019, becoming one of Tecca’s first hits: it eventually made it onto Tecca’s first mixtape We Love You Tecca, released on August 30, 2019. <a href=\"http://www.last.fm/music/Lil+Tecca/_/Did+It+Again\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

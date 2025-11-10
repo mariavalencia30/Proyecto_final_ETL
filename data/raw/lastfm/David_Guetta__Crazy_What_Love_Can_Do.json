@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Crazy What Love Can Do",
+    "mbid": "74b0cb9a-4431-4fec-b140-82400669b9b0",
+    "url": "https://www.last.fm/music/David+Guetta/_/Crazy+What+Love+Can+Do",
+    "duration": "169000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "194175",
+    "playcount": "1261190",
+    "artist": {
+      "name": "David Guetta",
+      "mbid": "302bd7b9-d012-4360-897a-93b00c855680",
+      "url": "https://www.last.fm/music/David+Guetta"
+    },
+    "album": {
+      "artist": "David Guetta",
+      "title": "Crazy What Love Can Do",
+      "url": "https://www.last.fm/music/David+Guetta/Crazy+What+Love+Can+Do",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e00cb43020acbd445d6b6fdda3941480.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e00cb43020acbd445d6b6fdda3941480.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e00cb43020acbd445d6b6fdda3941480.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e00cb43020acbd445d6b6fdda3941480.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

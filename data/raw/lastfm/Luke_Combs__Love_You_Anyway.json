@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Love You Anyway",
+    "mbid": "22a3f245-31cc-4eaa-ba0b-a204404489b3",
+    "url": "https://www.last.fm/music/Luke+Combs/_/Love+You+Anyway",
+    "duration": "229000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "73852",
+    "playcount": "656142",
+    "artist": {
+      "name": "Luke Combs",
+      "mbid": "c20ee61f-071f-4e65-9c81-45ee931a54ce",
+      "url": "https://www.last.fm/music/Luke+Combs"
+    },
+    "album": {
+      "artist": "Luke Combs",
+      "title": "Gettin' Old",
+      "url": "https://www.last.fm/music/Luke+Combs/Gettin%27+Old",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/22f361a4f203ec9cb25628ac260a1c0b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/22f361a4f203ec9cb25628ac260a1c0b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/22f361a4f203ec9cb25628ac260a1c0b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/22f361a4f203ec9cb25628ac260a1c0b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

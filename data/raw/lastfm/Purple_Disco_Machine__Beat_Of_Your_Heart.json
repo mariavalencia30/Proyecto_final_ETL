@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Beat Of Your Heart",
+    "url": "https://www.last.fm/music/Purple+Disco+Machine/_/Beat+Of+Your+Heart",
+    "duration": "210000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "50901",
+    "playcount": "271770",
+    "artist": {
+      "name": "Purple Disco Machine",
+      "mbid": "dc71939a-416f-4804-b031-5749287943f9",
+      "url": "https://www.last.fm/music/Purple+Disco+Machine"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Bravo Hits Vol. 124",
+      "url": "https://www.last.fm/music/Various+Artists/Bravo+Hits+Vol.+124",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b81044387c6a836d598ef097eecaf1d6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b81044387c6a836d598ef097eecaf1d6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b81044387c6a836d598ef097eecaf1d6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b81044387c6a836d598ef097eecaf1d6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

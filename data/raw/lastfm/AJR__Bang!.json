@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Bang!",
+    "mbid": "4c0d858c-3d21-4af8-96ad-9d96bc285db2",
+    "url": "https://www.last.fm/music/AJR/_/Bang%21",
+    "duration": "169000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "357400",
+    "playcount": "3584133",
+    "artist": {
+      "name": "AJR",
+      "mbid": "2eb55bd9-cfbf-44fd-a5da-92dd825284c7",
+      "url": "https://www.last.fm/music/AJR"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Now That's What I Call Music! Vol. 76",
+      "url": "https://www.last.fm/music/Various+Artists/Now+That%27s+What+I+Call+Music%21+Vol.+76",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ad4210e92686f7495b64e1f67e70f72f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ad4210e92686f7495b64e1f67e70f72f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ad4210e92686f7495b64e1f67e70f72f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad4210e92686f7495b64e1f67e70f72f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "11 Feb 2020, 20:17",
+      "summary": "\"Bang!\" is a song by American pop band AJR. It was released on February 12, 2020, through their own label AJR Productions.\n\nAJR explained their motivation for writing the song: \"We wrote 'BANG!' about the weird middle-ground between being a kid and becoming an adult; a time when we're doing all the things adults are supposed to do, but we don't yet feel grown up. The fact is, adulthood is bound to hit us at some point, so the plan we made in the song is to 'go out with a bang'. <a href=\"http://www.last.fm/music/AJR/_/Bang%21\">Read more on Last.fm</a>.",
+      "content": "\"Bang!\" is a song by American pop band AJR. It was released on February 12, 2020, through their own label AJR Productions.\n\nAJR explained their motivation for writing the song: \"We wrote 'BANG!' about the weird middle-ground between being a kid and becoming an adult; a time when we're doing all the things adults are supposed to do, but we don't yet feel grown up. The fact is, adulthood is bound to hit us at some point, so the plan we made in the song is to 'go out with a bang'. Sonically, with every new song we make, we try to stretch out of our AJR comfort zone. With 'BANG!,' it felt exciting to step into this darker, horn-heavy vibe, where the verses are small and mysterious, and the chorus explodes into this theatrical trap chorus\".\n\nThe official video was uploaded on February 12, 2020, directed by Se Oh and features AJR hosting a dice game. The camera remains facing in one direction, only moving back and forth, as the participants playing are seen going through various costume changes with every pan out, ranging from sailors to tuxedos to even being naked. <a href=\"http://www.last.fm/music/AJR/_/Bang%21\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

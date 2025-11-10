@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "El Jefe",
+    "url": "https://www.last.fm/music/Shakira/_/El+Jefe",
+    "duration": "170000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "70578",
+    "playcount": "533921",
+    "artist": {
+      "name": "Shakira",
+      "mbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
+      "url": "https://www.last.fm/music/Shakira"
+    },
+    "album": {
+      "artist": "Shakira",
+      "title": "El Jefe",
+      "url": "https://www.last.fm/music/Shakira/El+Jefe",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cf0c6a373e93744e3e05fbe5fe08a16b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cf0c6a373e93744e3e05fbe5fe08a16b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cf0c6a373e93744e3e05fbe5fe08a16b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf0c6a373e93744e3e05fbe5fe08a16b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Aesthetic",
+    "mbid": "dfd73b1a-2487-4c6b-aaca-a530c4c7e3bf",
+    "url": "https://www.last.fm/music/Xilo/_/Aesthetic",
+    "duration": "158000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "27536",
+    "playcount": "134374",
+    "artist": {
+      "name": "Xilo",
+      "url": "https://www.last.fm/music/Xilo"
+    },
+    "album": {
+      "artist": "Xilo",
+      "title": "Aesthetic",
+      "url": "https://www.last.fm/music/Xilo/Aesthetic",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/47501cee7c5cead7113861a53f3b1385.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/47501cee7c5cead7113861a53f3b1385.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/47501cee7c5cead7113861a53f3b1385.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47501cee7c5cead7113861a53f3b1385.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

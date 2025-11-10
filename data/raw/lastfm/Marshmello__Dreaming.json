@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Dreaming",
+    "url": "https://www.last.fm/music/Marshmello/_/Dreaming",
+    "duration": "170000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "49715",
+    "playcount": "170231",
+    "artist": {
+      "name": "Marshmello",
+      "mbid": "301b45a4-b8b9-410e-8344-4b4eaf96691a",
+      "url": "https://www.last.fm/music/Marshmello"
+    },
+    "album": {
+      "artist": "Marshmello",
+      "title": "Dreaming",
+      "url": "https://www.last.fm/music/Marshmello/Dreaming",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/879b4c1772dfe86fb254c51b9f21d49c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/879b4c1772dfe86fb254c51b9f21d49c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/879b4c1772dfe86fb254c51b9f21d49c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/879b4c1772dfe86fb254c51b9f21d49c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

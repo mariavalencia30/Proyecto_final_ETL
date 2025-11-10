@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Piscina",
+    "url": "https://www.last.fm/music/Maria+Becerra/_/Piscina",
+    "duration": "225000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "31089",
+    "playcount": "212896",
+    "artist": {
+      "name": "Maria Becerra",
+      "url": "https://www.last.fm/music/Maria+Becerra"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Hits Febrero 2024",
+      "url": "https://www.last.fm/music/Various+Artists/Hits+Febrero+2024",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

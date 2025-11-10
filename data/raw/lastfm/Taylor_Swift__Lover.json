@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Lover",
+    "mbid": "715afe05-4b62-40c7-a9fe-ea0dbf917304",
+    "url": "https://www.last.fm/music/Taylor+Swift/_/Lover",
+    "duration": "222000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1285697",
+    "playcount": "26340714",
+    "artist": {
+      "name": "Taylor Swift",
+      "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+      "url": "https://www.last.fm/music/Taylor+Swift"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "You Belong With Me",
+      "url": "https://www.last.fm/music/Various+Artists/You+Belong+With+Me",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2cf9e5aaccd5ba53bec96e1404f31421.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2cf9e5aaccd5ba53bec96e1404f31421.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2cf9e5aaccd5ba53bec96e1404f31421.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2cf9e5aaccd5ba53bec96e1404f31421.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "country",
+          "url": "https://www.last.fm/tag/country"
+        },
+        {
+          "name": "Love",
+          "url": "https://www.last.fm/tag/Love"
+        },
+        {
+          "name": "indie folk",
+          "url": "https://www.last.fm/tag/indie+folk"
+        },
+        {
+          "name": "country pop",
+          "url": "https://www.last.fm/tag/country+pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "16 Aug 2019, 16:01",
+      "summary": "\"Lover\" is a romantic and sentimental love song. In the song, Swift speaks of the deep connection she has with her lover, declaring that even if they have known each other only twenty seconds or twenty years, their bond will last forever. In the chorus, she asks if they can always remain this close, \"forever and ever\". The bridge speaks to her desire to commit to the one she loves, and show him all of her true colors. The song speaks to the timelessness of a romantic love that transcends time <a href=\"http://www.last.fm/music/Taylor+Swift/_/Lover\">Read more on Last.fm</a>.",
+      "content": "\"Lover\" is a romantic and sentimental love song. In the song, Swift speaks of the deep connection she has with her lover, declaring that even if they have known each other only twenty seconds or twenty years, their bond will last forever. In the chorus, she asks if they can always remain this close, \"forever and ever\". The bridge speaks to her desire to commit to the one she loves, and show him all of her true colors. The song speaks to the timelessness of a romantic love that transcends time, committing to being with the one you love for eternity. <a href=\"http://www.last.fm/music/Taylor+Swift/_/Lover\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

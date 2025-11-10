@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Virginia Beach",
+    "mbid": "bff19b3b-1277-470e-a37e-f352499acf43",
+    "url": "https://www.last.fm/music/Drake/_/Virginia+Beach",
+    "duration": "251000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "487633",
+    "playcount": "6189333",
+    "artist": {
+      "name": "Drake",
+      "mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+      "url": "https://www.last.fm/music/Drake"
+    },
+    "album": {
+      "artist": "Drake",
+      "title": "For All the Dogs",
+      "url": "https://www.last.fm/music/Drake/For+All+the+Dogs",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/affa1d5df8b9141db4078541fdb3663f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/affa1d5df8b9141db4078541fdb3663f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/affa1d5df8b9141db4078541fdb3663f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/affa1d5df8b9141db4078541fdb3663f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "chipmunk soul",
+          "url": "https://www.last.fm/tag/chipmunk+soul"
+        },
+        {
+          "name": "Drake",
+          "url": "https://www.last.fm/tag/Drake"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "06 Oct 2023, 16:16",
+      "summary": "“Virginia Beach”, the introduction of For All The Dogs, is dedicated to the city of the same name located in Virginia, where Drake notably performed at during his 2014 tour alongside Lil Wayne. As For All The Dogs is a testament to Drake’s earlier musical endeavors, “Virginia Beach” is a full-circle moment of his career after over nine years.\n\nThe instrumental samples Frank Ocean’s “Wiseman”. <a href=\"http://www.last.fm/music/Drake/_/Virginia+Beach\">Read more on Last.fm</a>.",
+      "content": "“Virginia Beach”, the introduction of For All The Dogs, is dedicated to the city of the same name located in Virginia, where Drake notably performed at during his 2014 tour alongside Lil Wayne. As For All The Dogs is a testament to Drake’s earlier musical endeavors, “Virginia Beach” is a full-circle moment of his career after over nine years.\n\nThe instrumental samples Frank Ocean’s “Wiseman”. <a href=\"http://www.last.fm/music/Drake/_/Virginia+Beach\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

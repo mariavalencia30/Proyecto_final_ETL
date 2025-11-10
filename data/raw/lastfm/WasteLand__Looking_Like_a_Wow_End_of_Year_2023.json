@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Looking Like a Wow End of Year 2023",
+    "url": "https://www.last.fm/music/Wasteland/_/Looking+Like+a+Wow+End+of+Year+2023",
+    "duration": "63000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "37",
+    "playcount": "57",
+    "artist": {
+      "name": "Wasteland",
+      "mbid": "09d6875e-f7f1-49f6-b8b6-761e8820a8d3",
+      "url": "https://www.last.fm/music/Wasteland"
+    },
+    "album": {
+      "artist": "Wasteland",
+      "title": "Looking Like a Wow",
+      "url": "https://www.last.fm/music/Wasteland/Looking+Like+a+Wow",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

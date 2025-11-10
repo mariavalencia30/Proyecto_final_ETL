@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "...And To Those I Love, Thanks For Sticking Around",
+    "mbid": "5e809245-d0e0-44f5-a39d-c9012b75dac2",
+    "url": "https://www.last.fm/music/$uicideboy$/_/...And+To+Those+I+Love,+Thanks+For+Sticking+Around",
+    "duration": "168000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "681856",
+    "playcount": "11830622",
+    "artist": {
+      "name": "$uicideboy$",
+      "mbid": "ef326b3d-61f0-4379-aca0-21237d696d63",
+      "url": "https://www.last.fm/music/$uicideboy$"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Gaming 2020",
+      "url": "https://www.last.fm/music/Various+Artists/Gaming+2020",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0f3fce45dfb42e65cb24e1d1489243c3.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0f3fce45dfb42e65cb24e1d1489243c3.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0f3fce45dfb42e65cb24e1d1489243c3.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f3fce45dfb42e65cb24e1d1489243c3.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "cloud rap",
+          "url": "https://www.last.fm/tag/cloud+rap"
+        },
+        {
+          "name": "Horrorcore",
+          "url": "https://www.last.fm/tag/Horrorcore"
+        },
+        {
+          "name": "hyperpop",
+          "url": "https://www.last.fm/tag/hyperpop"
+        }
+      ]
+    }
+  }
+}

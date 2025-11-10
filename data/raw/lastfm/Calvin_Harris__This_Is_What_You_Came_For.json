@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "This Is What You Came For",
+    "mbid": "a459fd2b-af8e-40ca-b939-577730ffff1a",
+    "url": "https://www.last.fm/music/Calvin+Harris/_/This+Is+What+You+Came+For",
+    "duration": "221000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1166679",
+    "playcount": "7696719",
+    "artist": {
+      "name": "Calvin Harris",
+      "mbid": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+      "url": "https://www.last.fm/music/Calvin+Harris"
+    },
+    "album": {
+      "artist": "Calvin Harris",
+      "title": "This Is What You Came For",
+      "url": "https://www.last.fm/music/Calvin+Harris/This+Is+What+You+Came+For",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f4bda5a899452047e6088e6ae80647f2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f4bda5a899452047e6088e6ae80647f2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f4bda5a899452047e6088e6ae80647f2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f4bda5a899452047e6088e6ae80647f2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "EDM",
+          "url": "https://www.last.fm/tag/EDM"
+        },
+        {
+          "name": "House",
+          "url": "https://www.last.fm/tag/House"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://www.last.fm/tag/Rihanna"
+        },
+        {
+          "name": "taylor swift",
+          "url": "https://www.last.fm/tag/taylor+swift"
+        },
+        {
+          "name": "2016",
+          "url": "https://www.last.fm/tag/2016"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "21 May 2016, 20:39",
+      "summary": "\"This Is What You Came For\" is a song by Scottish DJ Calvin Harris, featuring Barbadian singer Rihanna. The song was released on 29 April 2016. The song was written by Taylor Swift and Harris.\n\nThe house-influenced track was a commercial success, debuting at number nine on the Billboard Hot 100, becoming Rihanna's 28th top 10 hit in the country and Harris' fourth. In the United Kingdom, \"This Is What You Came For\" debuted at number two on the national singles chart and has also reached top 10 positions in Australia <a href=\"http://www.last.fm/music/Calvin+Harris/_/This+Is+What+You+Came+For\">Read more on Last.fm</a>.",
+      "content": "\"This Is What You Came For\" is a song by Scottish DJ Calvin Harris, featuring Barbadian singer Rihanna. The song was released on 29 April 2016. The song was written by Taylor Swift and Harris.\n\nThe house-influenced track was a commercial success, debuting at number nine on the Billboard Hot 100, becoming Rihanna's 28th top 10 hit in the country and Harris' fourth. In the United Kingdom, \"This Is What You Came For\" debuted at number two on the national singles chart and has also reached top 10 positions in Australia, Germany, Hungary, Ireland, New Zealand, and Switzerland. The song topped the Charts in Scotland, whereas reaching the top 5 in 12 other countries. <a href=\"http://www.last.fm/music/Calvin+Harris/_/This+Is+What+You+Came+For\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

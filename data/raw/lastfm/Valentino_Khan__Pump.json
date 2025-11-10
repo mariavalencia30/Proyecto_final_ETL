@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Pump",
+    "mbid": "440ca1fa-cda6-4678-93fa-c49fb025a044",
+    "url": "https://www.last.fm/music/Valentino+Khan/_/Pump",
+    "duration": "183000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "60220",
+    "playcount": "292708",
+    "artist": {
+      "name": "Valentino Khan",
+      "mbid": "dc11d177-f625-40bc-95fa-972b20ae8149",
+      "url": "https://www.last.fm/music/Valentino+Khan"
+    },
+    "album": {
+      "artist": "Valentino Khan",
+      "title": "Pump",
+      "url": "https://www.last.fm/music/Valentino+Khan/Pump",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0e25d4f0333617a225271343ff5bcd69.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0e25d4f0333617a225271343ff5bcd69.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0e25d4f0333617a225271343ff5bcd69.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0e25d4f0333617a225271343ff5bcd69.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

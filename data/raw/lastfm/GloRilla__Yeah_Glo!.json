@@ -1,0 +1,67 @@
+{
+  "track": {
+    "name": "Yeah Glo!",
+    "mbid": "fbf0b4d0-4443-4402-9346-f5b78df585ca",
+    "url": "https://www.last.fm/music/GloRilla/_/Yeah+Glo%21",
+    "duration": "142000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "401658",
+    "playcount": "3573400",
+    "artist": {
+      "name": "GloRilla",
+      "mbid": "2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2",
+      "url": "https://www.last.fm/music/GloRilla"
+    },
+    "album": {
+      "artist": "GloRilla",
+      "title": "Yeah Glo!",
+      "url": "https://www.last.fm/music/GloRilla/Yeah+Glo%21",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/15e3a5310a236025d0b2fa70e1b508b2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/15e3a5310a236025d0b2fa70e1b508b2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/15e3a5310a236025d0b2fa70e1b508b2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/15e3a5310a236025d0b2fa70e1b508b2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "hype",
+          "url": "https://www.last.fm/tag/hype"
+        },
+        {
+          "name": "chill",
+          "url": "https://www.last.fm/tag/chill"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "26 May 2025, 00:26",
+      "summary": "“Yeah Glo!” comes from GloRilla’s second mixtape “Ehhthang Ehhthang”. The song was released on February 9th, 2024 and debuted on the Billboard Hot 100 on the February 24th edition of the weekly chart. Three months later, it reached its peak at #28.\n\nThe lyrics see GloRilla bragging about her luxurious life and success as a rapper. The title is inspired by Juicy J’s tagline: “Yeah hoe”. <a href=\"http://www.last.fm/music/GloRilla/_/Yeah+Glo%21\">Read more on Last.fm</a>.",
+      "content": "“Yeah Glo!” comes from GloRilla’s second mixtape “Ehhthang Ehhthang”. The song was released on February 9th, 2024 and debuted on the Billboard Hot 100 on the February 24th edition of the weekly chart. Three months later, it reached its peak at #28.\n\nThe lyrics see GloRilla bragging about her luxurious life and success as a rapper. The title is inspired by Juicy J’s tagline: “Yeah hoe”. <a href=\"http://www.last.fm/music/GloRilla/_/Yeah+Glo%21\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

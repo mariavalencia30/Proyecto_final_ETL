@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "How We Roll",
+    "url": "https://www.last.fm/music/Ciara/_/How+We+Roll",
+    "duration": "199000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "40249",
+    "playcount": "215675",
+    "artist": {
+      "name": "Ciara",
+      "mbid": "03172286-f7ed-4864-a4db-459cd5ca9790",
+      "url": "https://www.last.fm/music/Ciara"
+    },
+    "album": {
+      "artist": "Ciara",
+      "title": "CiCi",
+      "url": "https://www.last.fm/music/Ciara/CiCi",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/10925a495bfc059fb11baa896ee6b0a5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/10925a495bfc059fb11baa896ee6b0a5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/10925a495bfc059fb11baa896ee6b0a5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/10925a495bfc059fb11baa896ee6b0a5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

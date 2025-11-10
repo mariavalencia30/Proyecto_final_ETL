@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "At My Worst",
+    "mbid": "8684f10f-bcbb-4ae1-8c56-b19424c4fae3",
+    "url": "https://www.last.fm/music/Pink+Sweat$/_/At+My+Worst",
+    "duration": "170000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "319178",
+    "playcount": "3104137",
+    "artist": {
+      "name": "Pink Sweat$",
+      "mbid": "173ae5e2-b5fe-41fc-a908-5465ac8c72eb",
+      "url": "https://www.last.fm/music/Pink+Sweat$"
+    },
+    "album": {
+      "artist": "Pink Sweat$",
+      "title": "At My Worst (Nikhita Gandhi Remix)",
+      "url": "https://www.last.fm/music/Pink+Sweat$/At+My+Worst+(Nikhita+Gandhi+Remix)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/22e4ab81fc4ac0338ac3d9c12faa4f73.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/22e4ab81fc4ac0338ac3d9c12faa4f73.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/22e4ab81fc4ac0338ac3d9c12faa4f73.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/22e4ab81fc4ac0338ac3d9c12faa4f73.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

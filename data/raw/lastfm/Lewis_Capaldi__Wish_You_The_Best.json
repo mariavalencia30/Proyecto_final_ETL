@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Wish You the Best",
+    "mbid": "29bc2335-9971-439c-87bc-004f6473b5ca",
+    "url": "https://www.last.fm/music/Lewis+Capaldi/_/Wish+You+the+Best",
+    "duration": "210000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "195181",
+    "playcount": "1622375",
+    "artist": {
+      "name": "Lewis Capaldi",
+      "mbid": "526aab94-697f-44a9-b630-41d1c0505953",
+      "url": "https://www.last.fm/music/Lewis+Capaldi"
+    },
+    "album": {
+      "artist": "Lewis Capaldi",
+      "title": "Wish You the Best",
+      "url": "https://www.last.fm/music/Lewis+Capaldi/Wish+You+the+Best",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0e63483fb9b1ba645d9aed206bb3c887.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0e63483fb9b1ba645d9aed206bb3c887.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0e63483fb9b1ba645d9aed206bb3c887.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0e63483fb9b1ba645d9aed206bb3c887.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

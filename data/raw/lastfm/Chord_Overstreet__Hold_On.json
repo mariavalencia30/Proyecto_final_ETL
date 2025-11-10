@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Hold On",
+    "mbid": "211e1c75-9025-491e-be8e-f8037a80d525",
+    "url": "https://www.last.fm/music/Chord+Overstreet/_/Hold+On",
+    "duration": "198000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "349144",
+    "playcount": "3364961",
+    "artist": {
+      "name": "Chord Overstreet",
+      "mbid": "e1d30dc5-9096-4706-95dc-486b2ab52a89",
+      "url": "https://www.last.fm/music/Chord+Overstreet"
+    },
+    "album": {
+      "artist": "Chord Overstreet",
+      "title": "Hold On",
+      "url": "https://www.last.fm/music/Chord+Overstreet/Hold+On",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bba6db73d5fcb091f2a102cafad1362e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bba6db73d5fcb091f2a102cafad1362e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bba6db73d5fcb091f2a102cafad1362e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bba6db73d5fcb091f2a102cafad1362e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "02 Oct 2020, 07:35",
+      "summary": "“Hold on” by Chord Overstreet is a powerful and emotional song about finding a loved one close to death.\n\nDuring an interview on Billboard.com,\nOverstreet said the following:\n\n“I was going through a lot in a tumultuous relationship at the time and had lost somebody close to me, and I thought, ‘What would happen if that happened to the person I was not in a relationship with anymore but still really loved?’ I wrote the song from that perspective.” <a href=\"http://www.last.fm/music/Chord+Overstreet/_/Hold+On\">Read more on Last.fm</a>.",
+      "content": "“Hold on” by Chord Overstreet is a powerful and emotional song about finding a loved one close to death.\n\nDuring an interview on Billboard.com,\nOverstreet said the following:\n\n“I was going through a lot in a tumultuous relationship at the time and had lost somebody close to me, and I thought, ‘What would happen if that happened to the person I was not in a relationship with anymore but still really loved?’ I wrote the song from that perspective.” <a href=\"http://www.last.fm/music/Chord+Overstreet/_/Hold+On\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

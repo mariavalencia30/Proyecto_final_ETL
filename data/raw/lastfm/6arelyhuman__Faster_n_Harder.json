@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "FASTER n HARDER",
+    "mbid": "25a50e29-d994-4da6-b18b-20f790a44c79",
+    "url": "https://www.last.fm/music/6arelyhuman/_/FASTER+n+HARDER",
+    "duration": "123000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "181857",
+    "playcount": "2258208",
+    "artist": {
+      "name": "6arelyhuman",
+      "mbid": "a8a8e422-4e3c-4c2e-842a-a6407357ae1d",
+      "url": "https://www.last.fm/music/6arelyhuman"
+    },
+    "album": {
+      "artist": "6arelyhuman",
+      "title": "Faster n Harder - Single",
+      "url": "https://www.last.fm/music/6arelyhuman/Faster+n+Harder+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c1cb49466c1cefd4bf144e1b2a895db7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c1cb49466c1cefd4bf144e1b2a895db7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c1cb49466c1cefd4bf144e1b2a895db7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c1cb49466c1cefd4bf144e1b2a895db7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "emo",
+          "url": "https://www.last.fm/tag/emo"
+        },
+        {
+          "name": "hot",
+          "url": "https://www.last.fm/tag/hot"
+        },
+        {
+          "name": "Iconic",
+          "url": "https://www.last.fm/tag/Iconic"
+        },
+        {
+          "name": "2024",
+          "url": "https://www.last.fm/tag/2024"
+        },
+        {
+          "name": "its giving cunt",
+          "url": "https://www.last.fm/tag/its+giving+cunt"
+        }
+      ]
+    }
+  }
+}

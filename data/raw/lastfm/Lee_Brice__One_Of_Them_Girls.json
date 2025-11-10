@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "One of Them Girls",
+    "mbid": "62dc41f2-d761-441f-afea-6da54c466f36",
+    "url": "https://www.last.fm/music/Lee+Brice/_/One+of+Them+Girls",
+    "duration": "188000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "95393",
+    "playcount": "953185",
+    "artist": {
+      "name": "Lee Brice",
+      "mbid": "48a6d065-1fda-4280-ae39-df1394d419cd",
+      "url": "https://www.last.fm/music/Lee+Brice"
+    },
+    "album": {
+      "artist": "Lee Brice",
+      "title": "Hey World",
+      "url": "https://www.last.fm/music/Lee+Brice/Hey+World",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a671053e9f5e4469bac878e73e4cba2b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a671053e9f5e4469bac878e73e4cba2b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a671053e9f5e4469bac878e73e4cba2b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a671053e9f5e4469bac878e73e4cba2b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

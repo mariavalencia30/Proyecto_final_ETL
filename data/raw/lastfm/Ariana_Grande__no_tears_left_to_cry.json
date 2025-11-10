@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "no tears left to cry",
+    "mbid": "ec72de8b-74fc-449f-9b41-b10270eced8d",
+    "url": "https://www.last.fm/music/Ariana+Grande/_/no+tears+left+to+cry",
+    "duration": "205000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1157815",
+    "playcount": "19164748",
+    "artist": {
+      "name": "Ariana Grande",
+      "mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+      "url": "https://www.last.fm/music/Ariana+Grande"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Now 33",
+      "url": "https://www.last.fm/music/Various+Artists/Now+33",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e41f7b36c581279bcdd48136c473f46c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e41f7b36c581279bcdd48136c473f46c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e41f7b36c581279bcdd48136c473f46c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e41f7b36c581279bcdd48136c473f46c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "dance-pop",
+          "url": "https://www.last.fm/tag/dance-pop"
+        },
+        {
+          "name": "Sweetener",
+          "url": "https://www.last.fm/tag/Sweetener"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://www.last.fm/tag/Ariana+Grande"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "16 Apr 2018, 17:29",
+      "summary": "\"no tears left to cry\" is the lead single from Ariana Grande's fourth studio album, Sweetener.\n\nLyrically, the song is about optimism; according to Rolling Stone, it \"celebrates rising above the world's negativity\". Variety noted that the song's chorus contrastingly features Grande alternating between \"lifting her voice, pleadingly, for positivity\" with the lyrics \"Oh, I just want you to come with me / We're on another mentality\", and \"rhythmically\" chanting \"I'm lovin', I’m livin', I'm pickin' it up\" with a \"nearly spoken-word\" vocalization. <a href=\"http://www.last.fm/music/Ariana+Grande/_/no+tears+left+to+cry\">Read more on Last.fm</a>.",
+      "content": "\"no tears left to cry\" is the lead single from Ariana Grande's fourth studio album, Sweetener.\n\nLyrically, the song is about optimism; according to Rolling Stone, it \"celebrates rising above the world's negativity\". Variety noted that the song's chorus contrastingly features Grande alternating between \"lifting her voice, pleadingly, for positivity\" with the lyrics \"Oh, I just want you to come with me / We're on another mentality\", and \"rhythmically\" chanting \"I'm lovin', I’m livin', I'm pickin' it up\" with a \"nearly spoken-word\" vocalization. <a href=\"http://www.last.fm/music/Ariana+Grande/_/no+tears+left+to+cry\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

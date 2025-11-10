@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "BIPOLAR",
+    "url": "https://www.last.fm/music/Peso+Pluma/_/BIPOLAR",
+    "duration": "265000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "71831",
+    "playcount": "1054907",
+    "artist": {
+      "name": "Peso Pluma",
+      "mbid": "75e4f8ef-34c3-44fd-8467-88a7d9599f77",
+      "url": "https://www.last.fm/music/Peso+Pluma"
+    },
+    "album": {
+      "artist": "Peso Pluma",
+      "title": "Bipolar",
+      "url": "https://www.last.fm/music/Peso+Pluma/Bipolar",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/71ca9be494817a6825c4f5f604fe78d2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/71ca9be494817a6825c4f5f604fe78d2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/71ca9be494817a6825c4f5f604fe78d2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/71ca9be494817a6825c4f5f604fe78d2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

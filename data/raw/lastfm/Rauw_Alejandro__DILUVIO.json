@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "DILUVIO",
+    "mbid": "5f204919-70e5-4123-822d-464a70ad1c05",
+    "url": "https://www.last.fm/music/Rauw+Alejandro/_/DILUVIO",
+    "duration": "197000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "210791",
+    "playcount": "2669484",
+    "artist": {
+      "name": "Rauw Alejandro",
+      "mbid": "197b70c7-8910-4030-ad03-632d82aa40e3",
+      "url": "https://www.last.fm/music/Rauw+Alejandro"
+    },
+    "album": {
+      "artist": "Rauw Alejandro",
+      "title": "Playa Saturno",
+      "url": "https://www.last.fm/music/Rauw+Alejandro/Playa+Saturno",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/609333c7e01929f5725e4082f0b7b6b7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/609333c7e01929f5725e4082f0b7b6b7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/609333c7e01929f5725e4082f0b7b6b7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/609333c7e01929f5725e4082f0b7b6b7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Reggaeton",
+          "url": "https://www.last.fm/tag/Reggaeton"
+        }
+      ]
+    }
+  }
+}

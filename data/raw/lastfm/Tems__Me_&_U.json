@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Me & U",
+    "mbid": "53f7681c-292d-408b-ab9a-14d862b32a61",
+    "url": "https://www.last.fm/music/Tems/_/Me+&+U",
+    "duration": "192000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "181081",
+    "playcount": "1303516",
+    "artist": {
+      "name": "Tems",
+      "mbid": "5b2a8faa-ffee-4706-a1a8-58f109bc8ca2",
+      "url": "https://www.last.fm/music/Tems"
+    },
+    "album": {
+      "artist": "Tems",
+      "title": "Me & U",
+      "url": "https://www.last.fm/music/Tems/Me+&+U",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/300584875db425eadd47723b53ddb1d8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/300584875db425eadd47723b53ddb1d8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/300584875db425eadd47723b53ddb1d8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/300584875db425eadd47723b53ddb1d8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

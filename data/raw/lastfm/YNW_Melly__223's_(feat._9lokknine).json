@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "223's (feat. 9lokknine)",
+    "url": "https://www.last.fm/music/YNW+Melly/_/223%27s+(feat.+9lokknine)",
+    "duration": "176000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "301312",
+    "playcount": "2621927",
+    "artist": {
+      "name": "YNW Melly",
+      "mbid": "59d6cea7-3771-4ce6-8c02-395ac5ba927a",
+      "url": "https://www.last.fm/music/YNW+Melly"
+    },
+    "album": {
+      "artist": "YNW Melly",
+      "title": "Melly vs. Melvin",
+      "url": "https://www.last.fm/music/YNW+Melly/Melly+vs.+Melvin",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7d80ce2664cd520e804b2a01428f94ef.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7d80ce2664cd520e804b2a01428f94ef.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7d80ce2664cd520e804b2a01428f94ef.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d80ce2664cd520e804b2a01428f94ef.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Ain't No Love in Oklahoma (From Twisters: The Album)",
+    "url": "https://www.last.fm/music/Luke+Combs/_/Ain%27t+No+Love+in+Oklahoma+(From+Twisters:+The+Album)",
+    "duration": "210000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "180183",
+    "playcount": "1567923",
+    "artist": {
+      "name": "Luke Combs",
+      "mbid": "c20ee61f-071f-4e65-9c81-45ee931a54ce",
+      "url": "https://www.last.fm/music/Luke+Combs"
+    },
+    "album": {
+      "artist": "Luke Combs",
+      "title": "Ain't No Love in Oklahoma (From Twisters: The Album)",
+      "url": "https://www.last.fm/music/Luke+Combs/Ain%27t+No+Love+in+Oklahoma+(From+Twisters:+The+Album)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3c566433bbcd2bbbfe7951d66bafd9dc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3c566433bbcd2bbbfe7951d66bafd9dc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3c566433bbcd2bbbfe7951d66bafd9dc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3c566433bbcd2bbbfe7951d66bafd9dc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

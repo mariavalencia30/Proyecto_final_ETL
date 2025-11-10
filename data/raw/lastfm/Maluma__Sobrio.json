@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Sobrio",
+    "mbid": "1c54b971-0cc0-4fb5-ba7e-1931a3926a85",
+    "url": "https://www.last.fm/music/Maluma/_/Sobrio",
+    "duration": "199000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "88580",
+    "playcount": "707806",
+    "artist": {
+      "name": "Maluma",
+      "mbid": "e8979f75-9110-4df8-ac70-898898d080d1",
+      "url": "https://www.last.fm/music/Maluma"
+    },
+    "album": {
+      "artist": "Maluma",
+      "title": "Sobrio - Single",
+      "url": "https://www.last.fm/music/Maluma/Sobrio+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/690d0bf52cb7dbba1b1fe12b2bde0b3b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/690d0bf52cb7dbba1b1fe12b2bde0b3b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/690d0bf52cb7dbba1b1fe12b2bde0b3b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/690d0bf52cb7dbba1b1fe12b2bde0b3b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "FTCU",
+    "mbid": "75c3914c-b4f6-4636-88ae-2acc6f0e381f",
+    "url": "https://www.last.fm/music/Nicki+Minaj/_/FTCU",
+    "duration": "145000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "492511",
+    "playcount": "5410105",
+    "artist": {
+      "name": "Nicki Minaj",
+      "mbid": "1036b808-f58c-4a3e-b461-a2c4492ecf1b",
+      "url": "https://www.last.fm/music/Nicki+Minaj"
+    },
+    "album": {
+      "artist": "Nicki Minaj",
+      "title": "Pink Friday 2",
+      "url": "https://www.last.fm/music/Nicki+Minaj/Pink+Friday+2",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c8e86b46f0082a610fe25f5a452d5034.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c8e86b46f0082a610fe25f5a452d5034.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c8e86b46f0082a610fe25f5a452d5034.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c8e86b46f0082a610fe25f5a452d5034.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "female vocalist",
+          "url": "https://www.last.fm/tag/female+vocalist"
+        },
+        {
+          "name": "club",
+          "url": "https://www.last.fm/tag/club"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "hype",
+          "url": "https://www.last.fm/tag/hype"
+        }
+      ]
+    }
+  }
+}

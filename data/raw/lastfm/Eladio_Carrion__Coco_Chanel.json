@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Coco Chanel",
+    "url": "https://www.last.fm/music/Eladio+Carrion/_/Coco+Chanel",
+    "duration": "208000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "180601",
+    "playcount": "2369271",
+    "artist": {
+      "name": "Eladio Carrion",
+      "url": "https://www.last.fm/music/Eladio+Carrion"
+    },
+    "album": {
+      "artist": "Eladio Carrion",
+      "title": "3MEN2 KBRN",
+      "url": "https://www.last.fm/music/Eladio+Carrion/3MEN2+KBRN",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1597d94a28b14cabd3625da0183dfb13.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1597d94a28b14cabd3625da0183dfb13.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1597d94a28b14cabd3625da0183dfb13.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1597d94a28b14cabd3625da0183dfb13.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

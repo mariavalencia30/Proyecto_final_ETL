@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "SugarCrash!",
+    "mbid": "65b7c45e-9e7f-44c1-a0bb-1af65d04be4a",
+    "url": "https://www.last.fm/music/ElyOtto/_/SugarCrash%21",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "353913",
+    "playcount": "3028976",
+    "artist": {
+      "name": "ElyOtto",
+      "mbid": "c5b50d12-9a13-4a0a-bfab-a27e03b7c87f",
+      "url": "https://www.last.fm/music/ElyOtto"
+    },
+    "album": {
+      "artist": "ElyOtto",
+      "title": "SugarCrash! - Single",
+      "url": "https://www.last.fm/music/ElyOtto/SugarCrash%21+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/895ed3ad801182f451b5ae43da470cdd.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/895ed3ad801182f451b5ae43da470cdd.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/895ed3ad801182f451b5ae43da470cdd.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/895ed3ad801182f451b5ae43da470cdd.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "24 Aug 2021, 02:36",
+      "summary": "SugarCrash! is the breakout single by Canadian artist ElyOtto. <a href=\"http://www.last.fm/music/ElyOtto/_/SugarCrash%21\">Read more on Last.fm</a>.",
+      "content": "SugarCrash! is the breakout single by Canadian artist ElyOtto. <a href=\"http://www.last.fm/music/ElyOtto/_/SugarCrash%21\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

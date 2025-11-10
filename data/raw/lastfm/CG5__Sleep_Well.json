@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "Sleep Well",
+    "url": "https://www.last.fm/music/CG5/_/Sleep+Well",
+    "duration": "209000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "29875",
+    "playcount": "446076",
+    "artist": {
+      "name": "CG5",
+      "mbid": "65897260-a489-4b56-b311-7da1ff3293e1",
+      "url": "https://www.last.fm/music/CG5"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

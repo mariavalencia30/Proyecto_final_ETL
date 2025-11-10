@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "If We Ever Broke Up",
+    "mbid": "1c6fb22e-a076-420c-ac1f-f0172748d7bc",
+    "url": "https://www.last.fm/music/Mae+Stephens/_/If+We+Ever+Broke+Up",
+    "duration": "143000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "315282",
+    "playcount": "2047805",
+    "artist": {
+      "name": "Mae Stephens",
+      "mbid": "bd365066-324d-44a4-baab-08d1cbc0842e",
+      "url": "https://www.last.fm/music/Mae+Stephens"
+    },
+    "album": {
+      "artist": "Mae Stephens",
+      "title": "If we ever broke up",
+      "url": "https://www.last.fm/music/Mae+Stephens/If+we+ever+broke+up",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5036f7133d73af2b268bc9f8e90309e4.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5036f7133d73af2b268bc9f8e90309e4.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5036f7133d73af2b268bc9f8e90309e4.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5036f7133d73af2b268bc9f8e90309e4.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

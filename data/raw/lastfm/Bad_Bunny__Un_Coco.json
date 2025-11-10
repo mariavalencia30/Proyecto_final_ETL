@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Un Coco",
+    "mbid": "1ebb43df-b266-485e-a776-7bbae1d4cb5f",
+    "url": "https://www.last.fm/music/Bad+Bunny/_/Un+Coco",
+    "duration": "196000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "261024",
+    "playcount": "3537940",
+    "artist": {
+      "name": "Bad Bunny",
+      "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "url": "https://www.last.fm/music/Bad+Bunny"
+    },
+    "album": {
+      "artist": "Bad Bunny",
+      "title": "Un Verano Sin Ti",
+      "url": "https://www.last.fm/music/Bad+Bunny/Un+Verano+Sin+Ti",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3fc1caf14abbd6d7e3853e4fb4dfa3be.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3fc1caf14abbd6d7e3853e4fb4dfa3be.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3fc1caf14abbd6d7e3853e4fb4dfa3be.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3fc1caf14abbd6d7e3853e4fb4dfa3be.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Masterpiece",
+          "url": "https://www.last.fm/tag/Masterpiece"
+        },
+        {
+          "name": "latin",
+          "url": "https://www.last.fm/tag/latin"
+        },
+        {
+          "name": "alternative reggaeton",
+          "url": "https://www.last.fm/tag/alternative+reggaeton"
+        },
+        {
+          "name": "banger",
+          "url": "https://www.last.fm/tag/banger"
+        },
+        {
+          "name": "goofy ahh song 💀",
+          "url": "https://www.last.fm/tag/goofy+ahh+song+%F0%9F%92%80"
+        }
+      ]
+    }
+  }
+}

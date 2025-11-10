@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Adicto (with Anuel AA & Ozuna)",
+    "url": "https://www.last.fm/music/Tainy/_/Adicto+(with+Anuel+AA+&+Ozuna)",
+    "duration": "270000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "135822",
+    "playcount": "1102202",
+    "artist": {
+      "name": "Tainy",
+      "url": "https://www.last.fm/music/Tainy"
+    },
+    "album": {
+      "artist": "Tainy",
+      "title": "Adicto (with Anuel AA & Ozuna)",
+      "url": "https://www.last.fm/music/Tainy/Adicto+(with+Anuel+AA+&+Ozuna)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/34620d208b11ac3f94bd326539a1309c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/34620d208b11ac3f94bd326539a1309c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/34620d208b11ac3f94bd326539a1309c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/34620d208b11ac3f94bd326539a1309c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

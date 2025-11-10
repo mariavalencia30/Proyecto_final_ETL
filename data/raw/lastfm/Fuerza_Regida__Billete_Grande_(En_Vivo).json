@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Billete Grande (En Vivo)",
+    "url": "https://www.last.fm/music/Fuerza+Regida/_/Billete+Grande+(En+Vivo)",
+    "duration": "163000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "62046",
+    "playcount": "677251",
+    "artist": {
+      "name": "Fuerza Regida",
+      "mbid": "e665ce26-6ce9-4c42-8f6a-7a361a0ba328",
+      "url": "https://www.last.fm/music/Fuerza+Regida"
+    },
+    "album": {
+      "artist": "Edgardo Nuñez",
+      "title": "Billete Grande (En Vivo)",
+      "url": "https://www.last.fm/music/Edgardo+Nu%C3%B1ez/Billete+Grande+(En+Vivo)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3fb1147e06f2069e42c7602c4f7897b0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3fb1147e06f2069e42c7602c4f7897b0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3fb1147e06f2069e42c7602c4f7897b0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3fb1147e06f2069e42c7602c4f7897b0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

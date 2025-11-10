@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "PUNTO 40",
+    "url": "https://www.last.fm/music/Rauw+Alejandro/_/PUNTO+40",
+    "duration": "190000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "157459",
+    "playcount": "2016516",
+    "artist": {
+      "name": "Rauw Alejandro",
+      "mbid": "197b70c7-8910-4030-ad03-632d82aa40e3",
+      "url": "https://www.last.fm/music/Rauw+Alejandro"
+    },
+    "album": {
+      "artist": "Rauw Alejandro",
+      "title": "PUNTO 40",
+      "url": "https://www.last.fm/music/Rauw+Alejandro/PUNTO+40",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f0e342189dfa46f7bc2b64a3df4372e6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f0e342189dfa46f7bc2b64a3df4372e6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f0e342189dfa46f7bc2b64a3df4372e6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f0e342189dfa46f7bc2b64a3df4372e6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

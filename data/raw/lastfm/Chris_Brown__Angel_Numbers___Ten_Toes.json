@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Angel Numbers / Ten Toes",
+    "mbid": "de85df37-8b99-45ac-b26c-18c20a9e30bb",
+    "url": "https://www.last.fm/music/Chris+Brown/_/Angel+Numbers+%2F+Ten+Toes",
+    "duration": "306000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "154060",
+    "playcount": "1702232",
+    "artist": {
+      "name": "Chris Brown",
+      "mbid": "c234fa42-e6a6-443e-937e-2f4b073538a3",
+      "url": "https://www.last.fm/music/Chris+Brown"
+    },
+    "album": {
+      "artist": "Chris Brown",
+      "title": "11:11",
+      "url": "https://www.last.fm/music/Chris+Brown/11:11",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a52c16636c3b717819522149de2e79a1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a52c16636c3b717819522149de2e79a1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a52c16636c3b717819522149de2e79a1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a52c16636c3b717819522149de2e79a1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "30 Apr 2025, 14:53",
+      "summary": "Angel Numbers / Ten Toes is the intro track to Chris Brown's eleventh studio album, 11:11. <a href=\"http://www.last.fm/music/Chris+Brown/_/Angel+Numbers+%2F+Ten+Toes\">Read more on Last.fm</a>.",
+      "content": "Angel Numbers / Ten Toes is the intro track to Chris Brown's eleventh studio album, 11:11. <a href=\"http://www.last.fm/music/Chris+Brown/_/Angel+Numbers+%2F+Ten+Toes\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Lose Control",
+    "mbid": "d2a2e83f-2a36-45e2-9c66-c75aa4bbf482",
+    "url": "https://www.last.fm/music/Meduza/_/Lose+Control",
+    "duration": "168000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "393752",
+    "playcount": "3077285",
+    "artist": {
+      "name": "Meduza",
+      "mbid": "64614ee1-9add-4f2f-b970-5205b09ae218",
+      "url": "https://www.last.fm/music/Meduza"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Massive Dance Hits",
+      "url": "https://www.last.fm/music/Various+Artists/Massive+Dance+Hits",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/94efe7d762ddcb2fd3e1e0553a1258b1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/94efe7d762ddcb2fd3e1e0553a1258b1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/94efe7d762ddcb2fd3e1e0553a1258b1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/94efe7d762ddcb2fd3e1e0553a1258b1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

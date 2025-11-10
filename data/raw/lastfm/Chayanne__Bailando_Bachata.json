@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Bailando Bachata",
+    "url": "https://www.last.fm/music/Chayanne/_/Bailando+Bachata",
+    "duration": "170000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "42164",
+    "playcount": "282755",
+    "artist": {
+      "name": "Chayanne",
+      "mbid": "327e24c0-95b4-4754-b509-108dc7f8abfa",
+      "url": "https://www.last.fm/music/Chayanne"
+    },
+    "album": {
+      "artist": "Chayanne",
+      "title": "Bailando Bachata",
+      "url": "https://www.last.fm/music/Chayanne/Bailando+Bachata",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2415c3e792d431b40719d61910e8de35.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2415c3e792d431b40719d61910e8de35.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2415c3e792d431b40719d61910e8de35.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2415c3e792d431b40719d61910e8de35.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

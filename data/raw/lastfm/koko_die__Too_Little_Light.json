@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Too Little Light",
+    "url": "https://www.last.fm/music/Koko+Die/_/Too+Little+Light",
+    "duration": "203000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "275",
+    "playcount": "753",
+    "artist": {
+      "name": "Koko Die",
+      "url": "https://www.last.fm/music/Koko+Die"
+    },
+    "album": {
+      "artist": "Koko Die",
+      "title": "Some of Your Pain",
+      "url": "https://www.last.fm/music/Koko+Die/Some+of+Your+Pain",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/15d8c97c0256819d9f7ef1787965f8fc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/15d8c97c0256819d9f7ef1787965f8fc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/15d8c97c0256819d9f7ef1787965f8fc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/15d8c97c0256819d9f7ef1787965f8fc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

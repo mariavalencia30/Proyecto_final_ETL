@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Truth or dare",
+    "mbid": "ea7012dc-47a3-48bc-8886-b771280be525",
+    "url": "https://www.last.fm/music/Tyla/_/Truth+or+dare",
+    "duration": "190000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "399428",
+    "playcount": "4207543",
+    "artist": {
+      "name": "Tyla",
+      "mbid": "2bf761c6-4bcf-4cfc-a388-8fcb2eea8cc8",
+      "url": "https://www.last.fm/music/Tyla"
+    },
+    "album": {
+      "artist": "Tyla",
+      "title": "Tyla",
+      "url": "https://www.last.fm/music/Tyla/Tyla",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a69589819d73f659c68cb8671ed5e61.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a69589819d73f659c68cb8671ed5e61.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a69589819d73f659c68cb8671ed5e61.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a69589819d73f659c68cb8671ed5e61.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "contemporary rnb",
+          "url": "https://www.last.fm/tag/contemporary+rnb"
+        },
+        {
+          "name": "Afropiano",
+          "url": "https://www.last.fm/tag/Afropiano"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "south africa",
+          "url": "https://www.last.fm/tag/south+africa"
+        },
+        {
+          "name": "isa",
+          "url": "https://www.last.fm/tag/isa"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "03 Feb 2024, 00:56",
+      "summary": "Truth or Dare is a single taken from Tyla's self-titled debut album. It was first released on December 1, 2023 and became an official single in February 2, 2024. <a href=\"http://www.last.fm/music/Tyla/_/Truth+or+dare\">Read more on Last.fm</a>.",
+      "content": "Truth or Dare is a single taken from Tyla's self-titled debut album. It was first released on December 1, 2023 and became an official single in February 2, 2024. <a href=\"http://www.last.fm/music/Tyla/_/Truth+or+dare\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

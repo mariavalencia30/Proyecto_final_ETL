@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "A Thousand Years",
+    "url": "https://www.last.fm/music/Aldy+Santos/_/A+Thousand+Years",
+    "duration": "279000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "5",
+    "playcount": "22",
+    "artist": {
+      "name": "Aldy Santos",
+      "url": "https://www.last.fm/music/Aldy+Santos"
+    },
+    "album": {
+      "artist": "Aldy Santos",
+      "title": "A Thousand Years",
+      "url": "https://www.last.fm/music/Aldy+Santos/A+Thousand+Years",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

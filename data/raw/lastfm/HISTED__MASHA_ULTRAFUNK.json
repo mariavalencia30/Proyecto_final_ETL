@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "MASHA ULTRAFUNK",
+    "url": "https://www.last.fm/music/HISTED/_/MASHA+ULTRAFUNK",
+    "duration": "93000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "76395",
+    "playcount": "431144",
+    "artist": {
+      "name": "HISTED",
+      "mbid": "f432f716-186e-48c6-9966-f20b2b974591",
+      "url": "https://www.last.fm/music/HISTED"
+    },
+    "album": {
+      "artist": "HISTED",
+      "title": "MASHA ULTRAFUNK",
+      "url": "https://www.last.fm/music/HISTED/MASHA+ULTRAFUNK",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/28c2484525cc9cda8998df11c847d104.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/28c2484525cc9cda8998df11c847d104.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/28c2484525cc9cda8998df11c847d104.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28c2484525cc9cda8998df11c847d104.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

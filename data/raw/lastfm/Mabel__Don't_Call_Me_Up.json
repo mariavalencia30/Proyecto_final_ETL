@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "Don't Call Me Up",
+    "url": "https://www.last.fm/music/Mabel/_/Don%27t+Call+Me+Up",
+    "duration": "178000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "404709",
+    "playcount": "3752948",
+    "artist": {
+      "name": "Mabel",
+      "mbid": "f6a9828c-7b52-41a1-b38a-426c28603555",
+      "url": "https://www.last.fm/music/Mabel"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Chilled Acoustic",
+      "url": "https://www.last.fm/music/Various+Artists/Chilled+Acoustic",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9d56fd128fdbe708802a8bd3015b9a24.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9d56fd128fdbe708802a8bd3015b9a24.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9d56fd128fdbe708802a8bd3015b9a24.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9d56fd128fdbe708802a8bd3015b9a24.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "30 Aug 2020, 09:14",
+      "summary": "“Don’t Call Me Up” is all about getting over your exes. In the beginning of the song, Mabel talks about her ex ruining the time out with her friends and by the end of the song she has completely cut off her ex. She doesn’t want anything to do with her ex because she is doing better without him. <a href=\"http://www.last.fm/music/Mabel/_/Don%27t+Call+Me+Up\">Read more on Last.fm</a>.",
+      "content": "“Don’t Call Me Up” is all about getting over your exes. In the beginning of the song, Mabel talks about her ex ruining the time out with her friends and by the end of the song she has completely cut off her ex. She doesn’t want anything to do with her ex because she is doing better without him. <a href=\"http://www.last.fm/music/Mabel/_/Don%27t+Call+Me+Up\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

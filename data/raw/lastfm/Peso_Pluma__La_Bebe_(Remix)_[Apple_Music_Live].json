@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "La Bebe (Remix) [Apple Music Live]",
+    "url": "https://www.last.fm/music/Peso+Pluma/_/La+Bebe+(Remix)+%5BApple+Music+Live%5D",
+    "duration": "128000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "38",
+    "playcount": "262",
+    "artist": {
+      "name": "Peso Pluma",
+      "mbid": "75e4f8ef-34c3-44fd-8467-88a7d9599f77",
+      "url": "https://www.last.fm/music/Peso+Pluma"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

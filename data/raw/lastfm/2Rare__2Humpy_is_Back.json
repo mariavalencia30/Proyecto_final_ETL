@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "2HUMPY IS BACK",
+    "url": "https://www.last.fm/music/2rare/_/2HUMPY+IS+BACK",
+    "duration": "114000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1343",
+    "playcount": "8119",
+    "artist": {
+      "name": "2rare",
+      "url": "https://www.last.fm/music/2rare"
+    },
+    "album": {
+      "artist": "2rare",
+      "title": "2Humpy is Back - Single",
+      "url": "https://www.last.fm/music/2rare/2Humpy+is+Back+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/87b57eab5cbd30ba2f74d8f61537bb19.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/87b57eab5cbd30ba2f74d8f61537bb19.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/87b57eab5cbd30ba2f74d8f61537bb19.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/87b57eab5cbd30ba2f74d8f61537bb19.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

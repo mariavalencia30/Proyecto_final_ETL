@@ -1,0 +1,65 @@
+{
+  "track": {
+    "name": "Cradles",
+    "url": "https://www.last.fm/music/Sub+Urban/_/Cradles",
+    "duration": "209000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "530071",
+    "playcount": "4622482",
+    "artist": {
+      "name": "Sub Urban",
+      "mbid": "9ba6d6c4-12fd-4500-a5d7-7d85fe4ee2b9",
+      "url": "https://www.last.fm/music/Sub+Urban"
+    },
+    "album": {
+      "artist": "Sub Urban",
+      "title": "Cradles",
+      "url": "https://www.last.fm/music/Sub+Urban/Cradles",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c6c09ba0a2977c4d9dd6920bc7d90fd8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c6c09ba0a2977c4d9dd6920bc7d90fd8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c6c09ba0a2977c4d9dd6920bc7d90fd8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c6c09ba0a2977c4d9dd6920bc7d90fd8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "vocal",
+          "url": "https://www.last.fm/tag/vocal"
+        },
+        {
+          "name": "Emo Trap",
+          "url": "https://www.last.fm/tag/Emo+Trap"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Easy on Me",
+    "mbid": "327f17da-5416-4ba6-90a4-ff4e4cf068c7",
+    "url": "https://www.last.fm/music/Adele/_/Easy+on+Me",
+    "duration": "225000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1044692",
+    "playcount": "11915313",
+    "artist": {
+      "name": "Adele",
+      "mbid": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+      "url": "https://www.last.fm/music/Adele"
+    },
+    "album": {
+      "artist": "Adele",
+      "title": "30",
+      "url": "https://www.last.fm/music/Adele/30",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/35a9537590ea3d5164b598c75b3a378c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/35a9537590ea3d5164b598c75b3a378c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/35a9537590ea3d5164b598c75b3a378c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/35a9537590ea3d5164b598c75b3a378c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "2021",
+          "url": "https://www.last.fm/tag/2021"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "2020s",
+          "url": "https://www.last.fm/tag/2020s"
+        },
+        {
+          "name": "Adele",
+          "url": "https://www.last.fm/tag/Adele"
+        },
+        {
+          "name": "soul",
+          "url": "https://www.last.fm/tag/soul"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "14 Oct 2021, 20:52",
+      "summary": "\"Easy on Me\" is a plea to take it easy with someone who hasn't had the same chance to make their own decisions or experience the world. The lyrics imply that the singer was unable to explore the world around them due to their circumstances and had to go with the choices that were made for them. The singer is asking for the other person to not be too hard on them and to accept that they were still learning. The bridge hints at how the singer has had good intentions and hopeful outcomes <a href=\"http://www.last.fm/music/Adele/_/Easy+on+Me\">Read more on Last.fm</a>.",
+      "content": "\"Easy on Me\" is a plea to take it easy with someone who hasn't had the same chance to make their own decisions or experience the world. The lyrics imply that the singer was unable to explore the world around them due to their circumstances and had to go with the choices that were made for them. The singer is asking for the other person to not be too hard on them and to accept that they were still learning. The bridge hints at how the singer has had good intentions and hopeful outcomes, and though it may not show right now, they still want to be taken into account. <a href=\"http://www.last.fm/music/Adele/_/Easy+on+Me\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

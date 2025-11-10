@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Winning Speech",
+    "url": "https://www.last.fm/music/Karan+Aujla/_/Winning+Speech",
+    "duration": "227000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "20079",
+    "playcount": "266852",
+    "artist": {
+      "name": "Karan Aujla",
+      "mbid": "4a779683-5404-4b90-a0d7-242495158265",
+      "url": "https://www.last.fm/music/Karan+Aujla"
+    },
+    "album": {
+      "artist": "Karan Aujla",
+      "title": "Winning Speech",
+      "url": "https://www.last.fm/music/Karan+Aujla/Winning+Speech",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8ca81768485bcbc7d08fc6a0d726dde0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8ca81768485bcbc7d08fc6a0d726dde0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8ca81768485bcbc7d08fc6a0d726dde0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ca81768485bcbc7d08fc6a0d726dde0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

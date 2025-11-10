@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Very Cute Melody by Marimba Tone (39813)",
+    "url": "https://www.last.fm/music/Mitsu+Sound/_/Very+Cute+Melody+by+Marimba+Tone+(39813)",
+    "duration": "121000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "9",
+    "playcount": "9",
+    "artist": {
+      "name": "Mitsu Sound",
+      "url": "https://www.last.fm/music/Mitsu+Sound"
+    },
+    "album": {
+      "artist": "Mitsu Sound",
+      "title": "Very Cute Melody by Marimba Tone (39813)",
+      "url": "https://www.last.fm/music/Mitsu+Sound/Very+Cute+Melody+by+Marimba+Tone+(39813)",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

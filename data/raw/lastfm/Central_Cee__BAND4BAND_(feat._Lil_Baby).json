@@ -1,0 +1,41 @@
+{
+  "track": {
+    "name": "BAND4BAND (feat. Lil Baby)",
+    "url": "https://www.last.fm/music/Central+Cee/_/BAND4BAND+(feat.+Lil+Baby)",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "485767",
+    "playcount": "4350668",
+    "artist": {
+      "name": "Central Cee",
+      "url": "https://www.last.fm/music/Central+Cee"
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "UK Drill",
+          "url": "https://www.last.fm/tag/UK+Drill"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "lil baby",
+          "url": "https://www.last.fm/tag/lil+baby"
+        },
+        {
+          "name": "drill",
+          "url": "https://www.last.fm/tag/drill"
+        },
+        {
+          "name": "intense",
+          "url": "https://www.last.fm/tag/intense"
+        }
+      ]
+    }
+  }
+}

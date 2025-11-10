@@ -1,0 +1,58 @@
+{
+  "track": {
+    "name": "Pure Cocaine",
+    "mbid": "b4dda517-f950-47fb-ae05-c0e4b1e14efd",
+    "url": "https://www.last.fm/music/Lil+Baby/_/Pure+Cocaine",
+    "duration": "154000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "512209",
+    "playcount": "7336192",
+    "artist": {
+      "name": "Lil Baby",
+      "mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+      "url": "https://www.last.fm/music/Lil+Baby"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Hip Hop Vacation",
+      "url": "https://www.last.fm/music/Various+Artists/Hip+Hop+Vacation",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/86fde83411a6cc908fdbfd5707117de1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/86fde83411a6cc908fdbfd5707117de1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/86fde83411a6cc908fdbfd5707117de1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/86fde83411a6cc908fdbfd5707117de1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "lil baby",
+          "url": "https://www.last.fm/tag/lil+baby"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Ahora Dice",
+    "url": "https://www.last.fm/music/Chris+Jedi/_/Ahora+Dice",
+    "duration": "271000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "90894",
+    "playcount": "627520",
+    "artist": {
+      "name": "Chris Jedi",
+      "mbid": "918e77fc-f42b-4fa2-a8c0-4e7720e4e724",
+      "url": "https://www.last.fm/music/Chris+Jedi"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Reggaeton y Trap",
+      "url": "https://www.last.fm/music/Various+Artists/Reggaeton+y+Trap",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/41fcbf22f1aa6bc74229cfa9bb61f39f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/41fcbf22f1aa6bc74229cfa9bb61f39f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/41fcbf22f1aa6bc74229cfa9bb61f39f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/41fcbf22f1aa6bc74229cfa9bb61f39f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "PLEBADA",
+    "url": "https://www.last.fm/music/El+Alfa/_/PLEBADA",
+    "duration": "221000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "65712",
+    "playcount": "499173",
+    "artist": {
+      "name": "El Alfa",
+      "mbid": "0887484d-aed1-4aa6-9862-930a25815696",
+      "url": "https://www.last.fm/music/El+Alfa"
+    },
+    "album": {
+      "artist": "El Alfa",
+      "title": "PLEBADA",
+      "url": "https://www.last.fm/music/El+Alfa/PLEBADA",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/68e455b41772940f00ae8c06f97fb5c5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/68e455b41772940f00ae8c06f97fb5c5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/68e455b41772940f00ae8c06f97fb5c5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/68e455b41772940f00ae8c06f97fb5c5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

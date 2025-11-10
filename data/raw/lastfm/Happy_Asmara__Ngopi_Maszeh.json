@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Ngopi Maszeh",
+    "url": "https://www.last.fm/music/Happy+Asmara/_/Ngopi+Maszeh",
+    "duration": "208000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "768",
+    "playcount": "3526",
+    "artist": {
+      "name": "Happy Asmara",
+      "mbid": "0dac898b-8c74-4880-96e3-55453ddabe5f",
+      "url": "https://www.last.fm/music/Happy+Asmara"
+    },
+    "album": {
+      "artist": "Happy Asmara",
+      "title": "Ngopi Maszeh",
+      "url": "https://www.last.fm/music/Happy+Asmara/Ngopi+Maszeh",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

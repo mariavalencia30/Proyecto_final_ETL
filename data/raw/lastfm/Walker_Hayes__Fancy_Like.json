@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Fancy Like",
+    "mbid": "16a24410-1736-4eb1-ba9f-e4e7d5a02301",
+    "url": "https://www.last.fm/music/Walker+Hayes/_/Fancy+Like",
+    "duration": "161000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "112487",
+    "playcount": "720683",
+    "artist": {
+      "name": "Walker Hayes",
+      "mbid": "e48d32dc-18ad-40df-854c-49ea4d12d809",
+      "url": "https://www.last.fm/music/Walker+Hayes"
+    },
+    "album": {
+      "artist": "Walker Hayes",
+      "title": "Country Stuff the Album",
+      "url": "https://www.last.fm/music/Walker+Hayes/Country+Stuff+the+Album",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/29f01647253831ac2c606fffba73c76e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/29f01647253831ac2c606fffba73c76e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/29f01647253831ac2c606fffba73c76e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/29f01647253831ac2c606fffba73c76e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

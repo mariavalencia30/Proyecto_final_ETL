@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Vida Gangster",
+    "url": "https://www.last.fm/music/Lauty+Gram/_/Vida+Gangster",
+    "duration": "170000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "24848",
+    "playcount": "160184",
+    "artist": {
+      "name": "Lauty Gram",
+      "mbid": "8c6f176c-c4a3-45b0-b157-5647e56ad698",
+      "url": "https://www.last.fm/music/Lauty+Gram"
+    },
+    "album": {
+      "artist": "Lauty Gram",
+      "title": "Vida Gangster",
+      "url": "https://www.last.fm/music/Lauty+Gram/Vida+Gangster",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9be931e94d2704e9f4072811cd6b3a33.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9be931e94d2704e9f4072811cd6b3a33.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9be931e94d2704e9f4072811cd6b3a33.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9be931e94d2704e9f4072811cd6b3a33.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

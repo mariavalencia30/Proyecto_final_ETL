@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Natanael Cano: Bzrp Music Sessions, Vol. 59",
+    "url": "https://www.last.fm/music/Bizarrap/_/Natanael+Cano:+Bzrp+Music+Sessions,+Vol.+59",
+    "duration": "155000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "55029",
+    "playcount": "691513",
+    "artist": {
+      "name": "Bizarrap",
+      "mbid": "3b6abaef-febf-4cfe-943f-6a20cf0afdad",
+      "url": "https://www.last.fm/music/Bizarrap"
+    },
+    "album": {
+      "artist": "Bizarrap",
+      "title": "Endiamantado / Entre las de 20",
+      "url": "https://www.last.fm/music/Bizarrap/Endiamantado+%2F+Entre+las+de+20",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/770fd5ac354d9b4d22f2afacf8eff637.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/770fd5ac354d9b4d22f2afacf8eff637.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/770fd5ac354d9b4d22f2afacf8eff637.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/770fd5ac354d9b4d22f2afacf8eff637.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

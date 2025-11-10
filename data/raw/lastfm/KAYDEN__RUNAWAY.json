@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "RUNAWAY",
+    "url": "https://www.last.fm/music/Kayden/_/RUNAWAY",
+    "duration": "151000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "6862",
+    "playcount": "54720",
+    "artist": {
+      "name": "Kayden",
+      "mbid": "2948ef8b-5105-4f55-89a9-ded505474065",
+      "url": "https://www.last.fm/music/Kayden"
+    },
+    "album": {
+      "artist": "Kayden",
+      "title": "Runaway - Single",
+      "url": "https://www.last.fm/music/Kayden/Runaway+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/38d813c35837ec81e7fc15d3ad52920b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/38d813c35837ec81e7fc15d3ad52920b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/38d813c35837ec81e7fc15d3ad52920b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/38d813c35837ec81e7fc15d3ad52920b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

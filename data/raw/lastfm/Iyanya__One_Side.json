@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "One Side",
+    "url": "https://www.last.fm/music/Iyanya/_/One+Side",
+    "duration": "161000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "7827",
+    "playcount": "41878",
+    "artist": {
+      "name": "Iyanya",
+      "mbid": "6af31188-b6fb-4054-ae61-3be9260a837f",
+      "url": "https://www.last.fm/music/Iyanya"
+    },
+    "album": {
+      "artist": "Iyanya",
+      "title": "One Side - Single",
+      "url": "https://www.last.fm/music/Iyanya/One+Side+-+Single",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

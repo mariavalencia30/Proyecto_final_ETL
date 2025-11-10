@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Finesse",
+    "mbid": "d53d6bbe-a6b3-44d1-860a-a073441eef1d",
+    "url": "https://www.last.fm/music/Pheelz/_/Finesse",
+    "duration": "155000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "81398",
+    "playcount": "677251",
+    "artist": {
+      "name": "Pheelz",
+      "mbid": "41e6febf-2ce1-4f8c-b4e6-7b6c9d5fcd32",
+      "url": "https://www.last.fm/music/Pheelz"
+    },
+    "album": {
+      "artist": "Pheelz",
+      "title": "Finesse",
+      "url": "https://www.last.fm/music/Pheelz/Finesse",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ffb4f9d2c7435dd83cd36711ca63f273.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ffb4f9d2c7435dd83cd36711ca63f273.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ffb4f9d2c7435dd83cd36711ca63f273.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ffb4f9d2c7435dd83cd36711ca63f273.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

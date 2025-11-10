@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "My Love Mine All Mine",
+    "mbid": "b293285f-5600-4380-ae13-7924068b6635",
+    "url": "https://www.last.fm/music/Mitski/_/My+Love+Mine+All+Mine",
+    "duration": "140000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1889917",
+    "playcount": "46543258",
+    "artist": {
+      "name": "Mitski",
+      "mbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
+      "url": "https://www.last.fm/music/Mitski"
+    },
+    "album": {
+      "artist": "Mitski",
+      "title": "The Land Is Inhospitable and So Are We",
+      "url": "https://www.last.fm/music/Mitski/The+Land+Is+Inhospitable+and+So+Are+We",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/788dfbc94a424d3b344aa97e68f68eed.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/788dfbc94a424d3b344aa97e68f68eed.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/788dfbc94a424d3b344aa97e68f68eed.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/788dfbc94a424d3b344aa97e68f68eed.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "soft rock",
+          "url": "https://www.last.fm/tag/soft+rock"
+        },
+        {
+          "name": "Love",
+          "url": "https://www.last.fm/tag/Love"
+        },
+        {
+          "name": "americana",
+          "url": "https://www.last.fm/tag/americana"
+        },
+        {
+          "name": "countrypolitan",
+          "url": "https://www.last.fm/tag/countrypolitan"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "18 Sep 2023, 05:03",
+      "summary": "\"My Love Mine All Mine\" explores themes of love, longing, and the desire to possess and protect one's own emotions and affection. The lyrics evoke a sense of yearning for emotional connection and the fear of losing the love that the narrator holds dear. <a href=\"http://www.last.fm/music/Mitski/_/My+Love+Mine+All+Mine\">Read more on Last.fm</a>.",
+      "content": "\"My Love Mine All Mine\" explores themes of love, longing, and the desire to possess and protect one's own emotions and affection. The lyrics evoke a sense of yearning for emotional connection and the fear of losing the love that the narrator holds dear. <a href=\"http://www.last.fm/music/Mitski/_/My+Love+Mine+All+Mine\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

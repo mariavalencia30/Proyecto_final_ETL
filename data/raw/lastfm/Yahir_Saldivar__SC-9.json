@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "SC-9",
+    "url": "https://www.last.fm/music/Yahir+Saldivar/_/SC-9",
+    "duration": "165000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "32913",
+    "playcount": "317828",
+    "artist": {
+      "name": "Yahir Saldivar",
+      "url": "https://www.last.fm/music/Yahir+Saldivar"
+    },
+    "album": {
+      "artist": "Yahir Saldivar",
+      "title": "SC-9",
+      "url": "https://www.last.fm/music/Yahir+Saldivar/SC-9",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1dedcffdef6bac18f7317de91dade3b2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1dedcffdef6bac18f7317de91dade3b2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1dedcffdef6bac18f7317de91dade3b2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1dedcffdef6bac18f7317de91dade3b2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Youngblood",
+    "mbid": "079cab5d-0ae6-4524-81f9-5235a284ec49",
+    "url": "https://www.last.fm/music/5+Seconds+of+Summer/_/Youngblood",
+    "duration": "203000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "969960",
+    "playcount": "11080296",
+    "artist": {
+      "name": "5 Seconds of Summer",
+      "mbid": "830e5c4e-6b7d-431d-86ab-00c751281dc5",
+      "url": "https://www.last.fm/music/5+Seconds+of+Summer"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Now That's What I Call Music, Vol. 67",
+      "url": "https://www.last.fm/music/Various+Artists/Now+That%27s+What+I+Call+Music,+Vol.+67",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f6048cf5f19c59b143d996bf66a66db0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f6048cf5f19c59b143d996bf66a66db0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f6048cf5f19c59b143d996bf66a66db0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f6048cf5f19c59b143d996bf66a66db0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop rock",
+          "url": "https://www.last.fm/tag/pop+rock"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "new wave",
+          "url": "https://www.last.fm/tag/new+wave"
+        },
+        {
+          "name": "2018",
+          "url": "https://www.last.fm/tag/2018"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "12 Jan 2022, 05:01",
+      "summary": "On “Youngblood,” 5SOS sing about the push and pulls of a relationship. In this song, we see 5SOS move further away from their defining sound from previous albums and see the growth and maturity in their songwriting.\n\n“Youngblood” is the title track from 5SOS' third album released on June 15th, and was an instant grat when you pre-ordered the album on iTunes. <a href=\"http://www.last.fm/music/5+Seconds+of+Summer/_/Youngblood\">Read more on Last.fm</a>.",
+      "content": "On “Youngblood,” 5SOS sing about the push and pulls of a relationship. In this song, we see 5SOS move further away from their defining sound from previous albums and see the growth and maturity in their songwriting.\n\n“Youngblood” is the title track from 5SOS' third album released on June 15th, and was an instant grat when you pre-ordered the album on iTunes. <a href=\"http://www.last.fm/music/5+Seconds+of+Summer/_/Youngblood\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

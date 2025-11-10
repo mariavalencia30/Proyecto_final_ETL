@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "She Share Story",
+    "url": "https://www.last.fm/music/Shayne+Orok/_/She+Share+Story",
+    "duration": "76000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "13346",
+    "playcount": "62885",
+    "artist": {
+      "name": "Shayne Orok",
+      "mbid": "733b7184-5d4c-4a91-bb4f-1415e26f39d7",
+      "url": "https://www.last.fm/music/Shayne+Orok"
+    },
+    "album": {
+      "artist": "Shayne Orok",
+      "title": "She Share Story",
+      "url": "https://www.last.fm/music/Shayne+Orok/She+Share+Story",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/998fba74c9936246ab26da5ffe49abec.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/998fba74c9936246ab26da5ffe49abec.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/998fba74c9936246ab26da5ffe49abec.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/998fba74c9936246ab26da5ffe49abec.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

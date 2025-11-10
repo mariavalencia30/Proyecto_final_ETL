@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Fiel",
+    "url": "https://www.last.fm/music/Los+Legendarios/_/Fiel",
+    "duration": "261000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "99917",
+    "playcount": "782875",
+    "artist": {
+      "name": "Los Legendarios",
+      "mbid": "12c0f608-d993-4926-8c7b-489b2afc5c91",
+      "url": "https://www.last.fm/music/Los+Legendarios"
+    },
+    "album": {
+      "artist": "Los Legendarios",
+      "title": "Los Legendarios 001",
+      "url": "https://www.last.fm/music/Los+Legendarios/Los+Legendarios+001",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/18670d17a22e3eb45f39d299da91666f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/18670d17a22e3eb45f39d299da91666f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/18670d17a22e3eb45f39d299da91666f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/18670d17a22e3eb45f39d299da91666f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

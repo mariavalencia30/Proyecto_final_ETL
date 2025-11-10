@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Best Part (feat. H.E.R.)",
+    "url": "https://www.last.fm/music/Daniel+Caesar/_/Best+Part+(feat.+H.E.R.)",
+    "duration": "209000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1121916",
+    "playcount": "15267210",
+    "artist": {
+      "name": "Daniel Caesar",
+      "mbid": "b46e298d-d3a5-4695-a03e-63e8c523b23e",
+      "url": "https://www.last.fm/music/Daniel+Caesar"
+    },
+    "album": {
+      "artist": "Daniel Caesar",
+      "title": "Freudian",
+      "url": "https://www.last.fm/music/Daniel+Caesar/Freudian",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fcc1f99ede88299b3674522c6b2923eb.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fcc1f99ede88299b3674522c6b2923eb.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fcc1f99ede88299b3674522c6b2923eb.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fcc1f99ede88299b3674522c6b2923eb.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "soul",
+          "url": "https://www.last.fm/tag/soul"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "chill",
+          "url": "https://www.last.fm/tag/chill"
+        },
+        {
+          "name": "Love",
+          "url": "https://www.last.fm/tag/Love"
+        },
+        {
+          "name": "special",
+          "url": "https://www.last.fm/tag/special"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "01 Jan 2019, 16:31",
+      "summary": "After teasing several pictures on Instagram of a possible collaboration, Daniel Caesar and the mystery artist H.E.R. come together for the second song on this new release. Both Daniel Caesar and his collaborator address the adoration and love that they have for their significant other. <a href=\"http://www.last.fm/music/Daniel+Caesar/_/Best+Part+(feat.+H.E.R.)\">Read more on Last.fm</a>.",
+      "content": "After teasing several pictures on Instagram of a possible collaboration, Daniel Caesar and the mystery artist H.E.R. come together for the second song on this new release. Both Daniel Caesar and his collaborator address the adoration and love that they have for their significant other. <a href=\"http://www.last.fm/music/Daniel+Caesar/_/Best+Part+(feat.+H.E.R.)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Tu hai kahan",
+    "mbid": "1cee6ce9-9834-480d-9dd3-6e6d372e9c7c",
+    "url": "https://www.last.fm/music/AUR/_/Tu+hai+kahan",
+    "duration": "263000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "25035",
+    "playcount": "265800",
+    "artist": {
+      "name": "AUR",
+      "mbid": "d4119565-9fb7-4318-acc3-ff11a237733c",
+      "url": "https://www.last.fm/music/AUR"
+    },
+    "album": {
+      "artist": "AUR",
+      "title": "Tu hai kahan",
+      "url": "https://www.last.fm/music/AUR/Tu+hai+kahan",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4e4841a007388d7bae95119a43208589.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4e4841a007388d7bae95119a43208589.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4e4841a007388d7bae95119a43208589.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4e4841a007388d7bae95119a43208589.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

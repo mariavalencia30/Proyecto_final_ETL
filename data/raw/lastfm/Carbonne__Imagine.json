@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Imagine",
+    "mbid": "f2f57d07-6824-4a06-b45c-a2f0cd30862d",
+    "url": "https://www.last.fm/music/carbonne/_/Imagine",
+    "duration": "166000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "33110",
+    "playcount": "327086",
+    "artist": {
+      "name": "carbonne",
+      "url": "https://www.last.fm/music/carbonne"
+    },
+    "album": {
+      "artist": "carbonne",
+      "title": "Imagine",
+      "url": "https://www.last.fm/music/carbonne/Imagine",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7978bb409f354c6c4ab55fb09e7e8b08.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7978bb409f354c6c4ab55fb09e7e8b08.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7978bb409f354c6c4ab55fb09e7e8b08.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7978bb409f354c6c4ab55fb09e7e8b08.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

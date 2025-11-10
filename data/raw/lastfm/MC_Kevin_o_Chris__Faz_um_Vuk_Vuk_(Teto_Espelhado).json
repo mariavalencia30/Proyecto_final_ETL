@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Faz um Vuk Vuk (Teto Espelhado)",
+    "url": "https://www.last.fm/music/MC+Kevin+O+Chris/_/Faz+um+Vuk+Vuk+(Teto+Espelhado)",
+    "duration": "138000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "208240",
+    "playcount": "1762182",
+    "artist": {
+      "name": "MC Kevin O Chris",
+      "url": "https://www.last.fm/music/MC+Kevin+O+Chris"
+    },
+    "album": {
+      "artist": "MC Kevin O Chris",
+      "title": "Faz um Vuk Vuk (Teto Espelhado)",
+      "url": "https://www.last.fm/music/MC+Kevin+O+Chris/Faz+um+Vuk+Vuk+(Teto+Espelhado)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8ffdb32b4bb6eae1755fd7a91fbbbb12.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8ffdb32b4bb6eae1755fd7a91fbbbb12.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8ffdb32b4bb6eae1755fd7a91fbbbb12.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ffdb32b4bb6eae1755fd7a91fbbbb12.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Lollipop",
+    "url": "https://www.last.fm/music/Darell/_/Lollipop",
+    "duration": "199000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "64910",
+    "playcount": "454719",
+    "artist": {
+      "name": "Darell",
+      "mbid": "28e6d28f-e134-476f-bcad-26051c27c9ba",
+      "url": "https://www.last.fm/music/Darell"
+    },
+    "album": {
+      "artist": "Darell",
+      "title": "EVERYBODY GO TO THE DISCOTEK",
+      "url": "https://www.last.fm/music/Darell/EVERYBODY+GO+TO+THE+DISCOTEK",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6cc7cf498fca9beaa01ab9eeb25c1362.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6cc7cf498fca9beaa01ab9eeb25c1362.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6cc7cf498fca9beaa01ab9eeb25c1362.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6cc7cf498fca9beaa01ab9eeb25c1362.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

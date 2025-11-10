@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Daqui pra Sempre",
+    "url": "https://www.last.fm/music/Manu/_/Daqui+pra+Sempre",
+    "duration": "187000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "97574",
+    "playcount": "695221",
+    "artist": {
+      "name": "Manu",
+      "mbid": "dc38346b-ca8b-4305-b1fe-674f8a3b62cf",
+      "url": "https://www.last.fm/music/Manu"
+    },
+    "album": {
+      "artist": "Manu",
+      "title": "Daqui pra Sempre",
+      "url": "https://www.last.fm/music/Manu/Daqui+pra+Sempre",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7c2b74eedd1808a85f75e7867b40bc1e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7c2b74eedd1808a85f75e7867b40bc1e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7c2b74eedd1808a85f75e7867b40bc1e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7c2b74eedd1808a85f75e7867b40bc1e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

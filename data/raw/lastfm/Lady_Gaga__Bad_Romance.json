@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Bad Romance",
+    "mbid": "bc9e2485-092d-4071-a530-62c298aa8334",
+    "url": "https://www.last.fm/music/Lady+Gaga/_/Bad+Romance",
+    "duration": "294000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "2895618",
+    "playcount": "36419113",
+    "artist": {
+      "name": "Lady Gaga",
+      "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    "album": {
+      "artist": "Lady Gaga",
+      "title": "The Fame Monster",
+      "url": "https://www.last.fm/music/Lady+Gaga/The+Fame+Monster",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/49a1ff6dd745a6c6f7adb7544fffface.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/49a1ff6dd745a6c6f7adb7544fffface.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/49a1ff6dd745a6c6f7adb7544fffface.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/49a1ff6dd745a6c6f7adb7544fffface.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "Lady Gaga",
+          "url": "https://www.last.fm/tag/Lady+Gaga"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        },
+        {
+          "name": "addictive",
+          "url": "https://www.last.fm/tag/addictive"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "12 Oct 2009, 17:33",
+      "summary": "\"Bad Romance\" is a song about a tumultuous, passionate relationship. The song’s narrator expresses a desire for drama, excitement and obsession, as well as an intense need for her partner's love. Despite knowing that her partner is a criminal, she remains attracted to them, caught in a \"bad romance\". The message of the song is that sometimes, despite all the red flags, it can be hard to let go of a relationship that satisfies strong emotional needs. <a href=\"http://www.last.fm/music/Lady+Gaga/_/Bad+Romance\">Read more on Last.fm</a>.",
+      "content": "\"Bad Romance\" is a song about a tumultuous, passionate relationship. The song’s narrator expresses a desire for drama, excitement and obsession, as well as an intense need for her partner's love. Despite knowing that her partner is a criminal, she remains attracted to them, caught in a \"bad romance\". The message of the song is that sometimes, despite all the red flags, it can be hard to let go of a relationship that satisfies strong emotional needs. <a href=\"http://www.last.fm/music/Lady+Gaga/_/Bad+Romance\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

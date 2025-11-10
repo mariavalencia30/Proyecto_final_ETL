@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Summer",
+    "url": "https://www.last.fm/music/Calvin+Harris/_/Summer",
+    "duration": "219000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1426399",
+    "playcount": "10821230",
+    "artist": {
+      "name": "Calvin Harris",
+      "mbid": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+      "url": "https://www.last.fm/music/Calvin+Harris"
+    },
+    "album": {
+      "artist": "Calvin Harris",
+      "title": "Motion",
+      "url": "https://www.last.fm/music/Calvin+Harris/Motion",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6d9ccbf7bd97937241301e216d550a58.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6d9ccbf7bd97937241301e216d550a58.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6d9ccbf7bd97937241301e216d550a58.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6d9ccbf7bd97937241301e216d550a58.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "summer",
+          "url": "https://www.last.fm/tag/summer"
+        },
+        {
+          "name": "House",
+          "url": "https://www.last.fm/tag/House"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "2014",
+          "url": "https://www.last.fm/tag/2014"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "09 Dec 2021, 23:19",
+      "summary": "\"Summer\" is a song by Scottish DJ Calvin Harris, released on 14 March 2014 as the second single from his fourth studio album \"Motion\".\n\nThe song debuted at number one on the UK Singles Chart, becoming Harris's sixth UK number-one single. It peaked at number seven on the Billboard Hot 100, becoming his second top ten hit as a lead artist and third overall, and had sold over a million copies in the United States as of July 2014.\n\nThe song would then spike in popularity again when it was used in a meme called \"Wenomechainsama\" <a href=\"http://www.last.fm/music/Calvin+Harris/_/Summer\">Read more on Last.fm</a>.",
+      "content": "\"Summer\" is a song by Scottish DJ Calvin Harris, released on 14 March 2014 as the second single from his fourth studio album \"Motion\".\n\nThe song debuted at number one on the UK Singles Chart, becoming Harris's sixth UK number-one single. It peaked at number seven on the Billboard Hot 100, becoming his second top ten hit as a lead artist and third overall, and had sold over a million copies in the United States as of July 2014.\n\nThe song would then spike in popularity again when it was used in a meme called \"Wenomechainsama\", which is gibberish that phonetically matches the opening lyrics to \"Summer\". <a href=\"http://www.last.fm/music/Calvin+Harris/_/Summer\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

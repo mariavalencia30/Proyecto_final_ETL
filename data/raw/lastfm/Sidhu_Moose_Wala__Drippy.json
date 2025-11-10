@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Drippy",
+    "mbid": "c5488679-f596-4957-94e8-ea7c49b597fd",
+    "url": "https://www.last.fm/music/Sidhu+Moose+Wala/_/Drippy",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "7414",
+    "playcount": "63972",
+    "artist": {
+      "name": "Sidhu Moose Wala",
+      "mbid": "119a6864-622b-4e6c-8aab-a422080530c6",
+      "url": "https://www.last.fm/music/Sidhu+Moose+Wala"
+    },
+    "album": {
+      "artist": "Sidhu Moose Wala",
+      "title": "Drippy and Other Hits",
+      "url": "https://www.last.fm/music/Sidhu+Moose+Wala/Drippy+and+Other+Hits",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3293d52cfb45ee5c32ddd15e8d2e64ff.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3293d52cfb45ee5c32ddd15e8d2e64ff.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3293d52cfb45ee5c32ddd15e8d2e64ff.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3293d52cfb45ee5c32ddd15e8d2e64ff.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

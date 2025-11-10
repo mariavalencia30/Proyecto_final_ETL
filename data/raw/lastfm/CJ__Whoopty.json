@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Whoopty",
+    "mbid": "fb9f3d07-a6a2-4472-ab2a-fab30981018a",
+    "url": "https://www.last.fm/music/CJ/_/Whoopty",
+    "duration": "123000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "347440",
+    "playcount": "2881184",
+    "artist": {
+      "name": "CJ",
+      "mbid": "204826ff-938f-47c6-835a-a46020ba7559",
+      "url": "https://www.last.fm/music/CJ"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Bravo Hits, Vol. 113",
+      "url": "https://www.last.fm/music/Various+Artists/Bravo+Hits,+Vol.+113",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3f8ed99561814a373866dcd3d86c3723.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3f8ed99561814a373866dcd3d86c3723.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3f8ed99561814a373866dcd3d86c3723.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3f8ed99561814a373866dcd3d86c3723.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

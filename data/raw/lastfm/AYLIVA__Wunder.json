@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "Wunder",
+    "url": "https://www.last.fm/music/AYLIVA/_/Wunder",
+    "duration": "176000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "33285",
+    "playcount": "411286",
+    "artist": {
+      "name": "AYLIVA",
+      "mbid": "a23888ba-2bf5-409b-8fed-8d9b544f175a",
+      "url": "https://www.last.fm/music/AYLIVA"
+    },
+    "album": {
+      "artist": "AYLIVA",
+      "title": "In Liebe",
+      "url": "https://www.last.fm/music/AYLIVA/In+Liebe",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c42d1050347c7cda2497924aea1d5439.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c42d1050347c7cda2497924aea1d5439.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c42d1050347c7cda2497924aea1d5439.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c42d1050347c7cda2497924aea1d5439.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "09 May 2024, 09:07",
+      "summary": "\"Wunder\"  by German singer AYLIVA and German rapper Apache 207, released on April 26, 2024, explores themes of love, longing, and the complexities of relationships. <a href=\"http://www.last.fm/music/AYLIVA/_/Wunder\">Read more on Last.fm</a>.",
+      "content": "\"Wunder\"  by German singer AYLIVA and German rapper Apache 207, released on April 26, 2024, explores themes of love, longing, and the complexities of relationships. <a href=\"http://www.last.fm/music/AYLIVA/_/Wunder\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

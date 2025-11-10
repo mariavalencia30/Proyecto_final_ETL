@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "400 Degreez",
+    "mbid": "058b348f-4629-35c7-a839-9c4da74d4660",
+    "url": "https://www.last.fm/music/Juvenile/_/400+Degreez",
+    "duration": "249000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "32328",
+    "playcount": "103603",
+    "artist": {
+      "name": "Juvenile",
+      "mbid": "ba9afaf0-ef3a-42a6-afe0-f924193629bb",
+      "url": "https://www.last.fm/music/Juvenile"
+    },
+    "album": {
+      "artist": "Juvenile",
+      "title": "Greatest Hits",
+      "url": "https://www.last.fm/music/Juvenile/Greatest+Hits",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/430b252d0df0414aa0e7b80c4fe013c6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/430b252d0df0414aa0e7b80c4fe013c6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/430b252d0df0414aa0e7b80c4fe013c6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/430b252d0df0414aa0e7b80c4fe013c6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

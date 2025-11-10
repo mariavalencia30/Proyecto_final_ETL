@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Forever After All",
+    "mbid": "3bf6cfff-77d2-4d53-aa26-cd1f90a264bf",
+    "url": "https://www.last.fm/music/Luke+Combs/_/Forever+After+All",
+    "duration": "232000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "127684",
+    "playcount": "1273494",
+    "artist": {
+      "name": "Luke Combs",
+      "mbid": "c20ee61f-071f-4e65-9c81-45ee931a54ce",
+      "url": "https://www.last.fm/music/Luke+Combs"
+    },
+    "album": {
+      "artist": "Luke Combs",
+      "title": "The Trilogy",
+      "url": "https://www.last.fm/music/Luke+Combs/The+Trilogy",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/568aaa4bcc8c58fb725ef55f24ae8d78.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/568aaa4bcc8c58fb725ef55f24ae8d78.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/568aaa4bcc8c58fb725ef55f24ae8d78.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/568aaa4bcc8c58fb725ef55f24ae8d78.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "19 Oct 2021, 08:22",
+      "summary": "\"Forever After All\" is a song by American country music singer Luke Combs, It was released on October 23, 2020, as part of What You See Ain't Always What You Get, the deluxe edition of his second studio album, What You See Is What You Get. Following its release, the song broke Apple Music and Spotify's streaming records for a country song.\n\nCommercially, the song debuted at #2 on the US Billboard Hot 100, behind Ariana Grande's \"Positions\", and #1 on the Hot Country Songs chart for the week ending November 7, 2020. <a href=\"http://www.last.fm/music/Luke+Combs/_/Forever+After+All\">Read more on Last.fm</a>.",
+      "content": "\"Forever After All\" is a song by American country music singer Luke Combs, It was released on October 23, 2020, as part of What You See Ain't Always What You Get, the deluxe edition of his second studio album, What You See Is What You Get. Following its release, the song broke Apple Music and Spotify's streaming records for a country song.\n\nCommercially, the song debuted at #2 on the US Billboard Hot 100, behind Ariana Grande's \"Positions\", and #1 on the Hot Country Songs chart for the week ending November 7, 2020. In addition, he surpassed Chris Gaines' \"Lost in You\" (1999) as the highest Hot 100 debut ever for a male country artist. <a href=\"http://www.last.fm/music/Luke+Combs/_/Forever+After+All\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

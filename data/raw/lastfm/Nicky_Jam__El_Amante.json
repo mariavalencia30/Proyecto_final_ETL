@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "El Amante",
+    "mbid": "15a3fe09-e786-4a13-8f4c-3691383cdb78",
+    "url": "https://www.last.fm/music/Nicky+Jam/_/El+Amante",
+    "duration": "219000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "113742",
+    "playcount": "610024",
+    "artist": {
+      "name": "Nicky Jam",
+      "mbid": "c458e9dc-e0d5-45ea-9e83-f9d0395f030d",
+      "url": "https://www.last.fm/music/Nicky+Jam"
+    },
+    "album": {
+      "artist": "Nicky Jam",
+      "title": "Fénix",
+      "url": "https://www.last.fm/music/Nicky+Jam/F%C3%A9nix",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ff4799ef4ac97487f2d09c3592cae6ea.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ff4799ef4ac97487f2d09c3592cae6ea.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ff4799ef4ac97487f2d09c3592cae6ea.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ff4799ef4ac97487f2d09c3592cae6ea.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

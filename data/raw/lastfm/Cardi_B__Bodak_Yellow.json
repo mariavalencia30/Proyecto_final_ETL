@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Bodak Yellow",
+    "mbid": "ba923dbb-b9b9-4890-9d14-3c5607bb12af",
+    "url": "https://www.last.fm/music/Cardi+B/_/Bodak+Yellow",
+    "duration": "223000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "651218",
+    "playcount": "5316930",
+    "artist": {
+      "name": "Cardi B",
+      "mbid": "2f3c4d70-0462-40da-bba3-0aec5772c556",
+      "url": "https://www.last.fm/music/Cardi+B"
+    },
+    "album": {
+      "artist": "Cardi B",
+      "title": "Bodak Yellow",
+      "url": "https://www.last.fm/music/Cardi+B/Bodak+Yellow",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4a6d94558e09f75632e130c92d50977c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4a6d94558e09f75632e130c92d50977c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4a6d94558e09f75632e130c92d50977c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4a6d94558e09f75632e130c92d50977c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "east coast hip hop",
+          "url": "https://www.last.fm/tag/east+coast+hip+hop"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "2017",
+          "url": "https://www.last.fm/tag/2017"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "18 Mar 2018, 18:21",
+      "summary": "\"Bodak Yellow\" is a song written and recorded by American rapper Cardi B. It was released on June 16, 2017, by Atlantic Records as her debut single on a major record label and the lead single from her debut studio album \"Invasion of Privacy\" (2018). The song was influenced by and interpolates the flow of American rapper Kodak Black’s song “No Flockin”. It topped the US Billboard Hot 100 chart for three consecutive weeks, making Cardi B the fifth female rapper to ever lead the chart <a href=\"http://www.last.fm/music/Cardi+B/_/Bodak+Yellow\">Read more on Last.fm</a>.",
+      "content": "\"Bodak Yellow\" is a song written and recorded by American rapper Cardi B. It was released on June 16, 2017, by Atlantic Records as her debut single on a major record label and the lead single from her debut studio album \"Invasion of Privacy\" (2018). The song was influenced by and interpolates the flow of American rapper Kodak Black’s song “No Flockin”. It topped the US Billboard Hot 100 chart for three consecutive weeks, making Cardi B the fifth female rapper to ever lead the chart, and the second to do so with a solo song, following Lauryn Hill's \"Doo Wop (That Thing)\" in 1998. <a href=\"http://www.last.fm/music/Cardi+B/_/Bodak+Yellow\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Botella Tras Botella",
+    "url": "https://www.last.fm/music/Gera+MX/_/Botella+Tras+Botella",
+    "duration": "197000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "90087",
+    "playcount": "845260",
+    "artist": {
+      "name": "Gera MX",
+      "mbid": "50a7ba7d-02fa-4ce6-9e09-f2194238bbe5",
+      "url": "https://www.last.fm/music/Gera+MX"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Fiesteando Vol. 2",
+      "url": "https://www.last.fm/music/Various+Artists/Fiesteando+Vol.+2",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f432b5995d675ef478667f8df7c5605a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f432b5995d675ef478667f8df7c5605a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f432b5995d675ef478667f8df7c5605a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f432b5995d675ef478667f8df7c5605a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

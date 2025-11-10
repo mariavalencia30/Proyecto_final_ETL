@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Bel Mercy",
+    "mbid": "1e91b8fc-3550-42c4-9d09-9998f86deaed",
+    "url": "https://www.last.fm/music/Jengi/_/Bel+Mercy",
+    "duration": "97000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "121008",
+    "playcount": "678981",
+    "artist": {
+      "name": "Jengi",
+      "mbid": "fdcd9dec-2d99-4d58-879f-ea99286006a8",
+      "url": "https://www.last.fm/music/Jengi"
+    },
+    "album": {
+      "artist": "Jengi",
+      "title": "Bel Mercy - Single",
+      "url": "https://www.last.fm/music/Jengi/Bel+Mercy+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a47b1ff3eade6122f74d112091756c27.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a47b1ff3eade6122f74d112091756c27.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a47b1ff3eade6122f74d112091756c27.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a47b1ff3eade6122f74d112091756c27.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

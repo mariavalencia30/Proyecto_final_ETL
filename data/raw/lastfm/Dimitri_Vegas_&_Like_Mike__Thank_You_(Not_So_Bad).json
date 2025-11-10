@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Thank You (Not So Bad)",
+    "url": "https://www.last.fm/music/Dimitri+Vegas+&+Like+Mike/_/Thank+You+(Not+So+Bad)",
+    "duration": "140000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "232149",
+    "playcount": "1500241",
+    "artist": {
+      "name": "Dimitri Vegas & Like Mike",
+      "mbid": "c5931849-7c9d-465e-b717-29e2af974c6b",
+      "url": "https://www.last.fm/music/Dimitri+Vegas+&+Like+Mike"
+    },
+    "album": {
+      "artist": "Dimitri Vegas & Like Mike",
+      "title": "Thank You (Not So Bad)",
+      "url": "https://www.last.fm/music/Dimitri+Vegas+&+Like+Mike/Thank+You+(Not+So+Bad)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/86c68338f464a97424b5b8e175542974.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/86c68338f464a97424b5b8e175542974.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/86c68338f464a97424b5b8e175542974.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/86c68338f464a97424b5b8e175542974.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

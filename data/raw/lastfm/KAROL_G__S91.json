@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "S91",
+    "mbid": "e64a34a8-47ac-4ebe-af46-1f1076cef2f4",
+    "url": "https://www.last.fm/music/KAROL+G/_/S91",
+    "duration": "173000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "111344",
+    "playcount": "1101945",
+    "artist": {
+      "name": "KAROL G",
+      "mbid": "de22adae-f8ac-414f-b653-b0162611bd60",
+      "url": "https://www.last.fm/music/KAROL+G"
+    },
+    "album": {
+      "artist": "KAROL G",
+      "title": "S91",
+      "url": "https://www.last.fm/music/KAROL+G/S91",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/44139fc639c7c1417740f8e80cec777b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/44139fc639c7c1417740f8e80cec777b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/44139fc639c7c1417740f8e80cec777b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/44139fc639c7c1417740f8e80cec777b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

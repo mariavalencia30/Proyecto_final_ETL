@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "QLONA",
+    "mbid": "facc43f3-de6e-4464-97f1-d38fd1df9879",
+    "url": "https://www.last.fm/music/KAROL+G/_/QLONA",
+    "duration": "172000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "308910",
+    "playcount": "3343300",
+    "artist": {
+      "name": "KAROL G",
+      "mbid": "de22adae-f8ac-414f-b653-b0162611bd60",
+      "url": "https://www.last.fm/music/KAROL+G"
+    },
+    "album": {
+      "artist": "KAROL G",
+      "title": "QLONA [Explicit]",
+      "url": "https://www.last.fm/music/KAROL+G/QLONA+%5BExplicit%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/804602b10c80c54e24f97bc0ec6ff302.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/804602b10c80c54e24f97bc0ec6ff302.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/804602b10c80c54e24f97bc0ec6ff302.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/804602b10c80c54e24f97bc0ec6ff302.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

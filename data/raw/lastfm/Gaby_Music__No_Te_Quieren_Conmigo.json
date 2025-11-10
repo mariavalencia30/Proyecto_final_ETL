@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "No Te Quieren Conmigo",
+    "url": "https://www.last.fm/music/Gaby+Music/_/No+Te+Quieren+Conmigo",
+    "duration": "252000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "56640",
+    "playcount": "450723",
+    "artist": {
+      "name": "Gaby Music",
+      "mbid": "56505b4e-efa3-4721-853f-20dcdebe4431",
+      "url": "https://www.last.fm/music/Gaby+Music"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

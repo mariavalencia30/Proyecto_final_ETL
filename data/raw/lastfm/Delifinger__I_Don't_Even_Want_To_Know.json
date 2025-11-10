@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "I Don't Even Want To Know",
+    "url": "https://www.last.fm/music/delifinger/_/I+Don%27t+Even+Want+To+Know",
+    "duration": "190000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "20",
+    "playcount": "32",
+    "artist": {
+      "name": "delifinger",
+      "url": "https://www.last.fm/music/delifinger"
+    },
+    "album": {
+      "artist": "delifinger",
+      "title": "I Don't Even Want To Know - Single",
+      "url": "https://www.last.fm/music/delifinger/I+Don%27t+Even+Want+To+Know+-+Single",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

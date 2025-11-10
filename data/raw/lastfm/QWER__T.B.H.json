@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "T.B.H",
+    "mbid": "6fb03818-404e-4fd3-96ac-8d895bdce694",
+    "url": "https://www.last.fm/music/QWER/_/T.B.H",
+    "duration": "175000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "43346",
+    "playcount": "639660",
+    "artist": {
+      "name": "QWER",
+      "mbid": "86bfda70-ad8c-4db4-9041-e4843d918269",
+      "url": "https://www.last.fm/music/QWER"
+    },
+    "album": {
+      "artist": "QWER",
+      "title": "1st Mini Album 'MANITO'",
+      "url": "https://www.last.fm/music/QWER/1st+Mini+Album+%27MANITO%27",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/72f12755516241a81689fa8485d48eb6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/72f12755516241a81689fa8485d48eb6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/72f12755516241a81689fa8485d48eb6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72f12755516241a81689fa8485d48eb6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

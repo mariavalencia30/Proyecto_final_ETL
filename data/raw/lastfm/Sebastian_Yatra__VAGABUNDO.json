@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "VAGABUNDO",
+    "url": "https://www.last.fm/music/Sebastian+Yatra/_/VAGABUNDO",
+    "duration": "215000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "82045",
+    "playcount": "650773",
+    "artist": {
+      "name": "Sebastian Yatra",
+      "url": "https://www.last.fm/music/Sebastian+Yatra"
+    },
+    "album": {
+      "artist": "Sebastian Yatra",
+      "title": "VAGABUNDO",
+      "url": "https://www.last.fm/music/Sebastian+Yatra/VAGABUNDO",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9fefa868ae7df2142d4fd72947469357.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9fefa868ae7df2142d4fd72947469357.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9fefa868ae7df2142d4fd72947469357.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9fefa868ae7df2142d4fd72947469357.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

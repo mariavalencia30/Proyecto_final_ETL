@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "hot girl bummer",
+    "mbid": "000c81ee-bc19-4fa0-ae9f-856ec9a92c3c",
+    "url": "https://www.last.fm/music/blackbear/_/hot+girl+bummer",
+    "duration": "185000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "745597",
+    "playcount": "7843895",
+    "artist": {
+      "name": "blackbear",
+      "mbid": "e07d9474-00ea-4460-ac27-88b46b3d976e",
+      "url": "https://www.last.fm/music/blackbear"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Massive Hits",
+      "url": "https://www.last.fm/music/Various+Artists/Massive+Hits",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/890c0c67f08e0ea3f29fc0fd29ee6037.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/890c0c67f08e0ea3f29fc0fd29ee6037.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/890c0c67f08e0ea3f29fc0fd29ee6037.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/890c0c67f08e0ea3f29fc0fd29ee6037.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://www.last.fm/tag/blackbear"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "25 May 2020, 00:23",
+      "summary": "\"hot girl bummer\" is a song by American recording artist Blackbear, released as a single through Beartrap on August 23, 2019, from his fifth studio album everything means nothing. It reached number 11 on the US Billboard Hot 100, the top forty in nineteen additional countries, and the top ten in six additional countries. <a href=\"http://www.last.fm/music/blackbear/_/hot+girl+bummer\">Read more on Last.fm</a>.",
+      "content": "\"hot girl bummer\" is a song by American recording artist Blackbear, released as a single through Beartrap on August 23, 2019, from his fifth studio album everything means nothing. It reached number 11 on the US Billboard Hot 100, the top forty in nineteen additional countries, and the top ten in six additional countries. <a href=\"http://www.last.fm/music/blackbear/_/hot+girl+bummer\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

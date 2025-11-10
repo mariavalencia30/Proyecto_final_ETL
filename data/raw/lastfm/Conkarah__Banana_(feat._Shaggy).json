@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Banana (feat. Shaggy)",
+    "url": "https://www.last.fm/music/Conkarah/_/Banana+(feat.+Shaggy)",
+    "duration": "184000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "13736",
+    "playcount": "52866",
+    "artist": {
+      "name": "Conkarah",
+      "mbid": "efad2fcb-50dd-4192-8674-18b2e53f1512",
+      "url": "https://www.last.fm/music/Conkarah"
+    },
+    "album": {
+      "artist": "Various Artists /",
+      "title": "Latina Fever, Vol. 4: Reggaeton, Bachata, Salsa",
+      "url": "https://www.last.fm/music/Various+Artists+%2F/Latina+Fever,+Vol.+4:+Reggaeton,+Bachata,+Salsa",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

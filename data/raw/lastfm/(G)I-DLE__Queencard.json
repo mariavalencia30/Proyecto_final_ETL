@@ -1,0 +1,48 @@
+{
+  "track": {
+    "name": "Queencard",
+    "url": "https://www.last.fm/music/(G)I-DLE/_/Queencard",
+    "duration": "160000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "484047",
+    "playcount": "10180402",
+    "artist": {
+      "name": "(G)I-DLE",
+      "url": "https://www.last.fm/music/(G)I-DLE"
+    },
+    "album": {
+      "artist": "(G)I-DLE",
+      "title": "Queencard",
+      "url": "https://www.last.fm/music/(G)I-DLE/Queencard",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6d90f2f077624805103c5e640b878a45.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6d90f2f077624805103c5e640b878a45.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6d90f2f077624805103c5e640b878a45.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6d90f2f077624805103c5e640b878a45.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "15 Mar 2024, 12:11",
+      "summary": "(G)I-DLE “Queencard” song description on Melon Korean Music Platform: “Queencard” by (G)I-DLE is a vibrant celebration of self-love. The song underscores the importance of accepting oneself as they are, rather than focusing on external appearances. It brings to light the realization that genuine self-love embodies the real ‘Queencard’, as defined by (G)I-DLE. The song encourages listeners to embrace their individuality and cultivate self-love. <a href=\"http://www.last.fm/music/(G)I-DLE/_/Queencard\">Read more on Last.fm</a>.",
+      "content": "(G)I-DLE “Queencard” song description on Melon Korean Music Platform: “Queencard” by (G)I-DLE is a vibrant celebration of self-love. The song underscores the importance of accepting oneself as they are, rather than focusing on external appearances. It brings to light the realization that genuine self-love embodies the real ‘Queencard’, as defined by (G)I-DLE. The song encourages listeners to embrace their individuality and cultivate self-love. <a href=\"http://www.last.fm/music/(G)I-DLE/_/Queencard\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

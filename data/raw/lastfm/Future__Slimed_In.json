@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "Slimed In",
+    "url": "https://www.last.fm/music/Future/_/Slimed+In",
+    "duration": "194000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "276612",
+    "playcount": "1640293",
+    "artist": {
+      "name": "Future",
+      "mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+      "url": "https://www.last.fm/music/Future"
+    },
+    "album": {
+      "artist": "Future",
+      "title": "WE DON'T TRUST YOU",
+      "url": "https://www.last.fm/music/Future/WE+DON%27T+TRUST+YOU",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed0b0acbc5af9cabb31acbf3ba9e79bb.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed0b0acbc5af9cabb31acbf3ba9e79bb.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed0b0acbc5af9cabb31acbf3ba9e79bb.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed0b0acbc5af9cabb31acbf3ba9e79bb.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "22 Mar 2024, 20:28",
+      "summary": "In “Slimed In,” Future delves into his signature slime lifestyle, stepping out of the box of class and success. The second half of the SUPER SLIMEY duo, Young Thug, lays emphasis on his roots, away from the glamor of fame. Future’s confidence, oozing with nods to his street status, captures a classic dynamic between him and Metro Boomin—withdrawing their strengths as a rapper-producer duo. <a href=\"http://www.last.fm/music/Future/_/Slimed+In\">Read more on Last.fm</a>.",
+      "content": "In “Slimed In,” Future delves into his signature slime lifestyle, stepping out of the box of class and success. The second half of the SUPER SLIMEY duo, Young Thug, lays emphasis on his roots, away from the glamor of fame. Future’s confidence, oozing with nods to his street status, captures a classic dynamic between him and Metro Boomin—withdrawing their strengths as a rapper-producer duo. <a href=\"http://www.last.fm/music/Future/_/Slimed+In\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

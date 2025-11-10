@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Padam Padam",
+    "mbid": "10b0d191-a523-4edc-9887-5527eb1a3e38",
+    "url": "https://www.last.fm/music/Kylie+Minogue/_/Padam+Padam",
+    "duration": "166000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "355997",
+    "playcount": "5798915",
+    "artist": {
+      "name": "Kylie Minogue",
+      "mbid": "2fddb92d-24b2-46a5-bf28-3aed46f4684c",
+      "url": "https://www.last.fm/music/Kylie+Minogue"
+    },
+    "album": {
+      "artist": "Kylie Minogue",
+      "title": "Tension (Deluxe)",
+      "url": "https://www.last.fm/music/Kylie+Minogue/Tension+(Deluxe)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0f97c824366a46037081fe056e5b9034.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0f97c824366a46037081fe056e5b9034.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0f97c824366a46037081fe056e5b9034.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f97c824366a46037081fe056e5b9034.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "18 May 2023, 17:52",
+      "summary": "\"Padam Padam\" is the Grammy Award winning song by Australian singer Kylie Minogue, released on 18 May 2023 as the lead single from her sixteenth studio album, \"Tension\". It was written by Ina Wroldsen and Peter Rycroft, and produced by Lostboy. The music video was directed by Sophie Muller and released the same day as the song. <a href=\"http://www.last.fm/music/Kylie+Minogue/_/Padam+Padam\">Read more on Last.fm</a>.",
+      "content": "\"Padam Padam\" is the Grammy Award winning song by Australian singer Kylie Minogue, released on 18 May 2023 as the lead single from her sixteenth studio album, \"Tension\". It was written by Ina Wroldsen and Peter Rycroft, and produced by Lostboy. The music video was directed by Sophie Muller and released the same day as the song. <a href=\"http://www.last.fm/music/Kylie+Minogue/_/Padam+Padam\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

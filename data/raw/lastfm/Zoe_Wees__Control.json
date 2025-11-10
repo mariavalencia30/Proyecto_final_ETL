@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Control",
+    "url": "https://www.last.fm/music/Zoe+Wees/_/Control",
+    "duration": "232000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "164589",
+    "playcount": "1298224",
+    "artist": {
+      "name": "Zoe Wees",
+      "url": "https://www.last.fm/music/Zoe+Wees"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Now That's What I Call Music, Vol. 77",
+      "url": "https://www.last.fm/music/Various+Artists/Now+That%27s+What+I+Call+Music,+Vol.+77",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a729643f70fc68dcb35b184856899086.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a729643f70fc68dcb35b184856899086.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a729643f70fc68dcb35b184856899086.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a729643f70fc68dcb35b184856899086.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

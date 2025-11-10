@@ -1,0 +1,22 @@
+{
+  "track": {
+    "name": "Sweet Dreams",
+    "mbid": "d2761ba8-7451-4592-a4cd-db5f53acd59e",
+    "url": "https://www.last.fm/music/Koe+Wetzel/_/Sweet+Dreams",
+    "duration": "173000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "33527",
+    "playcount": "306859",
+    "artist": {
+      "name": "Koe Wetzel",
+      "mbid": "cf59723d-febb-4481-9b9b-3cb2c7f2a7e6",
+      "url": "https://www.last.fm/music/Koe+Wetzel"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

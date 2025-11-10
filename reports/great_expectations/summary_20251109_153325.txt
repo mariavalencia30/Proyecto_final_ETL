@@ -1,0 +1,3 @@
+Filas después de validación: 4006
+Columnas: 35
+Fecha de validación: 20251109_153325

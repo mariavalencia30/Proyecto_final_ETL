@@ -1,0 +1,65 @@
+{
+  "track": {
+    "name": "Tarot",
+    "url": "https://www.last.fm/music/Bad+Bunny/_/Tarot",
+    "duration": "237000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "326142",
+    "playcount": "4822071",
+    "artist": {
+      "name": "Bad Bunny",
+      "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "url": "https://www.last.fm/music/Bad+Bunny"
+    },
+    "album": {
+      "artist": "Bad Bunny",
+      "title": "Un Verano Sin Ti",
+      "url": "https://www.last.fm/music/Bad+Bunny/Un+Verano+Sin+Ti",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3fc1caf14abbd6d7e3853e4fb4dfa3be.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3fc1caf14abbd6d7e3853e4fb4dfa3be.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3fc1caf14abbd6d7e3853e4fb4dfa3be.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3fc1caf14abbd6d7e3853e4fb4dfa3be.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Reggaeton",
+          "url": "https://www.last.fm/tag/Reggaeton"
+        },
+        {
+          "name": "latin",
+          "url": "https://www.last.fm/tag/latin"
+        },
+        {
+          "name": "furry",
+          "url": "https://www.last.fm/tag/furry"
+        },
+        {
+          "name": "Roblox",
+          "url": "https://www.last.fm/tag/Roblox"
+        },
+        {
+          "name": "didnt go to college for a free throw",
+          "url": "https://www.last.fm/tag/didnt+go+to+college+for+a+free+throw"
+        }
+      ]
+    }
+  }
+}

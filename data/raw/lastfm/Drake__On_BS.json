@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "On BS",
+    "url": "https://www.last.fm/music/Drake/_/On+BS",
+    "duration": "261000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "489365",
+    "playcount": "5211233",
+    "artist": {
+      "name": "Drake",
+      "mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+      "url": "https://www.last.fm/music/Drake"
+    },
+    "album": {
+      "artist": "Drake",
+      "title": "Her Loss",
+      "url": "https://www.last.fm/music/Drake/Her+Loss",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5b8aa4e15c1ab4d93dd8efa632dc3101.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5b8aa4e15c1ab4d93dd8efa632dc3101.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5b8aa4e15c1ab4d93dd8efa632dc3101.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5b8aa4e15c1ab4d93dd8efa632dc3101.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "21 savage",
+          "url": "https://www.last.fm/tag/21+savage"
+        },
+        {
+          "name": "Drake",
+          "url": "https://www.last.fm/tag/Drake"
+        },
+        {
+          "name": "spoken word",
+          "url": "https://www.last.fm/tag/spoken+word"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "memphis rap",
+          "url": "https://www.last.fm/tag/memphis+rap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "11 Nov 2022, 09:33",
+      "summary": "“On BS” serves as the third track on Toronto Rapper, Drake and Atlanta rapper, 21 Savage’s first collaborative album titled, Her Loss.\n\nOn the track, Drake and 21 rap about high-class women, fancy jewellery, and expensive living while tying in their music and how it’s better than most, with a lyrics such as:\n\n\"I jump on your song and make you sound like you the feature\"\n\nThis is also the first song on the album to have an official music video, which was cleverly promoted as an SNL performance. <a href=\"http://www.last.fm/music/Drake/_/On+BS\">Read more on Last.fm</a>.",
+      "content": "“On BS” serves as the third track on Toronto Rapper, Drake and Atlanta rapper, 21 Savage’s first collaborative album titled, Her Loss.\n\nOn the track, Drake and 21 rap about high-class women, fancy jewellery, and expensive living while tying in their music and how it’s better than most, with a lyrics such as:\n\n\"I jump on your song and make you sound like you the feature\"\n\nThis is also the first song on the album to have an official music video, which was cleverly promoted as an SNL performance. <a href=\"http://www.last.fm/music/Drake/_/On+BS\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

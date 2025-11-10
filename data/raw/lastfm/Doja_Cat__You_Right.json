@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "You Right",
+    "mbid": "4a685094-5c70-43c8-b66c-87961b1f4933",
+    "url": "https://www.last.fm/music/Doja+Cat/_/You+Right",
+    "duration": "181000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1184488",
+    "playcount": "15975626",
+    "artist": {
+      "name": "Doja Cat",
+      "mbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+      "url": "https://www.last.fm/music/Doja+Cat"
+    },
+    "album": {
+      "artist": "Doja Cat",
+      "title": "You Right",
+      "url": "https://www.last.fm/music/Doja+Cat/You+Right",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e2190e2f8133b9c1d71d1c8df851e8b7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e2190e2f8133b9c1d71d1c8df851e8b7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e2190e2f8133b9c1d71d1c8df851e8b7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e2190e2f8133b9c1d71d1c8df851e8b7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://www.last.fm/tag/The+Weeknd"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "27 Jun 2021, 02:23",
+      "summary": "“You Right” is the third single and eighth overall track from Doja Cat’s third studio album, Planet Her. The track followed two previous singles, “Kiss Me More (feat. SZA)” and “Need To Know”. “You Right” also features Canadian singer, The Weeknd. Produced and co-written by Dr. Luke. <a href=\"http://www.last.fm/music/Doja+Cat/_/You+Right\">Read more on Last.fm</a>.",
+      "content": "“You Right” is the third single and eighth overall track from Doja Cat’s third studio album, Planet Her. The track followed two previous singles, “Kiss Me More (feat. SZA)” and “Need To Know”. “You Right” also features Canadian singer, The Weeknd. Produced and co-written by Dr. Luke. <a href=\"http://www.last.fm/music/Doja+Cat/_/You+Right\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

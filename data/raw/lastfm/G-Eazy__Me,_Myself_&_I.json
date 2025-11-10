@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Me, Myself & I",
+    "mbid": "c1aa8c7e-4d27-4c07-b1eb-c61450e81feb",
+    "url": "https://www.last.fm/music/G-Eazy/_/Me,+Myself+&+I",
+    "duration": "251000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "706986",
+    "playcount": "5522898",
+    "artist": {
+      "name": "G-Eazy",
+      "url": "https://www.last.fm/music/G-Eazy"
+    },
+    "album": {
+      "artist": "G-Eazy",
+      "title": "When It's Dark Out",
+      "url": "https://www.last.fm/music/G-Eazy/When+It%27s+Dark+Out",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ebc3b9936ed9ee798f76ab61fff77c5b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ebc3b9936ed9ee798f76ab61fff77c5b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ebc3b9936ed9ee798f76ab61fff77c5b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ebc3b9936ed9ee798f76ab61fff77c5b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "club",
+          "url": "https://www.last.fm/tag/club"
+        },
+        {
+          "name": "spring",
+          "url": "https://www.last.fm/tag/spring"
+        },
+        {
+          "name": "summer",
+          "url": "https://www.last.fm/tag/summer"
+        },
+        {
+          "name": "autumn",
+          "url": "https://www.last.fm/tag/autumn"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "11 Jul 2016, 07:01",
+      "summary": "\"Me, Myself & I\" is a song by American singers G-Eazy and Bebe Rexha. It was released on October 14, 2015, as the first single for his second studio album When It's Dark Out. \"Me, Myself & I\" was written by Bebe Rexha, G-Eazy, Lauren Christy, TMS and Michael Keenan. The song was originally produced by Bebe Rexha & TMS and re-produced by Michael Keenan, with additional production by Christoph Andersson and G-Eazy.\nIt is so far his highest charting single, peaking at number 7 on the US Billboard Hot 100. <a href=\"http://www.last.fm/music/G-Eazy/_/Me,+Myself+&+I\">Read more on Last.fm</a>.",
+      "content": "\"Me, Myself & I\" is a song by American singers G-Eazy and Bebe Rexha. It was released on October 14, 2015, as the first single for his second studio album When It's Dark Out. \"Me, Myself & I\" was written by Bebe Rexha, G-Eazy, Lauren Christy, TMS and Michael Keenan. The song was originally produced by Bebe Rexha & TMS and re-produced by Michael Keenan, with additional production by Christoph Andersson and G-Eazy.\nIt is so far his highest charting single, peaking at number 7 on the US Billboard Hot 100. <a href=\"http://www.last.fm/music/G-Eazy/_/Me,+Myself+&+I\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

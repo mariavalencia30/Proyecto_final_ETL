@@ -1,0 +1,22 @@
+{
+  "track": {
+    "name": "Wanna Be",
+    "mbid": "9456f763-599e-4782-b9e1-179a07499ba3",
+    "url": "https://www.last.fm/music/GloRilla/_/Wanna+Be",
+    "duration": "156000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3757",
+    "playcount": "12281",
+    "artist": {
+      "name": "GloRilla",
+      "mbid": "2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2",
+      "url": "https://www.last.fm/music/GloRilla"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

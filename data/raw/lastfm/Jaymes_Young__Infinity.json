@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Infinity",
+    "mbid": "46bc4b1d-e225-40d0-a6fd-5317fdbf522a",
+    "url": "https://www.last.fm/music/Jaymes+Young/_/Infinity",
+    "duration": "237000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "550697",
+    "playcount": "4578743",
+    "artist": {
+      "name": "Jaymes Young",
+      "mbid": "1c494195-f8b9-456f-8516-42695bfae57b",
+      "url": "https://www.last.fm/music/Jaymes+Young"
+    },
+    "album": {
+      "artist": "Jaymes Young",
+      "title": "Feel Something",
+      "url": "https://www.last.fm/music/Jaymes+Young/Feel+Something",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7026efe7971fba52f75e8367a261c835.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7026efe7971fba52f75e8367a261c835.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7026efe7971fba52f75e8367a261c835.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7026efe7971fba52f75e8367a261c835.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indietronica",
+          "url": "https://www.last.fm/tag/indietronica"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "indie pop",
+          "url": "https://www.last.fm/tag/indie+pop"
+        }
+      ]
+    }
+  }
+}

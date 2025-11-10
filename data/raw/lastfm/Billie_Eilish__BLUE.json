@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "BLUE",
+    "mbid": "7b0ccd88-be61-4cbe-b33c-84326ccb07b0",
+    "url": "https://www.last.fm/music/Billie+Eilish/_/BLUE",
+    "duration": "343000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "900992",
+    "playcount": "13696280",
+    "artist": {
+      "name": "Billie Eilish",
+      "mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+      "url": "https://www.last.fm/music/Billie+Eilish"
+    },
+    "album": {
+      "artist": "Billie Eilish",
+      "title": "Blue",
+      "url": "https://www.last.fm/music/Billie+Eilish/Blue",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b0225f4b10e4ee9052d24f09ca4f2b36.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b0225f4b10e4ee9052d24f09ca4f2b36.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b0225f4b10e4ee9052d24f09ca4f2b36.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b0225f4b10e4ee9052d24f09ca4f2b36.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "WSUM 91.7 FM Madison",
+          "url": "https://www.last.fm/tag/WSUM+91.7+FM+Madison"
+        },
+        {
+          "name": "Cambrian O Clock",
+          "url": "https://www.last.fm/tag/Cambrian+O+Clock"
+        },
+        {
+          "name": "peter",
+          "url": "https://www.last.fm/tag/peter"
+        },
+        {
+          "name": "trip hop",
+          "url": "https://www.last.fm/tag/trip+hop"
+        },
+        {
+          "name": "alt-pop",
+          "url": "https://www.last.fm/tag/alt-pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "17 May 2024, 11:04",
+      "summary": "“BLUE” is the closing and a standout track from Billie Eilish’s third studio album HIT ME HARD AND SOFT. The song is a fusion of two older, unreleased tracks: “True Blue” and “Born Blue.” Lyrically, “BLUE” explores themes of heartache and emotional detachment, reflecting on a failed relationship and feelings of inadequacy. The repeated imagery of the color blue emphasizes sadness, regret, and longing. Billie sings about trying to move on but feeling trapped in her emotional state <a href=\"http://www.last.fm/music/Billie+Eilish/_/BLUE\">Read more on Last.fm</a>.",
+      "content": "“BLUE” is the closing and a standout track from Billie Eilish’s third studio album HIT ME HARD AND SOFT. The song is a fusion of two older, unreleased tracks: “True Blue” and “Born Blue.” Lyrically, “BLUE” explores themes of heartache and emotional detachment, reflecting on a failed relationship and feelings of inadequacy. The repeated imagery of the color blue emphasizes sadness, regret, and longing. Billie sings about trying to move on but feeling trapped in her emotional state, contrasting her desire to live in “black and white” with the overwhelming “blue” emotions she can’t escape.\n\nThe song’s second part deepens its emotional impact by exploring childhood trauma, touching on themes of parental neglect and inherited pain. This part ties personal experiences with broader reflections on identity and growing up in the public eye, as both Billie and the person she’s addressing seem to struggle with the consequences of their upbringing.\n\nThe production, helmed by her brother Finneas, incorporates atmospheric elements that build the song’s introspective and melancholic tone, making “BLUE” a powerful emotional closer for the album. <a href=\"http://www.last.fm/music/Billie+Eilish/_/BLUE\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

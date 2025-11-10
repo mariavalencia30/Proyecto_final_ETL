@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Casanova",
+    "url": "https://www.last.fm/music/Soolking/_/Casanova",
+    "duration": "187000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "73728",
+    "playcount": "870028",
+    "artist": {
+      "name": "Soolking",
+      "mbid": "530a9937-4229-4d7e-8457-4853d7d5dd7a",
+      "url": "https://www.last.fm/music/Soolking"
+    },
+    "album": {
+      "artist": "Soolking",
+      "title": "Casanova",
+      "url": "https://www.last.fm/music/Soolking/Casanova",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/914030165d3e96a1a9925ca7325274de.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/914030165d3e96a1a9925ca7325274de.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/914030165d3e96a1a9925ca7325274de.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/914030165d3e96a1a9925ca7325274de.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

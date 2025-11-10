@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "ICU",
+    "mbid": "eb7bf60a-f4f2-4ab1-9de0-f653a0fe01b7",
+    "url": "https://www.last.fm/music/Coco+Jones/_/ICU",
+    "duration": "241000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "110174",
+    "playcount": "792324",
+    "artist": {
+      "name": "Coco Jones",
+      "mbid": "b4e7bcfa-3487-4380-9eb3-ef8036b83e0f",
+      "url": "https://www.last.fm/music/Coco+Jones"
+    },
+    "album": {
+      "artist": "Coco Jones",
+      "title": "ICU",
+      "url": "https://www.last.fm/music/Coco+Jones/ICU",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/503a98a321dfc930372de75c746da884.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/503a98a321dfc930372de75c746da884.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/503a98a321dfc930372de75c746da884.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/503a98a321dfc930372de75c746da884.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

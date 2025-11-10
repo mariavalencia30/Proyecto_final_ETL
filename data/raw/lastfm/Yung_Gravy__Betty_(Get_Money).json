@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Betty (Get Money)",
+    "mbid": "68391a34-7202-4b94-8098-3bae359c39f7",
+    "url": "https://www.last.fm/music/Yung+Gravy/_/Betty+(Get+Money)",
+    "duration": "145000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "355853",
+    "playcount": "3267305",
+    "artist": {
+      "name": "Yung Gravy",
+      "mbid": "20b034b2-35a1-40be-908f-22d1b5681572",
+      "url": "https://www.last.fm/music/Yung+Gravy"
+    },
+    "album": {
+      "artist": "Yung Gravy",
+      "title": "Betty (Get Money)",
+      "url": "https://www.last.fm/music/Yung+Gravy/Betty+(Get+Money)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1668c1d1f95976c511febf397dfe2f75.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1668c1d1f95976c511febf397dfe2f75.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1668c1d1f95976c511febf397dfe2f75.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1668c1d1f95976c511febf397dfe2f75.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

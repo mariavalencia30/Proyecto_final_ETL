@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Anti-Hero",
+    "mbid": "6bb9e766-97a5-440f-9173-99515493d2d4",
+    "url": "https://www.last.fm/music/Taylor+Swift/_/Anti-Hero",
+    "duration": "200000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1305859",
+    "playcount": "33290416",
+    "artist": {
+      "name": "Taylor Swift",
+      "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+      "url": "https://www.last.fm/music/Taylor+Swift"
+    },
+    "album": {
+      "artist": "Taylor Swift",
+      "title": "Midnights [Clean]",
+      "url": "https://www.last.fm/music/Taylor+Swift/Midnights+%5BClean%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cbfa0b1b932a94bb930302e3b2d18b75.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cbfa0b1b932a94bb930302e3b2d18b75.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cbfa0b1b932a94bb930302e3b2d18b75.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cbfa0b1b932a94bb930302e3b2d18b75.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "pop rock",
+          "url": "https://www.last.fm/tag/pop+rock"
+        },
+        {
+          "name": "soty",
+          "url": "https://www.last.fm/tag/soty"
+        },
+        {
+          "name": "Midnights (The Til Dawn Edition)",
+          "url": "https://www.last.fm/tag/Midnights+(The+Til+Dawn+Edition)"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "21 Oct 2022, 04:29",
+      "summary": "\"Anti-Hero\" is an introspective look at the struggles of being a flawed person. The protagonist has feelings of insecurity, depression and self-doubt, which she is unable to escape. She recognizes that her own weaknesses are the problem, and can clearly see the faults of herself while still avoiding any kind of self reflection. Everyone around her agrees that she's in the wrong, but she can't help but continue to try her best anyway. Despite feeling like a so-called anti-hero <a href=\"http://www.last.fm/music/Taylor+Swift/_/Anti-Hero\">Read more on Last.fm</a>.",
+      "content": "\"Anti-Hero\" is an introspective look at the struggles of being a flawed person. The protagonist has feelings of insecurity, depression and self-doubt, which she is unable to escape. She recognizes that her own weaknesses are the problem, and can clearly see the faults of herself while still avoiding any kind of self reflection. Everyone around her agrees that she's in the wrong, but she can't help but continue to try her best anyway. Despite feeling like a so-called anti-hero, she keeps on going, \"staring directly at the sun\" as her own form of courage and strength. The song is ultimately a reminder to not be too hard on oneself, and to be proud of the unique qualities that make us standout, despite our flaws. <a href=\"http://www.last.fm/music/Taylor+Swift/_/Anti-Hero\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

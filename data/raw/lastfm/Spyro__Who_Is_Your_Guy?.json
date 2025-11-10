@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Who Is Your Guy?",
+    "url": "https://www.last.fm/music/Spyro/_/Who+Is+Your+Guy%3F",
+    "duration": "160000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "6882",
+    "playcount": "39773",
+    "artist": {
+      "name": "Spyro",
+      "mbid": "994f41f2-6d70-4b8f-b4a0-04d2a4465d86",
+      "url": "https://www.last.fm/music/Spyro"
+    },
+    "album": {
+      "artist": "Spyro",
+      "title": "Who Is Your Guy?",
+      "url": "https://www.last.fm/music/Spyro/Who+Is+Your+Guy%3F",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c86604a69d7c8c9e2a8a8f73f22a3b88.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c86604a69d7c8c9e2a8a8f73f22a3b88.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c86604a69d7c8c9e2a8a8f73f22a3b88.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c86604a69d7c8c9e2a8a8f73f22a3b88.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

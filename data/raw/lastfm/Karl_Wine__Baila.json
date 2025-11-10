@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Baila",
+    "url": "https://www.last.fm/music/Karl+Wine/_/Baila",
+    "duration": "122000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "928",
+    "playcount": "5524",
+    "artist": {
+      "name": "Karl Wine",
+      "mbid": "0a24e84a-1fbe-450b-96c3-c446a1bb31a4",
+      "url": "https://www.last.fm/music/Karl+Wine"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "NRJ Good Vibes 2021",
+      "url": "https://www.last.fm/music/Various+Artists/NRJ+Good+Vibes+2021",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8387dc5227769ad8176fc942b9158291.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8387dc5227769ad8176fc942b9158291.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8387dc5227769ad8176fc942b9158291.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8387dc5227769ad8176fc942b9158291.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

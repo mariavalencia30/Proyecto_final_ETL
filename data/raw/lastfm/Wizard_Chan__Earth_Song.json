@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Earth Song",
+    "url": "https://www.last.fm/music/Wizard+Chan/_/Earth+Song",
+    "duration": "183000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1674",
+    "playcount": "12161",
+    "artist": {
+      "name": "Wizard Chan",
+      "url": "https://www.last.fm/music/Wizard+Chan"
+    },
+    "album": {
+      "artist": "Wizard Chan",
+      "title": "Earth Song",
+      "url": "https://www.last.fm/music/Wizard+Chan/Earth+Song",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/27344598e01c779da9d1a17a370711d1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/27344598e01c779da9d1a17a370711d1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/27344598e01c779da9d1a17a370711d1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/27344598e01c779da9d1a17a370711d1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

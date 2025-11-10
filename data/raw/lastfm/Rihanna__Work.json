@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Work",
+    "mbid": "14c3952d-689e-4344-bd3e-02856e83c665",
+    "url": "https://www.last.fm/music/Rihanna/_/Work",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1098088",
+    "playcount": "9444689",
+    "artist": {
+      "name": "Rihanna",
+      "mbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+      "url": "https://www.last.fm/music/Rihanna"
+    },
+    "album": {
+      "artist": "Rihanna",
+      "title": "ANTI",
+      "url": "https://www.last.fm/music/Rihanna/ANTI",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0e21b3cd15b8e3bdeb7e8946effd5d8c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0e21b3cd15b8e3bdeb7e8946effd5d8c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0e21b3cd15b8e3bdeb7e8946effd5d8c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0e21b3cd15b8e3bdeb7e8946effd5d8c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "dancehall",
+          "url": "https://www.last.fm/tag/dancehall"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "2016",
+          "url": "https://www.last.fm/tag/2016"
+        },
+        {
+          "name": "Drake",
+          "url": "https://www.last.fm/tag/Drake"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://www.last.fm/tag/Rihanna"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "23 Feb 2016, 00:58",
+      "summary": "The first single from ANTI marks her third feature with Drake. \"Work\" reached #1 on the Billboard Hot 100, and is Rihanna's 14th single to reach the top of the chart. <a href=\"http://www.last.fm/music/Rihanna/_/Work\">Read more on Last.fm</a>.",
+      "content": "The first single from ANTI marks her third feature with Drake. \"Work\" reached #1 on the Billboard Hot 100, and is Rihanna's 14th single to reach the top of the chart. <a href=\"http://www.last.fm/music/Rihanna/_/Work\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

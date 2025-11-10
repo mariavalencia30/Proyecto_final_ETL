@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Anabella",
+    "mbid": "941f6419-6bce-4a28-aedf-8f69713afa3c",
+    "url": "https://www.last.fm/music/Khaid/_/Anabella",
+    "duration": "124000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3338",
+    "playcount": "23136",
+    "artist": {
+      "name": "Khaid",
+      "url": "https://www.last.fm/music/Khaid"
+    },
+    "album": {
+      "artist": "Khaid",
+      "title": "Anabella",
+      "url": "https://www.last.fm/music/Khaid/Anabella",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c4f49d8ed11afa8e2cf2ecd5556a3798.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c4f49d8ed11afa8e2cf2ecd5556a3798.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c4f49d8ed11afa8e2cf2ecd5556a3798.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c4f49d8ed11afa8e2cf2ecd5556a3798.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Tal Para Cual",
+    "url": "https://www.last.fm/music/Salastkbron/_/Tal+Para+Cual",
+    "duration": "151000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "14536",
+    "playcount": "117738",
+    "artist": {
+      "name": "Salastkbron",
+      "mbid": "84033d8e-982f-461f-8b6d-bd05b546b48a",
+      "url": "https://www.last.fm/music/Salastkbron"
+    },
+    "album": {
+      "artist": "Salastkbron",
+      "title": "Tal Para Cual",
+      "url": "https://www.last.fm/music/Salastkbron/Tal+Para+Cual",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a5390f3117daa17ebdfa052194a48256.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a5390f3117daa17ebdfa052194a48256.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a5390f3117daa17ebdfa052194a48256.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a5390f3117daa17ebdfa052194a48256.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

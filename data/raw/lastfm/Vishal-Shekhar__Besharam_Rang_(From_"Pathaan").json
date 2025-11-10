@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Besharam Rang (From \"Pathaan\")",
+    "url": "https://www.last.fm/music/Vishal-Shekhar/_/Besharam+Rang+(From+%22Pathaan%22)",
+    "duration": "258000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "27138",
+    "playcount": "195993",
+    "artist": {
+      "name": "Vishal-Shekhar",
+      "url": "https://www.last.fm/music/Vishal-Shekhar"
+    },
+    "album": {
+      "artist": "Vishal-Shekhar",
+      "title": "Beach Vibes Only",
+      "url": "https://www.last.fm/music/Vishal-Shekhar/Beach+Vibes+Only",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5bb3794c7f67374103a514c2033c618b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5bb3794c7f67374103a514c2033c618b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5bb3794c7f67374103a514c2033c618b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5bb3794c7f67374103a514c2033c618b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

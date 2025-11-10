@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Solo (feat. Demi Lovato)",
+    "mbid": "0a88e8af-cf68-4f86-9466-0be628cc5d52",
+    "url": "https://www.last.fm/music/Clean+Bandit/_/Solo+(feat.+Demi+Lovato)",
+    "duration": "222000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "505760",
+    "playcount": "4685907",
+    "artist": {
+      "name": "Clean Bandit",
+      "mbid": "dacc2d64-7e59-42a8-87a9-10c53919aff2",
+      "url": "https://www.last.fm/music/Clean+Bandit"
+    },
+    "album": {
+      "artist": "Clean Bandit",
+      "title": "What Is Love?",
+      "url": "https://www.last.fm/music/Clean+Bandit/What+Is+Love%3F",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c2caeda14caa7c12ec5e9fd3b0c89c1c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c2caeda14caa7c12ec5e9fd3b0c89c1c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c2caeda14caa7c12ec5e9fd3b0c89c1c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c2caeda14caa7c12ec5e9fd3b0c89c1c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "EDM",
+          "url": "https://www.last.fm/tag/EDM"
+        },
+        {
+          "name": "Clean bandit",
+          "url": "https://www.last.fm/tag/Clean+bandit"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://www.last.fm/tag/Demi+Lovato"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "18 May 2018, 03:41",
+      "summary": "\"Solo\" is a song by British electronic music band Clean Bandit featuring vocals from Demi Lovato, released on May 18, 2018. On May 14, Clean Bandit tweeted a nine seconds video of the instrumental part of the song. On May 16, they did again with an eleven seconds video but now including Demi's vocals. <a href=\"http://www.last.fm/music/Clean+Bandit/_/Solo+(feat.+Demi+Lovato)\">Read more on Last.fm</a>.",
+      "content": "\"Solo\" is a song by British electronic music band Clean Bandit featuring vocals from Demi Lovato, released on May 18, 2018. On May 14, Clean Bandit tweeted a nine seconds video of the instrumental part of the song. On May 16, they did again with an eleven seconds video but now including Demi's vocals. <a href=\"http://www.last.fm/music/Clean+Bandit/_/Solo+(feat.+Demi+Lovato)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

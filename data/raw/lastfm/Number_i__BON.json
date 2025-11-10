@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "BON",
+    "mbid": "88e3fa01-61bf-4620-8270-6935b9e734ee",
+    "url": "https://www.last.fm/music/Number_i/_/BON",
+    "duration": "203000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "6068",
+    "playcount": "55026",
+    "artist": {
+      "name": "Number_i",
+      "mbid": "126a09d9-04a2-4d06-9cc7-eea581007a0f",
+      "url": "https://www.last.fm/music/Number_i"
+    },
+    "album": {
+      "artist": "Number_i",
+      "title": "No.O -ring-",
+      "url": "https://www.last.fm/music/Number_i/No.O+-ring-",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bffb6f9df85b20ef163336bf8152f381.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bffb6f9df85b20ef163336bf8152f381.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bffb6f9df85b20ef163336bf8152f381.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bffb6f9df85b20ef163336bf8152f381.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "In My Mind",
+    "mbid": "132054ae-f20a-4eee-8592-4fe65b89bd19",
+    "url": "https://www.last.fm/music/Dynoro/_/In+My+Mind",
+    "duration": "180000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "509979",
+    "playcount": "4197361",
+    "artist": {
+      "name": "Dynoro",
+      "mbid": "b3968fd2-df5c-42b6-a5e2-d9963322d5c7",
+      "url": "https://www.last.fm/music/Dynoro"
+    },
+    "album": {
+      "artist": "Dynoro",
+      "title": "In My Mind",
+      "url": "https://www.last.fm/music/Dynoro/In+My+Mind",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4762f4c035460fcef5226ea486b4efbb.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4762f4c035460fcef5226ea486b4efbb.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4762f4c035460fcef5226ea486b4efbb.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4762f4c035460fcef5226ea486b4efbb.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

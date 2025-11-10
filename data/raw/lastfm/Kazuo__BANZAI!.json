@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "BANZAI!",
+    "url": "https://www.last.fm/music/Kazuo/_/BANZAI%21",
+    "duration": "182000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "686",
+    "playcount": "4689",
+    "artist": {
+      "name": "Kazuo",
+      "mbid": "c5a8f406-4675-47ef-a60c-e818655f993d",
+      "url": "https://www.last.fm/music/Kazuo"
+    },
+    "album": {
+      "artist": "Kazuo",
+      "title": "BANZAI!",
+      "url": "https://www.last.fm/music/Kazuo/BANZAI%21",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

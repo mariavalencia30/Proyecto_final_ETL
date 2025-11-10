@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "EL AMOR DE SU VIDA",
+    "url": "https://www.last.fm/music/Grupo+Frontera/_/EL+AMOR+DE+SU+VIDA",
+    "duration": "165000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "110530",
+    "playcount": "1103759",
+    "artist": {
+      "name": "Grupo Frontera",
+      "mbid": "4c57c827-4ce3-4cf4-9492-0ff7f1ee2b0f",
+      "url": "https://www.last.fm/music/Grupo+Frontera"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

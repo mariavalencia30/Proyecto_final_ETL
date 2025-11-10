@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "6. A.M.",
+    "url": "https://www.last.fm/music/Azul/_/6.+A.M.",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "8",
+    "playcount": "13",
+    "artist": {
+      "name": "Azul",
+      "mbid": "e1c9060b-51a5-4ea9-bb66-e10b19b4647b",
+      "url": "https://www.last.fm/music/Azul"
+    },
+    "album": {
+      "artist": "Azul",
+      "title": "Motion is Emotion",
+      "url": "https://www.last.fm/music/Azul/Motion+is+Emotion",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

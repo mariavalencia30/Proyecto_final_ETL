@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Axel F",
+    "mbid": "5f466a24-aa0f-4371-ada9-53ad6b04f666",
+    "url": "https://www.last.fm/music/Crazy+Frog/_/Axel+F",
+    "duration": "171000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "439240",
+    "playcount": "2435236",
+    "artist": {
+      "name": "Crazy Frog",
+      "mbid": "3df914b9-e0bc-493c-875a-c412f84ecdad",
+      "url": "https://www.last.fm/music/Crazy+Frog"
+    },
+    "album": {
+      "artist": "Crazy Frog",
+      "title": "Crazy Hits",
+      "url": "https://www.last.fm/music/Crazy+Frog/Crazy+Hits",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e899add5fca7f7732f7ec9d2a3ec0583.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e899add5fca7f7732f7ec9d2a3ec0583.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e899add5fca7f7732f7ec9d2a3ec0583.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e899add5fca7f7732f7ec9d2a3ec0583.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "28 May 2021, 09:32",
+      "summary": "Cover of \"Axle F\"  from Beverly Hills Cop score composed by Harold Faltermeyer and added songwriting by Wolfgang Boss <a href=\"http://www.last.fm/music/Crazy+Frog/_/Axel+F\">Read more on Last.fm</a>.",
+      "content": "Cover of \"Axle F\"  from Beverly Hills Cop score composed by Harold Faltermeyer and added songwriting by Wolfgang Boss <a href=\"http://www.last.fm/music/Crazy+Frog/_/Axel+F\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Sweetest Pie",
+    "mbid": "31ca8792-131b-4637-a8c0-1c3e95c1f65c",
+    "url": "https://www.last.fm/music/Megan+Thee+Stallion/_/Sweetest+Pie",
+    "duration": "201000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "634410",
+    "playcount": "6266724",
+    "artist": {
+      "name": "Megan Thee Stallion",
+      "mbid": "ee27b2d8-648c-4a9d-a68c-e55066959975",
+      "url": "https://www.last.fm/music/Megan+Thee+Stallion"
+    },
+    "album": {
+      "artist": "Megan Thee Stallion",
+      "title": "Sweetest Pie",
+      "url": "https://www.last.fm/music/Megan+Thee+Stallion/Sweetest+Pie",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f4cc3f6a465c0526a6d6c0ef89ca74fe.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f4cc3f6a465c0526a6d6c0ef89ca74fe.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f4cc3f6a465c0526a6d6c0ef89ca74fe.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f4cc3f6a465c0526a6d6c0ef89ca74fe.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "atlanta bass",
+          "url": "https://www.last.fm/tag/atlanta+bass"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "2022",
+          "url": "https://www.last.fm/tag/2022"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "11 Mar 2022, 12:51",
+      "summary": "\"Sweetest Pie\" is the lead single from Megan Thee Stallion's second studio album, Traumazine. It features English singer Dua Lipa.\n\nThe track takes the shape of a catchy, upbeat and sultry pop song, with both Megan and Dua radiating confidence and owning their sexuality via their lyrics —which also make use of dessert euphemisms.\n\nThe music video juxtaposes beautiful things with horrific things, which is apt given the overall sweet but dangerous theme. <a href=\"http://www.last.fm/music/Megan+Thee+Stallion/_/Sweetest+Pie\">Read more on Last.fm</a>.",
+      "content": "\"Sweetest Pie\" is the lead single from Megan Thee Stallion's second studio album, Traumazine. It features English singer Dua Lipa.\n\nThe track takes the shape of a catchy, upbeat and sultry pop song, with both Megan and Dua radiating confidence and owning their sexuality via their lyrics —which also make use of dessert euphemisms.\n\nThe music video juxtaposes beautiful things with horrific things, which is apt given the overall sweet but dangerous theme. <a href=\"http://www.last.fm/music/Megan+Thee+Stallion/_/Sweetest+Pie\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

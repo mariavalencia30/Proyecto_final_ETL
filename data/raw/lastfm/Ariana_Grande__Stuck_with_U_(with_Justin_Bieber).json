@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Stuck with U (with Justin Bieber)",
+    "mbid": "b25a098b-7935-4570-9edc-feb600c17129",
+    "url": "https://www.last.fm/music/Ariana+Grande/_/Stuck+with+U+(with+Justin+Bieber)",
+    "duration": "228000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "687949",
+    "playcount": "6882578",
+    "artist": {
+      "name": "Ariana Grande",
+      "mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+      "url": "https://www.last.fm/music/Ariana+Grande"
+    },
+    "album": {
+      "artist": "Ariana Grande & Justin Bieber",
+      "title": "Stuck With U [Cassette Single]",
+      "url": "https://www.last.fm/music/Ariana+Grande+&+Justin+Bieber/Stuck+With+U+%5BCassette+Single%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/61cbea725b6f844db92aff4e6a41c03f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/61cbea725b6f844db92aff4e6a41c03f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/61cbea725b6f844db92aff4e6a41c03f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/61cbea725b6f844db92aff4e6a41c03f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "justin bieber",
+          "url": "https://www.last.fm/tag/justin+bieber"
+        },
+        {
+          "name": "2020s",
+          "url": "https://www.last.fm/tag/2020s"
+        },
+        {
+          "name": "soty",
+          "url": "https://www.last.fm/tag/soty"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "2020",
+          "url": "https://www.last.fm/tag/2020"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "18 Aug 2020, 14:25",
+      "summary": "\"Stuck with U\" is a song by American singer Ariana Grande and Canadian singer Justin Bieber. It was released as a charity single on May 8, 2020.[1] The song marks the second time both artists collaborated following a remix of Bieber's 2015 single \"What Do You Mean?\". According to their manager Scooter Braun who also co-wrote the track, the song is the first of more charity singles to be released throughout 2020. <a href=\"http://www.last.fm/music/Ariana+Grande/_/Stuck+with+U+(with+Justin+Bieber)\">Read more on Last.fm</a>.",
+      "content": "\"Stuck with U\" is a song by American singer Ariana Grande and Canadian singer Justin Bieber. It was released as a charity single on May 8, 2020.[1] The song marks the second time both artists collaborated following a remix of Bieber's 2015 single \"What Do You Mean?\". According to their manager Scooter Braun who also co-wrote the track, the song is the first of more charity singles to be released throughout 2020. <a href=\"http://www.last.fm/music/Ariana+Grande/_/Stuck+with+U+(with+Justin+Bieber)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

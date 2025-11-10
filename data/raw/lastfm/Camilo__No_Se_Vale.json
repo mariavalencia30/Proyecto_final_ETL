@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "No Se Vale",
+    "url": "https://www.last.fm/music/Camilo/_/No+Se+Vale",
+    "duration": "180000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "7467",
+    "playcount": "58181",
+    "artist": {
+      "name": "Camilo",
+      "url": "https://www.last.fm/music/Camilo"
+    },
+    "album": {
+      "artist": "Camilo",
+      "title": "un",
+      "url": "https://www.last.fm/music/Camilo/un",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/51f1cb5a5bfd32c116ff08374021d330.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/51f1cb5a5bfd32c116ff08374021d330.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/51f1cb5a5bfd32c116ff08374021d330.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/51f1cb5a5bfd32c116ff08374021d330.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

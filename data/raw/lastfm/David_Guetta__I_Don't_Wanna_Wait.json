@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "I Don't Wanna Wait",
+    "mbid": "2b361ee7-e5b2-46db-96bb-110da8238981",
+    "url": "https://www.last.fm/music/David+Guetta/_/I+Don%27t+Wanna+Wait",
+    "duration": "149000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "277090",
+    "playcount": "1647988",
+    "artist": {
+      "name": "David Guetta",
+      "mbid": "302bd7b9-d012-4360-897a-93b00c855680",
+      "url": "https://www.last.fm/music/David+Guetta"
+    },
+    "album": {
+      "artist": "David Guetta",
+      "title": "I Don't Wanna Wait",
+      "url": "https://www.last.fm/music/David+Guetta/I+Don%27t+Wanna+Wait",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/19bfb0a57fe3de5d62ebdb881ccc4ddd.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/19bfb0a57fe3de5d62ebdb881ccc4ddd.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/19bfb0a57fe3de5d62ebdb881ccc4ddd.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/19bfb0a57fe3de5d62ebdb881ccc4ddd.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

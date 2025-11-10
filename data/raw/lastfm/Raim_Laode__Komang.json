@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Komang",
+    "url": "https://www.last.fm/music/Raim+Laode/_/Komang",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "25736",
+    "playcount": "261755",
+    "artist": {
+      "name": "Raim Laode",
+      "url": "https://www.last.fm/music/Raim+Laode"
+    },
+    "album": {
+      "artist": "Raim Laode",
+      "title": "Komang - Single",
+      "url": "https://www.last.fm/music/Raim+Laode/Komang+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2c6fb77b12b6867135432170a40df9cf.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2c6fb77b12b6867135432170a40df9cf.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2c6fb77b12b6867135432170a40df9cf.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2c6fb77b12b6867135432170a40df9cf.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

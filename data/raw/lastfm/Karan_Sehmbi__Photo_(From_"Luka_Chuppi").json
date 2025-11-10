@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Photo (From \"Luka Chuppi\")",
+    "url": "https://www.last.fm/music/Karan+Sehmbi/_/Photo+(From+%22Luka+Chuppi%22)",
+    "duration": "177000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "8886",
+    "playcount": "48467",
+    "artist": {
+      "name": "Karan Sehmbi",
+      "mbid": "71dc70e5-cd7a-48e0-9c0b-ba6b87f5411d",
+      "url": "https://www.last.fm/music/Karan+Sehmbi"
+    },
+    "album": {
+      "artist": "群星",
+      "title": "Best of Kriti Sanon",
+      "url": "https://www.last.fm/music/%E7%BE%A4%E6%98%9F/Best+of+Kriti+Sanon",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/69703b2b7b3546bd88244b7bc404b8cc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/69703b2b7b3546bd88244b7bc404b8cc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/69703b2b7b3546bd88244b7bc404b8cc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/69703b2b7b3546bd88244b7bc404b8cc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

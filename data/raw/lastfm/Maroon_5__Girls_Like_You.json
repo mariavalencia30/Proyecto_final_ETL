@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Girls Like You",
+    "url": "https://www.last.fm/music/Maroon+5/_/Girls+Like+You",
+    "duration": "215000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "260334",
+    "playcount": "1404955",
+    "artist": {
+      "name": "Maroon 5",
+      "mbid": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
+      "url": "https://www.last.fm/music/Maroon+5"
+    },
+    "album": {
+      "artist": "Maroon 5",
+      "title": "Red Pill Blues (Deluxe)",
+      "url": "https://www.last.fm/music/Maroon+5/Red+Pill+Blues+(Deluxe)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/103aa20a67beffa98240fac2891ebc77.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/103aa20a67beffa98240fac2891ebc77.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/103aa20a67beffa98240fac2891ebc77.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/103aa20a67beffa98240fac2891ebc77.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

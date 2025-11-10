@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "DOGTOOTH",
+    "mbid": "9f75d1f0-d545-4dde-b3c1-ee2b0412bae3",
+    "url": "https://www.last.fm/music/Tyler,+The+Creator/_/DOGTOOTH",
+    "duration": "161000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "832894",
+    "playcount": "10819295",
+    "artist": {
+      "name": "Tyler, The Creator",
+      "mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+      "url": "https://www.last.fm/music/Tyler,+The+Creator"
+    },
+    "album": {
+      "artist": "Tyler, The Creator",
+      "title": "DOGTOOTH",
+      "url": "https://www.last.fm/music/Tyler,+The+Creator/DOGTOOTH",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/571e8406ce02254145822abe0a3312c1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/571e8406ce02254145822abe0a3312c1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/571e8406ce02254145822abe0a3312c1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/571e8406ce02254145822abe0a3312c1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "jazz rap",
+          "url": "https://www.last.fm/tag/jazz+rap"
+        },
+        {
+          "name": "Neo-Soul",
+          "url": "https://www.last.fm/tag/Neo-Soul"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "Dirty South",
+          "url": "https://www.last.fm/tag/Dirty+South"
+        },
+        {
+          "name": "tyler the creator",
+          "url": "https://www.last.fm/tag/tyler+the+creator"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "27 Mar 2023, 15:02",
+      "summary": "“DOGTOOTH” is the first surprise drop from the CALL ME IF YOU GET LOST: The Estate Sale expansion pack, released on March 27, 2023. As stated by Tyler, this track is a leftover from his album, CALL ME IF YOU GET LOST, that was never intended to “see the light of day”. The song was released along with a music video, directed by Tyler himself.\n\nDuring the tracking week ending April 8, 2023, the song debuted at #81 on the US Billboard Hot 100 chart. <a href=\"http://www.last.fm/music/Tyler,+The+Creator/_/DOGTOOTH\">Read more on Last.fm</a>.",
+      "content": "“DOGTOOTH” is the first surprise drop from the CALL ME IF YOU GET LOST: The Estate Sale expansion pack, released on March 27, 2023. As stated by Tyler, this track is a leftover from his album, CALL ME IF YOU GET LOST, that was never intended to “see the light of day”. The song was released along with a music video, directed by Tyler himself.\n\nDuring the tracking week ending April 8, 2023, the song debuted at #81 on the US Billboard Hot 100 chart. <a href=\"http://www.last.fm/music/Tyler,+The+Creator/_/DOGTOOTH\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

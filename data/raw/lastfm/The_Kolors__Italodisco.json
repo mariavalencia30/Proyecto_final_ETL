@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Italodisco",
+    "mbid": "a0f377de-f63c-4e25-9659-2f3e06bf288f",
+    "url": "https://www.last.fm/music/The+Kolors/_/Italodisco",
+    "duration": "199000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "72517",
+    "playcount": "630624",
+    "artist": {
+      "name": "The Kolors",
+      "mbid": "d1ed4ed2-bf33-4348-90cd-83f18732d176",
+      "url": "https://www.last.fm/music/The+Kolors"
+    },
+    "album": {
+      "artist": "The Kolors",
+      "title": "Italodisco",
+      "url": "https://www.last.fm/music/The+Kolors/Italodisco",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/561b7f39c7da740194975dee67a23326.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/561b7f39c7da740194975dee67a23326.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/561b7f39c7da740194975dee67a23326.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/561b7f39c7da740194975dee67a23326.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

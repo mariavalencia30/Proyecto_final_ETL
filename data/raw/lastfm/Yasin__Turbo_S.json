@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Turbo S",
+    "mbid": "a206ae08-54ea-4226-b7f4-d2a3c7515d4a",
+    "url": "https://www.last.fm/music/Yasin/_/Turbo+S",
+    "duration": "101000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3853",
+    "playcount": "38092",
+    "artist": {
+      "name": "Yasin",
+      "mbid": "3e7c1862-9e69-4f3f-ac66-68998244b18d",
+      "url": "https://www.last.fm/music/Yasin"
+    },
+    "album": {
+      "artist": "Yasin",
+      "title": "PISTOLER POESI OCH SEX",
+      "url": "https://www.last.fm/music/Yasin/PISTOLER+POESI+OCH+SEX",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/69a62214bd7041c56c5f57ce5879d324.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/69a62214bd7041c56c5f57ce5879d324.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/69a62214bd7041c56c5f57ce5879d324.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/69a62214bd7041c56c5f57ce5879d324.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

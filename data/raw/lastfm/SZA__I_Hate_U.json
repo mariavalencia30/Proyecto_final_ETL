@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "I Hate U",
+    "mbid": "f5e54962-d384-435f-8006-fbb872790c73",
+    "url": "https://www.last.fm/music/SZA/_/I+Hate+U",
+    "duration": "173000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "865654",
+    "playcount": "11687473",
+    "artist": {
+      "name": "SZA",
+      "mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+      "url": "https://www.last.fm/music/SZA"
+    },
+    "album": {
+      "artist": "SZA",
+      "title": "I Hate U",
+      "url": "https://www.last.fm/music/SZA/I+Hate+U",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/31e984b1063ba3120a9fd155c84788fd.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/31e984b1063ba3120a9fd155c84788fd.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/31e984b1063ba3120a9fd155c84788fd.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/31e984b1063ba3120a9fd155c84788fd.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "alternative rnb",
+          "url": "https://www.last.fm/tag/alternative+rnb"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "love at first listen",
+          "url": "https://www.last.fm/tag/love+at+first+listen"
+        },
+        {
+          "name": "sza",
+          "url": "https://www.last.fm/tag/sza"
+        },
+        {
+          "name": "pop rock",
+          "url": "https://www.last.fm/tag/pop+rock"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "06 Dec 2021, 14:07",
+      "summary": "\"I Hate U\" is a song by American singer SZA. Originally released in August 2021 on her SoundCloud, along with two other songs (\"Joni\" and \"Nightbird\"), it eventually received a release on major platforms on December 3, 2021, after garnering popularity on the video-sharing app TikTok. A break-up song, it finds SZA detailing what went wrong in a past relationship, expressing resentment towards her ex, but acknowledging that she still misses them. \"I Hate U\" is an electro-R&B song with a \"crunching\" <a href=\"http://www.last.fm/music/SZA/_/I+Hate+U\">Read more on Last.fm</a>.",
+      "content": "\"I Hate U\" is a song by American singer SZA. Originally released in August 2021 on her SoundCloud, along with two other songs (\"Joni\" and \"Nightbird\"), it eventually received a release on major platforms on December 3, 2021, after garnering popularity on the video-sharing app TikTok. A break-up song, it finds SZA detailing what went wrong in a past relationship, expressing resentment towards her ex, but acknowledging that she still misses them. \"I Hate U\" is an electro-R&B song with a \"crunching\", dark instrumental, containing a relaxed, \"ethereal\" chorus, and hip hop-influenced verses. <a href=\"http://www.last.fm/music/SZA/_/I+Hate+U\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

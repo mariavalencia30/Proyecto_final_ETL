@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Hey Mor",
+    "url": "https://www.last.fm/music/Ozuna/_/Hey+Mor",
+    "duration": "196000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "202699",
+    "playcount": "2097576",
+    "artist": {
+      "name": "Ozuna",
+      "mbid": "f2651b63-a44d-4d1d-ba64-d981d971ecd1",
+      "url": "https://www.last.fm/music/Ozuna"
+    },
+    "album": {
+      "artist": "Ozuna",
+      "title": "OzuTochi",
+      "url": "https://www.last.fm/music/Ozuna/OzuTochi",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/accc9cd62c5debfc15747bed6025f137.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/accc9cd62c5debfc15747bed6025f137.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/accc9cd62c5debfc15747bed6025f137.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/accc9cd62c5debfc15747bed6025f137.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

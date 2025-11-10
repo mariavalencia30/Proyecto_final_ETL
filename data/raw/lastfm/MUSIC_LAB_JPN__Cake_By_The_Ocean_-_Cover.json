@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Cake By The Ocean - Cover",
+    "url": "https://www.last.fm/music/MUSIC+LAB+JPN/_/Cake+By+The+Ocean+-+Cover",
+    "duration": "220000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "84",
+    "playcount": "100",
+    "artist": {
+      "name": "MUSIC LAB JPN",
+      "url": "https://www.last.fm/music/MUSIC+LAB+JPN"
+    },
+    "album": {
+      "artist": "MUSIC LAB JPN",
+      "title": "TREND RANKING",
+      "url": "https://www.last.fm/music/MUSIC+LAB+JPN/TREND+RANKING",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

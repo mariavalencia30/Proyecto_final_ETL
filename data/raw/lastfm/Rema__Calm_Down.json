@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Calm Down",
+    "mbid": "e7d4a352-cf63-4c6d-8721-409ca57db03d",
+    "url": "https://www.last.fm/music/Rema/_/Calm+Down",
+    "duration": "219000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "231203",
+    "playcount": "2058414",
+    "artist": {
+      "name": "Rema",
+      "mbid": "720c46ba-a0e4-4b58-aee2-3bd70c70901f",
+      "url": "https://www.last.fm/music/Rema"
+    },
+    "album": {
+      "artist": "Rema",
+      "title": "Calm Down",
+      "url": "https://www.last.fm/music/Rema/Calm+Down",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/553ecf9c0b810188e9cd9b4dc5ce00ce.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/553ecf9c0b810188e9cd9b4dc5ce00ce.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/553ecf9c0b810188e9cd9b4dc5ce00ce.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/553ecf9c0b810188e9cd9b4dc5ce00ce.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

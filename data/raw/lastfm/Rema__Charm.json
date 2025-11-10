@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Charm",
+    "mbid": "aaf436d6-9a69-4d79-8fc7-9af7f930a206",
+    "url": "https://www.last.fm/music/Rema/_/Charm",
+    "duration": "204000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "99855",
+    "playcount": "1027616",
+    "artist": {
+      "name": "Rema",
+      "mbid": "720c46ba-a0e4-4b58-aee2-3bd70c70901f",
+      "url": "https://www.last.fm/music/Rema"
+    },
+    "album": {
+      "artist": "Rema",
+      "title": "Rave & Roses Ultra",
+      "url": "https://www.last.fm/music/Rema/Rave+&+Roses+Ultra",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6fceecf78d8c04c1acf4459be3f87d5d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6fceecf78d8c04c1acf4459be3f87d5d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6fceecf78d8c04c1acf4459be3f87d5d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6fceecf78d8c04c1acf4459be3f87d5d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

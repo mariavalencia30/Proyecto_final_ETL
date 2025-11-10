@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "New Rules",
+    "mbid": "76ac63ee-9b00-4f70-b443-1c0c3bd1e445",
+    "url": "https://www.last.fm/music/Dua+Lipa/_/New+Rules",
+    "duration": "209000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1229886",
+    "playcount": "12837652",
+    "artist": {
+      "name": "Dua Lipa",
+      "mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+      "url": "https://www.last.fm/music/Dua+Lipa"
+    },
+    "album": {
+      "artist": "Dua Lipa",
+      "title": "Dua Lipa (Deluxe)",
+      "url": "https://www.last.fm/music/Dua+Lipa/Dua+Lipa+(Deluxe)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b678140a31be9e7b83f650b98c5abc5b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b678140a31be9e7b83f650b98c5abc5b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b678140a31be9e7b83f650b98c5abc5b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b678140a31be9e7b83f650b98c5abc5b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "2017",
+          "url": "https://www.last.fm/tag/2017"
+        },
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "tropical house",
+          "url": "https://www.last.fm/tag/tropical+house"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "20 Jul 2017, 13:25",
+      "summary": "\"New Rules\" is a song by English singer Dua Lipa from her self-titled debut studio album. The song was written by Caroline Ailin, Emily Warren and Ian Kirkpatrick, and produced by the latter. It was released to contemporary hit radio in the United Kingdom on 15 July 2017 as the album's seventh single. The song's music video was released on 7 July. <a href=\"http://www.last.fm/music/Dua+Lipa/_/New+Rules\">Read more on Last.fm</a>.",
+      "content": "\"New Rules\" is a song by English singer Dua Lipa from her self-titled debut studio album. The song was written by Caroline Ailin, Emily Warren and Ian Kirkpatrick, and produced by the latter. It was released to contemporary hit radio in the United Kingdom on 15 July 2017 as the album's seventh single. The song's music video was released on 7 July. <a href=\"http://www.last.fm/music/Dua+Lipa/_/New+Rules\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

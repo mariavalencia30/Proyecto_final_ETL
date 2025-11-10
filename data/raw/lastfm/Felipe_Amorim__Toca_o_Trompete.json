@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Toca o Trompete",
+    "url": "https://www.last.fm/music/Felipe+Amorim/_/Toca+o+Trompete",
+    "duration": "163000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "113740",
+    "playcount": "924604",
+    "artist": {
+      "name": "Felipe Amorim",
+      "mbid": "1d0ba673-7d0f-42b9-938f-2661d23b28f4",
+      "url": "https://www.last.fm/music/Felipe+Amorim"
+    },
+    "album": {
+      "artist": "Felipe Amorim",
+      "title": "Cadê o After? Pt. 1 - EP",
+      "url": "https://www.last.fm/music/Felipe+Amorim/Cad%C3%AA+o+After%3F+Pt.+1+-+EP",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/179d58adb57338dfb977d3eca42a518e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/179d58adb57338dfb977d3eca42a518e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/179d58adb57338dfb977d3eca42a518e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/179d58adb57338dfb977d3eca42a518e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

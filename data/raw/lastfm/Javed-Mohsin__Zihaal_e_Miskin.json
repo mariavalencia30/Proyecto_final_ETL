@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Zihaal e Miskin",
+    "url": "https://www.last.fm/music/Javed-Mohsin/_/Zihaal+e+Miskin",
+    "duration": "243000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "8540",
+    "playcount": "47882",
+    "artist": {
+      "name": "Javed-Mohsin",
+      "mbid": "a1137cd1-2594-4ac0-926f-6cb33e4410f3",
+      "url": "https://www.last.fm/music/Javed-Mohsin"
+    },
+    "album": {
+      "artist": "فنانون متعددون",
+      "title": "Romantic Soul Soothers",
+      "url": "https://www.last.fm/music/%D9%81%D9%86%D8%A7%D9%86%D9%88%D9%86+%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D9%88%D9%86/Romantic+Soul+Soothers",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

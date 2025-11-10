@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Chantaje",
+    "mbid": "fdabab1e-78dd-4d81-ac6f-9691cc10513f",
+    "url": "https://www.last.fm/music/Shakira/_/Chantaje",
+    "duration": "195000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "121233",
+    "playcount": "945055",
+    "artist": {
+      "name": "Shakira",
+      "mbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
+      "url": "https://www.last.fm/music/Shakira"
+    },
+    "album": {
+      "artist": "Shakira",
+      "title": "Chantaje",
+      "url": "https://www.last.fm/music/Shakira/Chantaje",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/039849e4eed8f84f39bdd5890482bba0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/039849e4eed8f84f39bdd5890482bba0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/039849e4eed8f84f39bdd5890482bba0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/039849e4eed8f84f39bdd5890482bba0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

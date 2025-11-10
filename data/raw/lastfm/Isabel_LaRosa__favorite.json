@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "favorite",
+    "mbid": "53c226d2-ef58-4763-9440-be4202ddcd55",
+    "url": "https://www.last.fm/music/Isabel+LaRosa/_/favorite",
+    "duration": "134000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "313153",
+    "playcount": "3210771",
+    "artist": {
+      "name": "Isabel LaRosa",
+      "mbid": "fa22eeda-8db9-4ae5-97c9-6d0b9ceb7cf3",
+      "url": "https://www.last.fm/music/Isabel+LaRosa"
+    },
+    "album": {
+      "artist": "Isabel LaRosa",
+      "title": "Favorite",
+      "url": "https://www.last.fm/music/Isabel+LaRosa/Favorite",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f284dd7888d0270c0afd48e9a568bb50.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f284dd7888d0270c0afd48e9a568bb50.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f284dd7888d0270c0afd48e9a568bb50.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f284dd7888d0270c0afd48e9a568bb50.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        },
+        {
+          "name": "alexcore",
+          "url": "https://www.last.fm/tag/alexcore"
+        },
+        {
+          "name": "ELYSIAN",
+          "url": "https://www.last.fm/tag/ELYSIAN"
+        },
+        {
+          "name": "ahn soomin",
+          "url": "https://www.last.fm/tag/ahn+soomin"
+        }
+      ]
+    }
+  }
+}

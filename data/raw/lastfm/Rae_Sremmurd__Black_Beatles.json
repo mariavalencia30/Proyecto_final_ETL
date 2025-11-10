@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Black Beatles",
+    "mbid": "8c029824-d4f7-48e4-8578-4365827fc656",
+    "url": "https://www.last.fm/music/Rae+Sremmurd/_/Black+Beatles",
+    "duration": "291000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "749265",
+    "playcount": "5919747",
+    "artist": {
+      "name": "Rae Sremmurd",
+      "mbid": "c78c3026-426b-4580-ab23-08490bb8b515",
+      "url": "https://www.last.fm/music/Rae+Sremmurd"
+    },
+    "album": {
+      "artist": "Rae Sremmurd",
+      "title": "SremmLife 2 (Deluxe)",
+      "url": "https://www.last.fm/music/Rae+Sremmurd/SremmLife+2+(Deluxe)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2c7b9dc2249201b88e5b954c4457054.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2c7b9dc2249201b88e5b954c4457054.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2c7b9dc2249201b88e5b954c4457054.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2c7b9dc2249201b88e5b954c4457054.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "Southern Hip Hop",
+          "url": "https://www.last.fm/tag/Southern+Hip+Hop"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "27 Oct 2016, 05:23",
+      "summary": "\"Black Beatles\" is a song by American hip hop duo Rae Sremmurd. It was released on September 13, 2016 by EarDrummers and Interscope Records, as the third single from their second studio album SremmLife 2. The song feature vocals from Gucci Mane, and is produced by Mike Will Made-It. <a href=\"http://www.last.fm/music/Rae+Sremmurd/_/Black+Beatles\">Read more on Last.fm</a>.",
+      "content": "\"Black Beatles\" is a song by American hip hop duo Rae Sremmurd. It was released on September 13, 2016 by EarDrummers and Interscope Records, as the third single from their second studio album SremmLife 2. The song feature vocals from Gucci Mane, and is produced by Mike Will Made-It. <a href=\"http://www.last.fm/music/Rae+Sremmurd/_/Black+Beatles\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

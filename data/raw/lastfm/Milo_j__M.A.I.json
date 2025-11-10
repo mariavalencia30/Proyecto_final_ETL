@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "M.A.I",
+    "mbid": "1063d461-7d64-4efd-b135-03e91a527458",
+    "url": "https://www.last.fm/music/Milo+j/_/M.A.I",
+    "duration": "181000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "86033",
+    "playcount": "1153543",
+    "artist": {
+      "name": "Milo j",
+      "mbid": "e665f81b-71c9-4be6-9a4e-02a3f6952e58",
+      "url": "https://www.last.fm/music/Milo+j"
+    },
+    "album": {
+      "artist": "Milo j",
+      "title": "1 1 1",
+      "url": "https://www.last.fm/music/Milo+j/1+1+1",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/64a34499d8458f4747a9715bb449ac40.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/64a34499d8458f4747a9715bb449ac40.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/64a34499d8458f4747a9715bb449ac40.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64a34499d8458f4747a9715bb449ac40.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

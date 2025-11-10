@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
+    "url": "https://www.last.fm/music/Sachin-Jigar/_/Phir+Aur+Kya+Chahiye+(From+%22Zara+Hatke+Zara+Bachke%22)",
+    "duration": "266000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "20446",
+    "playcount": "125923",
+    "artist": {
+      "name": "Sachin-Jigar",
+      "mbid": "fdf25d7c-d8f4-4736-ad24-bf2286a61254",
+      "url": "https://www.last.fm/music/Sachin-Jigar"
+    },
+    "album": {
+      "artist": "Sachin-Jigar",
+      "title": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\") - Single",
+      "url": "https://www.last.fm/music/Sachin-Jigar/Phir+Aur+Kya+Chahiye+(From+%22Zara+Hatke+Zara+Bachke%22)+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/da042e606cbcafeae0ddcfa91247a232.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/da042e606cbcafeae0ddcfa91247a232.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/da042e606cbcafeae0ddcfa91247a232.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/da042e606cbcafeae0ddcfa91247a232.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

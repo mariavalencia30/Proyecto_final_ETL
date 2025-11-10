@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Aesthetic",
+    "url": "https://www.last.fm/music/Tollan+Kim/_/Aesthetic",
+    "duration": "66000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "13164",
+    "playcount": "68983",
+    "artist": {
+      "name": "Tollan Kim",
+      "url": "https://www.last.fm/music/Tollan+Kim"
+    },
+    "album": {
+      "artist": "Tollan Kim",
+      "title": "Aesthetic - Single",
+      "url": "https://www.last.fm/music/Tollan+Kim/Aesthetic+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e15a975429bb7c8e07fd684c45c189ad.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e15a975429bb7c8e07fd684c45c189ad.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e15a975429bb7c8e07fd684c45c189ad.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e15a975429bb7c8e07fd684c45c189ad.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

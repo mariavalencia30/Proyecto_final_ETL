@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "LET'S GO 4",
+    "url": "https://www.last.fm/music/Mc+IG/_/LET%27S+GO+4",
+    "duration": "522000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1575",
+    "playcount": "4684",
+    "artist": {
+      "name": "Mc IG",
+      "mbid": "83e3d3ec-c22b-488d-b80b-b98483f32f63",
+      "url": "https://www.last.fm/music/Mc+IG"
+    },
+    "album": {
+      "artist": "Mc IG",
+      "title": "Let's Go 4 - Single",
+      "url": "https://www.last.fm/music/Mc+IG/Let%27s+Go+4+-+Single",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

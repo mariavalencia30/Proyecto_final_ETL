@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Those Oldies But Goodies",
+    "url": "https://www.last.fm/music/Little+Caesar+&+The+Romans/_/Those+Oldies+But+Goodies",
+    "duration": "205000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3428",
+    "playcount": "9754",
+    "artist": {
+      "name": "Little Caesar & The Romans",
+      "mbid": "1ff23e04-27c7-4588-81b5-509dfb04d9b3",
+      "url": "https://www.last.fm/music/Little+Caesar+&+The+Romans"
+    },
+    "album": {
+      "artist": "Little Caesar & The Romans",
+      "title": "Those Oldies But Goodies",
+      "url": "https://www.last.fm/music/Little+Caesar+&+The+Romans/Those+Oldies+But+Goodies",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/865be3f03bb798df2674812e56f9f677.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/865be3f03bb798df2674812e56f9f677.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/865be3f03bb798df2674812e56f9f677.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/865be3f03bb798df2674812e56f9f677.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

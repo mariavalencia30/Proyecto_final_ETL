@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Love You So",
+    "mbid": "24f3805b-d5c5-3861-8c61-ca758e156c88",
+    "url": "https://www.last.fm/music/The+King+Khan+&+BBQ+Show/_/Love+You+So",
+    "duration": "225000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "58324",
+    "playcount": "238166",
+    "artist": {
+      "name": "The King Khan & BBQ Show",
+      "mbid": "b978a42e-0b15-4987-9434-8805370f3f83",
+      "url": "https://www.last.fm/music/The+King+Khan+&+BBQ+Show"
+    },
+    "album": {
+      "artist": "The King Khan & BBQ Show",
+      "title": "The King Khan & BBQ Show",
+      "url": "https://www.last.fm/music/The+King+Khan+&+BBQ+Show/The+King+Khan+&+BBQ+Show",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b76353a9799c234d30ce72ef431d22e1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b76353a9799c234d30ce72ef431d22e1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b76353a9799c234d30ce72ef431d22e1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b76353a9799c234d30ce72ef431d22e1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

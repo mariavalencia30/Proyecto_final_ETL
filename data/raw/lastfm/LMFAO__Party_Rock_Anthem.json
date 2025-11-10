@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Party Rock Anthem",
+    "url": "https://www.last.fm/music/LMFAO/_/Party+Rock+Anthem",
+    "duration": "264000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1361661",
+    "playcount": "7978789",
+    "artist": {
+      "name": "LMFAO",
+      "mbid": "ed5d9086-e8cd-473a-b96c-d81ad6c98f0d",
+      "url": "https://www.last.fm/music/LMFAO"
+    },
+    "album": {
+      "artist": "LMFAO",
+      "title": "Sorry for Party Rocking",
+      "url": "https://www.last.fm/music/LMFAO/Sorry+for+Party+Rocking",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eceae582936049c38f1666de3571a2e0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eceae582936049c38f1666de3571a2e0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eceae582936049c38f1666de3571a2e0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eceae582936049c38f1666de3571a2e0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "2011",
+          "url": "https://www.last.fm/tag/2011"
+        },
+        {
+          "name": "techno",
+          "url": "https://www.last.fm/tag/techno"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "14 Apr 2011, 17:37",
+      "summary": "The song spotlights shuffling, which LMFAO's Redfoo told Billboard  is part of Sorry For Party Rocking's focus on dance in general. \"Before we just kind of partied and had some personal moves,\" he noted, \"but now there's dances that are out there that people are doing and shuffling is one that really caught my eye and it felt so good when I was doing it, so we just kind of made that song about shuffling.\" (Source Party Rock Anthem Songfacts). <a href=\"http://www.last.fm/music/LMFAO/_/Party+Rock+Anthem\">Read more on Last.fm</a>.",
+      "content": "The song spotlights shuffling, which LMFAO's Redfoo told Billboard  is part of Sorry For Party Rocking's focus on dance in general. \"Before we just kind of partied and had some personal moves,\" he noted, \"but now there's dances that are out there that people are doing and shuffling is one that really caught my eye and it felt so good when I was doing it, so we just kind of made that song about shuffling.\" (Source Party Rock Anthem Songfacts). <a href=\"http://www.last.fm/music/LMFAO/_/Party+Rock+Anthem\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

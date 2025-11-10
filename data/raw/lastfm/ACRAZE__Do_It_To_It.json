@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Do It To It",
+    "mbid": "f8ee65bc-a0a5-4e9c-9501-28e7f5255b26",
+    "url": "https://www.last.fm/music/ACRAZE/_/Do+It+To+It",
+    "duration": "157000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "398401",
+    "playcount": "2628299",
+    "artist": {
+      "name": "ACRAZE",
+      "mbid": "e21e0137-b42d-44a5-abd6-c6ac160d0d7d",
+      "url": "https://www.last.fm/music/ACRAZE"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Best Of 2021: Trending Viral",
+      "url": "https://www.last.fm/music/Various+Artists/Best+Of+2021:+Trending+Viral",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1d0df07b375675dc31b9d7bc3059fa35.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1d0df07b375675dc31b9d7bc3059fa35.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1d0df07b375675dc31b9d7bc3059fa35.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1d0df07b375675dc31b9d7bc3059fa35.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

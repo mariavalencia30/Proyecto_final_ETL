@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Maan Meri Jaan",
+    "url": "https://www.last.fm/music/King/_/Maan+Meri+Jaan",
+    "duration": "186000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "42627",
+    "playcount": "377286",
+    "artist": {
+      "name": "King",
+      "mbid": "e6b770d2-4fb6-4416-8722-471717fdd41d",
+      "url": "https://www.last.fm/music/King"
+    },
+    "album": {
+      "artist": "King",
+      "title": "Champagne Talk",
+      "url": "https://www.last.fm/music/King/Champagne+Talk",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/acf90ac2a151eee110b888a495ebbe59.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/acf90ac2a151eee110b888a495ebbe59.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/acf90ac2a151eee110b888a495ebbe59.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/acf90ac2a151eee110b888a495ebbe59.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

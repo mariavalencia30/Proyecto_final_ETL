@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Domingo Abacaxi Flamingo",
+    "url": "https://www.last.fm/music/Bolofofos/_/Domingo+Abacaxi+Flamingo",
+    "duration": "192000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "14447",
+    "playcount": "56451",
+    "artist": {
+      "name": "Bolofofos",
+      "url": "https://www.last.fm/music/Bolofofos"
+    },
+    "album": {
+      "artist": "Bolofofos",
+      "title": "Domingo Abacaxi Flamingo",
+      "url": "https://www.last.fm/music/Bolofofos/Domingo+Abacaxi+Flamingo",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5fbb15ae211dfd96ebd27b2bb1cf30ab.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5fbb15ae211dfd96ebd27b2bb1cf30ab.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5fbb15ae211dfd96ebd27b2bb1cf30ab.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5fbb15ae211dfd96ebd27b2bb1cf30ab.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

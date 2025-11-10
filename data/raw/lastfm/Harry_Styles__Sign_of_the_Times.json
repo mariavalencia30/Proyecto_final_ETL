@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Sign of the Times",
+    "mbid": "03296d3a-6bee-4bcb-84dc-72d8307b1f4a",
+    "url": "https://www.last.fm/music/Harry+Styles/_/Sign+of+the+Times",
+    "duration": "335000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1267128",
+    "playcount": "16065544",
+    "artist": {
+      "name": "Harry Styles",
+      "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+      "url": "https://www.last.fm/music/Harry+Styles"
+    },
+    "album": {
+      "artist": "Harry Styles",
+      "title": "Harry Styles",
+      "url": "https://www.last.fm/music/Harry+Styles/Harry+Styles",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/295ed1c0727ce10652867d628139beb1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/295ed1c0727ce10652867d628139beb1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/295ed1c0727ce10652867d628139beb1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/295ed1c0727ce10652867d628139beb1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "indie",
+          "url": "https://www.last.fm/tag/indie"
+        },
+        {
+          "name": "british",
+          "url": "https://www.last.fm/tag/british"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "07 Apr 2017, 10:36",
+      "summary": "\"Sign of the Times\" is the debut single from British singer-songwriter Harry Styles. Released on 7 April, 2017 the track is his debut as a solo artist since his five-year, five-album releases with One Direction. Styles announced the single release via Twitter on the 30th Anniversary of Prince's \"Sign 'O' the Times\" (1987) and although not stylised, it is said to be in honour of Prince whose 1987 album and its title track are of the same name. As well as Prince <a href=\"http://www.last.fm/music/Harry+Styles/_/Sign+of+the+Times\">Read more on Last.fm</a>.",
+      "content": "\"Sign of the Times\" is the debut single from British singer-songwriter Harry Styles. Released on 7 April, 2017 the track is his debut as a solo artist since his five-year, five-album releases with One Direction. Styles announced the single release via Twitter on the 30th Anniversary of Prince's \"Sign 'O' the Times\" (1987) and although not stylised, it is said to be in honour of Prince whose 1987 album and its title track are of the same name. As well as Prince, the five-minute and forty-second pop-rock ballad has been likened to his musical influences David Bowie, Queen, Pink Floyd, The Beatles, and other classic British rock music. <a href=\"http://www.last.fm/music/Harry+Styles/_/Sign+of+the+Times\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

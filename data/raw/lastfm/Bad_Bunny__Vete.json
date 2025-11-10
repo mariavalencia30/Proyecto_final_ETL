@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Vete",
+    "mbid": "7074c684-e40d-40cd-8988-000104d2bd05",
+    "url": "https://www.last.fm/music/Bad+Bunny/_/Vete",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "291367",
+    "playcount": "3460797",
+    "artist": {
+      "name": "Bad Bunny",
+      "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "url": "https://www.last.fm/music/Bad+Bunny"
+    },
+    "album": {
+      "artist": "Bad Bunny",
+      "title": "Vete",
+      "url": "https://www.last.fm/music/Bad+Bunny/Vete",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7c08a5681d1d4aeec56eaaaec04385bc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7c08a5681d1d4aeec56eaaaec04385bc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7c08a5681d1d4aeec56eaaaec04385bc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7c08a5681d1d4aeec56eaaaec04385bc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

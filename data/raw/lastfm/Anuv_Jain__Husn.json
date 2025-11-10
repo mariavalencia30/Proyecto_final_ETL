@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "HUSN",
+    "mbid": "72779091-839b-49d9-8496-a2ba1dcbcb48",
+    "url": "https://www.last.fm/music/Anuv+Jain/_/HUSN",
+    "duration": "217000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "47904",
+    "playcount": "821449",
+    "artist": {
+      "name": "Anuv Jain",
+      "mbid": "addca31a-40ae-4152-afb8-a477da5191f0",
+      "url": "https://www.last.fm/music/Anuv+Jain"
+    },
+    "album": {
+      "artist": "Anuv Jain",
+      "title": "Husn",
+      "url": "https://www.last.fm/music/Anuv+Jain/Husn",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/300d459aa0590c86fc6a017a08b89cb4.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/300d459aa0590c86fc6a017a08b89cb4.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/300d459aa0590c86fc6a017a08b89cb4.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/300d459aa0590c86fc6a017a08b89cb4.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

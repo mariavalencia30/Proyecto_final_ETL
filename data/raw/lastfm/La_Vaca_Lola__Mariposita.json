@@ -1,0 +1,20 @@
+{
+  "track": {
+    "name": "Mariposita",
+    "url": "https://www.last.fm/music/La+Vaca+Lola/_/Mariposita",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3",
+    "playcount": "7",
+    "artist": {
+      "name": "La Vaca Lola",
+      "url": "https://www.last.fm/music/La+Vaca+Lola"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "track": {
+    "name": "Hello",
+    "url": "https://www.last.fm/music/Muramatsu+Karaoke/_/Hello",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3",
+    "playcount": "3",
+    "artist": {
+      "name": "Muramatsu Karaoke",
+      "url": "https://www.last.fm/music/Muramatsu+Karaoke"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

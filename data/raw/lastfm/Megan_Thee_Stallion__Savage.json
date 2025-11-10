@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Savage",
+    "mbid": "7caa0ac1-9cbb-4a2a-bdb5-789917b4c293",
+    "url": "https://www.last.fm/music/Megan+Thee+Stallion/_/Savage",
+    "duration": "155000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "462146",
+    "playcount": "3060636",
+    "artist": {
+      "name": "Megan Thee Stallion",
+      "mbid": "ee27b2d8-648c-4a9d-a68c-e55066959975",
+      "url": "https://www.last.fm/music/Megan+Thee+Stallion"
+    },
+    "album": {
+      "artist": "Megan Thee Stallion",
+      "title": "Savage Remix + Savage",
+      "url": "https://www.last.fm/music/Megan+Thee+Stallion/Savage+Remix+%252B+Savage",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6e2b8c53bbcacc1a0864b9a85550b511.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6e2b8c53bbcacc1a0864b9a85550b511.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6e2b8c53bbcacc1a0864b9a85550b511.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e2b8c53bbcacc1a0864b9a85550b511.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

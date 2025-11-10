@@ -1,0 +1,65 @@
+{
+  "track": {
+    "name": "Friesenjung",
+    "url": "https://www.last.fm/music/Ski+Aggu/_/Friesenjung",
+    "duration": "146000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "246820",
+    "playcount": "3803497",
+    "artist": {
+      "name": "Ski Aggu",
+      "mbid": "f1d46f29-34fd-4cd5-959f-0a213e1f1d8e",
+      "url": "https://www.last.fm/music/Ski+Aggu"
+    },
+    "album": {
+      "artist": "Ski Aggu",
+      "title": "Friesenjung",
+      "url": "https://www.last.fm/music/Ski+Aggu/Friesenjung",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6e11cb767caa81984302d5217073452c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6e11cb767caa81984302d5217073452c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6e11cb767caa81984302d5217073452c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6e11cb767caa81984302d5217073452c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "eurodance",
+          "url": "https://www.last.fm/tag/eurodance"
+        },
+        {
+          "name": "happy hardcore",
+          "url": "https://www.last.fm/tag/happy+hardcore"
+        },
+        {
+          "name": "otto waalkes",
+          "url": "https://www.last.fm/tag/otto+waalkes"
+        },
+        {
+          "name": "joost",
+          "url": "https://www.last.fm/tag/joost"
+        },
+        {
+          "name": "Joost Klein",
+          "url": "https://www.last.fm/tag/Joost+Klein"
+        }
+      ]
+    }
+  }
+}

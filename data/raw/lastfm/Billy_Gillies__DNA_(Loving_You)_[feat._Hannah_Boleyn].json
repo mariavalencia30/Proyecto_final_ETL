@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "DNA (Loving You) [feat. Hannah Boleyn]",
+    "url": "https://www.last.fm/music/Billy+Gillies/_/DNA+(Loving+You)+%5Bfeat.+Hannah+Boleyn%5D",
+    "duration": "164000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "59721",
+    "playcount": "365144",
+    "artist": {
+      "name": "Billy Gillies",
+      "mbid": "e8b137a3-67b2-4880-8cfd-761135688837",
+      "url": "https://www.last.fm/music/Billy+Gillies"
+    },
+    "album": {
+      "artist": "Billy Gillies",
+      "title": "DNA (Loving You) [feat. Hannah Boleyn] - Single",
+      "url": "https://www.last.fm/music/Billy+Gillies/DNA+(Loving+You)+%5Bfeat.+Hannah+Boleyn%5D+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/31c55b886152f51b8f90bad206fa39db.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/31c55b886152f51b8f90bad206fa39db.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/31c55b886152f51b8f90bad206fa39db.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/31c55b886152f51b8f90bad206fa39db.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

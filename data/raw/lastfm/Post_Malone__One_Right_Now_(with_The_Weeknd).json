@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "One Right Now (with The Weeknd)",
+    "mbid": "ff67ea03-d3f8-4805-96ae-ada8835561d1",
+    "url": "https://www.last.fm/music/Post+Malone/_/One+Right+Now+(with+The+Weeknd)",
+    "duration": "192000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "616100",
+    "playcount": "6269050",
+    "artist": {
+      "name": "Post Malone",
+      "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+      "url": "https://www.last.fm/music/Post+Malone"
+    },
+    "album": {
+      "artist": "Post Malone",
+      "title": "One Right Now",
+      "url": "https://www.last.fm/music/Post+Malone/One+Right+Now",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ba3caa637eaae7e13a2fd6977ac54dbe.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ba3caa637eaae7e13a2fd6977ac54dbe.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ba3caa637eaae7e13a2fd6977ac54dbe.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ba3caa637eaae7e13a2fd6977ac54dbe.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "2020s",
+          "url": "https://www.last.fm/tag/2020s"
+        },
+        {
+          "name": "2021",
+          "url": "https://www.last.fm/tag/2021"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "synth-pop",
+          "url": "https://www.last.fm/tag/synth-pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "07 Dec 2021, 00:09",
+      "summary": "\"One Right Now\" is a song by American recording artist Malone and Canadian singer the Weeknd. It was released through Republic Records on November 5, 2021, as the second single from Malone's upcoming fourth studio album. On the Billboard Hot 100, it entered the charts at #6 on the Week of November 20. <a href=\"http://www.last.fm/music/Post+Malone/_/One+Right+Now+(with+The+Weeknd)\">Read more on Last.fm</a>.",
+      "content": "\"One Right Now\" is a song by American recording artist Malone and Canadian singer the Weeknd. It was released through Republic Records on November 5, 2021, as the second single from Malone's upcoming fourth studio album. On the Billboard Hot 100, it entered the charts at #6 on the Week of November 20. <a href=\"http://www.last.fm/music/Post+Malone/_/One+Right+Now+(with+The+Weeknd)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

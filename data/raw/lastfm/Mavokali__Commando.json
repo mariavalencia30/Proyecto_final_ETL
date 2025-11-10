@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Commando",
+    "url": "https://www.last.fm/music/Mavokali/_/Commando",
+    "duration": "157000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "5349",
+    "playcount": "27625",
+    "artist": {
+      "name": "Mavokali",
+      "url": "https://www.last.fm/music/Mavokali"
+    },
+    "album": {
+      "artist": "Mavokali",
+      "title": "Commando",
+      "url": "https://www.last.fm/music/Mavokali/Commando",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/38af9a1d0ea2af67f9f11a7e7738b821.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/38af9a1d0ea2af67f9f11a7e7738b821.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/38af9a1d0ea2af67f9f11a7e7738b821.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/38af9a1d0ea2af67f9f11a7e7738b821.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

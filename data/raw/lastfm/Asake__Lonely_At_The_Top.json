@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Lonely at the Top",
+    "url": "https://www.last.fm/music/Asake/_/Lonely+at+the+Top",
+    "duration": "157000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "62068",
+    "playcount": "494050",
+    "artist": {
+      "name": "Asake",
+      "mbid": "2b37ba5e-2162-46ca-bbad-f076f6a333bd",
+      "url": "https://www.last.fm/music/Asake"
+    },
+    "album": {
+      "artist": "Asake",
+      "title": "Work of Art",
+      "url": "https://www.last.fm/music/Asake/Work+of+Art",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/06b1aaf818e05a40652a8b81c2fcc687.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/06b1aaf818e05a40652a8b81c2fcc687.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/06b1aaf818e05a40652a8b81c2fcc687.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/06b1aaf818e05a40652a8b81c2fcc687.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

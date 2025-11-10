@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Open Arms (feat. Travis Scott)",
+    "url": "https://www.last.fm/music/SZA/_/Open+Arms+(feat.+Travis+Scott)",
+    "duration": "239000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1012453",
+    "playcount": "15169467",
+    "artist": {
+      "name": "SZA",
+      "mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+      "url": "https://www.last.fm/music/SZA"
+    },
+    "album": {
+      "artist": "SZA",
+      "title": "SOS",
+      "url": "https://www.last.fm/music/SZA/SOS",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b2cfb5bdf137f4d6293565205965750f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b2cfb5bdf137f4d6293565205965750f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b2cfb5bdf137f4d6293565205965750f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b2cfb5bdf137f4d6293565205965750f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Neo-Soul",
+          "url": "https://www.last.fm/tag/Neo-Soul"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "sza",
+          "url": "https://www.last.fm/tag/sza"
+        },
+        {
+          "name": "travis scott",
+          "url": "https://www.last.fm/tag/travis+scott"
+        },
+        {
+          "name": "2022",
+          "url": "https://www.last.fm/tag/2022"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "13 Jan 2023, 03:53",
+      "summary": "Marking SZA and Travis Scott's fourth song together, “Open Arms” is about ultimately deciding that you must leave the one you love. Travis raps about being devoted to his partner despite their struggles, but ultimately SZA decides in the last verse that she must leave the relationship.\n\nTrack four of SOS, “Low”, also features background vocals from Travis Scott. <a href=\"http://www.last.fm/music/SZA/_/Open+Arms+(feat.+Travis+Scott)\">Read more on Last.fm</a>.",
+      "content": "Marking SZA and Travis Scott's fourth song together, “Open Arms” is about ultimately deciding that you must leave the one you love. Travis raps about being devoted to his partner despite their struggles, but ultimately SZA decides in the last verse that she must leave the relationship.\n\nTrack four of SOS, “Low”, also features background vocals from Travis Scott. <a href=\"http://www.last.fm/music/SZA/_/Open+Arms+(feat.+Travis+Scott)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

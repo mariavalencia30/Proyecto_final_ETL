@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Columbia",
+    "url": "https://www.last.fm/music/Quevedo/_/Columbia",
+    "duration": "186000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "222049",
+    "playcount": "2963268",
+    "artist": {
+      "name": "Quevedo",
+      "mbid": "ef9bb29f-f466-4e28-8064-32558f4bb2df",
+      "url": "https://www.last.fm/music/Quevedo"
+    },
+    "album": {
+      "artist": "Quevedo",
+      "title": "Columbia",
+      "url": "https://www.last.fm/music/Quevedo/Columbia",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/496e18dc1dafa708fe24dae813ecb6c3.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/496e18dc1dafa708fe24dae813ecb6c3.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/496e18dc1dafa708fe24dae813ecb6c3.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/496e18dc1dafa708fe24dae813ecb6c3.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

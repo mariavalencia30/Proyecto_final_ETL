@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Barking",
+    "mbid": "ffc71c1d-ff54-4160-9c5a-303b6daaa227",
+    "url": "https://www.last.fm/music/Ramz/_/Barking",
+    "duration": "202000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "200364",
+    "playcount": "1739466",
+    "artist": {
+      "name": "Ramz",
+      "mbid": "adbc1042-de61-4911-a124-167f3b3b8dc3",
+      "url": "https://www.last.fm/music/Ramz"
+    },
+    "album": {
+      "artist": "Ramz",
+      "title": "Barking",
+      "url": "https://www.last.fm/music/Ramz/Barking",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/564933932d269903d340a9ccbcbb069b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/564933932d269903d340a9ccbcbb069b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/564933932d269903d340a9ccbcbb069b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/564933932d269903d340a9ccbcbb069b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "After Hours",
+    "mbid": "8a07fb1a-8563-49d6-92c0-d57e96541f43",
+    "url": "https://www.last.fm/music/The+Weeknd/_/After+Hours",
+    "duration": "361000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1128496",
+    "playcount": "18307010",
+    "artist": {
+      "name": "The Weeknd",
+      "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+      "url": "https://www.last.fm/music/The+Weeknd"
+    },
+    "album": {
+      "artist": "The Weeknd",
+      "title": "The Highlights",
+      "url": "https://www.last.fm/music/The+Weeknd/The+Highlights",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/13eba218340495aa6ed6985c0c9a39dc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/13eba218340495aa6ed6985c0c9a39dc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/13eba218340495aa6ed6985c0c9a39dc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/13eba218340495aa6ed6985c0c9a39dc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "alternative rnb",
+          "url": "https://www.last.fm/tag/alternative+rnb"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://www.last.fm/tag/The+Weeknd"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "ambient pop",
+          "url": "https://www.last.fm/tag/ambient+pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "27 Mar 2020, 21:19",
+      "summary": "“After Hours” is the title track and the third promotional single for The Weeknd’s fourth studio album After Hours. The song addresses a failed relationship that ended in heartbreak and serves as an apology letter for his past transgressions, as he desires reconciliation.\n\nAdditionally, the song’s dark vibes and altered vocals over hard-hitting production are reminiscent of styles seen on Abel’s earlier music such as November 2012’s Trilogy. <a href=\"http://www.last.fm/music/The+Weeknd/_/After+Hours\">Read more on Last.fm</a>.",
+      "content": "“After Hours” is the title track and the third promotional single for The Weeknd’s fourth studio album After Hours. The song addresses a failed relationship that ended in heartbreak and serves as an apology letter for his past transgressions, as he desires reconciliation.\n\nAdditionally, the song’s dark vibes and altered vocals over hard-hitting production are reminiscent of styles seen on Abel’s earlier music such as November 2012’s Trilogy. The track is also thematically similar to songs from that era, as he once again details the pain and anguish associated with heartbreak.\n\nOn February 18, 2020, the day before the track’s release, Abel revealed the album’s cover art and teased the track’s release date via social media. <a href=\"http://www.last.fm/music/The+Weeknd/_/After+Hours\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

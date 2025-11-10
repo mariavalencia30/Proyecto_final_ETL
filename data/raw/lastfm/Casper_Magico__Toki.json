@@ -1,0 +1,20 @@
+{
+  "track": {
+    "name": "Toki",
+    "url": "https://www.last.fm/music/Casper+Magico/_/Toki",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "9314",
+    "playcount": "86102",
+    "artist": {
+      "name": "Casper Magico",
+      "url": "https://www.last.fm/music/Casper+Magico"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

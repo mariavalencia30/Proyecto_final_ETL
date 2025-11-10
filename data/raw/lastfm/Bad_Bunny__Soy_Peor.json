@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Soy Peor",
+    "mbid": "0a23b32c-c818-4fac-8c0d-bbfb5aa19aca",
+    "url": "https://www.last.fm/music/Bad+Bunny/_/Soy+Peor",
+    "duration": "257000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "147733",
+    "playcount": "1372531",
+    "artist": {
+      "name": "Bad Bunny",
+      "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "url": "https://www.last.fm/music/Bad+Bunny"
+    },
+    "album": {
+      "artist": "Bad Bunny",
+      "title": "Soy Peor",
+      "url": "https://www.last.fm/music/Bad+Bunny/Soy+Peor",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7e0ac03c3c6c99def736514546eb624b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7e0ac03c3c6c99def736514546eb624b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7e0ac03c3c6c99def736514546eb624b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7e0ac03c3c6c99def736514546eb624b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

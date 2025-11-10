@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Toxic",
+    "mbid": "50e20b63-4946-4b03-b499-a6d3aeeda56a",
+    "url": "https://www.last.fm/music/BoyWithUke/_/Toxic",
+    "duration": "168000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "333634",
+    "playcount": "3708424",
+    "artist": {
+      "name": "BoyWithUke",
+      "mbid": "a148ffde-581c-4c39-a8f1-bc49dec7fe68",
+      "url": "https://www.last.fm/music/BoyWithUke"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Viral Challenge Hits 2021",
+      "url": "https://www.last.fm/music/Various+Artists/Viral+Challenge+Hits+2021",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eb3e4bc326d5049b4c311fe253b2a218.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eb3e4bc326d5049b4c311fe253b2a218.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eb3e4bc326d5049b4c311fe253b2a218.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eb3e4bc326d5049b4c311fe253b2a218.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

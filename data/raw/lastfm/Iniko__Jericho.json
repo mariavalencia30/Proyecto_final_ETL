@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Jericho",
+    "mbid": "5a3d47d5-bb4e-4c69-ae1d-636c6c9b5b54",
+    "url": "https://www.last.fm/music/Iniko/_/Jericho",
+    "duration": "158000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "108914",
+    "playcount": "1107354",
+    "artist": {
+      "name": "Iniko",
+      "mbid": "2f4b2bc8-d41d-486c-b019-498f87da60f1",
+      "url": "https://www.last.fm/music/Iniko"
+    },
+    "album": {
+      "artist": "Iniko",
+      "title": "Jericho - Single",
+      "url": "https://www.last.fm/music/Iniko/Jericho+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6361d49e881be2666a6b70fa4e6776da.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6361d49e881be2666a6b70fa4e6776da.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6361d49e881be2666a6b70fa4e6776da.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6361d49e881be2666a6b70fa4e6776da.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

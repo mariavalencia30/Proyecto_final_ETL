@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "MON LOVE OHO",
+    "url": "https://www.last.fm/music/Liamsi/_/MON+LOVE+OHO",
+    "duration": "139000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "9116",
+    "playcount": "64728",
+    "artist": {
+      "name": "Liamsi",
+      "mbid": "6e348c49-812a-4c2c-a524-09be43bb657c",
+      "url": "https://www.last.fm/music/Liamsi"
+    },
+    "album": {
+      "artist": "Liamsi",
+      "title": "Mon Love Oho - Single",
+      "url": "https://www.last.fm/music/Liamsi/Mon+Love+Oho+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f3c04801dad8f8d66545e0bb34f7abe3.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f3c04801dad8f8d66545e0bb34f7abe3.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f3c04801dad8f8d66545e0bb34f7abe3.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f3c04801dad8f8d66545e0bb34f7abe3.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

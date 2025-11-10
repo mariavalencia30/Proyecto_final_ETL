@@ -1,0 +1,54 @@
+{
+  "track": {
+    "name": "Whatever She Wants",
+    "mbid": "c4a63063-642d-462c-b4d4-928300a3d006",
+    "url": "https://www.last.fm/music/Bryson+Tiller/_/Whatever+She+Wants",
+    "duration": "161000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "460936",
+    "playcount": "5239832",
+    "artist": {
+      "name": "Bryson Tiller",
+      "mbid": "d8fd8d9b-473b-4f06-83c8-869b1bb9de89",
+      "url": "https://www.last.fm/music/Bryson+Tiller"
+    },
+    "album": {
+      "artist": "Bryson Tiller",
+      "title": "Whatever She Wants - Single",
+      "url": "https://www.last.fm/music/Bryson+Tiller/Whatever+She+Wants+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8db3fe6a2e972bac20c8bbeda0e7309f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8db3fe6a2e972bac20c8bbeda0e7309f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8db3fe6a2e972bac20c8bbeda0e7309f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8db3fe6a2e972bac20c8bbeda0e7309f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "detroit",
+          "url": "https://www.last.fm/tag/detroit"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://www.last.fm/tag/Bryson+Tiller"
+        }
+      ]
+    }
+  }
+}

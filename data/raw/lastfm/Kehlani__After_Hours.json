@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "After Hours",
+    "mbid": "a4aeb6b1-90d5-4070-86ae-6ece364a408f",
+    "url": "https://www.last.fm/music/Kehlani/_/After+Hours",
+    "duration": "202000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "251149",
+    "playcount": "2480463",
+    "artist": {
+      "name": "Kehlani",
+      "mbid": "3260ce89-5eb0-4c6a-89c7-379c0dfc2ab9",
+      "url": "https://www.last.fm/music/Kehlani"
+    },
+    "album": {
+      "artist": "Kehlani",
+      "title": "After Hours",
+      "url": "https://www.last.fm/music/Kehlani/After+Hours",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fded0bfced95997e2bacd14b1bbfc882.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fded0bfced95997e2bacd14b1bbfc882.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fded0bfced95997e2bacd14b1bbfc882.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fded0bfced95997e2bacd14b1bbfc882.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "Kpop",
+          "url": "https://www.last.fm/tag/Kpop"
+        },
+        {
+          "name": "fav",
+          "url": "https://www.last.fm/tag/fav"
+        },
+        {
+          "name": "alexcore",
+          "url": "https://www.last.fm/tag/alexcore"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "01 Sep 2024, 05:50",
+      "summary": "After Hours is the lead single from Kehlani’s fourth studio album CRASH. The track debuted on the Billboard Hot 100, peaking at No. 72. Its success has been further solidified with a nomination for Best R&B Song at the 67th Annual Grammy Awards.\n\nCritics have praised “After Hours” for its lush production and Kehlani’s soulful, compelling vocal delivery. The accompanying music video, released on May 7, 2024, adds a visually striking narrative that complements the song’s themes, elevating its popularity and critical acclaim. <a href=\"http://www.last.fm/music/Kehlani/_/After+Hours\">Read more on Last.fm</a>.",
+      "content": "After Hours is the lead single from Kehlani’s fourth studio album CRASH. The track debuted on the Billboard Hot 100, peaking at No. 72. Its success has been further solidified with a nomination for Best R&B Song at the 67th Annual Grammy Awards.\n\nCritics have praised “After Hours” for its lush production and Kehlani’s soulful, compelling vocal delivery. The accompanying music video, released on May 7, 2024, adds a visually striking narrative that complements the song’s themes, elevating its popularity and critical acclaim. <a href=\"http://www.last.fm/music/Kehlani/_/After+Hours\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

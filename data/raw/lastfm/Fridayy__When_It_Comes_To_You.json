@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "When It Comes To You",
+    "mbid": "ca0c7349-b076-49c3-987f-6a9f9bd386a8",
+    "url": "https://www.last.fm/music/Fridayy/_/When+It+Comes+To+You",
+    "duration": "168000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "37035",
+    "playcount": "244323",
+    "artist": {
+      "name": "Fridayy",
+      "mbid": "cb9c2a2b-96c2-44d7-bd31-04ef87572b57",
+      "url": "https://www.last.fm/music/Fridayy"
+    },
+    "album": {
+      "artist": "Fridayy",
+      "title": "When It Comes To You",
+      "url": "https://www.last.fm/music/Fridayy/When+It+Comes+To+You",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4d740e8be994c4237cb9b5e2c91df012.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4d740e8be994c4237cb9b5e2c91df012.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4d740e8be994c4237cb9b5e2c91df012.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4d740e8be994c4237cb9b5e2c91df012.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Rara Vez",
+    "url": "https://www.last.fm/music/Taiu/_/Rara+Vez",
+    "duration": "128000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "144398",
+    "playcount": "2296495",
+    "artist": {
+      "name": "Taiu",
+      "mbid": "e707735d-4113-493e-9289-b9f22803621f",
+      "url": "https://www.last.fm/music/Taiu"
+    },
+    "album": {
+      "artist": "Taiu",
+      "title": "Rara Vez",
+      "url": "https://www.last.fm/music/Taiu/Rara+Vez",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fc1ef84ec667deac2621387d6318f4af.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fc1ef84ec667deac2621387d6318f4af.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fc1ef84ec667deac2621387d6318f4af.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fc1ef84ec667deac2621387d6318f4af.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Ram Pam Pam",
+    "mbid": "b6ad3276-7aaa-443d-a640-97fe60574187",
+    "url": "https://www.last.fm/music/Natti+Natasha/_/Ram+Pam+Pam",
+    "duration": "200000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "67100",
+    "playcount": "502686",
+    "artist": {
+      "name": "Natti Natasha",
+      "mbid": "25be91ac-7d7c-441f-a7d2-98e35d642e4c",
+      "url": "https://www.last.fm/music/Natti+Natasha"
+    },
+    "album": {
+      "artist": "Becky G",
+      "title": "ESQUEMAS",
+      "url": "https://www.last.fm/music/Becky+G/ESQUEMAS",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c790bc73c062f05ad42b362bf32e916f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c790bc73c062f05ad42b362bf32e916f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c790bc73c062f05ad42b362bf32e916f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c790bc73c062f05ad42b362bf32e916f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

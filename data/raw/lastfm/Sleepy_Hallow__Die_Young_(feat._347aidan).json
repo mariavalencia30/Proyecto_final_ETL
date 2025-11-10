@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Die Young (feat. 347aidan)",
+    "url": "https://www.last.fm/music/Sleepy+Hallow/_/Die+Young+(feat.+347aidan)",
+    "duration": "148000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "197075",
+    "playcount": "2606413",
+    "artist": {
+      "name": "Sleepy Hallow",
+      "mbid": "13108baf-5129-47b5-a174-5f720012155a",
+      "url": "https://www.last.fm/music/Sleepy+Hallow"
+    },
+    "album": {
+      "artist": "Sleepy Hallow",
+      "title": "Die Young (feat. 347aidan) - Single",
+      "url": "https://www.last.fm/music/Sleepy+Hallow/Die+Young+(feat.+347aidan)+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9be6603730704686944753aa2ef09b3.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9be6603730704686944753aa2ef09b3.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9be6603730704686944753aa2ef09b3.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9be6603730704686944753aa2ef09b3.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

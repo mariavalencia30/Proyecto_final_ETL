@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Wrecking Ball",
+    "url": "https://www.last.fm/music/Miley+Cyrus/_/Wrecking+Ball",
+    "duration": "222000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1192193",
+    "playcount": "9974522",
+    "artist": {
+      "name": "Miley Cyrus",
+      "mbid": "7e9bd05a-117f-4cce-87bc-e011527a8b18",
+      "url": "https://www.last.fm/music/Miley+Cyrus"
+    },
+    "album": {
+      "artist": "Miley Cyrus",
+      "title": "Bangerz (Deluxe Version)",
+      "url": "https://www.last.fm/music/Miley+Cyrus/Bangerz+(Deluxe+Version)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/996cc02a4a70411e964ab5e4e6655d02.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/996cc02a4a70411e964ab5e4e6655d02.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/996cc02a4a70411e964ab5e4e6655d02.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/996cc02a4a70411e964ab5e4e6655d02.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "Ballad",
+          "url": "https://www.last.fm/tag/Ballad"
+        },
+        {
+          "name": "love at first listen",
+          "url": "https://www.last.fm/tag/love+at+first+listen"
+        },
+        {
+          "name": "2013",
+          "url": "https://www.last.fm/tag/2013"
+        },
+        {
+          "name": "Miley Cyrus",
+          "url": "https://www.last.fm/tag/Miley+Cyrus"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "11 Sep 2013, 21:26",
+      "summary": "\"Wrecking Ball\" is a song recorded by American singer Miley Cyrus for her fourth studio album, \"Bangerz\". The song was released as a digital download on August 25, 2013. It was sent to American radio on September 16, 2013. \"Wrecking Ball\" was written by Cyrus herself, Lukasz Gottwald, Maureen Anne McDonald, Stephan Moccio, Sacha Skarbek and Henry Russell Walter. The song was produced by Dr. Luke and Henry Russell Walter under his production name, Cirkut. <a href=\"http://www.last.fm/music/Miley+Cyrus/_/Wrecking+Ball\">Read more on Last.fm</a>.",
+      "content": "\"Wrecking Ball\" is a song recorded by American singer Miley Cyrus for her fourth studio album, \"Bangerz\". The song was released as a digital download on August 25, 2013. It was sent to American radio on September 16, 2013. \"Wrecking Ball\" was written by Cyrus herself, Lukasz Gottwald, Maureen Anne McDonald, Stephan Moccio, Sacha Skarbek and Henry Russell Walter. The song was produced by Dr. Luke and Henry Russell Walter under his production name, Cirkut. Both the song and its music video received mixed reviews from critics. It reached number one on the U.S. Billboard Hot 100, becoming her first number one hit in the country. <a href=\"http://www.last.fm/music/Miley+Cyrus/_/Wrecking+Ball\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

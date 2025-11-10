@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Houdini",
+    "mbid": "c23803fb-b260-419a-b3a9-f2d1d30b6581",
+    "url": "https://www.last.fm/music/Dua+Lipa/_/Houdini",
+    "duration": "185000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "917819",
+    "playcount": "16745213",
+    "artist": {
+      "name": "Dua Lipa",
+      "mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+      "url": "https://www.last.fm/music/Dua+Lipa"
+    },
+    "album": {
+      "artist": "Dua Lipa",
+      "title": "Houdini",
+      "url": "https://www.last.fm/music/Dua+Lipa/Houdini",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/04039704db43b335c2591288ec67d686.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/04039704db43b335c2591288ec67d686.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/04039704db43b335c2591288ec67d686.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/04039704db43b335c2591288ec67d686.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Disco",
+          "url": "https://www.last.fm/tag/Disco"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "nu-disco",
+          "url": "https://www.last.fm/tag/nu-disco"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "psychedelic pop",
+          "url": "https://www.last.fm/tag/psychedelic+pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "07 Nov 2023, 22:54",
+      "summary": "\"Houdini\" is a song by English-Albanian singer Dua Lipa. It was released on 9 November 2023 through Warner Records, as the lead single from Lipa's third studio album, Radical Optimism (2024). The song was produced by Danny L Harle and Kevin Parker. Lipa co-wrote the song with Harle, Parker, Caroline Ailin and Tobias Jesso Jr. <a href=\"http://www.last.fm/music/Dua+Lipa/_/Houdini\">Read more on Last.fm</a>.",
+      "content": "\"Houdini\" is a song by English-Albanian singer Dua Lipa. It was released on 9 November 2023 through Warner Records, as the lead single from Lipa's third studio album, Radical Optimism (2024). The song was produced by Danny L Harle and Kevin Parker. Lipa co-wrote the song with Harle, Parker, Caroline Ailin and Tobias Jesso Jr. <a href=\"http://www.last.fm/music/Dua+Lipa/_/Houdini\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

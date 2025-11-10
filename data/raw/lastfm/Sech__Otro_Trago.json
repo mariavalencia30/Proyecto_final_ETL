@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Otro Trago",
+    "url": "https://www.last.fm/music/Sech/_/Otro+Trago",
+    "duration": "225000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "101049",
+    "playcount": "653494",
+    "artist": {
+      "name": "Sech",
+      "mbid": "709f5e96-51cd-49b4-a8e4-0ca0bf808de3",
+      "url": "https://www.last.fm/music/Sech"
+    },
+    "album": {
+      "artist": "Rich Music LTD, Sech, Dalex",
+      "title": "Rich Music Sessions",
+      "url": "https://www.last.fm/music/Rich+Music+LTD,+Sech,+Dalex/Rich+Music+Sessions",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/397f939d2f57f89138b129021f94c116.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/397f939d2f57f89138b129021f94c116.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/397f939d2f57f89138b129021f94c116.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/397f939d2f57f89138b129021f94c116.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

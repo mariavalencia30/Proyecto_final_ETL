@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "The Painter",
+    "mbid": "028861a6-6b01-471f-b81c-68c296285ef7",
+    "url": "https://www.last.fm/music/Cody+Johnson/_/The+Painter",
+    "duration": "211000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "72660",
+    "playcount": "553280",
+    "artist": {
+      "name": "Cody Johnson",
+      "mbid": "faabeed5-3dd0-4be5-aec5-e6486e68db2f",
+      "url": "https://www.last.fm/music/Cody+Johnson"
+    },
+    "album": {
+      "artist": "Cody Johnson",
+      "title": "The Painter",
+      "url": "https://www.last.fm/music/Cody+Johnson/The+Painter",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7de0bb2ec1e3b024f79ad26727651a15.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7de0bb2ec1e3b024f79ad26727651a15.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7de0bb2ec1e3b024f79ad26727651a15.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7de0bb2ec1e3b024f79ad26727651a15.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

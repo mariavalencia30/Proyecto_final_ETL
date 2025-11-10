@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Essence (feat. Tems)",
+    "url": "https://www.last.fm/music/Wizkid/_/Essence+(feat.+Tems)",
+    "duration": "249000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "218291",
+    "playcount": "1910829",
+    "artist": {
+      "name": "Wizkid",
+      "mbid": "efc5d365-a448-4e2f-9b5f-4a7c84be725c",
+      "url": "https://www.last.fm/music/Wizkid"
+    },
+    "album": {
+      "artist": "Wizkid",
+      "title": "Made in Lagos: Deluxe Edition",
+      "url": "https://www.last.fm/music/Wizkid/Made+in+Lagos:+Deluxe+Edition",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a7f5828dd65db6180c5652d9ddbab2ac.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a7f5828dd65db6180c5652d9ddbab2ac.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a7f5828dd65db6180c5652d9ddbab2ac.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a7f5828dd65db6180c5652d9ddbab2ac.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

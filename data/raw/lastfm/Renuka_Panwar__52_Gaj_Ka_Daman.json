@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "52 Gaj Ka Daman",
+    "url": "https://www.last.fm/music/Renuka+Panwar/_/52+Gaj+Ka+Daman",
+    "duration": "163000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "5641",
+    "playcount": "27687",
+    "artist": {
+      "name": "Renuka Panwar",
+      "url": "https://www.last.fm/music/Renuka+Panwar"
+    },
+    "album": {
+      "artist": "MJ & Renuka Panwar",
+      "title": "52 Gaj Ka Daman - Single",
+      "url": "https://www.last.fm/music/MJ+&+Renuka+Panwar/52+Gaj+Ka+Daman+-+Single",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

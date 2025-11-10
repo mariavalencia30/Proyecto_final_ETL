@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "It's Not Right But It's Okay",
+    "mbid": "97ae2171-fe62-46e3-92f3-f867b55ef0ed",
+    "url": "https://www.last.fm/music/Mr.+Belt+&+Wezol/_/It%27s+Not+Right+But+It%27s+Okay",
+    "duration": "153000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "160511",
+    "playcount": "737618",
+    "artist": {
+      "name": "Mr. Belt & Wezol",
+      "mbid": "f6900b6f-3d71-4a5f-b627-98c81951d360",
+      "url": "https://www.last.fm/music/Mr.+Belt+&+Wezol"
+    },
+    "album": {
+      "artist": "Mr. Belt & Wezol",
+      "title": "It's Not Right But It's Okay",
+      "url": "https://www.last.fm/music/Mr.+Belt+&+Wezol/It%27s+Not+Right+But+It%27s+Okay",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a8cf1864cbdc2136a82a984edc6e1621.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a8cf1864cbdc2136a82a984edc6e1621.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a8cf1864cbdc2136a82a984edc6e1621.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a8cf1864cbdc2136a82a984edc6e1621.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Mo Bamba",
+    "mbid": "52d1d41b-9f7f-420b-947f-fed4862dfe27",
+    "url": "https://www.last.fm/music/Sheck+Wes/_/Mo+Bamba",
+    "duration": "181000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "736865",
+    "playcount": "6351713",
+    "artist": {
+      "name": "Sheck Wes",
+      "mbid": "07ab04d4-bdbc-4c93-bfb2-457693a4ff94",
+      "url": "https://www.last.fm/music/Sheck+Wes"
+    },
+    "album": {
+      "artist": "Sheck Wes",
+      "title": "MO BAMBA",
+      "url": "https://www.last.fm/music/Sheck+Wes/MO+BAMBA",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/26e00f0e05b0203e48e92e791c867425.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/26e00f0e05b0203e48e92e791c867425.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/26e00f0e05b0203e48e92e791c867425.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/26e00f0e05b0203e48e92e791c867425.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "experimental hip-hop",
+          "url": "https://www.last.fm/tag/experimental+hip-hop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "02 Sep 2020, 21:49",
+      "summary": "Mo Bamba\" is a single by American rapper Sheck Wes. It was released on June 16, 2017, by Cactus Jack Records, GOOD Music and Interscope Records. It serves as a single from his debut studio album, Mudboy. The song was produced by 16yrold and record production duo Take a Daytrip. The song was a sleeper hit, going viral in mid-2018 and peaking at #6 on the Hot 100. The song was named after Sheck Wes' friend, basketball player Mohamed Bamba.\n <a href=\"http://www.last.fm/music/Sheck+Wes/_/Mo+Bamba\">Read more on Last.fm</a>.",
+      "content": "Mo Bamba\" is a single by American rapper Sheck Wes. It was released on June 16, 2017, by Cactus Jack Records, GOOD Music and Interscope Records. It serves as a single from his debut studio album, Mudboy. The song was produced by 16yrold and record production duo Take a Daytrip. The song was a sleeper hit, going viral in mid-2018 and peaking at #6 on the Hot 100. The song was named after Sheck Wes' friend, basketball player Mohamed Bamba.\n <a href=\"http://www.last.fm/music/Sheck+Wes/_/Mo+Bamba\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

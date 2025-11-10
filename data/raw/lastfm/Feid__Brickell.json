@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Brickell",
+    "url": "https://www.last.fm/music/Feid/_/Brickell",
+    "duration": "180000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "66914",
+    "playcount": "713320",
+    "artist": {
+      "name": "Feid",
+      "mbid": "eaee97f6-f2e4-414a-966c-f31a1fb4696a",
+      "url": "https://www.last.fm/music/Feid"
+    },
+    "album": {
+      "artist": "Feid",
+      "title": "MANIFESTING 20-05",
+      "url": "https://www.last.fm/music/Feid/MANIFESTING+20-05",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/28c9242cb7780a51410b18da58d6c393.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/28c9242cb7780a51410b18da58d6c393.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/28c9242cb7780a51410b18da58d6c393.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28c9242cb7780a51410b18da58d6c393.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

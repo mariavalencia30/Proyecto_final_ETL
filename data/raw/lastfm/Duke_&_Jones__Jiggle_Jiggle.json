@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Jiggle Jiggle",
+    "url": "https://www.last.fm/music/Duke+&+Jones/_/Jiggle+Jiggle",
+    "duration": "97000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "106271",
+    "playcount": "495105",
+    "artist": {
+      "name": "Duke & Jones",
+      "mbid": "2aa4444d-74ff-4cfd-8f29-68919bdf3871",
+      "url": "https://www.last.fm/music/Duke+&+Jones"
+    },
+    "album": {
+      "artist": "Jason Derulo",
+      "title": "Jiggle Jiggle (Jason Derulo x Louis Theroux x Duke & Jones x Amelia Dimz)",
+      "url": "https://www.last.fm/music/Jason+Derulo/Jiggle+Jiggle+(Jason+Derulo+x+Louis+Theroux+x+Duke+&+Jones+x+Amelia+Dimz)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5990e76800c709b015ed0801f2037f07.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5990e76800c709b015ed0801f2037f07.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5990e76800c709b015ed0801f2037f07.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5990e76800c709b015ed0801f2037f07.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

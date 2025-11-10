@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Meridian",
+    "url": "https://www.last.fm/music/Dave/_/Meridian",
+    "duration": "257000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "67718",
+    "playcount": "669551",
+    "artist": {
+      "name": "Dave",
+      "mbid": "c7740223-c657-4b0a-a0a4-b8349169e760",
+      "url": "https://www.last.fm/music/Dave"
+    },
+    "album": {
+      "artist": "فنانون متعددون",
+      "title": "Latino Hits 2024",
+      "url": "https://www.last.fm/music/%D9%81%D9%86%D8%A7%D9%86%D9%88%D9%86+%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D9%88%D9%86/Latino+Hits+2024",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

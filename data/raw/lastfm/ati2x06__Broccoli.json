@@ -1,0 +1,20 @@
+{
+  "track": {
+    "name": "Broccoli",
+    "url": "https://www.last.fm/music/ati2x06/_/Broccoli",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "22",
+    "playcount": "31",
+    "artist": {
+      "name": "ati2x06",
+      "url": "https://www.last.fm/music/ati2x06"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "From the D to the A (feat. Lil Yachty)",
+    "url": "https://www.last.fm/music/Tee+Grizzley/_/From+the+D+to+the+A+(feat.+Lil+Yachty)",
+    "duration": "165000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "289857",
+    "playcount": "3435455",
+    "artist": {
+      "name": "Tee Grizzley",
+      "mbid": "babeb28b-5142-4af9-a3c5-9987315f1fc3",
+      "url": "https://www.last.fm/music/Tee+Grizzley"
+    },
+    "album": {
+      "artist": "Tee Grizzley",
+      "title": "From The D To The A (feat. Lil Yachty)",
+      "url": "https://www.last.fm/music/Tee+Grizzley/From+The+D+To+The+A+(feat.+Lil+Yachty)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9290f48d9d73e4f85dc4aaedf30ea058.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9290f48d9d73e4f85dc4aaedf30ea058.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9290f48d9d73e4f85dc4aaedf30ea058.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9290f48d9d73e4f85dc4aaedf30ea058.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

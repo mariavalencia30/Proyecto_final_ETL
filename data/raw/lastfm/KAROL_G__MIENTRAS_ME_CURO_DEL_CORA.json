@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "MIENTRAS ME CURO DEL CORA",
+    "url": "https://www.last.fm/music/KAROL+G/_/MIENTRAS+ME+CURO+DEL+CORA",
+    "duration": "164000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "132837",
+    "playcount": "1127005",
+    "artist": {
+      "name": "KAROL G",
+      "mbid": "de22adae-f8ac-414f-b653-b0162611bd60",
+      "url": "https://www.last.fm/music/KAROL+G"
+    },
+    "album": {
+      "artist": "KAROL G",
+      "title": "MAÑANA SERÁ BONITO",
+      "url": "https://www.last.fm/music/KAROL+G/MA%C3%91ANA+SER%C3%81+BONITO",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2305bdf9f2d7c4e1d4f21ba2aa54120f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2305bdf9f2d7c4e1d4f21ba2aa54120f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2305bdf9f2d7c4e1d4f21ba2aa54120f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2305bdf9f2d7c4e1d4f21ba2aa54120f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

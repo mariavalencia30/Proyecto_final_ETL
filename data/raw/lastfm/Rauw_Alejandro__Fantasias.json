@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Fantasias",
+    "url": "https://www.last.fm/music/Rauw+Alejandro/_/Fantasias",
+    "duration": "200000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "100306",
+    "playcount": "663350",
+    "artist": {
+      "name": "Rauw Alejandro",
+      "mbid": "197b70c7-8910-4030-ad03-632d82aa40e3",
+      "url": "https://www.last.fm/music/Rauw+Alejandro"
+    },
+    "album": {
+      "artist": "Rauw Alejandro & Farruko",
+      "title": "Fantasias",
+      "url": "https://www.last.fm/music/Rauw+Alejandro+&+Farruko/Fantasias",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0194af36288372f9b5289d946c977e2a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0194af36288372f9b5289d946c977e2a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0194af36288372f9b5289d946c977e2a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0194af36288372f9b5289d946c977e2a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

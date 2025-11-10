@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "DE LUNES A LUNES",
+    "url": "https://www.last.fm/music/Manuel+Turizo/_/DE+LUNES+A+LUNES",
+    "duration": "188000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "23140",
+    "playcount": "138387",
+    "artist": {
+      "name": "Manuel Turizo",
+      "mbid": "30a57b7b-47c9-4234-86fd-9b8ff660e7cb",
+      "url": "https://www.last.fm/music/Manuel+Turizo"
+    },
+    "album": {
+      "artist": "Manuel Turizo",
+      "title": "DE LUNES A LUNES",
+      "url": "https://www.last.fm/music/Manuel+Turizo/DE+LUNES+A+LUNES",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/28db470ea58813238cd00809b7b25bd0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/28db470ea58813238cd00809b7b25bd0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/28db470ea58813238cd00809b7b25bd0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/28db470ea58813238cd00809b7b25bd0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

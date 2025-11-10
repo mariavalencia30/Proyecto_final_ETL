@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Un Desperdicio",
+    "url": "https://www.last.fm/music/Rels+B/_/Un+Desperdicio",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "48115",
+    "playcount": "407448",
+    "artist": {
+      "name": "Rels B",
+      "mbid": "c1a3132a-c23e-4283-8f9a-4080dc52a177",
+      "url": "https://www.last.fm/music/Rels+B"
+    },
+    "album": {
+      "artist": "Rels B",
+      "title": "A New Star (1 9 9 3)",
+      "url": "https://www.last.fm/music/Rels+B/A+New+Star+(1+9+9+3)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2d6c380abc8db00f59f00428176a05d4.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2d6c380abc8db00f59f00428176a05d4.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2d6c380abc8db00f59f00428176a05d4.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2d6c380abc8db00f59f00428176a05d4.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

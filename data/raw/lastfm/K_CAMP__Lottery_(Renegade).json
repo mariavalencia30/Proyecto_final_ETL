@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Lottery (Renegade)",
+    "mbid": "68321c69-5a37-4c38-814b-fb18d1b72ae9",
+    "url": "https://www.last.fm/music/K+Camp/_/Lottery+(Renegade)",
+    "duration": "171000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "80915",
+    "playcount": "367144",
+    "artist": {
+      "name": "K Camp",
+      "mbid": "6256d2b2-7515-4986-b27c-af533758a156",
+      "url": "https://www.last.fm/music/K+Camp"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Melted",
+      "url": "https://www.last.fm/music/Various+Artists/Melted",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d0153107f9d7cc66b8e26e8e8c5a876e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d0153107f9d7cc66b8e26e8e8c5a876e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d0153107f9d7cc66b8e26e8e8c5a876e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d0153107f9d7cc66b8e26e8e8c5a876e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

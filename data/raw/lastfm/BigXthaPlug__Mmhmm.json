@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Mmhmm",
+    "mbid": "f0588bfd-1f14-4719-af32-15d152d165dc",
+    "url": "https://www.last.fm/music/BigXthaPlug/_/Mmhmm",
+    "duration": "119000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "453594",
+    "playcount": "4074239",
+    "artist": {
+      "name": "BigXthaPlug",
+      "mbid": "d25f6294-686a-4569-b1b9-fe64bfef2519",
+      "url": "https://www.last.fm/music/BigXthaPlug"
+    },
+    "album": {
+      "artist": "BigXthaPlug",
+      "title": "Mmhmm",
+      "url": "https://www.last.fm/music/BigXthaPlug/Mmhmm",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7faaf49b2db85261f1b1a745e605b999.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7faaf49b2db85261f1b1a745e605b999.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7faaf49b2db85261f1b1a745e605b999.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7faaf49b2db85261f1b1a745e605b999.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Kya Loge Tum",
+    "mbid": "e1effa25-ddab-4572-9be0-fd5d80929c00",
+    "url": "https://www.last.fm/music/B+Praak/_/Kya+Loge+Tum",
+    "duration": "233000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "4165",
+    "playcount": "18040",
+    "artist": {
+      "name": "B Praak",
+      "mbid": "9d7cac94-79ac-48e9-8be9-dcdcbb00e3df",
+      "url": "https://www.last.fm/music/B+Praak"
+    },
+    "album": {
+      "artist": "Jaani & B Praak",
+      "title": "Kya Loge Tum",
+      "url": "https://www.last.fm/music/Jaani+&+B+Praak/Kya+Loge+Tum",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

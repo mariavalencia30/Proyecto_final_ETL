@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Made For Me",
+    "mbid": "6ef644b4-6ee5-4a66-9e5a-3ef754727a5b",
+    "url": "https://www.last.fm/music/Muni+Long/_/Made+For+Me",
+    "duration": "188000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "248282",
+    "playcount": "2023468",
+    "artist": {
+      "name": "Muni Long",
+      "mbid": "66acfbaf-a28e-49c1-aeff-ef92e4358d90",
+      "url": "https://www.last.fm/music/Muni+Long"
+    },
+    "album": {
+      "artist": "Muni Long",
+      "title": "Made For Me",
+      "url": "https://www.last.fm/music/Muni+Long/Made+For+Me",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a8fcc3f78dabf7949bd0961c736adb5e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a8fcc3f78dabf7949bd0961c736adb5e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a8fcc3f78dabf7949bd0961c736adb5e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a8fcc3f78dabf7949bd0961c736adb5e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "17 Feb 2025, 22:53",
+      "summary": "Muni Long’s \"Made For Me\" is a heartfelt love song dedicated to her son. After setting up a home studio two months post-birth, she found inspiration while listening to a beat from producer Jordan XL. Surrounded by baby toys and her son nearby, she wrote the song as an expression of her love. Despite revising the track over several months, it wasn't until Tunji Balogun, CEO of Def Jam, expressed his support that Muni decided to finalize it. <a href=\"http://www.last.fm/music/Muni+Long/_/Made+For+Me\">Read more on Last.fm</a>.",
+      "content": "Muni Long’s \"Made For Me\" is a heartfelt love song dedicated to her son. After setting up a home studio two months post-birth, she found inspiration while listening to a beat from producer Jordan XL. Surrounded by baby toys and her son nearby, she wrote the song as an expression of her love. Despite revising the track over several months, it wasn't until Tunji Balogun, CEO of Def Jam, expressed his support that Muni decided to finalize it. <a href=\"http://www.last.fm/music/Muni+Long/_/Made+For+Me\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

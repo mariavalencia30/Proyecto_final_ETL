@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "BILLIE EILISH.",
+    "mbid": "f3c585fd-49a5-4704-806d-da18e61f4360",
+    "url": "https://www.last.fm/music/Armani+White/_/BILLIE+EILISH.",
+    "duration": "99000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "311915",
+    "playcount": "2322700",
+    "artist": {
+      "name": "Armani White",
+      "mbid": "187fbe15-8245-48fe-b410-49418dc7cb78",
+      "url": "https://www.last.fm/music/Armani+White"
+    },
+    "album": {
+      "artist": "Armani White",
+      "title": "BILLIE EILISH. - Single",
+      "url": "https://www.last.fm/music/Armani+White/BILLIE+EILISH.+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/680afdf555f615bdb85f2929bd52887e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/680afdf555f615bdb85f2929bd52887e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/680afdf555f615bdb85f2929bd52887e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/680afdf555f615bdb85f2929bd52887e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "17 Dec 2022, 05:14",
+      "summary": "\"BILLIE EILISH.\" is a song by American rapper Armani White. It was released as a single on May 23, 2022 by Legendbound and Def Jam Recordings, and debuted at number 99 on the US Billboard Hot 100 in September 2022. The song samples \"Nothin'\" by N.O.R.E. <a href=\"http://www.last.fm/music/Armani+White/_/BILLIE+EILISH.\">Read more on Last.fm</a>.",
+      "content": "\"BILLIE EILISH.\" is a song by American rapper Armani White. It was released as a single on May 23, 2022 by Legendbound and Def Jam Recordings, and debuted at number 99 on the US Billboard Hot 100 in September 2022. The song samples \"Nothin'\" by N.O.R.E. <a href=\"http://www.last.fm/music/Armani+White/_/BILLIE+EILISH.\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

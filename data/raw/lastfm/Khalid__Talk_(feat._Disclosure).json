@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Talk (feat. Disclosure)",
+    "url": "https://www.last.fm/music/Khalid/_/Talk+(feat.+Disclosure)",
+    "duration": "197000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "371409",
+    "playcount": "2121206",
+    "artist": {
+      "name": "Khalid",
+      "mbid": "acc88434-f16e-4aad-83e0-ea0ee6bb6b3d",
+      "url": "https://www.last.fm/music/Khalid"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Now 34",
+      "url": "https://www.last.fm/music/Various+Artists/Now+34",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9a66a213e2e63ce28d14d9b5e8bc792c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9a66a213e2e63ce28d14d9b5e8bc792c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9a66a213e2e63ce28d14d9b5e8bc792c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9a66a213e2e63ce28d14d9b5e8bc792c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Forget Me",
+    "mbid": "c682ac5b-44a1-4e92-94e6-e3d3501b331c",
+    "url": "https://www.last.fm/music/Lewis+Capaldi/_/Forget+Me",
+    "duration": "203000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "217816",
+    "playcount": "1980678",
+    "artist": {
+      "name": "Lewis Capaldi",
+      "mbid": "526aab94-697f-44a9-b630-41d1c0505953",
+      "url": "https://www.last.fm/music/Lewis+Capaldi"
+    },
+    "album": {
+      "artist": "Lewis Capaldi",
+      "title": "Forget Me",
+      "url": "https://www.last.fm/music/Lewis+Capaldi/Forget+Me",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ff32a83c3faf844b66f4789f3ad0d9e0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ff32a83c3faf844b66f4789f3ad0d9e0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ff32a83c3faf844b66f4789f3ad0d9e0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ff32a83c3faf844b66f4789f3ad0d9e0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

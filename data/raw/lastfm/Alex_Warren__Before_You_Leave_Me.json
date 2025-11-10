@@ -1,0 +1,58 @@
+{
+  "track": {
+    "name": "Before You Leave Me",
+    "mbid": "4071b038-3376-415a-abc1-91f6388fc962",
+    "url": "https://www.last.fm/music/Alex+Warren/_/Before+You+Leave+Me",
+    "duration": "176000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "187428",
+    "playcount": "1624741",
+    "artist": {
+      "name": "Alex Warren",
+      "mbid": "609a2ea3-f446-4e31-8eef-9f7591afb55a",
+      "url": "https://www.last.fm/music/Alex+Warren"
+    },
+    "album": {
+      "artist": "Alex Warren",
+      "title": "Before You Leave Me",
+      "url": "https://www.last.fm/music/Alex+Warren/Before+You+Leave+Me",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c25139ae4db83089729bfdd992b158fc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c25139ae4db83089729bfdd992b158fc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c25139ae4db83089729bfdd992b158fc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c25139ae4db83089729bfdd992b158fc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "my top songs",
+          "url": "https://www.last.fm/tag/my+top+songs"
+        },
+        {
+          "name": "a",
+          "url": "https://www.last.fm/tag/a"
+        },
+        {
+          "name": "linedance 2024",
+          "url": "https://www.last.fm/tag/linedance+2024"
+        }
+      ]
+    }
+  }
+}

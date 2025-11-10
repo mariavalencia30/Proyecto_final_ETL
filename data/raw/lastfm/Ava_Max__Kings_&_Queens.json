@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Kings & Queens",
+    "mbid": "90e606bc-6b29-4afe-8393-872e24db7632",
+    "url": "https://www.last.fm/music/Ava+Max/_/Kings+&+Queens",
+    "duration": "162000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "578331",
+    "playcount": "6021919",
+    "artist": {
+      "name": "Ava Max",
+      "mbid": "add5f522-25df-41c4-815e-0ca9f60b83e4",
+      "url": "https://www.last.fm/music/Ava+Max"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "L'été France Bleu 2021",
+      "url": "https://www.last.fm/music/Various+Artists/L%27%C3%A9t%C3%A9+France+Bleu+2021",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/10c1bd0f90a460bbc925c0bf7de7be84.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/10c1bd0f90a460bbc925c0bf7de7be84.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/10c1bd0f90a460bbc925c0bf7de7be84.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/10c1bd0f90a460bbc925c0bf7de7be84.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://www.last.fm/tag/Ava+Max"
+        },
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "2020",
+          "url": "https://www.last.fm/tag/2020"
+        },
+        {
+          "name": "danceable",
+          "url": "https://www.last.fm/tag/danceable"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "15 Sep 2020, 10:58",
+      "summary": "\"Kings & Queens\" is a song by Ava Max, released as a single from her debut album \"Heaven & Hell\" on March 12, 2020. The song includes a credited interpolation of \"If You Were a Woman (And I Was a Man)\" by Bonnie Tyler. \"Kings & Queens\" received generally favorable reception from critics, who praised the production, guitar solo, and lyricism. The music video was released on March 27, 2020, and features a Khaleesi inspired Ava dancing in a heaven-themed throne room alongside a group of dancers, while also feasting at a banquet. <a href=\"http://www.last.fm/music/Ava+Max/_/Kings+&+Queens\">Read more on Last.fm</a>.",
+      "content": "\"Kings & Queens\" is a song by Ava Max, released as a single from her debut album \"Heaven & Hell\" on March 12, 2020. The song includes a credited interpolation of \"If You Were a Woman (And I Was a Man)\" by Bonnie Tyler. \"Kings & Queens\" received generally favorable reception from critics, who praised the production, guitar solo, and lyricism. The music video was released on March 27, 2020, and features a Khaleesi inspired Ava dancing in a heaven-themed throne room alongside a group of dancers, while also feasting at a banquet. <a href=\"http://www.last.fm/music/Ava+Max/_/Kings+&+Queens\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

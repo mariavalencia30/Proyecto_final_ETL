@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "Sabor Fresa",
+    "url": "https://www.last.fm/music/Fuerza+Regida/_/Sabor+Fresa",
+    "duration": "156000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "143310",
+    "playcount": "1922221",
+    "artist": {
+      "name": "Fuerza Regida",
+      "mbid": "e665ce26-6ce9-4c42-8f6a-7a361a0ba328",
+      "url": "https://www.last.fm/music/Fuerza+Regida"
+    },
+    "album": {
+      "artist": "Fuerza Regida",
+      "title": "Sabor Fresa",
+      "url": "https://www.last.fm/music/Fuerza+Regida/Sabor+Fresa",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/083f506d8e2fc1e1f358327f80194f8b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/083f506d8e2fc1e1f358327f80194f8b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/083f506d8e2fc1e1f358327f80194f8b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/083f506d8e2fc1e1f358327f80194f8b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "17 Sep 2023, 21:01",
+      "summary": "La canción \"SABOR FRESA\" de Fuerza Regida nos habla sobre lujos y mujeres. Comenzando por el champagne para las \"niñas fresas\" que hace referencia a chicas jóvenes de la clase alta, nos dice cómo es la vida llena de excesos con amigos y mujeres dónde no se ve pasar el tiempo ni el dinero que se gasta. Sin más, la letra presume vivir la vida al máximo con el dinero y mujeres que se pueden llegar a obtener, aunque también consumo de drogas y sexo. <a href=\"http://www.last.fm/music/Fuerza+Regida/_/Sabor+Fresa\">Read more on Last.fm</a>.",
+      "content": "La canción \"SABOR FRESA\" de Fuerza Regida nos habla sobre lujos y mujeres. Comenzando por el champagne para las \"niñas fresas\" que hace referencia a chicas jóvenes de la clase alta, nos dice cómo es la vida llena de excesos con amigos y mujeres dónde no se ve pasar el tiempo ni el dinero que se gasta. Sin más, la letra presume vivir la vida al máximo con el dinero y mujeres que se pueden llegar a obtener, aunque también consumo de drogas y sexo. <a href=\"http://www.last.fm/music/Fuerza+Regida/_/Sabor+Fresa\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

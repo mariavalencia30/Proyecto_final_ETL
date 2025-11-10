@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "bury a friend",
+    "mbid": "0219e7c1-7814-4b66-9e70-31bdd87b581f",
+    "url": "https://www.last.fm/music/Billie+Eilish/_/bury+a+friend",
+    "duration": "185000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1061658",
+    "playcount": "12234153",
+    "artist": {
+      "name": "Billie Eilish",
+      "mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+      "url": "https://www.last.fm/music/Billie+Eilish"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Helloween",
+      "url": "https://www.last.fm/music/Various+Artists/Helloween",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/26f0e0c75beffa3f7b2e46f95b29e80c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/26f0e0c75beffa3f7b2e46f95b29e80c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/26f0e0c75beffa3f7b2e46f95b29e80c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/26f0e0c75beffa3f7b2e46f95b29e80c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "alternative rnb",
+          "url": "https://www.last.fm/tag/alternative+rnb"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "industrial",
+          "url": "https://www.last.fm/tag/industrial"
+        },
+        {
+          "name": "electro-industrial",
+          "url": "https://www.last.fm/tag/electro-industrial"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "19 Aug 2020, 07:26",
+      "summary": "\"Bury a Friend\" is a song by American singer Billie Eilish from her debut studio album, When We All Fall Asleep, Where Do We Go? (2019). It was released as the third single from the record on January 30, and later serviced to US alternative radio stations on February 19, 2019, with both releases occurring through Darkroom and Interscope Records. Eilish and her brother Finneas O'Connell co-wrote the song, with the latter solely producing it. The song was described as synth-pop <a href=\"http://www.last.fm/music/Billie+Eilish/_/bury+a+friend\">Read more on Last.fm</a>.",
+      "content": "\"Bury a Friend\" is a song by American singer Billie Eilish from her debut studio album, When We All Fall Asleep, Where Do We Go? (2019). It was released as the third single from the record on January 30, and later serviced to US alternative radio stations on February 19, 2019, with both releases occurring through Darkroom and Interscope Records. Eilish and her brother Finneas O'Connell co-wrote the song, with the latter solely producing it. The song was described as synth-pop, electronica and electropop in press reviews, for which hip hop beats, percussion, and a synthesizer provide minimalist instrumentation. Within the dark and violent lyrics, Eilish sings from the perspective of a monster under someone's bed. Her vocals are subtle and treated with layers of vocal effects. <a href=\"http://www.last.fm/music/Billie+Eilish/_/bury+a+friend\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

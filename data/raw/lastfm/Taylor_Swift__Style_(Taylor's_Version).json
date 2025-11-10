@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Style (Taylor's Version)",
+    "mbid": "5f0518bf-c6b5-4608-b6fe-ba2b311181c2",
+    "url": "https://www.last.fm/music/Taylor+Swift/_/Style+(Taylor%27s+Version)",
+    "duration": "231000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "732536",
+    "playcount": "11514704",
+    "artist": {
+      "name": "Taylor Swift",
+      "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+      "url": "https://www.last.fm/music/Taylor+Swift"
+    },
+    "album": {
+      "artist": "Taylor Swift",
+      "title": "1989 (Taylor's Version)",
+      "url": "https://www.last.fm/music/Taylor+Swift/1989+(Taylor%27s+Version)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f58d29605321bc6e1ee4da6ae5a0cb4a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f58d29605321bc6e1ee4da6ae5a0cb4a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f58d29605321bc6e1ee4da6ae5a0cb4a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f58d29605321bc6e1ee4da6ae5a0cb4a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "better than original",
+          "url": "https://www.last.fm/tag/better+than+original"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "pop perfection",
+          "url": "https://www.last.fm/tag/pop+perfection"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "synthwave",
+          "url": "https://www.last.fm/tag/synthwave"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "27 Oct 2023, 04:21",
+      "summary": "\"Style (Taylor's Version)\" is a re-recorded version of the song \"Style\" and the third track from Taylor Swift's fourth re-recorded album, 1989 (Taylor's Version). <a href=\"http://www.last.fm/music/Taylor+Swift/_/Style+(Taylor%27s+Version)\">Read more on Last.fm</a>.",
+      "content": "\"Style (Taylor's Version)\" is a re-recorded version of the song \"Style\" and the third track from Taylor Swift's fourth re-recorded album, 1989 (Taylor's Version). <a href=\"http://www.last.fm/music/Taylor+Swift/_/Style+(Taylor%27s+Version)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

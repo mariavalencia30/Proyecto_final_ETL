@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Vois sur ton chemin - Techno Mix",
+    "url": "https://www.last.fm/music/Bennett/_/Vois+sur+ton+chemin+-+Techno+Mix",
+    "duration": "178000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "246798",
+    "playcount": "2381992",
+    "artist": {
+      "name": "Bennett",
+      "mbid": "51e60d6d-a964-4978-80c3-5da17e6ea6b7",
+      "url": "https://www.last.fm/music/Bennett"
+    },
+    "album": {
+      "artist": "Bennett",
+      "title": "Vois sur ton chemin (Techno Mix)",
+      "url": "https://www.last.fm/music/Bennett/Vois+sur+ton+chemin+(Techno+Mix)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2673e94b460d1e8bbc1fcee9797f666f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2673e94b460d1e8bbc1fcee9797f666f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2673e94b460d1e8bbc1fcee9797f666f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2673e94b460d1e8bbc1fcee9797f666f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

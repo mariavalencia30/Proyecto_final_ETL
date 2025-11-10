@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Never Lose Me",
+    "mbid": "c9447e79-e983-40ed-aaf2-b3a3da201e43",
+    "url": "https://www.last.fm/music/Flo+Milli/_/Never+Lose+Me",
+    "duration": "125000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "743502",
+    "playcount": "10154289",
+    "artist": {
+      "name": "Flo Milli",
+      "mbid": "21dab5d7-3bda-4f72-a054-6379729dcb62",
+      "url": "https://www.last.fm/music/Flo+Milli"
+    },
+    "album": {
+      "artist": "Flo Milli",
+      "title": "Never Lose Me",
+      "url": "https://www.last.fm/music/Flo+Milli/Never+Lose+Me",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/784537719833d2509107fc8eaf9db1d6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/784537719833d2509107fc8eaf9db1d6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/784537719833d2509107fc8eaf9db1d6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/784537719833d2509107fc8eaf9db1d6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "the good life",
+          "url": "https://www.last.fm/tag/the+good+life"
+        },
+        {
+          "name": "alexcore",
+          "url": "https://www.last.fm/tag/alexcore"
+        },
+        {
+          "name": "periodt",
+          "url": "https://www.last.fm/tag/periodt"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "07 Feb 2024, 08:53",
+      "summary": "“Never Lose Me” is a track by Flo Milli featured on her highly anticipated second studio album Fine Ho, Stay.\n\nA viral hit, “Never Lose Me” is not only an anthem for the ladies, but an affirmation of Flo’s self-worth, confidence and loyalty. <a href=\"http://www.last.fm/music/Flo+Milli/_/Never+Lose+Me\">Read more on Last.fm</a>.",
+      "content": "“Never Lose Me” is a track by Flo Milli featured on her highly anticipated second studio album Fine Ho, Stay.\n\nA viral hit, “Never Lose Me” is not only an anthem for the ladies, but an affirmation of Flo’s self-worth, confidence and loyalty. <a href=\"http://www.last.fm/music/Flo+Milli/_/Never+Lose+Me\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

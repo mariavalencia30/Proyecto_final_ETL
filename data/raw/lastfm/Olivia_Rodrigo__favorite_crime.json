@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "favorite crime",
+    "mbid": "873fb4a6-3c43-4482-b451-a7b195792186",
+    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/favorite+crime",
+    "duration": "160000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1215168",
+    "playcount": "24166302",
+    "artist": {
+      "name": "Olivia Rodrigo",
+      "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Bored",
+      "url": "https://www.last.fm/music/Various+Artists/Bored",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/034ff8639e2624be2d161934fa5f2a12.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/034ff8639e2624be2d161934fa5f2a12.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/034ff8639e2624be2d161934fa5f2a12.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/034ff8639e2624be2d161934fa5f2a12.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "indie pop",
+          "url": "https://www.last.fm/tag/indie+pop"
+        },
+        {
+          "name": "singer-songwriter",
+          "url": "https://www.last.fm/tag/singer-songwriter"
+        },
+        {
+          "name": "folk",
+          "url": "https://www.last.fm/tag/folk"
+        },
+        {
+          "name": "alternative pop",
+          "url": "https://www.last.fm/tag/alternative+pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "27 May 2021, 16:39",
+      "summary": "\"favorite crime\" is the tenth track from Olivia Rodrigo's debut album, SOUR. It was released on May 21, 2021 through Geffen Records.\n\nIn the song, Rodrigo implies that she is partly responsible for her heartbreak because she let herself be treated badly in the relationship, she starts the process of moving on.\n\n\"favorite crime\" debuted at #18 on the Billboard Hot 100 during the chart week of June 5, 2021. The following week, it peaked at #16 on the chart. <a href=\"http://www.last.fm/music/Olivia+Rodrigo/_/favorite+crime\">Read more on Last.fm</a>.",
+      "content": "\"favorite crime\" is the tenth track from Olivia Rodrigo's debut album, SOUR. It was released on May 21, 2021 through Geffen Records.\n\nIn the song, Rodrigo implies that she is partly responsible for her heartbreak because she let herself be treated badly in the relationship, she starts the process of moving on.\n\n\"favorite crime\" debuted at #18 on the Billboard Hot 100 during the chart week of June 5, 2021. The following week, it peaked at #16 on the chart. <a href=\"http://www.last.fm/music/Olivia+Rodrigo/_/favorite+crime\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

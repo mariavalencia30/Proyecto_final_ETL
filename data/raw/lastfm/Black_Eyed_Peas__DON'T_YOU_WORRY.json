@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "DON'T YOU WORRY",
+    "url": "https://www.last.fm/music/Black+Eyed+Peas/_/DON%27T+YOU+WORRY",
+    "duration": "193000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "149795",
+    "playcount": "785317",
+    "artist": {
+      "name": "Black Eyed Peas",
+      "mbid": "d5be5333-4171-427e-8e12-732087c6b78e",
+      "url": "https://www.last.fm/music/Black+Eyed+Peas"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

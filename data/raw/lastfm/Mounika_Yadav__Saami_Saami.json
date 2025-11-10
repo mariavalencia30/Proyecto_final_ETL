@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Saami Saami",
+    "mbid": "7ad23568-32db-4dd7-99c0-d463e64e0e3b",
+    "url": "https://www.last.fm/music/Mounika+Yadav/_/Saami+Saami",
+    "duration": "223000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "4502",
+    "playcount": "28166",
+    "artist": {
+      "name": "Mounika Yadav",
+      "mbid": "3355ba24-b9ea-4ba4-ad59-d6ba076c9bcd",
+      "url": "https://www.last.fm/music/Mounika+Yadav"
+    },
+    "album": {
+      "artist": "Devi Sri Prasad",
+      "title": "Pushpa - The Rise (Telugu)",
+      "url": "https://www.last.fm/music/Devi+Sri+Prasad/Pushpa+-+The+Rise+(Telugu)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2a6fcbbfbfb3301bd18ac16b5dd952fb.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2a6fcbbfbfb3301bd18ac16b5dd952fb.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2a6fcbbfbfb3301bd18ac16b5dd952fb.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2a6fcbbfbfb3301bd18ac16b5dd952fb.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

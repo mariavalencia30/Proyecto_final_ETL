@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Ride",
+    "mbid": "d119365a-cecc-4f8e-ba16-61e3db9cf964",
+    "url": "https://www.last.fm/music/twenty+one+pilots/_/Ride",
+    "duration": "216000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1424420",
+    "playcount": "14376898",
+    "artist": {
+      "name": "twenty one pilots",
+      "mbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+      "url": "https://www.last.fm/music/twenty+one+pilots"
+    },
+    "album": {
+      "artist": "twenty one pilots",
+      "title": "Blurryface",
+      "url": "https://www.last.fm/music/twenty+one+pilots/Blurryface",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6f9906f43b7b516e89f9ebc331dd990a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6f9906f43b7b516e89f9ebc331dd990a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6f9906f43b7b516e89f9ebc331dd990a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6f9906f43b7b516e89f9ebc331dd990a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "reggae",
+          "url": "https://www.last.fm/tag/reggae"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "vocal harmonies",
+          "url": "https://www.last.fm/tag/vocal+harmonies"
+        },
+        {
+          "name": "prominent percussion",
+          "url": "https://www.last.fm/tag/prominent+percussion"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "09 May 2016, 03:46",
+      "summary": "\"Ride\" is a single by American alternative hip hop band Twenty One Pilots from their fourth studio album, Blurryface. \"Ride\" was released on YouTube worldwide on May 11, 2015, and released as a single on Google Play Store on May 12, 2015. The music video of the song was released on May 13, 2015. It was serviced to U.S. contemporary hit radio on April 12, 2016.\n\nThe song has currently peaked at #5 on the Billboard 100.  <a href=\"http://www.last.fm/music/twenty+one+pilots/_/Ride\">Read more on Last.fm</a>.",
+      "content": "\"Ride\" is a single by American alternative hip hop band Twenty One Pilots from their fourth studio album, Blurryface. \"Ride\" was released on YouTube worldwide on May 11, 2015, and released as a single on Google Play Store on May 12, 2015. The music video of the song was released on May 13, 2015. It was serviced to U.S. contemporary hit radio on April 12, 2016.\n\nThe song has currently peaked at #5 on the Billboard 100.  <a href=\"http://www.last.fm/music/twenty+one+pilots/_/Ride\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

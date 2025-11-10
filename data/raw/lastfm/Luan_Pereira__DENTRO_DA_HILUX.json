@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "DENTRO DA HILUX",
+    "url": "https://www.last.fm/music/Luan+Pereira/_/DENTRO+DA+HILUX",
+    "duration": "163000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "112176",
+    "playcount": "713771",
+    "artist": {
+      "name": "Luan Pereira",
+      "mbid": "e43f8926-29db-481e-a4d9-04e45c0aeccb",
+      "url": "https://www.last.fm/music/Luan+Pereira"
+    },
+    "album": {
+      "artist": "Vários Artistas",
+      "title": "São João 2024 - Músicas Oficiais Pra Sua Festa",
+      "url": "https://www.last.fm/music/V%C3%A1rios+Artistas/S%C3%A3o+Jo%C3%A3o+2024+-+M%C3%BAsicas+Oficiais+Pra+Sua+Festa",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

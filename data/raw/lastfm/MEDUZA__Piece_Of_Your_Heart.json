@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Piece of Your Heart",
+    "mbid": "4d4c5382-361f-4dc9-86e8-e6e0c67b4cad",
+    "url": "https://www.last.fm/music/Meduza/_/Piece+of+Your+Heart",
+    "duration": "152000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "390837",
+    "playcount": "3271739",
+    "artist": {
+      "name": "Meduza",
+      "mbid": "64614ee1-9add-4f2f-b970-5205b09ae218",
+      "url": "https://www.last.fm/music/Meduza"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Massive Dance Hits",
+      "url": "https://www.last.fm/music/Various+Artists/Massive+Dance+Hits",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/94efe7d762ddcb2fd3e1e0553a1258b1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/94efe7d762ddcb2fd3e1e0553a1258b1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/94efe7d762ddcb2fd3e1e0553a1258b1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/94efe7d762ddcb2fd3e1e0553a1258b1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Mele Kalikimaka",
+    "url": "https://www.last.fm/music/Bing+Crosby/_/Mele+Kalikimaka",
+    "duration": "177000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "57246",
+    "playcount": "161006",
+    "artist": {
+      "name": "Bing Crosby",
+      "mbid": "2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+      "url": "https://www.last.fm/music/Bing+Crosby"
+    },
+    "album": {
+      "artist": "Bing Crosby",
+      "title": "Christmas Is A Comin'",
+      "url": "https://www.last.fm/music/Bing+Crosby/Christmas+Is+A+Comin%27",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cd70f95e920b468fbb6abd57708b3218.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cd70f95e920b468fbb6abd57708b3218.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cd70f95e920b468fbb6abd57708b3218.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd70f95e920b468fbb6abd57708b3218.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

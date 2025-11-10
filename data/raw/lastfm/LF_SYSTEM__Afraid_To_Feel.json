@@ -1,0 +1,65 @@
+{
+  "track": {
+    "name": "Afraid To Feel",
+    "mbid": "d71f7d62-f7fc-4907-ba37-3f97a12448f7",
+    "url": "https://www.last.fm/music/LF+System/_/Afraid+To+Feel",
+    "duration": "177000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "439610",
+    "playcount": "3779686",
+    "artist": {
+      "name": "LF System",
+      "url": "https://www.last.fm/music/LF+System"
+    },
+    "album": {
+      "artist": "LF System",
+      "title": "Afraid To Feel",
+      "url": "https://www.last.fm/music/LF+System/Afraid+To+Feel",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2079a94dce7e847b361fa49376a840da.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2079a94dce7e847b361fa49376a840da.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2079a94dce7e847b361fa49376a840da.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2079a94dce7e847b361fa49376a840da.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "party",
+          "url": "https://www.last.fm/tag/party"
+        },
+        {
+          "name": "future funk",
+          "url": "https://www.last.fm/tag/future+funk"
+        },
+        {
+          "name": "funk",
+          "url": "https://www.last.fm/tag/funk"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        }
+      ]
+    }
+  }
+}

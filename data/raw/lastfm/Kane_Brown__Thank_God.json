@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Thank God",
+    "url": "https://www.last.fm/music/Kane+Brown/_/Thank+God",
+    "duration": "173000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "48132",
+    "playcount": "323354",
+    "artist": {
+      "name": "Kane Brown",
+      "mbid": "a62e299b-4707-4ff5-ad53-d80b2b03319d",
+      "url": "https://www.last.fm/music/Kane+Brown"
+    },
+    "album": {
+      "artist": "Kane Brown",
+      "title": "Different Man",
+      "url": "https://www.last.fm/music/Kane+Brown/Different+Man",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5aea6d462ae82e8b8aff93ed9c081044.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5aea6d462ae82e8b8aff93ed9c081044.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5aea6d462ae82e8b8aff93ed9c081044.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5aea6d462ae82e8b8aff93ed9c081044.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Trap Queen",
+    "mbid": "138b62ad-2ff2-4528-bed4-223bff732fa9",
+    "url": "https://www.last.fm/music/Fetty+Wap/_/Trap+Queen",
+    "duration": "222000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1086045",
+    "playcount": "8808457",
+    "artist": {
+      "name": "Fetty Wap",
+      "mbid": "e3492ea0-5997-4241-a7bf-2fd7fb1bfad1",
+      "url": "https://www.last.fm/music/Fetty+Wap"
+    },
+    "album": {
+      "artist": "Fetty Wap",
+      "title": "Trap Queen",
+      "url": "https://www.last.fm/music/Fetty+Wap/Trap+Queen",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/be9c252957cb3f361524e8c5df669ca1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/be9c252957cb3f361524e8c5df669ca1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/be9c252957cb3f361524e8c5df669ca1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be9c252957cb3f361524e8c5df669ca1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "Dope Shit",
+          "url": "https://www.last.fm/tag/Dope+Shit"
+        },
+        {
+          "name": "Fetty wap",
+          "url": "https://www.last.fm/tag/Fetty+wap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "31 Jan 2015, 06:26",
+      "summary": "It appears on Fetty Wap's Up Next EP mixtape and then it got uploaded on his Soundcloud profile.  He sold the mixtape in his hometown Paterson, NJ and it got popular in his hometown.  The song was YouTube and it got four million plays after he was signed to 300 entertainment. <a href=\"http://www.last.fm/music/Fetty+Wap/_/Trap+Queen\">Read more on Last.fm</a>.",
+      "content": "It appears on Fetty Wap's Up Next EP mixtape and then it got uploaded on his Soundcloud profile.  He sold the mixtape in his hometown Paterson, NJ and it got popular in his hometown.  The song was YouTube and it got four million plays after he was signed to 300 entertainment. <a href=\"http://www.last.fm/music/Fetty+Wap/_/Trap+Queen\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

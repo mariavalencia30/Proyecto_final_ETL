@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Boss Bitch",
+    "mbid": "746f3bb7-a030-4278-ab94-676a127c2bd7",
+    "url": "https://www.last.fm/music/Doja+Cat/_/Boss+Bitch",
+    "duration": "134000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "973735",
+    "playcount": "11846421",
+    "artist": {
+      "name": "Doja Cat",
+      "mbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+      "url": "https://www.last.fm/music/Doja+Cat"
+    },
+    "album": {
+      "artist": "Doja Cat",
+      "title": "Boss Bitch",
+      "url": "https://www.last.fm/music/Doja+Cat/Boss+Bitch",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4108ebf77eabb6264d19c03f5fd98d31.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4108ebf77eabb6264d19c03f5fd98d31.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4108ebf77eabb6264d19c03f5fd98d31.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4108ebf77eabb6264d19c03f5fd98d31.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "hip house",
+          "url": "https://www.last.fm/tag/hip+house"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "17 Jun 2021, 21:38",
+      "summary": "\"Boss Bitch\" is a song by American singer and rapper Doja Cat, featured on the Birds of Prey soundtrack Birds of Prey: The Album . It was released as the soundtrack's third single on January 23, 2020.\n\nIt was penned by Doja Cat, rapper and artist Ashnikko, Imad Royal and Sky Adam’s. <a href=\"http://www.last.fm/music/Doja+Cat/_/Boss+Bitch\">Read more on Last.fm</a>.",
+      "content": "\"Boss Bitch\" is a song by American singer and rapper Doja Cat, featured on the Birds of Prey soundtrack Birds of Prey: The Album . It was released as the soundtrack's third single on January 23, 2020.\n\nIt was penned by Doja Cat, rapper and artist Ashnikko, Imad Royal and Sky Adam’s. <a href=\"http://www.last.fm/music/Doja+Cat/_/Boss+Bitch\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

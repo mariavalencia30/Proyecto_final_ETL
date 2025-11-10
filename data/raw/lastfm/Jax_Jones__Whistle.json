@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Whistle",
+    "url": "https://www.last.fm/music/Jax+Jones/_/Whistle",
+    "duration": "182000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "2561",
+    "playcount": "10520",
+    "artist": {
+      "name": "Jax Jones",
+      "mbid": "a2507d4d-3387-4d31-a6e8-f2c9794fb37e",
+      "url": "https://www.last.fm/music/Jax+Jones"
+    },
+    "album": {
+      "artist": "فنانون متعددون",
+      "title": "MNM Big Hits - Best Of 2023",
+      "url": "https://www.last.fm/music/%D9%81%D9%86%D8%A7%D9%86%D9%88%D9%86+%D9%85%D8%AA%D8%B9%D8%AF%D8%AF%D9%88%D9%86/MNM+Big+Hits+-+Best+Of+2023",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9ae7a4b5a59cb8ebc9d3a1228ab75575.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9ae7a4b5a59cb8ebc9d3a1228ab75575.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9ae7a4b5a59cb8ebc9d3a1228ab75575.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9ae7a4b5a59cb8ebc9d3a1228ab75575.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

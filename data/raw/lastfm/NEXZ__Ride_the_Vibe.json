@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Ride the Vibe",
+    "mbid": "a0b6cc0f-34ca-42cc-846b-7de6be1f05f6",
+    "url": "https://www.last.fm/music/Nexz/_/Ride+the+Vibe",
+    "duration": "172000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "25442",
+    "playcount": "306455",
+    "artist": {
+      "name": "Nexz",
+      "url": "https://www.last.fm/music/Nexz"
+    },
+    "album": {
+      "artist": "Nexz",
+      "title": "Ride the Vibe",
+      "url": "https://www.last.fm/music/Nexz/Ride+the+Vibe",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e0ddbc8adb66c2f01e4a7347f6f1309c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e0ddbc8adb66c2f01e4a7347f6f1309c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e0ddbc8adb66c2f01e4a7347f6f1309c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e0ddbc8adb66c2f01e4a7347f6f1309c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

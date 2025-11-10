@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "In a Minute",
+    "mbid": "f5784088-fe76-44ff-93e7-afefedc02258",
+    "url": "https://www.last.fm/music/Lil+Baby/_/In+a+Minute",
+    "duration": "200000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "166278",
+    "playcount": "1630770",
+    "artist": {
+      "name": "Lil Baby",
+      "mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+      "url": "https://www.last.fm/music/Lil+Baby"
+    },
+    "album": {
+      "artist": "Lil Baby",
+      "title": "In a Minute",
+      "url": "https://www.last.fm/music/Lil+Baby/In+a+Minute",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f387b3ee38bada0033508305abb483cf.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f387b3ee38bada0033508305abb483cf.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f387b3ee38bada0033508305abb483cf.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f387b3ee38bada0033508305abb483cf.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

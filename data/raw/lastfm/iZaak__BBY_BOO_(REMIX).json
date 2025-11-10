@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "BBY BOO (REMIX)",
+    "url": "https://www.last.fm/music/Izaak/_/BBY+BOO+(REMIX)",
+    "duration": "275000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "134",
+    "playcount": "408",
+    "artist": {
+      "name": "Izaak",
+      "url": "https://www.last.fm/music/Izaak"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Canciones Virales",
+      "url": "https://www.last.fm/music/Various+Artists/Canciones+Virales",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

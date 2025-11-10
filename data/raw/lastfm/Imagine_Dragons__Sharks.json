@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Sharks",
+    "mbid": "40e62afc-e0a4-425a-9fa0-f1da4e5d8bd3",
+    "url": "https://www.last.fm/music/Imagine+Dragons/_/Sharks",
+    "duration": "190000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "282386",
+    "playcount": "2930927",
+    "artist": {
+      "name": "Imagine Dragons",
+      "mbid": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+      "url": "https://www.last.fm/music/Imagine+Dragons"
+    },
+    "album": {
+      "artist": "Imagine Dragons",
+      "title": "Mercury - Acts 1 & 2",
+      "url": "https://www.last.fm/music/Imagine+Dragons/Mercury+-+Acts+1+&+2",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0553855155afbee981f9e460021522c5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0553855155afbee981f9e460021522c5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0553855155afbee981f9e460021522c5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0553855155afbee981f9e460021522c5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "groovy",
+          "url": "https://www.last.fm/tag/groovy"
+        },
+        {
+          "name": "instrumental",
+          "url": "https://www.last.fm/tag/instrumental"
+        },
+        {
+          "name": "spoken",
+          "url": "https://www.last.fm/tag/spoken"
+        },
+        {
+          "name": "loud",
+          "url": "https://www.last.fm/tag/loud"
+        },
+        {
+          "name": "Moderate",
+          "url": "https://www.last.fm/tag/Moderate"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "29 Jun 2022, 00:42",
+      "summary": "“Sharks” is the second single off of “Mercury – Act 2”, and the seventeenth track on “Mercury – Acts 1 and 2”. The first lyrics of this song were found on the Imagine Dragons Discord during the Sharks ARG that occurred on June 16, 2022 on this site.\n\nA brief description of the Sharks ARG:\n\nLinks were found using puzzle pieces. Each piece had a secret code/cipher (Morse, binary, braille, etc.) that translated to 3 letters. These 3 letters were inserted into lnk. <a href=\"http://www.last.fm/music/Imagine+Dragons/_/Sharks\">Read more on Last.fm</a>.",
+      "content": "“Sharks” is the second single off of “Mercury – Act 2”, and the seventeenth track on “Mercury – Acts 1 and 2”. The first lyrics of this song were found on the Imagine Dragons Discord during the Sharks ARG that occurred on June 16, 2022 on this site.\n\nA brief description of the Sharks ARG:\n\nLinks were found using puzzle pieces. Each piece had a secret code/cipher (Morse, binary, braille, etc.) that translated to 3 letters. These 3 letters were inserted into lnk.to links with the corresponding letter of “Mercury A2”. Each link had a different stem of the song, which when put together, formed the full 30-second snippet.\n\nOn Friday, June 17th, the band posted the solutions to the ARG, the full music video poster, and announced the release date of the song to be June 24th, 2022.\n\nVia an Austria only Facebook post on June 21st, the band announced the music video will have a global premiere Friday, June 24th in Vienna, followed by a Q&A with the band and an exclusive first listen to their \"Mercury\" double album a week before the release of Act 2. <a href=\"http://www.last.fm/music/Imagine+Dragons/_/Sharks\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

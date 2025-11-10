@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Green Green Grass",
+    "mbid": "1e7d1888-daac-4ae5-bb68-f256d789f97c",
+    "url": "https://www.last.fm/music/George+Ezra/_/Green+Green+Grass",
+    "duration": "168000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "167793",
+    "playcount": "1250179",
+    "artist": {
+      "name": "George Ezra",
+      "mbid": "2c5e2a98-d9ea-46b5-9618-d9bb4863a920",
+      "url": "https://www.last.fm/music/George+Ezra"
+    },
+    "album": {
+      "artist": "George Ezra",
+      "title": "Gold Rush Kid",
+      "url": "https://www.last.fm/music/George+Ezra/Gold+Rush+Kid",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ee41e9b6839b0966a7c1daa7128458ac.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ee41e9b6839b0966a7c1daa7128458ac.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ee41e9b6839b0966a7c1daa7128458ac.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ee41e9b6839b0966a7c1daa7128458ac.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

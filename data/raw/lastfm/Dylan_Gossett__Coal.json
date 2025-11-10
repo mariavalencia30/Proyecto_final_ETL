@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Coal",
+    "url": "https://www.last.fm/music/Dylan+Gossett/_/Coal",
+    "duration": "194000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "133083",
+    "playcount": "1543801",
+    "artist": {
+      "name": "Dylan Gossett",
+      "mbid": "c3012f96-f4eb-418a-8a02-3febccf95091",
+      "url": "https://www.last.fm/music/Dylan+Gossett"
+    },
+    "album": {
+      "artist": "Dylan Gossett",
+      "title": "Coal",
+      "url": "https://www.last.fm/music/Dylan+Gossett/Coal",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3d0c24a22d3f1ed4c3edcdda478a5d42.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3d0c24a22d3f1ed4c3edcdda478a5d42.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3d0c24a22d3f1ed4c3edcdda478a5d42.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3d0c24a22d3f1ed4c3edcdda478a5d42.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

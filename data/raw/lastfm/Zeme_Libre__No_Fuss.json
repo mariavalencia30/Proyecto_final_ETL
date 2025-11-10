@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "No Fuss",
+    "url": "https://www.last.fm/music/Zeme+Libre/_/No+Fuss",
+    "duration": "146000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "12",
+    "playcount": "21",
+    "artist": {
+      "name": "Zeme Libre",
+      "url": "https://www.last.fm/music/Zeme+Libre"
+    },
+    "album": {
+      "artist": "Zeme Libre",
+      "title": "Take Me Alive",
+      "url": "https://www.last.fm/music/Zeme+Libre/Take+Me+Alive",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

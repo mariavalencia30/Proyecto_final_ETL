@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "7 Years",
+    "url": "https://www.last.fm/music/Lukas+Graham/_/7+Years",
+    "duration": "237000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "826734",
+    "playcount": "6918792",
+    "artist": {
+      "name": "Lukas Graham",
+      "mbid": "69cfe463-3075-44d8-b118-02381e4a9ed9",
+      "url": "https://www.last.fm/music/Lukas+Graham"
+    },
+    "album": {
+      "artist": "Lukas Graham",
+      "title": "Lukas Graham (Blue Album)",
+      "url": "https://www.last.fm/music/Lukas+Graham/Lukas+Graham+(Blue+Album)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c1ccdb565cb8a9a5ba6271706157d01d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c1ccdb565cb8a9a5ba6271706157d01d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c1ccdb565cb8a9a5ba6271706157d01d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c1ccdb565cb8a9a5ba6271706157d01d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Olivia",
+          "url": "https://www.last.fm/tag/Olivia"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "danish",
+          "url": "https://www.last.fm/tag/danish"
+        },
+        {
+          "name": "Olivia will be a great mother",
+          "url": "https://www.last.fm/tag/Olivia+will+be+a+great+mother"
+        },
+        {
+          "name": "i will have children with Olivia",
+          "url": "https://www.last.fm/tag/i+will+have+children+with+Olivia"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "19 Feb 2017, 19:37",
+      "summary": "\"7 Years\" is a song by Danish soul-pop band Lukas Graham, released as the third single off their second studio album, Lukas Graham (Blue Album), on 18 September 2015. The song topped the charts in Denmark, Sweden, Italy, Austria, Australia, New Zealand, Ireland, the UK, and Canada, while reaching number two in the United States and the top ten in several other European countries.\n\n\"7 Years\" was nominated for three Grammy Awards: Record of the Year, Song of the Year, and Best Pop Duo/Group Performance. <a href=\"http://www.last.fm/music/Lukas+Graham/_/7+Years\">Read more on Last.fm</a>.",
+      "content": "\"7 Years\" is a song by Danish soul-pop band Lukas Graham, released as the third single off their second studio album, Lukas Graham (Blue Album), on 18 September 2015. The song topped the charts in Denmark, Sweden, Italy, Austria, Australia, New Zealand, Ireland, the UK, and Canada, while reaching number two in the United States and the top ten in several other European countries.\n\n\"7 Years\" was nominated for three Grammy Awards: Record of the Year, Song of the Year, and Best Pop Duo/Group Performance. <a href=\"http://www.last.fm/music/Lukas+Graham/_/7+Years\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

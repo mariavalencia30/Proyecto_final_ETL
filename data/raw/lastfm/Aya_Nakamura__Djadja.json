@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Djadja",
+    "mbid": "5cc56d70-4d00-41c3-a38d-ec3864fe5c12",
+    "url": "https://www.last.fm/music/Aya+Nakamura/_/Djadja",
+    "duration": "164000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "187724",
+    "playcount": "1444491",
+    "artist": {
+      "name": "Aya Nakamura",
+      "mbid": "cf580d82-3f3e-4b86-8874-7e0fbe794f01",
+      "url": "https://www.last.fm/music/Aya+Nakamura"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Bravo Hits, Vol. 103",
+      "url": "https://www.last.fm/music/Various+Artists/Bravo+Hits,+Vol.+103",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a205b0d504f33a395554d4b2f71cbeca.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a205b0d504f33a395554d4b2f71cbeca.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a205b0d504f33a395554d4b2f71cbeca.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a205b0d504f33a395554d4b2f71cbeca.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

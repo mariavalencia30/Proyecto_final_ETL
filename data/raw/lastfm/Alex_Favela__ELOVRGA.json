@@ -1,0 +1,20 @@
+{
+  "track": {
+    "name": "Elovrga",
+    "url": "https://www.last.fm/music/Alex+Favela/_/Elovrga",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "58135",
+    "playcount": "820917",
+    "artist": {
+      "name": "Alex Favela",
+      "url": "https://www.last.fm/music/Alex+Favela"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

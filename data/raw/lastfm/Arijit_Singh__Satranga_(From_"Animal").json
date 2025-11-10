@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Satranga (From \"ANIMAL\")",
+    "mbid": "158d9369-2be2-46b0-b24c-2705e0071982",
+    "url": "https://www.last.fm/music/Arijit+Singh/_/Satranga+(From+%22ANIMAL%22)",
+    "duration": "271000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "33359",
+    "playcount": "236395",
+    "artist": {
+      "name": "Arijit Singh",
+      "mbid": "ed3f4831-e3e0-4dc0-9381-f5649e9df221",
+      "url": "https://www.last.fm/music/Arijit+Singh"
+    },
+    "album": {
+      "artist": "群星",
+      "title": "Vanga Vibes",
+      "url": "https://www.last.fm/music/%E7%BE%A4%E6%98%9F/Vanga+Vibes",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/df61d601c02060a013c6ee715d510929.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/df61d601c02060a013c6ee715d510929.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/df61d601c02060a013c6ee715d510929.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/df61d601c02060a013c6ee715d510929.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "adore u",
+    "mbid": "50adf125-f212-48e0-8bac-37c28fa42c7a",
+    "url": "https://www.last.fm/music/Fred+again../_/adore+u",
+    "duration": "220000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "268610",
+    "playcount": "2094731",
+    "artist": {
+      "name": "Fred again..",
+      "mbid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e",
+      "url": "https://www.last.fm/music/Fred+again.."
+    },
+    "album": {
+      "artist": "Fred again..",
+      "title": "adore u",
+      "url": "https://www.last.fm/music/Fred+again../adore+u",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/21c34f0d784ffc9734975468e4936c86.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/21c34f0d784ffc9734975468e4936c86.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/21c34f0d784ffc9734975468e4936c86.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/21c34f0d784ffc9734975468e4936c86.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

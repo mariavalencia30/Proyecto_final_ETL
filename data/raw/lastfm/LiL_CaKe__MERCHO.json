@@ -1,0 +1,20 @@
+{
+  "track": {
+    "name": "MERCHO",
+    "url": "https://www.last.fm/music/Lil+Cake/_/MERCHO",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "71873",
+    "playcount": "644499",
+    "artist": {
+      "name": "Lil Cake",
+      "url": "https://www.last.fm/music/Lil+Cake"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

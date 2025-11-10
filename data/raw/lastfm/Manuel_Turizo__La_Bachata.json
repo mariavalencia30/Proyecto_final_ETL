@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "La Bachata",
+    "url": "https://www.last.fm/music/Manuel+Turizo/_/La+Bachata",
+    "duration": "162000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "365615",
+    "playcount": "4330432",
+    "artist": {
+      "name": "Manuel Turizo",
+      "mbid": "30a57b7b-47c9-4234-86fd-9b8ff660e7cb",
+      "url": "https://www.last.fm/music/Manuel+Turizo"
+    },
+    "album": {
+      "artist": "Manuel Turizo",
+      "title": "La Bachata",
+      "url": "https://www.last.fm/music/Manuel+Turizo/La+Bachata",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5e52200d459c6716fbc309c807fd62a2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5e52200d459c6716fbc309c807fd62a2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5e52200d459c6716fbc309c807fd62a2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5e52200d459c6716fbc309c807fd62a2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

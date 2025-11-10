@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "In the Stars",
+    "mbid": "49179839-8e49-47cb-895e-ec66b455b7b3",
+    "url": "https://www.last.fm/music/Benson+Boone/_/In+the+Stars",
+    "duration": "213000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "450767",
+    "playcount": "4674985",
+    "artist": {
+      "name": "Benson Boone",
+      "mbid": "62b914a7-d775-4bb4-bb5e-d46e7df115b5",
+      "url": "https://www.last.fm/music/Benson+Boone"
+    },
+    "album": {
+      "artist": "Benson Boone",
+      "title": "In the Stars",
+      "url": "https://www.last.fm/music/Benson+Boone/In+the+Stars",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c769ad1280e558f34a044ac3b2c0a1f1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c769ad1280e558f34a044ac3b2c0a1f1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c769ad1280e558f34a044ac3b2c0a1f1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c769ad1280e558f34a044ac3b2c0a1f1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "my top songs",
+          "url": "https://www.last.fm/tag/my+top+songs"
+        },
+        {
+          "name": "Ballad",
+          "url": "https://www.last.fm/tag/Ballad"
+        },
+        {
+          "name": "2020s",
+          "url": "https://www.last.fm/tag/2020s"
+        },
+        {
+          "name": "instrumental",
+          "url": "https://www.last.fm/tag/instrumental"
+        }
+      ]
+    }
+  }
+}

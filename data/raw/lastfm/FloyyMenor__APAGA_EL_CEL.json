@@ -1,0 +1,22 @@
+{
+  "track": {
+    "name": "Apaga el cel",
+    "mbid": "9ccc3a7e-442c-4184-80e9-1b55d9f62519",
+    "url": "https://www.last.fm/music/FloyyMenor/_/Apaga+el+cel",
+    "duration": "184000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "153229",
+    "playcount": "1171905",
+    "artist": {
+      "name": "FloyyMenor",
+      "mbid": "04a5ed75-6c9f-4d50-87bd-9600abbe68f7",
+      "url": "https://www.last.fm/music/FloyyMenor"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

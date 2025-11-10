@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "LOVE DIVE",
+    "mbid": "25db131d-4437-4d07-a289-77d1223703e7",
+    "url": "https://www.last.fm/music/IVE/_/LOVE+DIVE",
+    "duration": "177000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "572198",
+    "playcount": "18203745",
+    "artist": {
+      "name": "IVE",
+      "mbid": "b2f2216a-d7a9-4ce0-8b8f-f494d9a8c196",
+      "url": "https://www.last.fm/music/IVE"
+    },
+    "album": {
+      "artist": "IVE",
+      "title": "LOVE DIVE",
+      "url": "https://www.last.fm/music/IVE/LOVE+DIVE",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e9c0075644fc7c781455f4c34e954e7e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e9c0075644fc7c781455f4c34e954e7e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e9c0075644fc7c781455f4c34e954e7e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e9c0075644fc7c781455f4c34e954e7e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "k-pop",
+          "url": "https://www.last.fm/tag/k-pop"
+        },
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "ive",
+          "url": "https://www.last.fm/tag/ive"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "electro house",
+          "url": "https://www.last.fm/tag/electro+house"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "08 Apr 2022, 17:48",
+      "summary": "“LOVE DIVE” is the lead single of IVE's second single-album of the same name, showcasing the sweet side of IVE. Introducing a new pathway to their career, “LOVE DIVE” is a cute pop track that contains a modern electronic-pop track to fuse within the girls seductive vocals. Lyrically, the song is about teasing and boasting to one about their charms, and simply trying to say that you both are the perfect match. The song also has a connection with the Greek myth of Narcissus and Echo. <a href=\"http://www.last.fm/music/IVE/_/LOVE+DIVE\">Read more on Last.fm</a>.",
+      "content": "“LOVE DIVE” is the lead single of IVE's second single-album of the same name, showcasing the sweet side of IVE. Introducing a new pathway to their career, “LOVE DIVE” is a cute pop track that contains a modern electronic-pop track to fuse within the girls seductive vocals. Lyrically, the song is about teasing and boasting to one about their charms, and simply trying to say that you both are the perfect match. The song also has a connection with the Greek myth of Narcissus and Echo.\n\nThe song is IVE’s most successful release to date, as it earned four awards including, Mnet’s MAMA award for “Song of The Year,” Asia Artist awards “Song of The Year” plus Golden Disc and Melon Music’s “Song of The Year” award. Additionally, the music video for the song garnished 204 million views in just a year. <a href=\"http://www.last.fm/music/IVE/_/LOVE+DIVE\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

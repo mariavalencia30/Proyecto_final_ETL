@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Teenage Dream",
+    "mbid": "b4c87b12-83c8-4124-8dcc-b71af453450d",
+    "url": "https://www.last.fm/music/Stephen+Dawes/_/Teenage+Dream",
+    "duration": "178000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "186175",
+    "playcount": "1478338",
+    "artist": {
+      "name": "Stephen Dawes",
+      "mbid": "58d25ebc-7c25-47c6-ad1c-0dc65c29f4ac",
+      "url": "https://www.last.fm/music/Stephen+Dawes"
+    },
+    "album": {
+      "artist": "Stephen Dawes",
+      "title": "Teenage Dream",
+      "url": "https://www.last.fm/music/Stephen+Dawes/Teenage+Dream",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b18d0214f6c167c8237871184ef6b8d3.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b18d0214f6c167c8237871184ef6b8d3.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b18d0214f6c167c8237871184ef6b8d3.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b18d0214f6c167c8237871184ef6b8d3.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

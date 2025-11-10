@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Home",
+    "mbid": "526dd98b-df35-4244-bf22-873c4a35ac68",
+    "url": "https://www.last.fm/music/Edith+Whiskers/_/Home",
+    "duration": "195000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "315520",
+    "playcount": "2648141",
+    "artist": {
+      "name": "Edith Whiskers",
+      "mbid": "685dbf2b-62ff-4c06-b398-50bf2c1e7903",
+      "url": "https://www.last.fm/music/Edith+Whiskers"
+    },
+    "album": {
+      "artist": "Edith Whiskers",
+      "title": "Home - Single",
+      "url": "https://www.last.fm/music/Edith+Whiskers/Home+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1b932037f100598c47c5a7ea2d024d82.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1b932037f100598c47c5a7ea2d024d82.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1b932037f100598c47c5a7ea2d024d82.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1b932037f100598c47c5a7ea2d024d82.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

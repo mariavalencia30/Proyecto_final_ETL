@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "BOO!SHUT",
+    "mbid": "65534103-6d6b-4b84-8826-0dc4f38b49af",
+    "url": "https://www.last.fm/music/PIGGS/_/BOO%21SHUT",
+    "duration": "249000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "261",
+    "playcount": "2150",
+    "artist": {
+      "name": "PIGGS",
+      "mbid": "4ebe37eb-288c-43a5-8c71-219f5e9a1451",
+      "url": "https://www.last.fm/music/PIGGS"
+    },
+    "album": {
+      "artist": "PIGGS",
+      "title": "BOO!SHUT - Single",
+      "url": "https://www.last.fm/music/PIGGS/BOO%21SHUT+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7ce8618598b76810b2efe7d5b6a1a7d4.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7ce8618598b76810b2efe7d5b6a1a7d4.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7ce8618598b76810b2efe7d5b6a1a7d4.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7ce8618598b76810b2efe7d5b6a1a7d4.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

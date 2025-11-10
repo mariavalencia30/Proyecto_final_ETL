@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Sent Gamkauwa",
+    "url": "https://www.last.fm/music/Shivani+Singh/_/Sent+Gamkauwa",
+    "duration": "160000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "790",
+    "playcount": "2716",
+    "artist": {
+      "name": "Shivani Singh",
+      "mbid": "1be3b9c4-dfdc-4b5b-b0ef-a8488357cfe4",
+      "url": "https://www.last.fm/music/Shivani+Singh"
+    },
+    "album": {
+      "artist": "Shivani Singh",
+      "title": "Sent Gamkauwa",
+      "url": "https://www.last.fm/music/Shivani+Singh/Sent+Gamkauwa",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

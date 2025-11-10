@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "On My Love",
+    "mbid": "cdbc3684-2b69-4982-848c-904fad6fcee8",
+    "url": "https://www.last.fm/music/Zara+Larsson/_/On+My+Love",
+    "duration": "221000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "147568",
+    "playcount": "899146",
+    "artist": {
+      "name": "Zara Larsson",
+      "mbid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
+      "url": "https://www.last.fm/music/Zara+Larsson"
+    },
+    "album": {
+      "artist": "Zara Larsson",
+      "title": "On My Love",
+      "url": "https://www.last.fm/music/Zara+Larsson/On+My+Love",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f86783d09cab8c65bbfacdf206e6c774.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f86783d09cab8c65bbfacdf206e6c774.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f86783d09cab8c65bbfacdf206e6c774.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f86783d09cab8c65bbfacdf206e6c774.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

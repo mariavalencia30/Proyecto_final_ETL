@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Ta Ta Ta",
+    "url": "https://www.last.fm/music/Bayanni/_/Ta+Ta+Ta",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "48999",
+    "playcount": "387628",
+    "artist": {
+      "name": "Bayanni",
+      "mbid": "c9a81cb6-a361-44f3-bcb4-ba1e1e381011",
+      "url": "https://www.last.fm/music/Bayanni"
+    },
+    "album": {
+      "artist": "Bayanni",
+      "title": "Bayanni - EP",
+      "url": "https://www.last.fm/music/Bayanni/Bayanni+-+EP",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b218323b62caf236d83c03a029d665fa.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b218323b62caf236d83c03a029d665fa.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b218323b62caf236d83c03a029d665fa.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b218323b62caf236d83c03a029d665fa.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Shooting Star",
+    "mbid": "701740f3-54d3-4b70-947c-694038fde561",
+    "url": "https://www.last.fm/music/Kep1er/_/Shooting+Star",
+    "duration": "183000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "71823",
+    "playcount": "1331744",
+    "artist": {
+      "name": "Kep1er",
+      "mbid": "187da628-d21a-4e0f-a93c-456c97a2c032",
+      "url": "https://www.last.fm/music/Kep1er"
+    },
+    "album": {
+      "artist": "Kep1er",
+      "title": "Kep1going On",
+      "url": "https://www.last.fm/music/Kep1er/Kep1going+On",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eb2c7b00cf3460486574ea5fc3afb6bf.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eb2c7b00cf3460486574ea5fc3afb6bf.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eb2c7b00cf3460486574ea5fc3afb6bf.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eb2c7b00cf3460486574ea5fc3afb6bf.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

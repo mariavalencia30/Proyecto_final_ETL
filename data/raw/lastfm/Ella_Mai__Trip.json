@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Trip",
+    "mbid": "0ce672cb-470c-46ac-9a90-858fb28c2cc0",
+    "url": "https://www.last.fm/music/Ella+Mai/_/Trip",
+    "duration": "217000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "330484",
+    "playcount": "2601420",
+    "artist": {
+      "name": "Ella Mai",
+      "mbid": "89d42b97-8042-4c14-a596-a2ccaef5fc4c",
+      "url": "https://www.last.fm/music/Ella+Mai"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Now That's What I Call Music! Vol. 68",
+      "url": "https://www.last.fm/music/Various+Artists/Now+That%27s+What+I+Call+Music%21+Vol.+68",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a8e9fc498fcab13ebe52c0004dd97804.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a8e9fc498fcab13ebe52c0004dd97804.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a8e9fc498fcab13ebe52c0004dd97804.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a8e9fc498fcab13ebe52c0004dd97804.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "28 Sep 2025, 23:47",
+      "summary": "After charting a top-five hit with “Boo’d Up” on the Hot 100, Ella Mai attempts to strike gold again with her new record “Trip.”\n\nThe piano-laden song finds Ella deeply entranced by the love she’s receiving in her relationship. <a href=\"http://www.last.fm/music/Ella+Mai/_/Trip\">Read more on Last.fm</a>.",
+      "content": "After charting a top-five hit with “Boo’d Up” on the Hot 100, Ella Mai attempts to strike gold again with her new record “Trip.”\n\nThe piano-laden song finds Ella deeply entranced by the love she’s receiving in her relationship. <a href=\"http://www.last.fm/music/Ella+Mai/_/Trip\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

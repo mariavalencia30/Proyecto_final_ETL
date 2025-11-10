@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Hello",
+    "mbid": "623b39c5-3cf1-49b1-83a7-a22362f3b9a6",
+    "url": "https://www.last.fm/music/Adele/_/Hello",
+    "duration": "352000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "988885",
+    "playcount": "8883668",
+    "artist": {
+      "name": "Adele",
+      "mbid": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+      "url": "https://www.last.fm/music/Adele"
+    },
+    "album": {
+      "artist": "Adele",
+      "title": "25",
+      "url": "https://www.last.fm/music/Adele/25",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6284ff0b115c46d1b28ae96e6d5b4099.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6284ff0b115c46d1b28ae96e6d5b4099.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6284ff0b115c46d1b28ae96e6d5b4099.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6284ff0b115c46d1b28ae96e6d5b4099.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "soul",
+          "url": "https://www.last.fm/tag/soul"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "2015",
+          "url": "https://www.last.fm/tag/2015"
+        },
+        {
+          "name": "british",
+          "url": "https://www.last.fm/tag/british"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "26 Oct 2015, 10:56",
+      "summary": "\"Hello\" was the first single released from Adele's long awaited third studio album \"25\". Adele examines the past and tries to right her wrongs on “Hello.” On the surface, the song appears to be about a break-up from long ago, but the song can also be interpreted as Adele’s attempt at reconciliation with her former self. In a tweet, Adele called 21 a “break-up record” and 25 a “make-up record\".\n\nThe track was released on Friday, October 23, 2015 and soon went on to break a number of records. <a href=\"http://www.last.fm/music/Adele/_/Hello\">Read more on Last.fm</a>.",
+      "content": "\"Hello\" was the first single released from Adele's long awaited third studio album \"25\". Adele examines the past and tries to right her wrongs on “Hello.” On the surface, the song appears to be about a break-up from long ago, but the song can also be interpreted as Adele’s attempt at reconciliation with her former self. In a tweet, Adele called 21 a “break-up record” and 25 a “make-up record\".\n\nThe track was released on Friday, October 23, 2015 and soon went on to break a number of records. It went straight to No. 1 in Billboard's Hot 100 (November 14, 2015) -  which combines digital sales, radio airplay and streaming data - and became the first song to sell over 1 million downloads in 1 week. The video broke VEVO's \"most viewed video in 24 hours\", getting over 27.7 million views: the record was previously held by Taylor Swift with \"Bad Blood\" (20.1 million video views). \"Hello\" is Adele’s fourth No. 1 song, following “Rolling In the Deep,” “Someone Like You” and “Set Fire to the Rain.”\n\nGrammy Awards (2017) - At the 59th Grammy Awards on Sun, February 12, 2017, \"Hello\" won a Grammy for \"Song Of The Year\" and \"Best Pop Solo Performance\".\n\nIn an interview with i-D, Adele contextualizes “Hello”:\n\nThe song is about hurting someone’s feelings but it’s also about trying to stay in touch with myself, which sometimes can be a little bit hard to do,“ she explains. \"It’s about a yearning for the other side of me. When I’m away, I really, really miss my life at home. The way that I feel when I’m not in England, is…” (she pauses) “desperation. I can’t breathe anywhere else.” Why? “I dunno. I’m so attached to my whole life here. I get worked up that I’m missing out on things. So ‘Hello’ is about wanting to be at home and wanting to reach out to everyone I’ve ever hurt – including myself – and apologize for it. <a href=\"http://www.last.fm/music/Adele/_/Hello\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

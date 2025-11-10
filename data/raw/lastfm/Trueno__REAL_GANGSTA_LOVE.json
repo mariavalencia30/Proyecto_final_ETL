@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "REAL GANGSTA LOVE",
+    "mbid": "d408c390-d9b0-4bb6-9cc3-4b831d9c125b",
+    "url": "https://www.last.fm/music/Trueno/_/REAL+GANGSTA+LOVE",
+    "duration": "145000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "145427",
+    "playcount": "1469006",
+    "artist": {
+      "name": "Trueno",
+      "mbid": "db607377-aace-4a32-a439-373b7236df7e",
+      "url": "https://www.last.fm/music/Trueno"
+    },
+    "album": {
+      "artist": "Trueno",
+      "title": "EL ÚLTIMO BAILE",
+      "url": "https://www.last.fm/music/Trueno/EL+%C3%9ALTIMO+BAILE",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/72b934d39feeaa655fa09aa8a5db62dc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/72b934d39feeaa655fa09aa8a5db62dc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/72b934d39feeaa655fa09aa8a5db62dc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/72b934d39feeaa655fa09aa8a5db62dc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

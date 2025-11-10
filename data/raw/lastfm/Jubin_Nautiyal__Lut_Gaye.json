@@ -1,0 +1,22 @@
+{
+  "track": {
+    "name": "Lut Gaye",
+    "mbid": "cd46de8c-e1bd-4cd4-8e07-20deeabc0b52",
+    "url": "https://www.last.fm/music/Jubin+Nautiyal/_/Lut+Gaye",
+    "duration": "228000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "16375",
+    "playcount": "108713",
+    "artist": {
+      "name": "Jubin Nautiyal",
+      "mbid": "b9603612-5ddf-44d7-a0ab-84bf484fd6a0",
+      "url": "https://www.last.fm/music/Jubin+Nautiyal"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

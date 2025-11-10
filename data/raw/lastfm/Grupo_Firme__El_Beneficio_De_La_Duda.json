@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "El Beneficio De La Duda",
+    "mbid": "49c95167-82e6-4335-bd20-0591d7861bf7",
+    "url": "https://www.last.fm/music/Grupo+Firme/_/El+Beneficio+De+La+Duda",
+    "duration": "245000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "22505",
+    "playcount": "152607",
+    "artist": {
+      "name": "Grupo Firme",
+      "mbid": "f8549adf-74e1-4955-b06a-2933ede7bb04",
+      "url": "https://www.last.fm/music/Grupo+Firme"
+    },
+    "album": {
+      "artist": "Grupo Firme",
+      "title": "El Beneficio De La Duda",
+      "url": "https://www.last.fm/music/Grupo+Firme/El+Beneficio+De+La+Duda",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/40a574f276bb5b62fea728b479e4dae2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/40a574f276bb5b62fea728b479e4dae2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/40a574f276bb5b62fea728b479e4dae2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/40a574f276bb5b62fea728b479e4dae2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

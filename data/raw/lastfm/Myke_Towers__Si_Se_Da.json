@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Si Se Da",
+    "url": "https://www.last.fm/music/Myke+Towers/_/Si+Se+Da",
+    "duration": "237000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "44505",
+    "playcount": "312847",
+    "artist": {
+      "name": "Myke Towers",
+      "mbid": "d2945137-b01d-4195-9f82-64d20f8ba657",
+      "url": "https://www.last.fm/music/Myke+Towers"
+    },
+    "album": {
+      "artist": "Myke Towers",
+      "title": "Easy Money Baby",
+      "url": "https://www.last.fm/music/Myke+Towers/Easy+Money+Baby",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8899a5f85838477a13a6445faaaecbd7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8899a5f85838477a13a6445faaaecbd7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8899a5f85838477a13a6445faaaecbd7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8899a5f85838477a13a6445faaaecbd7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

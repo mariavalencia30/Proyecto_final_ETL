@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "King Size",
+    "url": "https://www.last.fm/music/Roddy+Ricch/_/King+Size",
+    "duration": "189000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "21404",
+    "playcount": "92063",
+    "artist": {
+      "name": "Roddy Ricch",
+      "mbid": "5721c227-4caf-48b1-bbfc-1a4ed3276963",
+      "url": "https://www.last.fm/music/Roddy+Ricch"
+    },
+    "album": {
+      "artist": "Roddy Ricch",
+      "title": "Feed Tha Streets III",
+      "url": "https://www.last.fm/music/Roddy+Ricch/Feed+Tha+Streets+III",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/21db67f07cf21e62cf7780b5d313af65.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/21db67f07cf21e62cf7780b5d313af65.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/21db67f07cf21e62cf7780b5d313af65.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/21db67f07cf21e62cf7780b5d313af65.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

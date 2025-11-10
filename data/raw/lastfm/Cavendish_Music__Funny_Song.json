@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Funny Song",
+    "url": "https://www.last.fm/music/Cavendish+Music/_/Funny+Song",
+    "duration": "107000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3941",
+    "playcount": "17359",
+    "artist": {
+      "name": "Cavendish Music",
+      "mbid": "6c174848-c03e-4acc-8db0-7430a6988cdd",
+      "url": "https://www.last.fm/music/Cavendish+Music"
+    },
+    "album": {
+      "artist": "Cavendish Music",
+      "title": "Vintage Oddities, Vol. 4",
+      "url": "https://www.last.fm/music/Cavendish+Music/Vintage+Oddities,+Vol.+4",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1191df87448f0d0fa0520e4822d964fb.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1191df87448f0d0fa0520e4822d964fb.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1191df87448f0d0fa0520e4822d964fb.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1191df87448f0d0fa0520e4822d964fb.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

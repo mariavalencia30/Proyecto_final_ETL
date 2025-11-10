@@ -1,0 +1,55 @@
+{
+  "track": {
+    "name": "Martin & Gina",
+    "mbid": "7bc332d7-f514-42ab-8076-b0db053f57df",
+    "url": "https://www.last.fm/music/Polo+G/_/Martin+&+Gina",
+    "duration": "132000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "470753",
+    "playcount": "8304345",
+    "artist": {
+      "name": "Polo G",
+      "mbid": "7e1e5648-1d6a-4248-975a-98603e781848",
+      "url": "https://www.last.fm/music/Polo+G"
+    },
+    "album": {
+      "artist": "Polo G",
+      "title": "The Goat",
+      "url": "https://www.last.fm/music/Polo+G/The+Goat",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7d5b1aca1bc85a44b30f05dfac6dfe43.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7d5b1aca1bc85a44b30f05dfac6dfe43.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7d5b1aca1bc85a44b30f05dfac6dfe43.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d5b1aca1bc85a44b30f05dfac6dfe43.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Polo G",
+          "url": "https://www.last.fm/tag/Polo+G"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "09 May 2021, 01:01",
+      "summary": "In this heartfelt song, Polo G relates his current relationship with his girlfriend to Martin and Gina, a couple within the 1990s TV sitcom Martin. Dropping references to designer clothes and expensive items, he boasts about how he’s improved his girl’s lifestyle – and how she’s made everything better for him.\n\n“Martin & Gina” was certified platinum by the RIAA on October 29th, 2020. <a href=\"http://www.last.fm/music/Polo+G/_/Martin+&+Gina\">Read more on Last.fm</a>.",
+      "content": "In this heartfelt song, Polo G relates his current relationship with his girlfriend to Martin and Gina, a couple within the 1990s TV sitcom Martin. Dropping references to designer clothes and expensive items, he boasts about how he’s improved his girl’s lifestyle – and how she’s made everything better for him.\n\n“Martin & Gina” was certified platinum by the RIAA on October 29th, 2020. <a href=\"http://www.last.fm/music/Polo+G/_/Martin+&+Gina\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

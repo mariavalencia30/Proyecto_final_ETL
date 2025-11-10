@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "wait in the truck (feat. Lainey Wilson)",
+    "url": "https://www.last.fm/music/HARDY/_/wait+in+the+truck+(feat.+Lainey+Wilson)",
+    "duration": "277000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "32602",
+    "playcount": "217205",
+    "artist": {
+      "name": "HARDY",
+      "mbid": "f4fe9be1-8e34-47c8-bf16-33d1a94a235b",
+      "url": "https://www.last.fm/music/HARDY"
+    },
+    "album": {
+      "artist": "HARDY",
+      "title": "wait in the truck (feat. Lainey Wilson)",
+      "url": "https://www.last.fm/music/HARDY/wait+in+the+truck+(feat.+Lainey+Wilson)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2be5054f2c07af6445900da1e0a9fb5e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2be5054f2c07af6445900da1e0a9fb5e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2be5054f2c07af6445900da1e0a9fb5e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2be5054f2c07af6445900da1e0a9fb5e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

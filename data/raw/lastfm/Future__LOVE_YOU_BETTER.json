@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "LOVE YOU BETTER",
+    "mbid": "b376daf7-ee59-41c6-807d-264bcdc53ad8",
+    "url": "https://www.last.fm/music/Future/_/LOVE+YOU+BETTER",
+    "duration": "129000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "276376",
+    "playcount": "2614339",
+    "artist": {
+      "name": "Future",
+      "mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+      "url": "https://www.last.fm/music/Future"
+    },
+    "album": {
+      "artist": "Future",
+      "title": "I NEVER LIKED YOU",
+      "url": "https://www.last.fm/music/Future/I+NEVER+LIKED+YOU",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/48f00926e0cbf12ce0fecff8a815ff6f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/48f00926e0cbf12ce0fecff8a815ff6f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/48f00926e0cbf12ce0fecff8a815ff6f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/48f00926e0cbf12ce0fecff8a815ff6f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "17 Dec 2022, 22:55",
+      "summary": "On “LOVE YOU BETTER,” Future talks about the vulnerability he feels after breaking up with someone, mentioning how she needs to find another person who loves her and treats her better than him.\n\nThe song features a chopped-vocal sample of singer Jayla Darden’s song, “Idea 686,” released in August 2018. <a href=\"http://www.last.fm/music/Future/_/LOVE+YOU+BETTER\">Read more on Last.fm</a>.",
+      "content": "On “LOVE YOU BETTER,” Future talks about the vulnerability he feels after breaking up with someone, mentioning how she needs to find another person who loves her and treats her better than him.\n\nThe song features a chopped-vocal sample of singer Jayla Darden’s song, “Idea 686,” released in August 2018. <a href=\"http://www.last.fm/music/Future/_/LOVE+YOU+BETTER\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

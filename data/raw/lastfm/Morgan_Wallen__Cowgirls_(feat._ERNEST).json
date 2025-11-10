@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Cowgirls (feat. ERNEST)",
+    "mbid": "9f8755f0-f7b7-428a-842c-2f445ae46626",
+    "url": "https://www.last.fm/music/Morgan+Wallen/_/Cowgirls+(feat.+ERNEST)",
+    "duration": "181000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "154185",
+    "playcount": "1607453",
+    "artist": {
+      "name": "Morgan Wallen",
+      "mbid": "2077273e-eaa1-4f49-903c-f286ededecb9",
+      "url": "https://www.last.fm/music/Morgan+Wallen"
+    },
+    "album": {
+      "artist": "Morgan Wallen",
+      "title": "One Thing at a Time",
+      "url": "https://www.last.fm/music/Morgan+Wallen/One+Thing+at+a+Time",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a520e6f22d11e55fba4846ae64b9f523.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a520e6f22d11e55fba4846ae64b9f523.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a520e6f22d11e55fba4846ae64b9f523.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a520e6f22d11e55fba4846ae64b9f523.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

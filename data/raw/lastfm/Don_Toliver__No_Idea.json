@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "No Idea",
+    "mbid": "94ceae1c-86d7-4777-831b-7862659c1b13",
+    "url": "https://www.last.fm/music/Don+Toliver/_/No+Idea",
+    "duration": "154000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1104749",
+    "playcount": "14399663",
+    "artist": {
+      "name": "Don Toliver",
+      "mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+      "url": "https://www.last.fm/music/Don+Toliver"
+    },
+    "album": {
+      "artist": "Don Toliver",
+      "title": "No Idea",
+      "url": "https://www.last.fm/music/Don+Toliver/No+Idea",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/81f06ce113cebb2f21159c108bc34ee6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/81f06ce113cebb2f21159c108bc34ee6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/81f06ce113cebb2f21159c108bc34ee6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/81f06ce113cebb2f21159c108bc34ee6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "psychedelic",
+          "url": "https://www.last.fm/tag/psychedelic"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "05 Aug 2022, 05:19",
+      "summary": "“No Idea” serves as the lead single from Don Toliver’s debut studio album Heaven or Hell. On the track, Don reflects on a relationship with a girl who he truly likes and shows his intent to progress further.\n\nThis track was heavily teased on Toliver’s Twitter account and most notably on Ninja’s stream with Travis Scott. It was officially announced on May 29th, 2019. <a href=\"http://www.last.fm/music/Don+Toliver/_/No+Idea\">Read more on Last.fm</a>.",
+      "content": "“No Idea” serves as the lead single from Don Toliver’s debut studio album Heaven or Hell. On the track, Don reflects on a relationship with a girl who he truly likes and shows his intent to progress further.\n\nThis track was heavily teased on Toliver’s Twitter account and most notably on Ninja’s stream with Travis Scott. It was officially announced on May 29th, 2019. <a href=\"http://www.last.fm/music/Don+Toliver/_/No+Idea\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

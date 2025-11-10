@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "CAIRO",
+    "url": "https://www.last.fm/music/KAROL+G/_/CAIRO",
+    "duration": "198000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "135409",
+    "playcount": "1428288",
+    "artist": {
+      "name": "KAROL G",
+      "mbid": "de22adae-f8ac-414f-b653-b0162611bd60",
+      "url": "https://www.last.fm/music/KAROL+G"
+    },
+    "album": {
+      "artist": "KAROL G",
+      "title": "CAIRO",
+      "url": "https://www.last.fm/music/KAROL+G/CAIRO",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/951183ce409ad0ca2bb56549401094d1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/951183ce409ad0ca2bb56549401094d1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/951183ce409ad0ca2bb56549401094d1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/951183ce409ad0ca2bb56549401094d1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "11 Mar 2023, 02:11",
+      "summary": "\"CAIRO\" is a song by Colombian singer-songwriter Karol G and singer-songwriter and producer Ovy on the Drums. It was written by Giraldo, Ovy on the Drums and Kevyn Cruz and produced by Drums, and was filmed in Egypt. The song was released on November 13, 2022 through Universal Music Latino, as the third single from her fourth studio album, Mañana Será Bonito. <a href=\"http://www.last.fm/music/KAROL+G/_/CAIRO\">Read more on Last.fm</a>.",
+      "content": "\"CAIRO\" is a song by Colombian singer-songwriter Karol G and singer-songwriter and producer Ovy on the Drums. It was written by Giraldo, Ovy on the Drums and Kevyn Cruz and produced by Drums, and was filmed in Egypt. The song was released on November 13, 2022 through Universal Music Latino, as the third single from her fourth studio album, Mañana Será Bonito. <a href=\"http://www.last.fm/music/KAROL+G/_/CAIRO\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

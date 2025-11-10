@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Bipolar",
+    "url": "https://www.last.fm/music/MC+Davi/_/Bipolar",
+    "duration": "276000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "88442",
+    "playcount": "540074",
+    "artist": {
+      "name": "MC Davi",
+      "mbid": "8312ac11-8dd5-4067-bb29-23860508684e",
+      "url": "https://www.last.fm/music/MC+Davi"
+    },
+    "album": {
+      "artist": "Mc Don Juan",
+      "title": "Bipolar - Single",
+      "url": "https://www.last.fm/music/Mc+Don+Juan/Bipolar+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0c909278eccb68b4bf4491fe44a231f9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0c909278eccb68b4bf4491fe44a231f9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0c909278eccb68b4bf4491fe44a231f9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0c909278eccb68b4bf4491fe44a231f9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

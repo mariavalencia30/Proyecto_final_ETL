@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "changes",
+    "mbid": "4e69f0d2-d301-4f1c-b010-2e50d6766817",
+    "url": "https://www.last.fm/music/XXXTENTACION/_/changes",
+    "duration": "122000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "622237",
+    "playcount": "6387464",
+    "artist": {
+      "name": "XXXTENTACION",
+      "mbid": "61af87f4-16ee-4431-8504-cc06187079fb",
+      "url": "https://www.last.fm/music/XXXTENTACION"
+    },
+    "album": {
+      "artist": "XXXTENTACION",
+      "title": "?",
+      "url": "https://www.last.fm/music/XXXTENTACION/%3F",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/44256a0e77e7c3022be226b69d1f3c2e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/44256a0e77e7c3022be226b69d1f3c2e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/44256a0e77e7c3022be226b69d1f3c2e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "emo",
+          "url": "https://www.last.fm/tag/emo"
+        },
+        {
+          "name": "post-nerdcore",
+          "url": "https://www.last.fm/tag/post-nerdcore"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://www.last.fm/tag/XXXTENTACION"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "20 Apr 2021, 13:08",
+      "summary": "“changes” is the 15th track off of XXXTENTACION’s album, ?. It was released on March 2nd, 2018, everywhere along with “SAD!.”\n\nOn March 1st, 2018, he announced on his Instagram story that he would be releasing two songs at midnight.\n\nThe bridge is sung by PnB Rock, a friend of X’s who has stated that the pair would collaborate on many occasions since X was released from jail in March 2017. <a href=\"http://www.last.fm/music/XXXTENTACION/_/changes\">Read more on Last.fm</a>.",
+      "content": "“changes” is the 15th track off of XXXTENTACION’s album, ?. It was released on March 2nd, 2018, everywhere along with “SAD!.”\n\nOn March 1st, 2018, he announced on his Instagram story that he would be releasing two songs at midnight.\n\nThe bridge is sung by PnB Rock, a friend of X’s who has stated that the pair would collaborate on many occasions since X was released from jail in March 2017. <a href=\"http://www.last.fm/music/XXXTENTACION/_/changes\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

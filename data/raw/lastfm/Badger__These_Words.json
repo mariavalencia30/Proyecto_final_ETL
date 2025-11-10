@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "These Words",
+    "url": "https://www.last.fm/music/Badger/_/These+Words",
+    "duration": "136000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "171155",
+    "playcount": "1023467",
+    "artist": {
+      "name": "Badger",
+      "mbid": "ea20b110-281a-48f1-976c-92bc3a042e1d",
+      "url": "https://www.last.fm/music/Badger"
+    },
+    "album": {
+      "artist": "Badger",
+      "title": "These Words - Single",
+      "url": "https://www.last.fm/music/Badger/These+Words+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e9af5382e809cc5571384f5855a465c9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e9af5382e809cc5571384f5855a465c9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e9af5382e809cc5571384f5855a465c9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e9af5382e809cc5571384f5855a465c9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Right Now (Feat. Crush)",
+    "url": "https://www.last.fm/music/Coogie/_/Right+Now+(Feat.+Crush)",
+    "duration": "182000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "21110",
+    "playcount": "128819",
+    "artist": {
+      "name": "Coogie",
+      "mbid": "b9880049-93f3-4791-a718-20a2891b1d96",
+      "url": "https://www.last.fm/music/Coogie"
+    },
+    "album": {
+      "artist": "Coogie",
+      "title": "Right Now",
+      "url": "https://www.last.fm/music/Coogie/Right+Now",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8c3bd1bb6c5f79becef3a4b5c6f1dce7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8c3bd1bb6c5f79becef3a4b5c6f1dce7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8c3bd1bb6c5f79becef3a4b5c6f1dce7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8c3bd1bb6c5f79becef3a4b5c6f1dce7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

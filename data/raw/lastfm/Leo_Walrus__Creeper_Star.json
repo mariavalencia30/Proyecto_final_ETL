@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Creeper Star",
+    "url": "https://www.last.fm/music/Leo+Walrus/_/Creeper+Star",
+    "duration": "257000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "329",
+    "playcount": "798",
+    "artist": {
+      "name": "Leo Walrus",
+      "url": "https://www.last.fm/music/Leo+Walrus"
+    },
+    "album": {
+      "artist": "Leo Walrus",
+      "title": "Creeper Star",
+      "url": "https://www.last.fm/music/Leo+Walrus/Creeper+Star",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "OMG",
+    "mbid": "1357cb76-0307-4e79-83f0-f3ba3a2d9e68",
+    "url": "https://www.last.fm/music/NewJeans/_/OMG",
+    "duration": "212000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "925842",
+    "playcount": "27870041",
+    "artist": {
+      "name": "NewJeans",
+      "mbid": "49204a7a-ed85-407a-828f-6fd46f1d8126",
+      "url": "https://www.last.fm/music/NewJeans"
+    },
+    "album": {
+      "artist": "NewJeans",
+      "title": "OMG",
+      "url": "https://www.last.fm/music/NewJeans/OMG",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c8fe75059416f0b951bda8ddfa048e48.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c8fe75059416f0b951bda8ddfa048e48.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c8fe75059416f0b951bda8ddfa048e48.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c8fe75059416f0b951bda8ddfa048e48.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "k-pop",
+          "url": "https://www.last.fm/tag/k-pop"
+        },
+        {
+          "name": "Kpop",
+          "url": "https://www.last.fm/tag/Kpop"
+        },
+        {
+          "name": "future bass",
+          "url": "https://www.last.fm/tag/future+bass"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "baltimore club",
+          "url": "https://www.last.fm/tag/baltimore+club"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "05 Jan 2023, 21:55",
+      "summary": "Based on hip-hop drum source and percussion, OMG is a bouncy and exciting hip-hop R&B song created by going back and forth between UK garage and trap rhythms, and it is the title song of NewJeans' first single album, OMG.\n\nNewJeans' unique trendy tone is expressed in various styles such as pop vocal and melodic rap. <a href=\"http://www.last.fm/music/NewJeans/_/OMG\">Read more on Last.fm</a>.",
+      "content": "Based on hip-hop drum source and percussion, OMG is a bouncy and exciting hip-hop R&B song created by going back and forth between UK garage and trap rhythms, and it is the title song of NewJeans' first single album, OMG.\n\nNewJeans' unique trendy tone is expressed in various styles such as pop vocal and melodic rap. <a href=\"http://www.last.fm/music/NewJeans/_/OMG\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

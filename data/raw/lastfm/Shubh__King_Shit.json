@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "King Shit",
+    "mbid": "db1d5fb3-c066-48b4-8cec-a3b0752c6949",
+    "url": "https://www.last.fm/music/Shubh/_/King+Shit",
+    "duration": "226000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "16406",
+    "playcount": "152877",
+    "artist": {
+      "name": "Shubh",
+      "mbid": "ef2686fe-0bdf-4e0c-b902-cc6609acc95d",
+      "url": "https://www.last.fm/music/Shubh"
+    },
+    "album": {
+      "artist": "Shubh",
+      "title": "Leo",
+      "url": "https://www.last.fm/music/Shubh/Leo",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cd64ac7f6972e2999099cef4d2f20799.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cd64ac7f6972e2999099cef4d2f20799.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cd64ac7f6972e2999099cef4d2f20799.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cd64ac7f6972e2999099cef4d2f20799.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

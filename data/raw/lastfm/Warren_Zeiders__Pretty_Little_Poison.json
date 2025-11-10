@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Pretty Little Poison",
+    "mbid": "e508a8c5-1a53-4c8a-b421-1a1986dedcd1",
+    "url": "https://www.last.fm/music/Warren+Zeiders/_/Pretty+Little+Poison",
+    "duration": "218000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "81393",
+    "playcount": "693279",
+    "artist": {
+      "name": "Warren Zeiders",
+      "mbid": "6d9e7506-8b53-4dd8-992a-512b18f3b6ba",
+      "url": "https://www.last.fm/music/Warren+Zeiders"
+    },
+    "album": {
+      "artist": "Warren Zeiders",
+      "title": "Pretty Little Poison",
+      "url": "https://www.last.fm/music/Warren+Zeiders/Pretty+Little+Poison",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4856ebfcbc321c448578ba258d7cec7c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4856ebfcbc321c448578ba258d7cec7c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4856ebfcbc321c448578ba258d7cec7c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4856ebfcbc321c448578ba258d7cec7c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

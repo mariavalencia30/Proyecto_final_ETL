@@ -1,0 +1,65 @@
+{
+  "track": {
+    "name": "GMFU (w/ 6arelyhuman)",
+    "url": "https://www.last.fm/music/Odetari/_/GMFU+(w%2F+6arelyhuman)",
+    "duration": "127000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "394150",
+    "playcount": "4826649",
+    "artist": {
+      "name": "Odetari",
+      "mbid": "2d8be86e-dccf-481a-a01c-faf9e48edd6d",
+      "url": "https://www.last.fm/music/Odetari"
+    },
+    "album": {
+      "artist": "Odetari",
+      "title": "XIII SORROWS",
+      "url": "https://www.last.fm/music/Odetari/XIII+SORROWS",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/19e994ad9e5083ff2c95cbc3b147c6d1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/19e994ad9e5083ff2c95cbc3b147c6d1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/19e994ad9e5083ff2c95cbc3b147c6d1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/19e994ad9e5083ff2c95cbc3b147c6d1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "odecore",
+          "url": "https://www.last.fm/tag/odecore"
+        },
+        {
+          "name": "Sleep",
+          "url": "https://www.last.fm/tag/Sleep"
+        },
+        {
+          "name": "hyperpop",
+          "url": "https://www.last.fm/tag/hyperpop"
+        }
+      ]
+    }
+  }
+}

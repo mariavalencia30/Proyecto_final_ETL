@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "How Do I Say Goodbye",
+    "mbid": "6f681956-5ee3-49dd-bfd4-fd344577cf51",
+    "url": "https://www.last.fm/music/Dean+Lewis/_/How+Do+I+Say+Goodbye",
+    "duration": "163000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "259995",
+    "playcount": "2347865",
+    "artist": {
+      "name": "Dean Lewis",
+      "mbid": "21e9df94-3c2c-4c15-b069-fefa58bcd650",
+      "url": "https://www.last.fm/music/Dean+Lewis"
+    },
+    "album": {
+      "artist": "Dean Lewis",
+      "title": "How Do I Say Goodbye",
+      "url": "https://www.last.fm/music/Dean+Lewis/How+Do+I+Say+Goodbye",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/db955fdc857fde4450b2e134f9ec7bd1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/db955fdc857fde4450b2e134f9ec7bd1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/db955fdc857fde4450b2e134f9ec7bd1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/db955fdc857fde4450b2e134f9ec7bd1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "LDR",
+    "url": "https://www.last.fm/music/Shoti/_/LDR",
+    "duration": "211000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "31226",
+    "playcount": "254299",
+    "artist": {
+      "name": "Shoti",
+      "mbid": "a016ebed-ac93-4ed9-a2f7-7fd93fa7ccd1",
+      "url": "https://www.last.fm/music/Shoti"
+    },
+    "album": {
+      "artist": "Shoti",
+      "title": "Ldr - Single",
+      "url": "https://www.last.fm/music/Shoti/Ldr+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/131b8d76b6e5243e734813eae1162d80.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/131b8d76b6e5243e734813eae1162d80.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/131b8d76b6e5243e734813eae1162d80.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/131b8d76b6e5243e734813eae1162d80.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

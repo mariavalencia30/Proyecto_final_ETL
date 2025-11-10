@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Sorry 4 The Wait",
+    "mbid": "08f2489f-a482-4c4b-86b6-b6c0ddcd69f4",
+    "url": "https://www.last.fm/music/Lil%27+Wayne/_/Sorry+4+The+Wait",
+    "duration": "157000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "2229",
+    "playcount": "24648",
+    "artist": {
+      "name": "Lil' Wayne",
+      "url": "https://www.last.fm/music/Lil%27+Wayne"
+    },
+    "album": {
+      "artist": "Lil' Wayne",
+      "title": "Sorry 4 the Wait",
+      "url": "https://www.last.fm/music/Lil%27+Wayne/Sorry+4+the+Wait",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e71b41b61ba1f843bedd647a58667616.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e71b41b61ba1f843bedd647a58667616.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e71b41b61ba1f843bedd647a58667616.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e71b41b61ba1f843bedd647a58667616.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

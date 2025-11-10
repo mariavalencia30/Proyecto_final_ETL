@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "SPIDER",
+    "mbid": "db240a19-95c7-41c5-9144-ffee8639afb4",
+    "url": "https://www.last.fm/music/Gims/_/SPIDER",
+    "duration": "188000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "63953",
+    "playcount": "590561",
+    "artist": {
+      "name": "Gims",
+      "url": "https://www.last.fm/music/Gims"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "NRJ Music Awards 2024",
+      "url": "https://www.last.fm/music/Various+Artists/NRJ+Music+Awards+2024",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9c3cda3e516eed6266fc00d557ec9274.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9c3cda3e516eed6266fc00d557ec9274.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9c3cda3e516eed6266fc00d557ec9274.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c3cda3e516eed6266fc00d557ec9274.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

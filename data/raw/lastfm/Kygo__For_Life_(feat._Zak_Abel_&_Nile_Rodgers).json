@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "For Life (feat. Zak Abel & Nile Rodgers)",
+    "url": "https://www.last.fm/music/Kygo/_/For+Life+(feat.+Zak+Abel+&+Nile+Rodgers)",
+    "duration": "175000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3049",
+    "playcount": "6237",
+    "artist": {
+      "name": "Kygo",
+      "mbid": "ba0e7638-0cd6-4ff4-8987-c3e224d22c23",
+      "url": "https://www.last.fm/music/Kygo"
+    },
+    "album": {
+      "artist": "Kygo",
+      "title": "For Life (feat. Zak Abel & Nile Rodgers) - Single",
+      "url": "https://www.last.fm/music/Kygo/For+Life+(feat.+Zak+Abel+&+Nile+Rodgers)+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3b03f90aa9fa0e5a00942d716730dd99.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3b03f90aa9fa0e5a00942d716730dd99.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3b03f90aa9fa0e5a00942d716730dd99.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3b03f90aa9fa0e5a00942d716730dd99.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

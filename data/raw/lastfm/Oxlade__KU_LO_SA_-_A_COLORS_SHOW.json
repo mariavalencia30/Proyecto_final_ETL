@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "KU LO SA - A COLORS SHOW",
+    "mbid": "2e1641fd-b04a-43c1-9409-358f68cd1fdc",
+    "url": "https://www.last.fm/music/Oxlade/_/KU+LO+SA+-+A+COLORS+SHOW",
+    "duration": "147000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "182606",
+    "playcount": "1734859",
+    "artist": {
+      "name": "Oxlade",
+      "mbid": "4f96e4cc-d306-4ac3-89bf-c6d5fb8cc363",
+      "url": "https://www.last.fm/music/Oxlade"
+    },
+    "album": {
+      "artist": "Oxlade",
+      "title": "KU LO SA - A COLORS SHOW",
+      "url": "https://www.last.fm/music/Oxlade/KU+LO+SA+-+A+COLORS+SHOW",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/51a3fcfc74e8848df5b26d02e218bc80.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/51a3fcfc74e8848df5b26d02e218bc80.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/51a3fcfc74e8848df5b26d02e218bc80.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/51a3fcfc74e8848df5b26d02e218bc80.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

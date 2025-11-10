@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Nonsense",
+    "mbid": "6eaa91cd-07da-4f1d-839b-ac3d6bf59a08",
+    "url": "https://www.last.fm/music/Sabrina+Carpenter/_/Nonsense",
+    "duration": "163000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1359325",
+    "playcount": "27010332",
+    "artist": {
+      "name": "Sabrina Carpenter",
+      "mbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+      "url": "https://www.last.fm/music/Sabrina+Carpenter"
+    },
+    "album": {
+      "artist": "Sabrina Carpenter",
+      "title": "emails i can't send [Clean]",
+      "url": "https://www.last.fm/music/Sabrina+Carpenter/emails+i+can%27t+send+%5BClean%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/67b457e6432139a78f2f97694e2b0264.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/67b457e6432139a78f2f97694e2b0264.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/67b457e6432139a78f2f97694e2b0264.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/67b457e6432139a78f2f97694e2b0264.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "contemporary rnb",
+          "url": "https://www.last.fm/tag/contemporary+rnb"
+        },
+        {
+          "name": "vocal",
+          "url": "https://www.last.fm/tag/vocal"
+        },
+        {
+          "name": "my top songs",
+          "url": "https://www.last.fm/tag/my+top+songs"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "15 Jul 2022, 23:11",
+      "summary": "“Nonsense” is the ninth track on Sabrina Carpenter’s fifth album \"emails i can’t send\". Carpenter sings about a person who causes her so much anxiety that she loses control of her mouth and begins blabbering nonsense. She uses a fun selection of vocabulary to play on the nonsense theme. <a href=\"http://www.last.fm/music/Sabrina+Carpenter/_/Nonsense\">Read more on Last.fm</a>.",
+      "content": "“Nonsense” is the ninth track on Sabrina Carpenter’s fifth album \"emails i can’t send\". Carpenter sings about a person who causes her so much anxiety that she loses control of her mouth and begins blabbering nonsense. She uses a fun selection of vocabulary to play on the nonsense theme. <a href=\"http://www.last.fm/music/Sabrina+Carpenter/_/Nonsense\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

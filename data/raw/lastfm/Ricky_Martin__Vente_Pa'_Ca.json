@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Vente Pa' Ca",
+    "mbid": "56111292-7a11-4aad-98e5-15e95e450897",
+    "url": "https://www.last.fm/music/Ricky+Martin/_/Vente+Pa%27+Ca",
+    "duration": "259000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "55212",
+    "playcount": "340061",
+    "artist": {
+      "name": "Ricky Martin",
+      "mbid": "70ea63ea-70dc-4b63-951a-2c249d2b3b0a",
+      "url": "https://www.last.fm/music/Ricky+Martin"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "69 Hits Winter 2017",
+      "url": "https://www.last.fm/music/Various+Artists/69+Hits+Winter+2017",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/00bafc74c9ec3abbae80dadc4dd309bc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/00bafc74c9ec3abbae80dadc4dd309bc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/00bafc74c9ec3abbae80dadc4dd309bc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/00bafc74c9ec3abbae80dadc4dd309bc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

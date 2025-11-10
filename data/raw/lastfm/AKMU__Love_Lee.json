@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "LOVE LEE",
+    "mbid": "3cb1dd01-8d21-4f00-bb9c-8edaf9cd4df4",
+    "url": "https://www.last.fm/music/AKMU/_/LOVE+LEE",
+    "duration": "179000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "178768",
+    "playcount": "1762444",
+    "artist": {
+      "name": "AKMU",
+      "mbid": "a1eba844-8c3e-4c61-8f54-f5e086b58c01",
+      "url": "https://www.last.fm/music/AKMU"
+    },
+    "album": {
+      "artist": "AKMU",
+      "title": "Love Lee",
+      "url": "https://www.last.fm/music/AKMU/Love+Lee",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d2e079e1730dbeded42c13079cd03ce2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d2e079e1730dbeded42c13079cd03ce2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d2e079e1730dbeded42c13079cd03ce2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d2e079e1730dbeded42c13079cd03ce2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

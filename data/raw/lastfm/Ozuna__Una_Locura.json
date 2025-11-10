@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "Una Locura",
+    "url": "https://www.last.fm/music/Ozuna/_/Una+Locura",
+    "duration": "230000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "71811",
+    "playcount": "513064",
+    "artist": {
+      "name": "Ozuna",
+      "mbid": "f2651b63-a44d-4d1d-ba64-d981d971ecd1",
+      "url": "https://www.last.fm/music/Ozuna"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

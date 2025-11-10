@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Yo Perreo Sola",
+    "mbid": "a47bead0-11b2-48fa-8d40-7d1502e42bb9",
+    "url": "https://www.last.fm/music/Bad+Bunny/_/Yo+Perreo+Sola",
+    "duration": "100000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "327029",
+    "playcount": "3174991",
+    "artist": {
+      "name": "Bad Bunny",
+      "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "url": "https://www.last.fm/music/Bad+Bunny"
+    },
+    "album": {
+      "artist": "Bad Bunny",
+      "title": "Grandes Éxitos",
+      "url": "https://www.last.fm/music/Bad+Bunny/Grandes+%C3%89xitos",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2fbf68131ac846ee0a9b4ce0996f3c4a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2fbf68131ac846ee0a9b4ce0996f3c4a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2fbf68131ac846ee0a9b4ce0996f3c4a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2fbf68131ac846ee0a9b4ce0996f3c4a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

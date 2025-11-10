@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Beat Automotivo Tan Tan Tan Viral",
+    "url": "https://www.last.fm/music/WZ+Beat/_/Beat+Automotivo+Tan+Tan+Tan+Viral",
+    "duration": "67000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "11789",
+    "playcount": "56387",
+    "artist": {
+      "name": "WZ Beat",
+      "mbid": "2d5da86f-eb51-42de-94f8-808a6787422e",
+      "url": "https://www.last.fm/music/WZ+Beat"
+    },
+    "album": {
+      "artist": "WZ Beat",
+      "title": "Beat Automotivo Tan Tan Tan Viral",
+      "url": "https://www.last.fm/music/WZ+Beat/Beat+Automotivo+Tan+Tan+Tan+Viral",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0ad23843b951cd1cb9a2a0e8fe85e3ef.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0ad23843b951cd1cb9a2a0e8fe85e3ef.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0ad23843b951cd1cb9a2a0e8fe85e3ef.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ad23843b951cd1cb9a2a0e8fe85e3ef.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

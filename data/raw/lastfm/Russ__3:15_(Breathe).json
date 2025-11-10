@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "3:15 (Breathe)",
+    "url": "https://www.last.fm/music/Russ/_/3:15+(Breathe)",
+    "duration": "184000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "230344",
+    "playcount": "2496573",
+    "artist": {
+      "name": "Russ",
+      "mbid": "56a7b925-e076-48cf-abd0-ce01dbe15319",
+      "url": "https://www.last.fm/music/Russ"
+    },
+    "album": {
+      "artist": "Russ",
+      "title": "3:15 (Breathe) - Single",
+      "url": "https://www.last.fm/music/Russ/3:15+(Breathe)+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c72d6ab1ce17afec12f4f180aa4c3bf5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c72d6ab1ce17afec12f4f180aa4c3bf5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c72d6ab1ce17afec12f4f180aa4c3bf5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c72d6ab1ce17afec12f4f180aa4c3bf5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

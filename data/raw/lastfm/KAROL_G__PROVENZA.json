@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "PROVENZA",
+    "mbid": "8eb7f5d6-5841-4ecf-97c0-ceb6862d2013",
+    "url": "https://www.last.fm/music/KAROL+G/_/PROVENZA",
+    "duration": "209000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "414085",
+    "playcount": "4866150",
+    "artist": {
+      "name": "KAROL G",
+      "mbid": "de22adae-f8ac-414f-b653-b0162611bd60",
+      "url": "https://www.last.fm/music/KAROL+G"
+    },
+    "album": {
+      "artist": "KAROL G",
+      "title": "PROVENZA",
+      "url": "https://www.last.fm/music/KAROL+G/PROVENZA",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3d5064e3ffc2399595cd072efcc33954.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3d5064e3ffc2399595cd072efcc33954.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3d5064e3ffc2399595cd072efcc33954.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3d5064e3ffc2399595cd072efcc33954.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Reggaeton",
+          "url": "https://www.last.fm/tag/Reggaeton"
+        },
+        {
+          "name": "latin",
+          "url": "https://www.last.fm/tag/latin"
+        },
+        {
+          "name": "afrobeats",
+          "url": "https://www.last.fm/tag/afrobeats"
+        },
+        {
+          "name": "latin pop",
+          "url": "https://www.last.fm/tag/latin+pop"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "23 Jun 2022, 06:09",
+      "summary": "\"PROVENZA\" (Spanish for \"Provence\") is a song by Colombian singer-songwriter Karol G. The song features a dancehall theme found at the base of the track, tropical sounds like crashing waves, and lyrics illustrating an escape to the beach. In particular, the two interpreters tell an animated love story that they want to live in this landscape.\n\nThe theme was released through a preview uploaded to KAROL G's Instagram account that has the following description: <a href=\"http://www.last.fm/music/KAROL+G/_/PROVENZA\">Read more on Last.fm</a>.",
+      "content": "\"PROVENZA\" (Spanish for \"Provence\") is a song by Colombian singer-songwriter Karol G. The song features a dancehall theme found at the base of the track, tropical sounds like crashing waves, and lyrics illustrating an escape to the beach. In particular, the two interpreters tell an animated love story that they want to live in this landscape.\n\nThe theme was released through a preview uploaded to KAROL G's Instagram account that has the following description:\n\n\"P R O V E N Z A 🏝🌊☀️ I remembered that this year I haven't released music and I was encouraged\" <a href=\"http://www.last.fm/music/KAROL+G/_/PROVENZA\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

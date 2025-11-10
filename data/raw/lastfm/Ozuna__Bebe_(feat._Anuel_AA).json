@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "Bebe (feat. Anuel AA)",
+    "url": "https://www.last.fm/music/Ozuna/_/Bebe+(feat.+Anuel+AA)",
+    "duration": "231000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "7855",
+    "playcount": "33997",
+    "artist": {
+      "name": "Ozuna",
+      "mbid": "f2651b63-a44d-4d1d-ba64-d981d971ecd1",
+      "url": "https://www.last.fm/music/Ozuna"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

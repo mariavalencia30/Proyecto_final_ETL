@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Ghost",
+    "mbid": "0b57f0ad-39c2-4880-a660-6e6eea7620c6",
+    "url": "https://www.last.fm/music/Justin+Bieber/_/Ghost",
+    "duration": "153000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "767159",
+    "playcount": "9801863",
+    "artist": {
+      "name": "Justin Bieber",
+      "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+      "url": "https://www.last.fm/music/Justin+Bieber"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Break Up Tunes",
+      "url": "https://www.last.fm/music/Various+Artists/Break+Up+Tunes",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/92fe9e6dbc1542eea48c754d78909ffe.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/92fe9e6dbc1542eea48c754d78909ffe.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/92fe9e6dbc1542eea48c754d78909ffe.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/92fe9e6dbc1542eea48c754d78909ffe.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "synth-pop",
+          "url": "https://www.last.fm/tag/synth-pop"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "my top songs",
+          "url": "https://www.last.fm/tag/my+top+songs"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "23 Jan 2022, 20:58",
+      "summary": "On “Ghost,” Justin Bieber sings about losing a loved one, whether it’s death or them walking out of his life. The song is also about how people could not see their families to the COVID-19 pandemic, in which social distancing guidelines were enforced.\n\nOn February 26, 2021, Justin’s paternal grandfather, George, passed away unexpectedly in his house, the same day that Justin announced Justice. The cause of his death is unknown, but it could be a major factor of what Justin croons about on the song. <a href=\"http://www.last.fm/music/Justin+Bieber/_/Ghost\">Read more on Last.fm</a>.",
+      "content": "On “Ghost,” Justin Bieber sings about losing a loved one, whether it’s death or them walking out of his life. The song is also about how people could not see their families to the COVID-19 pandemic, in which social distancing guidelines were enforced.\n\nOn February 26, 2021, Justin’s paternal grandfather, George, passed away unexpectedly in his house, the same day that Justin announced Justice. The cause of his death is unknown, but it could be a major factor of what Justin croons about on the song.\n\n\"There’s this weird dichotomy that it is really sad but with an uplifting beat. It’s about losing someone you love. It even works in this quarantine situation we’re in, in that we’re not socialising, relating and connecting in the same way. The memory of you can be taken in different ways.\" - Justin Bieber via Official Charts\n\nOn March 31, 2021, the song debuted at #66 on the Billboard Hot 100, and a year later, on April 2nd, 2022, the song peaked at #5. <a href=\"http://www.last.fm/music/Justin+Bieber/_/Ghost\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

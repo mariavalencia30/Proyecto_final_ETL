@@ -1,0 +1,62 @@
+{
+  "track": {
+    "name": "Bling-Bang-Bang-Born",
+    "mbid": "1d0bf00c-3ee0-4b4f-89f0-4d8d8a2dfdf5",
+    "url": "https://www.last.fm/music/Creepy+Nuts/_/Bling-Bang-Bang-Born",
+    "duration": "169000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "346132",
+    "playcount": "5610658",
+    "artist": {
+      "name": "Creepy Nuts",
+      "mbid": "e5e045da-59a3-4b65-8bb4-3c7f3ac9a529",
+      "url": "https://www.last.fm/music/Creepy+Nuts"
+    },
+    "album": {
+      "artist": "Creepy Nuts",
+      "title": "Bling-Bang-Bang-Born",
+      "url": "https://www.last.fm/music/Creepy+Nuts/Bling-Bang-Bang-Born",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7fcb0a7db6d51486403d6864fb62aada.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7fcb0a7db6d51486403d6864fb62aada.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7fcb0a7db6d51486403d6864fb62aada.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7fcb0a7db6d51486403d6864fb62aada.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "anime",
+          "url": "https://www.last.fm/tag/anime"
+        },
+        {
+          "name": "j-pop",
+          "url": "https://www.last.fm/tag/j-pop"
+        },
+        {
+          "name": "jersey club",
+          "url": "https://www.last.fm/tag/jersey+club"
+        },
+        {
+          "name": "2024",
+          "url": "https://www.last.fm/tag/2024"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Soak City (Do it)",
+    "mbid": "649afc09-dc85-4879-be93-0b355ef6d1e1",
+    "url": "https://www.last.fm/music/310babii/_/Soak+City+(Do+it)",
+    "duration": "123000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "194914",
+    "playcount": "1325923",
+    "artist": {
+      "name": "310babii",
+      "mbid": "6f8848a5-8b8d-490f-8e78-20e4d8bad179",
+      "url": "https://www.last.fm/music/310babii"
+    },
+    "album": {
+      "artist": "310babii",
+      "title": "Soak City (Do it)",
+      "url": "https://www.last.fm/music/310babii/Soak+City+(Do+it)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f7d5d95f3ac683674a380600e703db76.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f7d5d95f3ac683674a380600e703db76.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f7d5d95f3ac683674a380600e703db76.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f7d5d95f3ac683674a380600e703db76.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

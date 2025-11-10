@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Arcade",
+    "mbid": "873e516e-ab01-4955-a717-f97024c6b649",
+    "url": "https://www.last.fm/music/Duncan+Laurence/_/Arcade",
+    "duration": "185000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "578447",
+    "playcount": "6348175",
+    "artist": {
+      "name": "Duncan Laurence",
+      "mbid": "20faff08-d3b7-45ca-a8aa-a85f6bb9eb78",
+      "url": "https://www.last.fm/music/Duncan+Laurence"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Working Class Heroes",
+      "url": "https://www.last.fm/music/Various+Artists/Working+Class+Heroes",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f41ae7337ac05a19167abce417bc14da.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f41ae7337ac05a19167abce417bc14da.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f41ae7337ac05a19167abce417bc14da.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f41ae7337ac05a19167abce417bc14da.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Eurovision",
+          "url": "https://www.last.fm/tag/Eurovision"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "Eurovision 2019",
+          "url": "https://www.last.fm/tag/Eurovision+2019"
+        },
+        {
+          "name": "netherlands",
+          "url": "https://www.last.fm/tag/netherlands"
+        },
+        {
+          "name": "Eurovision Song Contest",
+          "url": "https://www.last.fm/tag/Eurovision+Song+Contest"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "09 Mar 2019, 10:34",
+      "summary": "Arcade is a song recorded by Dutch singer Duncan Laurence. It represented The Netherlands and was the winning song in the Eurovision Song Contest 2019. \n\nThe song was written by Will Knox, Duncan Laurence, Joel Sjöö and Wouter Hardy (HRDY). <a href=\"http://www.last.fm/music/Duncan+Laurence/_/Arcade\">Read more on Last.fm</a>.",
+      "content": "Arcade is a song recorded by Dutch singer Duncan Laurence. It represented The Netherlands and was the winning song in the Eurovision Song Contest 2019. \n\nThe song was written by Will Knox, Duncan Laurence, Joel Sjöö and Wouter Hardy (HRDY). <a href=\"http://www.last.fm/music/Duncan+Laurence/_/Arcade\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

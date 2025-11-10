@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Time Slowly Slippin'",
+    "url": "https://www.last.fm/music/Laza/_/Time+Slowly+Slippin%27",
+    "duration": "254000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "20",
+    "playcount": "54",
+    "artist": {
+      "name": "Laza",
+      "mbid": "a9531894-88f3-4a9f-8767-fb0accf856a3",
+      "url": "https://www.last.fm/music/Laza"
+    },
+    "album": {
+      "artist": "Laza",
+      "title": "Reflections EP",
+      "url": "https://www.last.fm/music/Laza/Reflections+EP",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f29814befe42ccc5171e439a3a0a8994.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f29814befe42ccc5171e439a3a0a8994.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f29814befe42ccc5171e439a3a0a8994.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f29814befe42ccc5171e439a3a0a8994.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

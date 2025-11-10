@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "MIA (feat. Drake)",
+    "url": "https://www.last.fm/music/Bad+Bunny/_/MIA+(feat.+Drake)",
+    "duration": "208000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "313613",
+    "playcount": "2470577",
+    "artist": {
+      "name": "Bad Bunny",
+      "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "url": "https://www.last.fm/music/Bad+Bunny"
+    },
+    "album": {
+      "artist": "Bad Bunny",
+      "title": "MIA (feat. Drake) - Single",
+      "url": "https://www.last.fm/music/Bad+Bunny/MIA+(feat.+Drake)+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c680112277e126ec574f0d6154155645.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c680112277e126ec574f0d6154155645.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c680112277e126ec574f0d6154155645.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c680112277e126ec574f0d6154155645.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "REiNA",
+    "mbid": "598f47cc-f99a-4f81-99bb-b704bda34320",
+    "url": "https://www.last.fm/music/Mora/_/REiNA",
+    "duration": "211000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "62840",
+    "playcount": "769054",
+    "artist": {
+      "name": "Mora",
+      "mbid": "0f00e1ec-9702-45d8-82bd-1641268a968a",
+      "url": "https://www.last.fm/music/Mora"
+    },
+    "album": {
+      "artist": "Mora",
+      "title": "ESTRELLA",
+      "url": "https://www.last.fm/music/Mora/ESTRELLA",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8c96a8e504d962eb9bc47fc7b665f9f4.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8c96a8e504d962eb9bc47fc7b665f9f4.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8c96a8e504d962eb9bc47fc7b665f9f4.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8c96a8e504d962eb9bc47fc7b665f9f4.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

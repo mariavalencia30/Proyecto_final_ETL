@@ -1,0 +1,61 @@
+{
+  "track": {
+    "name": "if u think i'm pretty",
+    "url": "https://www.last.fm/music/Artemas/_/if+u+think+i%27m+pretty",
+    "duration": "128000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "749300",
+    "playcount": "8304454",
+    "artist": {
+      "name": "Artemas",
+      "mbid": "0211be88-dc0f-4002-a1de-4001bb359d51",
+      "url": "https://www.last.fm/music/Artemas"
+    },
+    "album": {
+      "artist": "Artemas",
+      "title": "If U Think I'm Pretty - Single",
+      "url": "https://www.last.fm/music/Artemas/If+U+Think+I%27m+Pretty+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7983ce9e69928cbd5db7f5dda1c43c44.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7983ce9e69928cbd5db7f5dda1c43c44.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7983ce9e69928cbd5db7f5dda1c43c44.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7983ce9e69928cbd5db7f5dda1c43c44.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indietronica",
+          "url": "https://www.last.fm/tag/indietronica"
+        },
+        {
+          "name": "alternative pop",
+          "url": "https://www.last.fm/tag/alternative+pop"
+        },
+        {
+          "name": "one track mind",
+          "url": "https://www.last.fm/tag/one+track+mind"
+        },
+        {
+          "name": "alternative rnb",
+          "url": "https://www.last.fm/tag/alternative+rnb"
+        }
+      ]
+    }
+  }
+}

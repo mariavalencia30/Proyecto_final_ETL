@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "vendetta!",
+    "url": "https://www.last.fm/music/Mupp/_/vendetta%21",
+    "duration": "107000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "288795",
+    "playcount": "3354625",
+    "artist": {
+      "name": "Mupp",
+      "url": "https://www.last.fm/music/Mupp"
+    },
+    "album": {
+      "artist": "Mupp",
+      "title": "vendetta!",
+      "url": "https://www.last.fm/music/Mupp/vendetta%21",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f18904a3c1bf600a8c30e15783d4bcea.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f18904a3c1bf600a8c30e15783d4bcea.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f18904a3c1bf600a8c30e15783d4bcea.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f18904a3c1bf600a8c30e15783d4bcea.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

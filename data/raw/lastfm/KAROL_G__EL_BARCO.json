@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "EL BARCO",
+    "mbid": "022eac82-e356-49b6-b02f-6cd46f24eb1f",
+    "url": "https://www.last.fm/music/KAROL+G/_/EL+BARCO",
+    "duration": "203000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "86207",
+    "playcount": "785069",
+    "artist": {
+      "name": "KAROL G",
+      "mbid": "de22adae-f8ac-414f-b653-b0162611bd60",
+      "url": "https://www.last.fm/music/KAROL+G"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Tarde Chill",
+      "url": "https://www.last.fm/music/Various+Artists/Tarde+Chill",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c2df5d48bfe117ecc556cd499a40bc63.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c2df5d48bfe117ecc556cd499a40bc63.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c2df5d48bfe117ecc556cd499a40bc63.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c2df5d48bfe117ecc556cd499a40bc63.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

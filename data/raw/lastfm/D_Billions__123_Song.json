@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "123 Song",
+    "url": "https://www.last.fm/music/D+Billions/_/123+Song",
+    "duration": "153000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "384",
+    "playcount": "1598",
+    "artist": {
+      "name": "D Billions",
+      "url": "https://www.last.fm/music/D+Billions"
+    },
+    "album": {
+      "artist": "D Billions",
+      "title": "123 Song - Single",
+      "url": "https://www.last.fm/music/D+Billions/123+Song+-+Single",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

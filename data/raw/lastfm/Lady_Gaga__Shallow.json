@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Shallow",
+    "mbid": "d2c39885-9eb6-43b1-ac6a-9d2ec7ab532f",
+    "url": "https://www.last.fm/music/Lady+Gaga/_/Shallow",
+    "duration": "215000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "872397",
+    "playcount": "8322155",
+    "artist": {
+      "name": "Lady Gaga",
+      "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+      "url": "https://www.last.fm/music/Lady+Gaga"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Pop At Home",
+      "url": "https://www.last.fm/music/Various+Artists/Pop+At+Home",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3154953fb191238fdf446f0846f305b9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3154953fb191238fdf446f0846f305b9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3154953fb191238fdf446f0846f305b9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3154953fb191238fdf446f0846f305b9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "Soundtrack",
+          "url": "https://www.last.fm/tag/Soundtrack"
+        },
+        {
+          "name": "country",
+          "url": "https://www.last.fm/tag/country"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "Ballad",
+          "url": "https://www.last.fm/tag/Ballad"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "27 Sep 2018, 17:19",
+      "summary": "\"Shallow” is a song by Lady Gaga and Bradley Cooper, from the 2018 movie A Star Is Born. It features on the film’s soundtrack, which was released on October 5, 2018. The track is about jumping headfirst into love and not looking back. It won the Academy Award for Best Original Song and a Golden Globe for Best Original Song for 2018.\n\nGaga announced the release date of the single a day before its release on Twitter.\nThe song was written by Lady Gaga, Mark Ronson, Anthony Rossomando, and Andrew Wyatt. <a href=\"http://www.last.fm/music/Lady+Gaga/_/Shallow\">Read more on Last.fm</a>.",
+      "content": "\"Shallow” is a song by Lady Gaga and Bradley Cooper, from the 2018 movie A Star Is Born. It features on the film’s soundtrack, which was released on October 5, 2018. The track is about jumping headfirst into love and not looking back. It won the Academy Award for Best Original Song and a Golden Globe for Best Original Song for 2018.\n\nGaga announced the release date of the single a day before its release on Twitter.\nThe song was written by Lady Gaga, Mark Ronson, Anthony Rossomando, and Andrew Wyatt. Gaga and Ronson have previously collaborated on her 2016 album Joanne, which he executive produced. <a href=\"http://www.last.fm/music/Lady+Gaga/_/Shallow\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

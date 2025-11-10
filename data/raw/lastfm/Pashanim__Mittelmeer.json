@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Mittelmeer",
+    "mbid": "49726053-faae-4f02-8d11-b31df1bebccc",
+    "url": "https://www.last.fm/music/PASHANIM/_/Mittelmeer",
+    "duration": "179000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "47182",
+    "playcount": "876892",
+    "artist": {
+      "name": "PASHANIM",
+      "url": "https://www.last.fm/music/PASHANIM"
+    },
+    "album": {
+      "artist": "PASHANIM",
+      "title": "Mittelmeer",
+      "url": "https://www.last.fm/music/PASHANIM/Mittelmeer",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/88c1fd339d81db79b8ada72db07acbaa.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/88c1fd339d81db79b8ada72db07acbaa.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/88c1fd339d81db79b8ada72db07acbaa.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/88c1fd339d81db79b8ada72db07acbaa.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

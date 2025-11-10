@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "La Bebe",
+    "url": "https://www.last.fm/music/Yng+Lvcas/_/La+Bebe",
+    "duration": "223000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "54154",
+    "playcount": "368254",
+    "artist": {
+      "name": "Yng Lvcas",
+      "mbid": "311b9571-3ead-4609-b237-196bd4728870",
+      "url": "https://www.last.fm/music/Yng+Lvcas"
+    },
+    "album": {
+      "artist": "Yng Lvcas",
+      "title": "LPM",
+      "url": "https://www.last.fm/music/Yng+Lvcas/LPM",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0f925d04e4621f3adfd131de42f3e1d6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0f925d04e4621f3adfd131de42f3e1d6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0f925d04e4621f3adfd131de42f3e1d6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f925d04e4621f3adfd131de42f3e1d6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

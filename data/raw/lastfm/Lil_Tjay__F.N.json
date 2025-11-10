@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "F.N",
+    "mbid": "31b3fdef-9547-470f-93b2-89576627af07",
+    "url": "https://www.last.fm/music/Lil+Tjay/_/F.N",
+    "duration": "224000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "341893",
+    "playcount": "4688979",
+    "artist": {
+      "name": "Lil Tjay",
+      "mbid": "d44b92db-dd49-4636-abe8-7c381f90b7aa",
+      "url": "https://www.last.fm/music/Lil+Tjay"
+    },
+    "album": {
+      "artist": "Lil Tjay",
+      "title": "True 2 Myself",
+      "url": "https://www.last.fm/music/Lil+Tjay/True+2+Myself",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bec255f1b8b984394d6d291e2ce04a26.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bec255f1b8b984394d6d291e2ce04a26.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bec255f1b8b984394d6d291e2ce04a26.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bec255f1b8b984394d6d291e2ce04a26.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "Gangsta Rap",
+          "url": "https://www.last.fm/tag/Gangsta+Rap"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "east coast hip hop",
+          "url": "https://www.last.fm/tag/east+coast+hip+hop"
+        },
+        {
+          "name": "chigga",
+          "url": "https://www.last.fm/tag/chigga"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "08 May 2021, 22:38",
+      "summary": "On “F.N,” emerging rapper Lil Tjay speaks about his friend snitching on him after getting caught partaking in gang activities. The eponymous track shows Tjay reflecting on his difficult upbringing and come up, while also boasting about the lavish lifestyle he now lives.\n\nIn the week ending October 26, 2019, the track peaked at #56 on the Billboard Hot 100.\n\nOn January 25, 2021, “F.N“ was certified 3x platinum by the RIAA. <a href=\"http://www.last.fm/music/Lil+Tjay/_/F.N\">Read more on Last.fm</a>.",
+      "content": "On “F.N,” emerging rapper Lil Tjay speaks about his friend snitching on him after getting caught partaking in gang activities. The eponymous track shows Tjay reflecting on his difficult upbringing and come up, while also boasting about the lavish lifestyle he now lives.\n\nIn the week ending October 26, 2019, the track peaked at #56 on the Billboard Hot 100.\n\nOn January 25, 2021, “F.N“ was certified 3x platinum by the RIAA. <a href=\"http://www.last.fm/music/Lil+Tjay/_/F.N\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

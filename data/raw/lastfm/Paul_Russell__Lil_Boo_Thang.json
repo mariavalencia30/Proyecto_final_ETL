@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Lil Boo Thang",
+    "mbid": "64f6cca5-363a-4471-b89b-48c74f0a70de",
+    "url": "https://www.last.fm/music/Paul+Russell/_/Lil+Boo+Thang",
+    "duration": "114000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "278790",
+    "playcount": "1569699",
+    "artist": {
+      "name": "Paul Russell",
+      "mbid": "6d4bd547-099a-4cb4-936e-95c8aeecd073",
+      "url": "https://www.last.fm/music/Paul+Russell"
+    },
+    "album": {
+      "artist": "Paul Russell",
+      "title": "Lil Boo Thang",
+      "url": "https://www.last.fm/music/Paul+Russell/Lil+Boo+Thang",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8f754ab3437d02bca2c1f09a6ddfe874.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8f754ab3437d02bca2c1f09a6ddfe874.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8f754ab3437d02bca2c1f09a6ddfe874.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8f754ab3437d02bca2c1f09a6ddfe874.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

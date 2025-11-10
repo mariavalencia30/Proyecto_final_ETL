@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "AM",
+    "url": "https://www.last.fm/music/Nio+Garcia/_/AM",
+    "duration": "182000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "54169",
+    "playcount": "316072",
+    "artist": {
+      "name": "Nio Garcia",
+      "url": "https://www.last.fm/music/Nio+Garcia"
+    },
+    "album": {
+      "artist": "Nio Garcia",
+      "title": "AM",
+      "url": "https://www.last.fm/music/Nio+Garcia/AM",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/20d16b4110e71126a21873d3dd3b3ef7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/20d16b4110e71126a21873d3dd3b3ef7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/20d16b4110e71126a21873d3dd3b3ef7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/20d16b4110e71126a21873d3dd3b3ef7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

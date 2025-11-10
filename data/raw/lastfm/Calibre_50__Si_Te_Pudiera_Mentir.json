@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Si Te Pudiera Mentir",
+    "mbid": "62e66bdb-1796-44d9-9956-cd0599cc724f",
+    "url": "https://www.last.fm/music/Calibre+50/_/Si+Te+Pudiera+Mentir",
+    "duration": "255000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "55415",
+    "playcount": "496502",
+    "artist": {
+      "name": "Calibre 50",
+      "mbid": "28c7230b-cf8f-49c8-aac9-92d36fb7a067",
+      "url": "https://www.last.fm/music/Calibre+50"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Chaparritos Rancheros",
+      "url": "https://www.last.fm/music/Various+Artists/Chaparritos+Rancheros",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6361144a606f73ec2644b2fa0f0696ac.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6361144a606f73ec2644b2fa0f0696ac.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6361144a606f73ec2644b2fa0f0696ac.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6361144a606f73ec2644b2fa0f0696ac.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

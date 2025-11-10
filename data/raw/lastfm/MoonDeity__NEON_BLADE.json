@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "NEON BLADE",
+    "url": "https://www.last.fm/music/MoonDeity/_/NEON+BLADE",
+    "duration": "265000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "222291",
+    "playcount": "1907072",
+    "artist": {
+      "name": "MoonDeity",
+      "mbid": "14d5a858-3074-42bc-ae7b-6f76d2e08068",
+      "url": "https://www.last.fm/music/MoonDeity"
+    },
+    "album": {
+      "artist": "MoonDeity",
+      "title": "NEON BLADE",
+      "url": "https://www.last.fm/music/MoonDeity/NEON+BLADE",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c89ad0a4e4a67f66fefef29f29fd64be.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c89ad0a4e4a67f66fefef29f29fd64be.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c89ad0a4e4a67f66fefef29f29fd64be.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c89ad0a4e4a67f66fefef29f29fd64be.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

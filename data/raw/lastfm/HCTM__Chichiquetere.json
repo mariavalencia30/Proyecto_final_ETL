@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Chichiquetere",
+    "url": "https://www.last.fm/music/Hctm/_/Chichiquetere",
+    "duration": "66000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "2700",
+    "playcount": "8261",
+    "artist": {
+      "name": "Hctm",
+      "url": "https://www.last.fm/music/Hctm"
+    },
+    "album": {
+      "artist": "Hctm",
+      "title": "Chichiquetere",
+      "url": "https://www.last.fm/music/Hctm/Chichiquetere",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/63307c2af8c1e68e0e83b0ef4f24a448.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/63307c2af8c1e68e0e83b0ef4f24a448.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/63307c2af8c1e68e0e83b0ef4f24a448.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/63307c2af8c1e68e0e83b0ef4f24a448.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

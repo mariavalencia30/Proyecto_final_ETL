@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Vista Al Mar",
+    "url": "https://www.last.fm/music/Quevedo/_/Vista+Al+Mar",
+    "duration": "180000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "121950",
+    "playcount": "1617691",
+    "artist": {
+      "name": "Quevedo",
+      "mbid": "ef9bb29f-f466-4e28-8064-32558f4bb2df",
+      "url": "https://www.last.fm/music/Quevedo"
+    },
+    "album": {
+      "artist": "Quevedo",
+      "title": "Vista Al Mar",
+      "url": "https://www.last.fm/music/Quevedo/Vista+Al+Mar",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9c43b3ac03432586482cb90cd0163845.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9c43b3ac03432586482cb90cd0163845.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9c43b3ac03432586482cb90cd0163845.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c43b3ac03432586482cb90cd0163845.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Work from Home (feat. Ty Dolla $ign)",
+    "url": "https://www.last.fm/music/Fifth+Harmony/_/Work+from+Home+(feat.+Ty+Dolla+$ign)",
+    "duration": "215000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "616225",
+    "playcount": "4382079",
+    "artist": {
+      "name": "Fifth Harmony",
+      "mbid": "e565610b-9a8f-451d-b594-ea658d76f725",
+      "url": "https://www.last.fm/music/Fifth+Harmony"
+    },
+    "album": {
+      "artist": "Fifth Harmony",
+      "title": "7/27 (Japan Deluxe Edition)",
+      "url": "https://www.last.fm/music/Fifth+Harmony/7%2F27+(Japan+Deluxe+Edition)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ec56d3387166600ef44a22dfbd913918.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ec56d3387166600ef44a22dfbd913918.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ec56d3387166600ef44a22dfbd913918.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ec56d3387166600ef44a22dfbd913918.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "best of 2016",
+          "url": "https://www.last.fm/tag/best+of+2016"
+        },
+        {
+          "name": "Ratchet Music",
+          "url": "https://www.last.fm/tag/Ratchet+Music"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "2016",
+          "url": "https://www.last.fm/tag/2016"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "22 Apr 2016, 12:27",
+      "summary": "\"Work from Home\" is a song recorded by American girl group Fifth Harmony featuring singer Ty Dolla Sign. It was released on February 26, 2016 as the first single from the group's upcoming second studio album, 7/27 (2016). <a href=\"http://www.last.fm/music/Fifth+Harmony/_/Work+from+Home+(feat.+Ty+Dolla+$ign)\">Read more on Last.fm</a>.",
+      "content": "\"Work from Home\" is a song recorded by American girl group Fifth Harmony featuring singer Ty Dolla Sign. It was released on February 26, 2016 as the first single from the group's upcoming second studio album, 7/27 (2016). <a href=\"http://www.last.fm/music/Fifth+Harmony/_/Work+from+Home+(feat.+Ty+Dolla+$ign)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

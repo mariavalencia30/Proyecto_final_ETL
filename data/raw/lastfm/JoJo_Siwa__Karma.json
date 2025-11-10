@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Karma",
+    "mbid": "a52802e6-c685-4ef7-8d60-3c8ad75a56ba",
+    "url": "https://www.last.fm/music/JoJo+Siwa/_/Karma",
+    "duration": "187000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "150848",
+    "playcount": "657132",
+    "artist": {
+      "name": "JoJo Siwa",
+      "mbid": "1d38e309-c38e-44f9-b116-2e1d7ee5c02e",
+      "url": "https://www.last.fm/music/JoJo+Siwa"
+    },
+    "album": {
+      "artist": "JoJo Siwa",
+      "title": "karma - single",
+      "url": "https://www.last.fm/music/JoJo+Siwa/karma+-+single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cf5ea4482d12c21697d4c536bf511fbd.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cf5ea4482d12c21697d4c536bf511fbd.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cf5ea4482d12c21697d4c536bf511fbd.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cf5ea4482d12c21697d4c536bf511fbd.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

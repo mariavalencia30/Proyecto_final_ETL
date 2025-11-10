@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Macetando",
+    "mbid": "060fbed2-8e2d-4880-ab5e-903e7b99e538",
+    "url": "https://www.last.fm/music/Ivete+Sangalo/_/Macetando",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "112603",
+    "playcount": "1042380",
+    "artist": {
+      "name": "Ivete Sangalo",
+      "mbid": "d553e89c-3c2a-4f10-9ce1-9eaa74de0129",
+      "url": "https://www.last.fm/music/Ivete+Sangalo"
+    },
+    "album": {
+      "artist": "Ivete Sangalo",
+      "title": "Macetando",
+      "url": "https://www.last.fm/music/Ivete+Sangalo/Macetando",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3174f1fd59ba368bb17a526575915b85.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3174f1fd59ba368bb17a526575915b85.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3174f1fd59ba368bb17a526575915b85.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3174f1fd59ba368bb17a526575915b85.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

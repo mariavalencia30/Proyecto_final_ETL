@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "'Til You Can't",
+    "mbid": "85eef390-472a-40bc-859d-bed306537010",
+    "url": "https://www.last.fm/music/Cody+Johnson/_/%27Til+You+Can%27t",
+    "duration": "224000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "84459",
+    "playcount": "776077",
+    "artist": {
+      "name": "Cody Johnson",
+      "mbid": "faabeed5-3dd0-4be5-aec5-e6486e68db2f",
+      "url": "https://www.last.fm/music/Cody+Johnson"
+    },
+    "album": {
+      "artist": "Cody Johnson",
+      "title": "Human the Double Album",
+      "url": "https://www.last.fm/music/Cody+Johnson/Human+the+Double+Album",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e4787e335bc2ff81018b1336ba8da234.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e4787e335bc2ff81018b1336ba8da234.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e4787e335bc2ff81018b1336ba8da234.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4787e335bc2ff81018b1336ba8da234.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

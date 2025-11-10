@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Belong Together",
+    "mbid": "abcd3411-51cd-4ba5-894d-3c0c76658a1e",
+    "url": "https://www.last.fm/music/Mark+Ambor/_/Belong+Together",
+    "duration": "149000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "346833",
+    "playcount": "2596802",
+    "artist": {
+      "name": "Mark Ambor",
+      "mbid": "483e1216-3eb3-4996-a45d-55f6169689a0",
+      "url": "https://www.last.fm/music/Mark+Ambor"
+    },
+    "album": {
+      "artist": "Mark Ambor",
+      "title": "Belong Together",
+      "url": "https://www.last.fm/music/Mark+Ambor/Belong+Together",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0282ff1b6d39dde0a3d96dd766bff766.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0282ff1b6d39dde0a3d96dd766bff766.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0282ff1b6d39dde0a3d96dd766bff766.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0282ff1b6d39dde0a3d96dd766bff766.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

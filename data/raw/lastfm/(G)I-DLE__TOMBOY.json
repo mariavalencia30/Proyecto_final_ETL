@@ -1,0 +1,48 @@
+{
+  "track": {
+    "name": "TOMBOY",
+    "url": "https://www.last.fm/music/(G)I-DLE/_/TOMBOY",
+    "duration": "174000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "446954",
+    "playcount": "8507118",
+    "artist": {
+      "name": "(G)I-DLE",
+      "url": "https://www.last.fm/music/(G)I-DLE"
+    },
+    "album": {
+      "artist": "(G)I-DLE",
+      "title": "I NEVER DIE",
+      "url": "https://www.last.fm/music/(G)I-DLE/I+NEVER+DIE",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/88541de786ed5121f29435048810d906.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/88541de786ed5121f29435048810d906.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/88541de786ed5121f29435048810d906.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/88541de786ed5121f29435048810d906.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "17 May 2022, 10:03",
+      "summary": "\"Tomboy\" (stylized in all caps) is a song recorded by South Korean girl group (G)I-DLE for their first studio album, I Never Die. It was released as the album's lead single on March 14, 2022.\n\nThe song marked the first release of (G)I-DLE as a quintet following the departure of member Soojin in August 2021. <a href=\"http://www.last.fm/music/(G)I-DLE/_/TOMBOY\">Read more on Last.fm</a>.",
+      "content": "\"Tomboy\" (stylized in all caps) is a song recorded by South Korean girl group (G)I-DLE for their first studio album, I Never Die. It was released as the album's lead single on March 14, 2022.\n\nThe song marked the first release of (G)I-DLE as a quintet following the departure of member Soojin in August 2021. <a href=\"http://www.last.fm/music/(G)I-DLE/_/TOMBOY\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

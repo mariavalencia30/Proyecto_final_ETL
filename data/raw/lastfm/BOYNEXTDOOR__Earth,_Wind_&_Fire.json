@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Earth, Wind & Fire",
+    "mbid": "16eeb2fb-830e-4d36-8aec-5e10361f84d8",
+    "url": "https://www.last.fm/music/BOYNEXTDOOR/_/Earth,+Wind+&+Fire",
+    "duration": "179000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "162478",
+    "playcount": "2960509",
+    "artist": {
+      "name": "BOYNEXTDOOR",
+      "mbid": "656d0024-7b5f-4089-9d3e-ce383f15f1b7",
+      "url": "https://www.last.fm/music/BOYNEXTDOOR"
+    },
+    "album": {
+      "artist": "BOYNEXTDOOR",
+      "title": "HOW?",
+      "url": "https://www.last.fm/music/BOYNEXTDOOR/HOW%3F",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8c507fcaa0e8e1bb280a6f0417b97324.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8c507fcaa0e8e1bb280a6f0417b97324.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8c507fcaa0e8e1bb280a6f0417b97324.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8c507fcaa0e8e1bb280a6f0417b97324.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "taesan da deby",
+          "url": "https://www.last.fm/tag/taesan+da+deby"
+        },
+        {
+          "name": "k-pop",
+          "url": "https://www.last.fm/tag/k-pop"
+        },
+        {
+          "name": "happiness",
+          "url": "https://www.last.fm/tag/happiness"
+        },
+        {
+          "name": "Korean",
+          "url": "https://www.last.fm/tag/Korean"
+        },
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://www.last.fm/tag/BOYNEXTDOOR"
+        }
+      ]
+    }
+  }
+}

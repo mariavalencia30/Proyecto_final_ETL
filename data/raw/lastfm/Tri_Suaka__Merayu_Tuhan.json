@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Merayu Tuhan",
+    "url": "https://www.last.fm/music/Tri+Suaka/_/Merayu+Tuhan",
+    "duration": "393000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "365",
+    "playcount": "2213",
+    "artist": {
+      "name": "Tri Suaka",
+      "mbid": "60fbd4cd-6dfd-428b-8936-8baad778842b",
+      "url": "https://www.last.fm/music/Tri+Suaka"
+    },
+    "album": {
+      "artist": "Tri Suaka",
+      "title": "Merayu Tuhan",
+      "url": "https://www.last.fm/music/Tri+Suaka/Merayu+Tuhan",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fba87e0db46aff644bf0d86f57a91cae.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fba87e0db46aff644bf0d86f57a91cae.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fba87e0db46aff644bf0d86f57a91cae.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fba87e0db46aff644bf0d86f57a91cae.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Astronaut in the Ocean",
+    "mbid": "b48424f8-6de6-4e51-a324-7921192ab5ca",
+    "url": "https://www.last.fm/music/Masked+Wolf/_/Astronaut+in+the+Ocean",
+    "duration": "132000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "517547",
+    "playcount": "4752285",
+    "artist": {
+      "name": "Masked Wolf",
+      "mbid": "14147c93-551d-4814-b4d2-308848abdce6",
+      "url": "https://www.last.fm/music/Masked+Wolf"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Now That's What I Call Music, Vol. 79",
+      "url": "https://www.last.fm/music/Various+Artists/Now+That%27s+What+I+Call+Music,+Vol.+79",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/86165d3ec7f3d1cd18037231452a3263.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/86165d3ec7f3d1cd18037231452a3263.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/86165d3ec7f3d1cd18037231452a3263.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/86165d3ec7f3d1cd18037231452a3263.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "golden hour",
+    "mbid": "0d2a8139-c1b6-47a3-8278-ac85c1f42bb1",
+    "url": "https://www.last.fm/music/JVKE/_/golden+hour",
+    "duration": "210000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "901025",
+    "playcount": "12292200",
+    "artist": {
+      "name": "JVKE",
+      "mbid": "f29e031f-c6b6-4d52-8edd-dc8e14378e74",
+      "url": "https://www.last.fm/music/JVKE"
+    },
+    "album": {
+      "artist": "JVKE",
+      "title": "golden hour",
+      "url": "https://www.last.fm/music/JVKE/golden+hour",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3a39322960f5378875dab6f39c9fe08f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3a39322960f5378875dab6f39c9fe08f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3a39322960f5378875dab6f39c9fe08f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3a39322960f5378875dab6f39c9fe08f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "piano",
+          "url": "https://www.last.fm/tag/piano"
+        },
+        {
+          "name": "would have been better without the rapping",
+          "url": "https://www.last.fm/tag/would+have+been+better+without+the+rapping"
+        },
+        {
+          "name": "the rapping is so good",
+          "url": "https://www.last.fm/tag/the+rapping+is+so+good"
+        },
+        {
+          "name": "romantic lyrics",
+          "url": "https://www.last.fm/tag/romantic+lyrics"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "14 Sep 2022, 02:35",
+      "summary": "“golden hour” is the third song released off of JVKE’s debut album.\n\nBefore announcing the title and pre-save link, JVKE shared on his Instagram story on July 12, 2022:\n\n\"This song has a special place in my heart and I can’t wait to share it with you all. I did my absolute best to embody beauty in every detail of the production.\" <a href=\"http://www.last.fm/music/JVKE/_/golden+hour\">Read more on Last.fm</a>.",
+      "content": "“golden hour” is the third song released off of JVKE’s debut album.\n\nBefore announcing the title and pre-save link, JVKE shared on his Instagram story on July 12, 2022:\n\n\"This song has a special place in my heart and I can’t wait to share it with you all. I did my absolute best to embody beauty in every detail of the production.\" <a href=\"http://www.last.fm/music/JVKE/_/golden+hour\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

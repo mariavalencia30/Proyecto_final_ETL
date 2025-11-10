@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Libaas",
+    "url": "https://www.last.fm/music/Kaka/_/Libaas",
+    "duration": "267000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "5232",
+    "playcount": "25401",
+    "artist": {
+      "name": "Kaka",
+      "mbid": "ed57b85a-5c8e-4b27-a57e-d2ec8fb4533b",
+      "url": "https://www.last.fm/music/Kaka"
+    },
+    "album": {
+      "artist": "Kaka",
+      "title": "Libaas",
+      "url": "https://www.last.fm/music/Kaka/Libaas",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7454bf495acba853d88c7272121d92ba.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7454bf495acba853d88c7272121d92ba.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7454bf495acba853d88c7272121d92ba.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7454bf495acba853d88c7272121d92ba.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

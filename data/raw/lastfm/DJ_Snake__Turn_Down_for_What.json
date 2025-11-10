@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "Turn Down For What",
+    "url": "https://www.last.fm/music/DJ+Snake/_/Turn+Down+For+What",
+    "duration": "213000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "390179",
+    "playcount": "1664535",
+    "artist": {
+      "name": "DJ Snake",
+      "mbid": "aa114151-4a17-42b0-8e20-37b434627479",
+      "url": "https://www.last.fm/music/DJ+Snake"
+    },
+    "album": {
+      "artist": "DJ Snake",
+      "title": "Turn Down For What",
+      "url": "https://www.last.fm/music/DJ+Snake/Turn+Down+For+What",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0c4bfe86fb46523ee8dcab6b75d2737d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0c4bfe86fb46523ee8dcab6b75d2737d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0c4bfe86fb46523ee8dcab6b75d2737d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0c4bfe86fb46523ee8dcab6b75d2737d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "01 Nov 2017, 21:20",
+      "summary": "Lil Jon <a href=\"http://www.last.fm/music/DJ+Snake/_/Turn+Down+For+What\">Read more on Last.fm</a>.",
+      "content": "Lil Jon <a href=\"http://www.last.fm/music/DJ+Snake/_/Turn+Down+For+What\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

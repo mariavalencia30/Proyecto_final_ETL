@@ -1,0 +1,22 @@
+{
+  "track": {
+    "name": "La Bebe - Remix",
+    "mbid": "fbbf4169-bc8c-4a60-91b2-7a3db0069d1b",
+    "url": "https://www.last.fm/music/Yng+Lvcas/_/La+Bebe+-+Remix",
+    "duration": "234000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "251672",
+    "playcount": "2512335",
+    "artist": {
+      "name": "Yng Lvcas",
+      "mbid": "311b9571-3ead-4609-b237-196bd4728870",
+      "url": "https://www.last.fm/music/Yng+Lvcas"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Call It Love",
+    "mbid": "1f636d98-c2c2-40f5-8629-cf2bf3d74583",
+    "url": "https://www.last.fm/music/Felix+Jaehn/_/Call+It+Love",
+    "duration": "154000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "138923",
+    "playcount": "1074677",
+    "artist": {
+      "name": "Felix Jaehn",
+      "mbid": "930448f9-a67a-402f-bc73-2bf6b279afaa",
+      "url": "https://www.last.fm/music/Felix+Jaehn"
+    },
+    "album": {
+      "artist": "Felix Jaehn",
+      "title": "Call It Love",
+      "url": "https://www.last.fm/music/Felix+Jaehn/Call+It+Love",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0f6a4d5b9563ed9421082efee3ef24bc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0f6a4d5b9563ed9421082efee3ef24bc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0f6a4d5b9563ed9421082efee3ef24bc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0f6a4d5b9563ed9421082efee3ef24bc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

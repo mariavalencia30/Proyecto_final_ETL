@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Punto G",
+    "mbid": "61b8ec83-31e7-4ec2-9f92-1c3f847bdfe7",
+    "url": "https://www.last.fm/music/Quevedo/_/Punto+G",
+    "duration": "151000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "146558",
+    "playcount": "1848730",
+    "artist": {
+      "name": "Quevedo",
+      "mbid": "ef9bb29f-f466-4e28-8064-32558f4bb2df",
+      "url": "https://www.last.fm/music/Quevedo"
+    },
+    "album": {
+      "artist": "Quevedo",
+      "title": "Punto G",
+      "url": "https://www.last.fm/music/Quevedo/Punto+G",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eaa63fa5068b0db94034c50ed2592975.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eaa63fa5068b0db94034c50ed2592975.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eaa63fa5068b0db94034c50ed2592975.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eaa63fa5068b0db94034c50ed2592975.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

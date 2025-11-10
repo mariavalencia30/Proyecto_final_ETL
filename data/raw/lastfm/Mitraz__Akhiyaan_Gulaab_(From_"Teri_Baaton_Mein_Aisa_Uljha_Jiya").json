@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+    "url": "https://www.last.fm/music/Mitraz/_/Akhiyaan+Gulaab+(From+%22Teri+Baaton+Mein+Aisa+Uljha+Jiya%22)",
+    "duration": "171000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "32621",
+    "playcount": "397049",
+    "artist": {
+      "name": "Mitraz",
+      "mbid": "1dd8b80b-f507-4958-9067-b971310f2bbf",
+      "url": "https://www.last.fm/music/Mitraz"
+    },
+    "album": {
+      "artist": "Mitraz",
+      "title": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\") - Single",
+      "url": "https://www.last.fm/music/Mitraz/Akhiyaan+Gulaab+(From+%22Teri+Baaton+Mein+Aisa+Uljha+Jiya%22)+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a5dce028d40604de688deda9d3682be7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a5dce028d40604de688deda9d3682be7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a5dce028d40604de688deda9d3682be7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a5dce028d40604de688deda9d3682be7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

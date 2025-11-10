@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "POR EL CONTRARIO",
+    "mbid": "eceb047e-350b-4bd7-9482-6b1c85ea827a",
+    "url": "https://www.last.fm/music/Becky+G/_/POR+EL+CONTRARIO",
+    "duration": "185000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1651",
+    "playcount": "7627",
+    "artist": {
+      "name": "Becky G",
+      "mbid": "eb90c8b8-d733-4c14-a293-105c3d1ba9b3",
+      "url": "https://www.last.fm/music/Becky+G"
+    },
+    "album": {
+      "artist": "Becky G",
+      "title": "ESQUlNAS",
+      "url": "https://www.last.fm/music/Becky+G/ESQUlNAS",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/61f486a1782b8dd14bea58a18a1a0467.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/61f486a1782b8dd14bea58a18a1a0467.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/61f486a1782b8dd14bea58a18a1a0467.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/61f486a1782b8dd14bea58a18a1a0467.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

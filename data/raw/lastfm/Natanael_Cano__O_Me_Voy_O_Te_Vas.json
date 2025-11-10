@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "O Me Voy o Te Vas",
+    "url": "https://www.last.fm/music/Natanael+Cano/_/O+Me+Voy+o+Te+Vas",
+    "duration": "242000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "57950",
+    "playcount": "754790",
+    "artist": {
+      "name": "Natanael Cano",
+      "mbid": "41925f30-8737-4fb8-af65-da918c0e98f3",
+      "url": "https://www.last.fm/music/Natanael+Cano"
+    },
+    "album": {
+      "artist": "Natanael Cano",
+      "title": "O me voy o te vas",
+      "url": "https://www.last.fm/music/Natanael+Cano/O+me+voy+o+te+vas",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aa7ef71f402bf911d3ccc81abfdce4cd.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aa7ef71f402bf911d3ccc81abfdce4cd.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aa7ef71f402bf911d3ccc81abfdce4cd.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aa7ef71f402bf911d3ccc81abfdce4cd.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

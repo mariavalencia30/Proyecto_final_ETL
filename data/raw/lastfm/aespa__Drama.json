@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Drama",
+    "mbid": "f758907c-a06b-4187-bba4-f8ea9790e156",
+    "url": "https://www.last.fm/music/aespa/_/Drama",
+    "duration": "214000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "570826",
+    "playcount": "16859448",
+    "artist": {
+      "name": "aespa",
+      "mbid": "b51c672b-85e0-48fe-8648-470a2422229f",
+      "url": "https://www.last.fm/music/aespa"
+    },
+    "album": {
+      "artist": "aespa",
+      "title": "Drama",
+      "url": "https://www.last.fm/music/aespa/Drama",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/bdc1da92809b5724ff1783199cea8093.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/bdc1da92809b5724ff1783199cea8093.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/bdc1da92809b5724ff1783199cea8093.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/bdc1da92809b5724ff1783199cea8093.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "soty",
+          "url": "https://www.last.fm/tag/soty"
+        },
+        {
+          "name": "k-pop",
+          "url": "https://www.last.fm/tag/k-pop"
+        },
+        {
+          "name": "Kpop",
+          "url": "https://www.last.fm/tag/Kpop"
+        },
+        {
+          "name": "2023",
+          "url": "https://www.last.fm/tag/2023"
+        },
+        {
+          "name": "Korean",
+          "url": "https://www.last.fm/tag/Korean"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "14 Nov 2023, 02:32",
+      "summary": "\"Drama\" is a song recorded by the South Korean girl group aespa. It was released on November 10, 2023, as the title track of their fourth mini album, \"Drama,\" under SM Entertainment. The song's lyrics center on the themes of causing and overcoming conflict, as well as the intense emotional experiences associated with drama. Lines like \"I bring all the drama-ma-ma-ma\" and \"I break trauma-ma-ma-ma\" reflect the group's powerful and assertive presence. <a href=\"http://www.last.fm/music/aespa/_/Drama\">Read more on Last.fm</a>.",
+      "content": "\"Drama\" is a song recorded by the South Korean girl group aespa. It was released on November 10, 2023, as the title track of their fourth mini album, \"Drama,\" under SM Entertainment. The song's lyrics center on the themes of causing and overcoming conflict, as well as the intense emotional experiences associated with drama. Lines like \"I bring all the drama-ma-ma-ma\" and \"I break trauma-ma-ma-ma\" reflect the group's powerful and assertive presence. The lyrics, combined with a dynamic production, underscore aespa's ability to navigate and transform dramatic situations. The release received positive reviews, with critics praising its lyrical depth and the group's vocal performance, further establishing aespa as a leading act in the K-pop industry. <a href=\"http://www.last.fm/music/aespa/_/Drama\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

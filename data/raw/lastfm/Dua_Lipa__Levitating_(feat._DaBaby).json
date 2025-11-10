@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Levitating (feat. DaBaby)",
+    "mbid": "85f842b8-6817-4721-a85c-8b4dde1e8814",
+    "url": "https://www.last.fm/music/Dua+Lipa/_/Levitating+(feat.+DaBaby)",
+    "duration": "203000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1178271",
+    "playcount": "10932381",
+    "artist": {
+      "name": "Dua Lipa",
+      "mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+      "url": "https://www.last.fm/music/Dua+Lipa"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Now That's What I Call Music, Vol. 77",
+      "url": "https://www.last.fm/music/Various+Artists/Now+That%27s+What+I+Call+Music,+Vol.+77",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a729643f70fc68dcb35b184856899086.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a729643f70fc68dcb35b184856899086.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a729643f70fc68dcb35b184856899086.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a729643f70fc68dcb35b184856899086.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "nu-disco",
+          "url": "https://www.last.fm/tag/nu-disco"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "2020",
+          "url": "https://www.last.fm/tag/2020"
+        },
+        {
+          "name": "Disco",
+          "url": "https://www.last.fm/tag/Disco"
+        },
+        {
+          "name": "dua lipa",
+          "url": "https://www.last.fm/tag/dua+lipa"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "06 Jul 2021, 13:36",
+      "summary": "Dua Lipa enlists DaBaby for another version of her March 2020 hit track “Levitating,” which appears on her sophomore studio album, Future Nostalgia.\n\nDua Lipa’s second verse from the original song is replaced by a verse from DaBaby.\n\nThe official music video was released the same day as the single release. <a href=\"http://www.last.fm/music/Dua+Lipa/_/Levitating+(feat.+DaBaby)\">Read more on Last.fm</a>.",
+      "content": "Dua Lipa enlists DaBaby for another version of her March 2020 hit track “Levitating,” which appears on her sophomore studio album, Future Nostalgia.\n\nDua Lipa’s second verse from the original song is replaced by a verse from DaBaby.\n\nThe official music video was released the same day as the single release. <a href=\"http://www.last.fm/music/Dua+Lipa/_/Levitating+(feat.+DaBaby)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

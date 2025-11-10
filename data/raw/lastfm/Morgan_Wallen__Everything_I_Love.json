@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Everything I Love",
+    "mbid": "83adb460-e6b2-4833-806f-4ec791555641",
+    "url": "https://www.last.fm/music/Morgan+Wallen/_/Everything+I+Love",
+    "duration": "187000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "90635",
+    "playcount": "1373888",
+    "artist": {
+      "name": "Morgan Wallen",
+      "mbid": "2077273e-eaa1-4f49-903c-f286ededecb9",
+      "url": "https://www.last.fm/music/Morgan+Wallen"
+    },
+    "album": {
+      "artist": "Morgan Wallen",
+      "title": "3 Songs at a Time Sampler",
+      "url": "https://www.last.fm/music/Morgan+Wallen/3+Songs+at+a+Time+Sampler",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/fc3eef2ced252c88e5161a617143fbd0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/fc3eef2ced252c88e5161a617143fbd0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/fc3eef2ced252c88e5161a617143fbd0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/fc3eef2ced252c88e5161a617143fbd0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

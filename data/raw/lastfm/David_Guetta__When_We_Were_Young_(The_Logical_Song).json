@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "When We Were Young (The Logical Song)",
+    "mbid": "d36b092c-ac92-4ecb-a5d7-31330613bed0",
+    "url": "https://www.last.fm/music/David+Guetta/_/When+We+Were+Young+(The+Logical+Song)",
+    "duration": "147000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "171866",
+    "playcount": "1083764",
+    "artist": {
+      "name": "David Guetta",
+      "mbid": "302bd7b9-d012-4360-897a-93b00c855680",
+      "url": "https://www.last.fm/music/David+Guetta"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "NRJ Music Awards 2024",
+      "url": "https://www.last.fm/music/Various+Artists/NRJ+Music+Awards+2024",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9c3cda3e516eed6266fc00d557ec9274.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9c3cda3e516eed6266fc00d557ec9274.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9c3cda3e516eed6266fc00d557ec9274.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9c3cda3e516eed6266fc00d557ec9274.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

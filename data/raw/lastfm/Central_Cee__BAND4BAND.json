@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "BAND4BAND",
+    "mbid": "f8e53575-45e4-4fb5-9ffa-fc03b159ff39",
+    "url": "https://www.last.fm/music/Central+Cee/_/BAND4BAND",
+    "duration": "140000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "17109",
+    "playcount": "55793",
+    "artist": {
+      "name": "Central Cee",
+      "mbid": "b0337af1-8d93-4671-b6c9-ba306bf942bf",
+      "url": "https://www.last.fm/music/Central+Cee"
+    },
+    "album": {
+      "artist": "Central Cee, Lil Baby",
+      "title": "BAND4BAND",
+      "url": "https://www.last.fm/music/Central+Cee,+Lil+Baby/BAND4BAND",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/497ad59bdc021d94b7c94f70690c179f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/497ad59bdc021d94b7c94f70690c179f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/497ad59bdc021d94b7c94f70690c179f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/497ad59bdc021d94b7c94f70690c179f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "World on Fire",
+    "mbid": "319f7c3a-0b05-449e-bad1-a888706360fc",
+    "url": "https://www.last.fm/music/Nate+Smith/_/World+on+Fire",
+    "duration": "185000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "60766",
+    "playcount": "452866",
+    "artist": {
+      "name": "Nate Smith",
+      "mbid": "5ecf10f3-1dbe-4aa8-8dca-d5afb8b959f2",
+      "url": "https://www.last.fm/music/Nate+Smith"
+    },
+    "album": {
+      "artist": "Nate Smith",
+      "title": "Nate Smith (Deluxe)",
+      "url": "https://www.last.fm/music/Nate+Smith/Nate+Smith+(Deluxe)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/077c5b955e33d9d544c865e8cc9cf9eb.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/077c5b955e33d9d544c865e8cc9cf9eb.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/077c5b955e33d9d544c865e8cc9cf9eb.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/077c5b955e33d9d544c865e8cc9cf9eb.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

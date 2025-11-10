@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Up",
+    "mbid": "6b79a292-f709-4487-9759-e68d6a30aa5d",
+    "url": "https://www.last.fm/music/Cardi+B/_/Up",
+    "duration": "156000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "588352",
+    "playcount": "4735067",
+    "artist": {
+      "name": "Cardi B",
+      "mbid": "2f3c4d70-0462-40da-bba3-0aec5772c556",
+      "url": "https://www.last.fm/music/Cardi+B"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "NRJ Music Awards 2021",
+      "url": "https://www.last.fm/music/Various+Artists/NRJ+Music+Awards+2021",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3e42a9e13c9687966ef192dc3b7787f4.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3e42a9e13c9687966ef192dc3b7787f4.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3e42a9e13c9687966ef192dc3b7787f4.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3e42a9e13c9687966ef192dc3b7787f4.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "2021",
+          "url": "https://www.last.fm/tag/2021"
+        },
+        {
+          "name": "2020s",
+          "url": "https://www.last.fm/tag/2020s"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "explicit lyrics",
+          "url": "https://www.last.fm/tag/explicit+lyrics"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "05 Feb 2021, 21:47",
+      "summary": "\"Up\" is a song by American rapper Cardi B, released on February 5, 2021, through Atlantic Records. The song was written by Cardi B alongside Edis Selmani (Yung Dza), Jordan Thorpe, Joshua Baker, DJ SwanQo and Sean Island and was produced by the latter two alongside Yung Dza. <a href=\"http://www.last.fm/music/Cardi+B/_/Up\">Read more on Last.fm</a>.",
+      "content": "\"Up\" is a song by American rapper Cardi B, released on February 5, 2021, through Atlantic Records. The song was written by Cardi B alongside Edis Selmani (Yung Dza), Jordan Thorpe, Joshua Baker, DJ SwanQo and Sean Island and was produced by the latter two alongside Yung Dza. <a href=\"http://www.last.fm/music/Cardi+B/_/Up\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

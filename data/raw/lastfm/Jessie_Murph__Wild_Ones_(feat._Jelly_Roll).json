@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Wild Ones (feat. Jelly Roll)",
+    "mbid": "cec38d05-d84e-4eee-9515-6b6d8d23b1a2",
+    "url": "https://www.last.fm/music/Jessie+Murph/_/Wild+Ones+(feat.+Jelly+Roll)",
+    "duration": "141000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "97717",
+    "playcount": "659565",
+    "artist": {
+      "name": "Jessie Murph",
+      "mbid": "007188c6-2cd6-4060-9629-151433847ddf",
+      "url": "https://www.last.fm/music/Jessie+Murph"
+    },
+    "album": {
+      "artist": "Jessie Murph",
+      "title": "Wild Ones (feat. Jelly Roll)",
+      "url": "https://www.last.fm/music/Jessie+Murph/Wild+Ones+(feat.+Jelly+Roll)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/34abf6cd486a7f22e17acedbd60f82a7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/34abf6cd486a7f22e17acedbd60f82a7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/34abf6cd486a7f22e17acedbd60f82a7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/34abf6cd486a7f22e17acedbd60f82a7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

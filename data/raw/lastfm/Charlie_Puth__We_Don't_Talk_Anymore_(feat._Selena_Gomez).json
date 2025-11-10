@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "We Don't Talk Anymore (feat. Selena Gomez)",
+    "mbid": "a16e6dab-38d7-4ec6-b751-c1ebb5e62c22",
+    "url": "https://www.last.fm/music/Charlie+Puth/_/We+Don%27t+Talk+Anymore+(feat.+Selena+Gomez)",
+    "duration": "217000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "978553",
+    "playcount": "8550220",
+    "artist": {
+      "name": "Charlie Puth",
+      "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+      "url": "https://www.last.fm/music/Charlie+Puth"
+    },
+    "album": {
+      "artist": "Charlie Puth",
+      "title": "Nine Track Mind",
+      "url": "https://www.last.fm/music/Charlie+Puth/Nine+Track+Mind",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/003a0fc6117294c106ec986514fec8ce.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/003a0fc6117294c106ec986514fec8ce.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/003a0fc6117294c106ec986514fec8ce.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/003a0fc6117294c106ec986514fec8ce.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "tropical house",
+          "url": "https://www.last.fm/tag/tropical+house"
+        },
+        {
+          "name": "2016",
+          "url": "https://www.last.fm/tag/2016"
+        },
+        {
+          "name": "soul",
+          "url": "https://www.last.fm/tag/soul"
+        },
+        {
+          "name": "breakup",
+          "url": "https://www.last.fm/tag/breakup"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "11 Mar 2016, 00:40",
+      "summary": "\"We Don't Talk Anymore\" is a song recorded by American singer Charlie Puth features guest vocals from American singer Selena Gomez from his debut studio album Nine Track Mind. It was released by Atlantic Records in 2016. The song was leaked on January 25, 2016, 5 days before the album's official release. \"We Don't Talk Anymore\" was written by Puth, Jacob Kasher Hindlin and Selena Gomez. <a href=\"http://www.last.fm/music/Charlie+Puth/_/We+Don%27t+Talk+Anymore+(feat.+Selena+Gomez)\">Read more on Last.fm</a>.",
+      "content": "\"We Don't Talk Anymore\" is a song recorded by American singer Charlie Puth features guest vocals from American singer Selena Gomez from his debut studio album Nine Track Mind. It was released by Atlantic Records in 2016. The song was leaked on January 25, 2016, 5 days before the album's official release. \"We Don't Talk Anymore\" was written by Puth, Jacob Kasher Hindlin and Selena Gomez. <a href=\"http://www.last.fm/music/Charlie+Puth/_/We+Don%27t+Talk+Anymore+(feat.+Selena+Gomez)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

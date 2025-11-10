@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Lalala",
+    "mbid": "672fb9a2-7560-4c1b-9516-40c39ce4e630",
+    "url": "https://www.last.fm/music/Y2K/_/Lalala",
+    "duration": "160000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "545230",
+    "playcount": "4801120",
+    "artist": {
+      "name": "Y2K",
+      "mbid": "aced0002-ddf6-4fad-bf43-ac1add65166e",
+      "url": "https://www.last.fm/music/Y2K"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Decade of Summer: The 10's",
+      "url": "https://www.last.fm/music/Various+Artists/Decade+of+Summer:+The+10%27s",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/158e4734fb273ac9d80f550a37f6fbad.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/158e4734fb273ac9d80f550a37f6fbad.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/158e4734fb273ac9d80f550a37f6fbad.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/158e4734fb273ac9d80f550a37f6fbad.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "canada",
+          "url": "https://www.last.fm/tag/canada"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Go Down Deh (feat. Shaggy and Sean Paul)",
+    "url": "https://www.last.fm/music/Spice/_/Go+Down+Deh+(feat.+Shaggy+and+Sean+Paul)",
+    "duration": "154000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "55453",
+    "playcount": "448927",
+    "artist": {
+      "name": "Spice",
+      "mbid": "be8786ca-c6fa-43e5-bc9d-643347675c8c",
+      "url": "https://www.last.fm/music/Spice"
+    },
+    "album": {
+      "artist": "Reggae Gold",
+      "title": "Reggae Gold 2021",
+      "url": "https://www.last.fm/music/Reggae+Gold/Reggae+Gold+2021",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c648845cf19a074ef70af2246eb4649b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c648845cf19a074ef70af2246eb4649b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c648845cf19a074ef70af2246eb4649b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c648845cf19a074ef70af2246eb4649b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

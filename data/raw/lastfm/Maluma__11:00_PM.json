@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "11:00 PM",
+    "mbid": "9c35bd58-64b4-40f3-aa7f-6a177bbb8113",
+    "url": "https://www.last.fm/music/Maluma/_/11:00+PM",
+    "duration": "176000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "11",
+    "playcount": "84",
+    "artist": {
+      "name": "Maluma",
+      "mbid": "e8979f75-9110-4df8-ac70-898898d080d1",
+      "url": "https://www.last.fm/music/Maluma"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "55 Hits Latino 2020",
+      "url": "https://www.last.fm/music/Various+Artists/55+Hits+Latino+2020",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d9660f32ad930da1f0be64b594aa5368.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d9660f32ad930da1f0be64b594aa5368.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d9660f32ad930da1f0be64b594aa5368.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d9660f32ad930da1f0be64b594aa5368.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

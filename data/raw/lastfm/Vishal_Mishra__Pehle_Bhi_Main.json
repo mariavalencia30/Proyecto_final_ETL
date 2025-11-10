@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Pehle Bhi Main",
+    "mbid": "372ddf04-3851-4e1b-876f-1ef90625223a",
+    "url": "https://www.last.fm/music/Vishal+Mishra/_/Pehle+Bhi+Main",
+    "duration": "250000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "32957",
+    "playcount": "327027",
+    "artist": {
+      "name": "Vishal Mishra",
+      "mbid": "0090ccac-cad8-482d-8260-c1aa8b908c48",
+      "url": "https://www.last.fm/music/Vishal+Mishra"
+    },
+    "album": {
+      "artist": "Manan Bhardwaj, Vishal Mishra, Jaani, Ashim Kemson, JAM8, Harshavardhan Rameshwar & Shreyas Puranik",
+      "title": "ANIMAL",
+      "url": "https://www.last.fm/music/Manan+Bhardwaj,+Vishal+Mishra,+Jaani,+Ashim+Kemson,+JAM8,+Harshavardhan+Rameshwar+&+Shreyas+Puranik/ANIMAL",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8bbbcaa2584671b5197345f53c8e0b63.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8bbbcaa2584671b5197345f53c8e0b63.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8bbbcaa2584671b5197345f53c8e0b63.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8bbbcaa2584671b5197345f53c8e0b63.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

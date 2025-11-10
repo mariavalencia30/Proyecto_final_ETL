@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "La solution",
+    "url": "https://www.last.fm/music/Marka/_/La+solution",
+    "duration": "242000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "6",
+    "playcount": "12",
+    "artist": {
+      "name": "Marka",
+      "mbid": "41653191-3ba7-45b7-a465-4a03b02cee36",
+      "url": "https://www.last.fm/music/Marka"
+    },
+    "album": {
+      "artist": "Marka",
+      "title": "Voodoo Belge",
+      "url": "https://www.last.fm/music/Marka/Voodoo+Belge",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/171d2bfdd351d6458cd330d170051211.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/171d2bfdd351d6458cd330d170051211.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/171d2bfdd351d6458cd330d170051211.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/171d2bfdd351d6458cd330d170051211.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

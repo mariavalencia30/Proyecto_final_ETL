@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Karma",
+    "mbid": "c75f303a-8f7b-45c2-8188-26c3949c206e",
+    "url": "https://www.last.fm/music/Taylor+Swift/_/Karma",
+    "duration": "350000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1029677",
+    "playcount": "27075802",
+    "artist": {
+      "name": "Taylor Swift",
+      "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+      "url": "https://www.last.fm/music/Taylor+Swift"
+    },
+    "album": {
+      "artist": "Taylor Swift",
+      "title": "Midnights",
+      "url": "https://www.last.fm/music/Taylor+Swift/Midnights",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8914bab2a0e4e454c6892f151d57208f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8914bab2a0e4e454c6892f151d57208f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8914bab2a0e4e454c6892f151d57208f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8914bab2a0e4e454c6892f151d57208f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "screamo",
+          "url": "https://www.last.fm/tag/screamo"
+        },
+        {
+          "name": "Brutal Death Metal",
+          "url": "https://www.last.fm/tag/Brutal+Death+Metal"
+        },
+        {
+          "name": "metal",
+          "url": "https://www.last.fm/tag/metal"
+        },
+        {
+          "name": "overrated",
+          "url": "https://www.last.fm/tag/overrated"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "21 Oct 2022, 19:47",
+      "summary": "\"Karma\" expresses the idea that our actions have consequences, emphasizing that people should be careful of how they behave and treat others. Taylor Swift highlights the idea of karma as a personified boyfriend, saying it is a god, a breeze in her hair, a cat that purrs in her lap and an acrobat that keeps her company. The last verse points out that although it can be hard to learn lessons sometimes, these lessons will help in the long run and shows how Taylor has remained strong and resilient despite all the challenges she has faced. <a href=\"http://www.last.fm/music/Taylor+Swift/_/Karma\">Read more on Last.fm</a>.",
+      "content": "\"Karma\" expresses the idea that our actions have consequences, emphasizing that people should be careful of how they behave and treat others. Taylor Swift highlights the idea of karma as a personified boyfriend, saying it is a god, a breeze in her hair, a cat that purrs in her lap and an acrobat that keeps her company. The last verse points out that although it can be hard to learn lessons sometimes, these lessons will help in the long run and shows how Taylor has remained strong and resilient despite all the challenges she has faced. Overall, the song holds a strong message about how our karma — or the consequences of our decisions — will always be present and cannot be avoided. <a href=\"http://www.last.fm/music/Taylor+Swift/_/Karma\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

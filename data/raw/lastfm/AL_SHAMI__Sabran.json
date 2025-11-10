@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Sabran",
+    "url": "https://www.last.fm/music/AL+SHAMI/_/Sabran",
+    "duration": "202000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3579",
+    "playcount": "28852",
+    "artist": {
+      "name": "AL SHAMI",
+      "url": "https://www.last.fm/music/AL+SHAMI"
+    },
+    "album": {
+      "artist": "AL SHAMI",
+      "title": "Sabran - Single",
+      "url": "https://www.last.fm/music/AL+SHAMI/Sabran+-+Single",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

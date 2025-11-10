@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "Dance Monkey",
+    "url": "https://www.last.fm/music/Tones+and+I/_/Dance+Monkey",
+    "duration": "205000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "722738",
+    "playcount": "7227914",
+    "artist": {
+      "name": "Tones and I",
+      "mbid": "663f33f4-8e5f-4773-93ea-493a1135de9a",
+      "url": "https://www.last.fm/music/Tones+and+I"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Housework Songs",
+      "url": "https://www.last.fm/music/Various+Artists/Housework+Songs",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/715a182f93b2b4880623566c535a73cf.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/715a182f93b2b4880623566c535a73cf.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/715a182f93b2b4880623566c535a73cf.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/715a182f93b2b4880623566c535a73cf.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "21 Mar 2025, 02:25",
+      "summary": "Dance Monkey\" is a song by Australian singer Tones and I, released on 10 May 2019 as the second single (first in the US) from Tones and I's debut EP, The Kids Are Coming. The song was produced and mixed by Konstantin Kersting. It is often noted as one of the most influential songs of pop music. <a href=\"http://www.last.fm/music/Tones+and+I/_/Dance+Monkey\">Read more on Last.fm</a>.",
+      "content": "Dance Monkey\" is a song by Australian singer Tones and I, released on 10 May 2019 as the second single (first in the US) from Tones and I's debut EP, The Kids Are Coming. The song was produced and mixed by Konstantin Kersting. It is often noted as one of the most influential songs of pop music. <a href=\"http://www.last.fm/music/Tones+and+I/_/Dance+Monkey\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

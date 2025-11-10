@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "traitor",
+    "mbid": "b0554059-21b3-416e-b62d-99e13608f6bf",
+    "url": "https://www.last.fm/music/Olivia+Rodrigo/_/traitor",
+    "duration": "305000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1367861",
+    "playcount": "23801524",
+    "artist": {
+      "name": "Olivia Rodrigo",
+      "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+      "url": "https://www.last.fm/music/Olivia+Rodrigo"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Bored",
+      "url": "https://www.last.fm/music/Various+Artists/Bored",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/034ff8639e2624be2d161934fa5f2a12.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/034ff8639e2624be2d161934fa5f2a12.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/034ff8639e2624be2d161934fa5f2a12.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/034ff8639e2624be2d161934fa5f2a12.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "Ballad",
+          "url": "https://www.last.fm/tag/Ballad"
+        },
+        {
+          "name": "indie pop",
+          "url": "https://www.last.fm/tag/indie+pop"
+        },
+        {
+          "name": "folk pop",
+          "url": "https://www.last.fm/tag/folk+pop"
+        },
+        {
+          "name": "2021",
+          "url": "https://www.last.fm/tag/2021"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "22 May 2021, 23:50",
+      "summary": "\"Traitor\" (stylized in all lowercase) is a song recorded by American singer-songwriter Olivia Rodrigo, placed as the second track on her debut studio album SOUR. It was written by Olivia Rodrigo and Dan Nigro, who also produced the song. <a href=\"http://www.last.fm/music/Olivia+Rodrigo/_/traitor\">Read more on Last.fm</a>.",
+      "content": "\"Traitor\" (stylized in all lowercase) is a song recorded by American singer-songwriter Olivia Rodrigo, placed as the second track on her debut studio album SOUR. It was written by Olivia Rodrigo and Dan Nigro, who also produced the song. <a href=\"http://www.last.fm/music/Olivia+Rodrigo/_/traitor\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

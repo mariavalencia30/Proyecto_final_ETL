@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Fancy",
+    "url": "https://www.last.fm/music/Iggy+Azalea/_/Fancy",
+    "duration": "199000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1080640",
+    "playcount": "7255401",
+    "artist": {
+      "name": "Iggy Azalea",
+      "mbid": "3a052c99-8c18-484a-8beb-9873b4fb3106",
+      "url": "https://www.last.fm/music/Iggy+Azalea"
+    },
+    "album": {
+      "artist": "Iggy Azalea",
+      "title": "The New Classic",
+      "url": "https://www.last.fm/music/Iggy+Azalea/The+New+Classic",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9ab414cbe7e0a56a0aaed890c54d565b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9ab414cbe7e0a56a0aaed890c54d565b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9ab414cbe7e0a56a0aaed890c54d565b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9ab414cbe7e0a56a0aaed890c54d565b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        },
+        {
+          "name": "2014",
+          "url": "https://www.last.fm/tag/2014"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "charli xcx",
+          "url": "https://www.last.fm/tag/charli+xcx"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "01 May 2014, 14:24",
+      "summary": "\"Fancy\" is the fourth single from Iggy Azalea's debut studio album, The New Classic (2014). It features English singer-songwriter Charli XCX.\n\nThe song is described as an electro-hop, electropop and pop rap song. It was written by Azalea and XCX, composed and produced by production team the Invisible Men, alongside additional producers The Arcade. <a href=\"http://www.last.fm/music/Iggy+Azalea/_/Fancy\">Read more on Last.fm</a>.",
+      "content": "\"Fancy\" is the fourth single from Iggy Azalea's debut studio album, The New Classic (2014). It features English singer-songwriter Charli XCX.\n\nThe song is described as an electro-hop, electropop and pop rap song. It was written by Azalea and XCX, composed and produced by production team the Invisible Men, alongside additional producers The Arcade. <a href=\"http://www.last.fm/music/Iggy+Azalea/_/Fancy\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

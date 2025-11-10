@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Yonaguni",
+    "mbid": "dc63e31d-73f1-4c9a-aec5-20fd3f942470",
+    "url": "https://www.last.fm/music/Bad+Bunny/_/Yonaguni",
+    "duration": "205000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "389180",
+    "playcount": "5243921",
+    "artist": {
+      "name": "Bad Bunny",
+      "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "url": "https://www.last.fm/music/Bad+Bunny"
+    },
+    "album": {
+      "artist": "Bad Bunny",
+      "title": "Yonaguni - Single",
+      "url": "https://www.last.fm/music/Bad+Bunny/Yonaguni+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a118354d7881eef57de20371a3173bbc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a118354d7881eef57de20371a3173bbc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a118354d7881eef57de20371a3173bbc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a118354d7881eef57de20371a3173bbc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "j-pop",
+          "url": "https://www.last.fm/tag/j-pop"
+        },
+        {
+          "name": "latin",
+          "url": "https://www.last.fm/tag/latin"
+        },
+        {
+          "name": "latin pop",
+          "url": "https://www.last.fm/tag/latin+pop"
+        },
+        {
+          "name": "Reggaeton",
+          "url": "https://www.last.fm/tag/Reggaeton"
+        },
+        {
+          "name": "latin rnb",
+          "url": "https://www.last.fm/tag/latin+rnb"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "08 Jul 2021, 15:04",
+      "summary": "\"Yonaguni\" is a song by Puerto Rican singer Bad Bunny. It was released on June 4, 2021, through Rimas Entertainment, along with the music video. The song's title refers to Yonaguni Island in Japan. The song topped the Billboard's Hot Latin Songs and reached number 3 on the Billboard Global 200. <a href=\"http://www.last.fm/music/Bad+Bunny/_/Yonaguni\">Read more on Last.fm</a>.",
+      "content": "\"Yonaguni\" is a song by Puerto Rican singer Bad Bunny. It was released on June 4, 2021, through Rimas Entertainment, along with the music video. The song's title refers to Yonaguni Island in Japan. The song topped the Billboard's Hot Latin Songs and reached number 3 on the Billboard Global 200. <a href=\"http://www.last.fm/music/Bad+Bunny/_/Yonaguni\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

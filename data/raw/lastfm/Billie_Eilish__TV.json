@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "TV",
+    "mbid": "2ee2fa48-8143-4b7f-96bb-8696d2010f5a",
+    "url": "https://www.last.fm/music/Billie+Eilish/_/TV",
+    "duration": "281000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1079703",
+    "playcount": "16813612",
+    "artist": {
+      "name": "Billie Eilish",
+      "mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+      "url": "https://www.last.fm/music/Billie+Eilish"
+    },
+    "album": {
+      "artist": "Billie Eilish",
+      "title": "Guitar Songs",
+      "url": "https://www.last.fm/music/Billie+Eilish/Guitar+Songs",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/951a8387b598c0bbe4aa53b3627c0f35.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/951a8387b598c0bbe4aa53b3627c0f35.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/951a8387b598c0bbe4aa53b3627c0f35.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/951a8387b598c0bbe4aa53b3627c0f35.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "peter",
+          "url": "https://www.last.fm/tag/peter"
+        },
+        {
+          "name": "folk",
+          "url": "https://www.last.fm/tag/folk"
+        },
+        {
+          "name": "contemporary folk",
+          "url": "https://www.last.fm/tag/contemporary+folk"
+        },
+        {
+          "name": "singer-songwriter",
+          "url": "https://www.last.fm/tag/singer-songwriter"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "21 Jul 2022, 16:12",
+      "summary": "\"TV\" is about accepting responsibility for a failing relationship. The protagonist chooses to avoid their feelings by escaping into the distraction of television, yet they struggle with the guilt of leaving behind the people they used to be with. Even when they try to fix the relationship, they come to the realization that the problem lies within them. In the end, they accept responsibility for the issues and come to the conclusion that they are the problem. <a href=\"http://www.last.fm/music/Billie+Eilish/_/TV\">Read more on Last.fm</a>.",
+      "content": "\"TV\" is about accepting responsibility for a failing relationship. The protagonist chooses to avoid their feelings by escaping into the distraction of television, yet they struggle with the guilt of leaving behind the people they used to be with. Even when they try to fix the relationship, they come to the realization that the problem lies within them. In the end, they accept responsibility for the issues and come to the conclusion that they are the problem. <a href=\"http://www.last.fm/music/Billie+Eilish/_/TV\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

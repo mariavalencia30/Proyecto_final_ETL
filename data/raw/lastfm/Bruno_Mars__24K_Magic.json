@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "24K Magic",
+    "mbid": "5dc11453-1bce-42d0-a7e3-0ce4d5c43da8",
+    "url": "https://www.last.fm/music/Bruno+Mars/_/24K+Magic",
+    "duration": "225000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1315628",
+    "playcount": "10071002",
+    "artist": {
+      "name": "Bruno Mars",
+      "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+      "url": "https://www.last.fm/music/Bruno+Mars"
+    },
+    "album": {
+      "artist": "Bruno Mars",
+      "title": "24K Magic",
+      "url": "https://www.last.fm/music/Bruno+Mars/24K+Magic",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f18dc30b48412484b34ebff24ba615be.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f18dc30b48412484b34ebff24ba615be.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f18dc30b48412484b34ebff24ba615be.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f18dc30b48412484b34ebff24ba615be.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "funk",
+          "url": "https://www.last.fm/tag/funk"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "synth funk",
+          "url": "https://www.last.fm/tag/synth+funk"
+        },
+        {
+          "name": "Disco",
+          "url": "https://www.last.fm/tag/Disco"
+        },
+        {
+          "name": "2016",
+          "url": "https://www.last.fm/tag/2016"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "11 Oct 2016, 03:40",
+      "summary": "\"24K Magic\" (pronounced \"twenty-four karat magic\") is a song by American singer and songwriter Bruno Mars. It serves as the lead single from his third studio album of the same name, and was released on October 7, 2016 as a digital download by Atlantic Records. The track was produced by Shampoo Press & Curl, with additional production by The Stereotypes. <a href=\"http://www.last.fm/music/Bruno+Mars/_/24K+Magic\">Read more on Last.fm</a>.",
+      "content": "\"24K Magic\" (pronounced \"twenty-four karat magic\") is a song by American singer and songwriter Bruno Mars. It serves as the lead single from his third studio album of the same name, and was released on October 7, 2016 as a digital download by Atlantic Records. The track was produced by Shampoo Press & Curl, with additional production by The Stereotypes. <a href=\"http://www.last.fm/music/Bruno+Mars/_/24K+Magic\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

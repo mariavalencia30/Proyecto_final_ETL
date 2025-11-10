@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "I Don't Care",
+    "url": "https://www.last.fm/music/Boy+Spyce/_/I+Don%27t+Care",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "659",
+    "playcount": "7206",
+    "artist": {
+      "name": "Boy Spyce",
+      "mbid": "59d9b450-46a8-4ec2-bebf-ce1d3d532bb5",
+      "url": "https://www.last.fm/music/Boy+Spyce"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

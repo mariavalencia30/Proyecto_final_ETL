@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "BITTERSUITE",
+    "mbid": "a4dacc7c-bb34-4dbb-8186-3519d0bd9670",
+    "url": "https://www.last.fm/music/Billie+Eilish/_/BITTERSUITE",
+    "duration": "298000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "753662",
+    "playcount": "10576901",
+    "artist": {
+      "name": "Billie Eilish",
+      "mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+      "url": "https://www.last.fm/music/Billie+Eilish"
+    },
+    "album": {
+      "artist": "Billie Eilish",
+      "title": "HIT ME HARD AND SOFT",
+      "url": "https://www.last.fm/music/Billie+Eilish/HIT+ME+HARD+AND+SOFT",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6db576307ee7bdd81056432542b6bab7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6db576307ee7bdd81056432542b6bab7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6db576307ee7bdd81056432542b6bab7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6db576307ee7bdd81056432542b6bab7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "alt-pop",
+          "url": "https://www.last.fm/tag/alt-pop"
+        },
+        {
+          "name": "art pop",
+          "url": "https://www.last.fm/tag/art+pop"
+        },
+        {
+          "name": "peter",
+          "url": "https://www.last.fm/tag/peter"
+        },
+        {
+          "name": "MALANDRAMENTE",
+          "url": "https://www.last.fm/tag/MALANDRAMENTE"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "17 May 2024, 14:14",
+      "summary": "“BITTERSUITE” from Billie Eilish’s third studio album HIT ME HARD AND SOFT is one of the album’s closing tracks, serving as an emotional prelude to the final song, “BLUE”. The track is noted for its melodic focus, with a strong emphasis on instrumental beauty rather than lyrical complexity.\n\n“BITTERSUITE” takes listeners on a reflective journey, with a dreamlike, almost cinematic soundscape. It is quieter and more contemplative than other songs on the album, using rich melodies to evoke a sense of bittersweet nostalgia. <a href=\"http://www.last.fm/music/Billie+Eilish/_/BITTERSUITE\">Read more on Last.fm</a>.",
+      "content": "“BITTERSUITE” from Billie Eilish’s third studio album HIT ME HARD AND SOFT is one of the album’s closing tracks, serving as an emotional prelude to the final song, “BLUE”. The track is noted for its melodic focus, with a strong emphasis on instrumental beauty rather than lyrical complexity.\n\n“BITTERSUITE” takes listeners on a reflective journey, with a dreamlike, almost cinematic soundscape. It is quieter and more contemplative than other songs on the album, using rich melodies to evoke a sense of bittersweet nostalgia. The song smoothly transitions into the final track, making it feel like part of a cohesive ending to the album .\n\nThough not as lyrically intense as other songs, “BITTERSUITE” is praised for its ability to evoke deep emotion through its sound, acting as a soft, reflective moment before the album’s conclusion. <a href=\"http://www.last.fm/music/Billie+Eilish/_/BITTERSUITE\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "track": {
+    "name": "Andrea",
+    "url": "https://www.last.fm/music/Bad+Bunny/_/Andrea",
+    "duration": "339000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "236594",
+    "playcount": "3006414",
+    "artist": {
+      "name": "Bad Bunny",
+      "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "url": "https://www.last.fm/music/Bad+Bunny"
+    },
+    "album": {
+      "artist": "Bad Bunny",
+      "title": "Un Verano Sin Ti",
+      "url": "https://www.last.fm/music/Bad+Bunny/Un+Verano+Sin+Ti",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3fc1caf14abbd6d7e3853e4fb4dfa3be.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3fc1caf14abbd6d7e3853e4fb4dfa3be.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3fc1caf14abbd6d7e3853e4fb4dfa3be.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3fc1caf14abbd6d7e3853e4fb4dfa3be.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "afrobeat",
+          "url": "https://www.last.fm/tag/afrobeat"
+        },
+        {
+          "name": "experimental",
+          "url": "https://www.last.fm/tag/experimental"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "30 Dec 2024, 01:24",
+      "summary": "Con casi 6 minutos de duración, “Andrea” es la canción más larga de Un Verano Sin Ti, siendo también una de las pocas colaboraciones del disco, incluyendo al dúo Buscabulla.\n\nAunque se rumoreó que la canción estaba inspirada en el feminicidio de Andrea Ruiz Costa, que causó conmoción debido a que ella había solicitado hasta en tres ocasiones ayuda jurídica (la cual le fue denegada) y porque su agresor mantuvo su récord criminal limpio tras el feminicidio <a href=\"http://www.last.fm/music/Bad+Bunny/_/Andrea\">Read more on Last.fm</a>.",
+      "content": "Con casi 6 minutos de duración, “Andrea” es la canción más larga de Un Verano Sin Ti, siendo también una de las pocas colaboraciones del disco, incluyendo al dúo Buscabulla.\n\nAunque se rumoreó que la canción estaba inspirada en el feminicidio de Andrea Ruiz Costa, que causó conmoción debido a que ella había solicitado hasta en tres ocasiones ayuda jurídica (la cual le fue denegada) y porque su agresor mantuvo su récord criminal limpio tras el feminicidio, Bad Bunny indico que este no es el caso en una entrevista reciente con Chente, sino que en realidad podría ser cualquier mujer. <a href=\"http://www.last.fm/music/Bad+Bunny/_/Andrea\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

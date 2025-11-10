@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Dance The Night - From Barbie The Album",
+    "mbid": "2cf69f48-34a1-4e9c-b4d5-c004d3345cd3",
+    "url": "https://www.last.fm/music/Dua+Lipa/_/Dance+The+Night+-+From+Barbie+The+Album",
+    "duration": "176000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "819379",
+    "playcount": "6485272",
+    "artist": {
+      "name": "Dua Lipa",
+      "mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+      "url": "https://www.last.fm/music/Dua+Lipa"
+    },
+    "album": {
+      "artist": "Dua Lipa",
+      "title": "Dance The Night -From Barbie The Album",
+      "url": "https://www.last.fm/music/Dua+Lipa/Dance+The+Night+-From+Barbie+The+Album",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8dd4c433c31c9993970c49e9e04dd3fa.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8dd4c433c31c9993970c49e9e04dd3fa.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8dd4c433c31c9993970c49e9e04dd3fa.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8dd4c433c31c9993970c49e9e04dd3fa.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "electropop",
+          "url": "https://www.last.fm/tag/electropop"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "dance-pop",
+          "url": "https://www.last.fm/tag/dance-pop"
+        },
+        {
+          "name": "bubble gum pop",
+          "url": "https://www.last.fm/tag/bubble+gum+pop"
+        },
+        {
+          "name": "dua lipa",
+          "url": "https://www.last.fm/tag/dua+lipa"
+        }
+      ]
+    }
+  }
+}

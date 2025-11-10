@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Animals",
+    "url": "https://www.last.fm/music/Maroon+5/_/Animals",
+    "duration": "231000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1268151",
+    "playcount": "10224820",
+    "artist": {
+      "name": "Maroon 5",
+      "mbid": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
+      "url": "https://www.last.fm/music/Maroon+5"
+    },
+    "album": {
+      "artist": "Maroon 5",
+      "title": "V (Deluxe)",
+      "url": "https://www.last.fm/music/Maroon+5/V+(Deluxe)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9dcbbb2587be11cca47d21f0619b49df.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9dcbbb2587be11cca47d21f0619b49df.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9dcbbb2587be11cca47d21f0619b49df.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9dcbbb2587be11cca47d21f0619b49df.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "cult",
+          "url": "https://www.last.fm/tag/cult"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "KICK",
+          "url": "https://www.last.fm/tag/KICK"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "2014",
+          "url": "https://www.last.fm/tag/2014"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "12 Jan 2022, 04:09",
+      "summary": "The timid second track on Maroon 5’s fifth studio album, V. It uses animal metaphors to describe a breakup that might not last. It was released as the second single shortly after its release.\n\nIts music video came out September 29th, 2014. In it, Adam plays a butcher stalking a woman (played by his wife).\n\nBoth the video’s premise and final scenes have attracted controversy for their sexual content, liberal blood use, and perceived glamorization of unhealthy relationships. <a href=\"http://www.last.fm/music/Maroon+5/_/Animals\">Read more on Last.fm</a>.",
+      "content": "The timid second track on Maroon 5’s fifth studio album, V. It uses animal metaphors to describe a breakup that might not last. It was released as the second single shortly after its release.\n\nIts music video came out September 29th, 2014. In it, Adam plays a butcher stalking a woman (played by his wife).\n\nBoth the video’s premise and final scenes have attracted controversy for their sexual content, liberal blood use, and perceived glamorization of unhealthy relationships. <a href=\"http://www.last.fm/music/Maroon+5/_/Animals\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

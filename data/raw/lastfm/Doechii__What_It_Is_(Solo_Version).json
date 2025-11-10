@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "What It Is (Solo Version)",
+    "mbid": "0fcb467f-148c-46ae-b799-987a889d20ad",
+    "url": "https://www.last.fm/music/Doechii/_/What+It+Is+(Solo+Version)",
+    "duration": "189000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "484408",
+    "playcount": "3463543",
+    "artist": {
+      "name": "Doechii",
+      "mbid": "9f75277c-b283-4846-ac8c-f932255cd0ac",
+      "url": "https://www.last.fm/music/Doechii"
+    },
+    "album": {
+      "artist": "Doechii",
+      "title": "What It Is (Versions)",
+      "url": "https://www.last.fm/music/Doechii/What+It+Is+(Versions)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f86e5419c855e3461bd92cd9daf621b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f86e5419c855e3461bd92cd9daf621b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f86e5419c855e3461bd92cd9daf621b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f86e5419c855e3461bd92cd9daf621b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Mr Pot Scraper",
+    "url": "https://www.last.fm/music/Bossman+Dlow/_/Mr+Pot+Scraper",
+    "duration": "145000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "82770",
+    "playcount": "655533",
+    "artist": {
+      "name": "Bossman Dlow",
+      "url": "https://www.last.fm/music/Bossman+Dlow"
+    },
+    "album": {
+      "artist": "Bossman Dlow",
+      "title": "Mr Pot Scraper - Single",
+      "url": "https://www.last.fm/music/Bossman+Dlow/Mr+Pot+Scraper+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e5d573db007a7ba0a3ceb649c896d979.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e5d573db007a7ba0a3ceb649c896d979.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e5d573db007a7ba0a3ceb649c896d979.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e5d573db007a7ba0a3ceb649c896d979.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

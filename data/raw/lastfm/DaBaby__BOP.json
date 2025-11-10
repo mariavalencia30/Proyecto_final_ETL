@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "BOP",
+    "mbid": "9056d456-f64b-43c3-a10b-a19dd9ba9459",
+    "url": "https://www.last.fm/music/DaBaby/_/BOP",
+    "duration": "159000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "570936",
+    "playcount": "5278120",
+    "artist": {
+      "name": "DaBaby",
+      "mbid": "87ae83df-6173-40cc-a0f2-bad543faa6aa",
+      "url": "https://www.last.fm/music/DaBaby"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Hype Gym",
+      "url": "https://www.last.fm/music/Various+Artists/Hype+Gym",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f8b94db6bdcc444d8dc2bb32dd672bd1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f8b94db6bdcc444d8dc2bb32dd672bd1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f8b94db6bdcc444d8dc2bb32dd672bd1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f8b94db6bdcc444d8dc2bb32dd672bd1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "homophobic",
+          "url": "https://www.last.fm/tag/homophobic"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "homophobia",
+          "url": "https://www.last.fm/tag/homophobia"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "19 Aug 2025, 16:38",
+      "summary": "“BOP“ is a song by American rapper DaBaby, released to US rhythmic contemporary radio through Interscope Records and South Coast Music Group on November 19, 2019, as the second single from DaBaby's sophomore album, Kirk. It peaked at number 11 on the US Billboard Hot 100. The song received a nomination for Best Rap Performance at the 63rd Annual Grammy Awards.\n\nThe music video was released on November 16, 2019, and was directed by Reel Goats. <a href=\"http://www.last.fm/music/DaBaby/_/BOP\">Read more on Last.fm</a>.",
+      "content": "“BOP“ is a song by American rapper DaBaby, released to US rhythmic contemporary radio through Interscope Records and South Coast Music Group on November 19, 2019, as the second single from DaBaby's sophomore album, Kirk. It peaked at number 11 on the US Billboard Hot 100. The song received a nomination for Best Rap Performance at the 63rd Annual Grammy Awards.\n\nThe music video was released on November 16, 2019, and was directed by Reel Goats. It is styled as a \"Broadway hip-hop musical\" and features a flash mob as well as American dance crew the Jabbawockeez. James Rico, the head of the production team Reel Goats, stated that he was inspired by the intro sequences of Austin Powers and how people would want to dance around the title character. Rico went on to say that he wanted to recreate that same feeling of community in the music video, drawing additional inspiration from Rocky, with the end goal being a \"rap version of\" the intro scene from La La Land. <a href=\"http://www.last.fm/music/DaBaby/_/BOP\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

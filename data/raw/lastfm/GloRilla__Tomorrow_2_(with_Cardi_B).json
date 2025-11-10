@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Tomorrow 2 (with Cardi B)",
+    "url": "https://www.last.fm/music/GloRilla/_/Tomorrow+2+(with+Cardi+B)",
+    "duration": "209000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "243979",
+    "playcount": "2216235",
+    "artist": {
+      "name": "GloRilla",
+      "mbid": "2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2",
+      "url": "https://www.last.fm/music/GloRilla"
+    },
+    "album": {
+      "artist": "GloRilla",
+      "title": "Tomorrow 2 (with Cardi B)",
+      "url": "https://www.last.fm/music/GloRilla/Tomorrow+2+(with+Cardi+B)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99892144548f0aa5cbd4aa998e751317.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99892144548f0aa5cbd4aa998e751317.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99892144548f0aa5cbd4aa998e751317.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99892144548f0aa5cbd4aa998e751317.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

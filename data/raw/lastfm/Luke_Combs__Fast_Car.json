@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Fast Car",
+    "mbid": "02062f13-048f-499f-9a14-b2004db2aaf0",
+    "url": "https://www.last.fm/music/Luke+Combs/_/Fast+Car",
+    "duration": "265000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "329914",
+    "playcount": "3156494",
+    "artist": {
+      "name": "Luke Combs",
+      "mbid": "c20ee61f-071f-4e65-9c81-45ee931a54ce",
+      "url": "https://www.last.fm/music/Luke+Combs"
+    },
+    "album": {
+      "artist": "Luke Combs",
+      "title": "Gettin' Old",
+      "url": "https://www.last.fm/music/Luke+Combs/Gettin%27+Old",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/22f361a4f203ec9cb25628ac260a1c0b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/22f361a4f203ec9cb25628ac260a1c0b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/22f361a4f203ec9cb25628ac260a1c0b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/22f361a4f203ec9cb25628ac260a1c0b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "country",
+          "url": "https://www.last.fm/tag/country"
+        },
+        {
+          "name": "country pop",
+          "url": "https://www.last.fm/tag/country+pop"
+        },
+        {
+          "name": "male vocalists",
+          "url": "https://www.last.fm/tag/male+vocalists"
+        },
+        {
+          "name": "cover",
+          "url": "https://www.last.fm/tag/cover"
+        },
+        {
+          "name": "contemporary country",
+          "url": "https://www.last.fm/tag/contemporary+country"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "23 Aug 2023, 14:46",
+      "summary": "Cover of Tracy Chapman's Fast Car. <a href=\"http://www.last.fm/music/Luke+Combs/_/Fast+Car\">Read more on Last.fm</a>.",
+      "content": "Cover of Tracy Chapman's Fast Car. <a href=\"http://www.last.fm/music/Luke+Combs/_/Fast+Car\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

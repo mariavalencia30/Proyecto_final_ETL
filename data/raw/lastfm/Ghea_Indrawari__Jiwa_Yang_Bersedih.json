@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Jiwa Yang Bersedih",
+    "url": "https://www.last.fm/music/Ghea+Indrawari/_/Jiwa+Yang+Bersedih",
+    "duration": "278000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "17631",
+    "playcount": "186249",
+    "artist": {
+      "name": "Ghea Indrawari",
+      "mbid": "7317656e-8e33-4779-92d9-fc169ffdc3f0",
+      "url": "https://www.last.fm/music/Ghea+Indrawari"
+    },
+    "album": {
+      "artist": "Ghea Indrawari",
+      "title": "Jiwa Yang Bersedih",
+      "url": "https://www.last.fm/music/Ghea+Indrawari/Jiwa+Yang+Bersedih",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cb4e134bc3a23c9244bb70f6a1d5f35d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cb4e134bc3a23c9244bb70f6a1d5f35d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cb4e134bc3a23c9244bb70f6a1d5f35d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cb4e134bc3a23c9244bb70f6a1d5f35d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Adventure of a Lifetime",
+    "mbid": "2c0cf19d-db0b-4374-8092-16f08ff3ac89",
+    "url": "https://www.last.fm/music/Coldplay/_/Adventure+of+a+Lifetime",
+    "duration": "263000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1210403",
+    "playcount": "10928705",
+    "artist": {
+      "name": "Coldplay",
+      "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+      "url": "https://www.last.fm/music/Coldplay"
+    },
+    "album": {
+      "artist": "Coldplay",
+      "title": "A Head Full of Dreams",
+      "url": "https://www.last.fm/music/Coldplay/A+Head+Full+of+Dreams",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/91777f251715e25d7ca9922da16c7c07.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/91777f251715e25d7ca9922da16c7c07.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/91777f251715e25d7ca9922da16c7c07.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/91777f251715e25d7ca9922da16c7c07.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "funk",
+          "url": "https://www.last.fm/tag/funk"
+        },
+        {
+          "name": "british",
+          "url": "https://www.last.fm/tag/british"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "06 Nov 2015, 13:43",
+      "summary": "\"Adventure of a Lifetime\" is the first single to be released from Coldplay’s seventh studio album, A Head Full of Dreams. The track is the fifth song on the album and it had its global on-air premiere on BBC Radio 2 on November 6, 2015. <a href=\"http://www.last.fm/music/Coldplay/_/Adventure+of+a+Lifetime\">Read more on Last.fm</a>.",
+      "content": "\"Adventure of a Lifetime\" is the first single to be released from Coldplay’s seventh studio album, A Head Full of Dreams. The track is the fifth song on the album and it had its global on-air premiere on BBC Radio 2 on November 6, 2015. <a href=\"http://www.last.fm/music/Coldplay/_/Adventure+of+a+Lifetime\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

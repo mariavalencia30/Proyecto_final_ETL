@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "FLOWER",
+    "mbid": "3047934b-71b1-4b8d-98b7-fcd8ef2494b4",
+    "url": "https://www.last.fm/music/JISOO/_/FLOWER",
+    "duration": "174000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "380004",
+    "playcount": "19989696",
+    "artist": {
+      "name": "JISOO",
+      "mbid": "f906154a-7011-49c3-8f6a-44ca83311b08",
+      "url": "https://www.last.fm/music/JISOO"
+    },
+    "album": {
+      "artist": "JISOO",
+      "title": "ME",
+      "url": "https://www.last.fm/music/JISOO/ME",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6602f9821a36143638fc439408247d06.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6602f9821a36143638fc439408247d06.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6602f9821a36143638fc439408247d06.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6602f9821a36143638fc439408247d06.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "03 Apr 2023, 16:50",
+      "summary": "“FLOWER“ is the debut solo single by South Korean singer and BLACKPINK member Jisoo. It was released on March 31, 2023, by YG and Interscope as the lead single from her debut single album, Me. “FLOWER“ is a mid-tempo dance, pop and trap song that incorporates traditional Korean melodies and Caribbean elements, with lyrics about overcoming a toxic relationship. It was written by Vince, Teddy, Kush, and VVN and composed by the latter two alongside 24, who also handled the production. <a href=\"http://www.last.fm/music/JISOO/_/FLOWER\">Read more on Last.fm</a>.",
+      "content": "“FLOWER“ is the debut solo single by South Korean singer and BLACKPINK member Jisoo. It was released on March 31, 2023, by YG and Interscope as the lead single from her debut single album, Me. “FLOWER“ is a mid-tempo dance, pop and trap song that incorporates traditional Korean melodies and Caribbean elements, with lyrics about overcoming a toxic relationship. It was written by Vince, Teddy, Kush, and VVN and composed by the latter two alongside 24, who also handled the production. <a href=\"http://www.last.fm/music/JISOO/_/FLOWER\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

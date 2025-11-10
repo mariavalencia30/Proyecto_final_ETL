@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Eastside (with Halsey & Khalid)",
+    "mbid": "1c3c250b-d2e6-42fa-90e9-58c5bdbd3e3e",
+    "url": "https://www.last.fm/music/benny+blanco/_/Eastside+(with+Halsey+&+Khalid)",
+    "duration": "173000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "704717",
+    "playcount": "7516845",
+    "artist": {
+      "name": "benny blanco",
+      "mbid": "05aab861-e2fc-492c-8549-c6a1b6cfefa0",
+      "url": "https://www.last.fm/music/benny+blanco"
+    },
+    "album": {
+      "artist": "benny blanco",
+      "title": "Eastside (with Halsey & Khalid)",
+      "url": "https://www.last.fm/music/benny+blanco/Eastside+(with+Halsey+&+Khalid)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1a37f2855ccb6ed258e24078814493bf.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1a37f2855ccb6ed258e24078814493bf.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1a37f2855ccb6ed258e24078814493bf.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1a37f2855ccb6ed258e24078814493bf.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://www.last.fm/tag/Khalid"
+        },
+        {
+          "name": "halsey",
+          "url": "https://www.last.fm/tag/halsey"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "dancehall",
+          "url": "https://www.last.fm/tag/dancehall"
+        }
+      ]
+    }
+  }
+}

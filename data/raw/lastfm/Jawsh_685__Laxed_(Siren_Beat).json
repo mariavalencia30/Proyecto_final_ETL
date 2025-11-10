@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Laxed (Siren Beat)",
+    "url": "https://www.last.fm/music/Jawsh+685/_/Laxed+(Siren+Beat)",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "2594",
+    "playcount": "8277",
+    "artist": {
+      "name": "Jawsh 685",
+      "mbid": "b49817f8-3343-4639-9461-386fb951fa4b",
+      "url": "https://www.last.fm/music/Jawsh+685"
+    },
+    "album": {
+      "artist": "Jawsh 685",
+      "title": "Laxed (Siren Beat)",
+      "url": "https://www.last.fm/music/Jawsh+685/Laxed+(Siren+Beat)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e67328d46e20afaa0d440811fd7512f0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e67328d46e20afaa0d440811fd7512f0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e67328d46e20afaa0d440811fd7512f0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e67328d46e20afaa0d440811fd7512f0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

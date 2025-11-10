@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Everybody Dies in Their Nightmares",
+    "mbid": "5e84c9ff-9511-4962-90f5-b21ef70651c2",
+    "url": "https://www.last.fm/music/XXXTENTACION/_/Everybody+Dies+in+Their+Nightmares",
+    "duration": "95000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "940185",
+    "playcount": "12712410",
+    "artist": {
+      "name": "XXXTENTACION",
+      "mbid": "61af87f4-16ee-4431-8504-cc06187079fb",
+      "url": "https://www.last.fm/music/XXXTENTACION"
+    },
+    "album": {
+      "artist": "XXXTENTACION",
+      "title": "17",
+      "url": "https://www.last.fm/music/XXXTENTACION/17",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e4ecd32d08c4669c4ddf057baaa87938.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e4ecd32d08c4669c4ddf057baaa87938.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e4ecd32d08c4669c4ddf057baaa87938.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4ecd32d08c4669c4ddf057baaa87938.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "emo rap",
+          "url": "https://www.last.fm/tag/emo+rap"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://www.last.fm/tag/XXXTENTACION"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "07 May 2021, 16:19",
+      "summary": "“Everybody Dies In Their Nightmares” is the 4th track on X’s debut album, 17. The instrumental was created by Potsu, who produced 17 songs, “Jocelyn Flores” and “Carry On” as well. The instrumental samples lyrics from Shiloh Dynasty’s “this really makes me wanna die”. <a href=\"http://www.last.fm/music/XXXTENTACION/_/Everybody+Dies+in+Their+Nightmares\">Read more on Last.fm</a>.",
+      "content": "“Everybody Dies In Their Nightmares” is the 4th track on X’s debut album, 17. The instrumental was created by Potsu, who produced 17 songs, “Jocelyn Flores” and “Carry On” as well. The instrumental samples lyrics from Shiloh Dynasty’s “this really makes me wanna die”. <a href=\"http://www.last.fm/music/XXXTENTACION/_/Everybody+Dies+in+Their+Nightmares\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

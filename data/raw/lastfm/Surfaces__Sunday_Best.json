@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Sunday Best",
+    "url": "https://www.last.fm/music/Surfaces/_/Sunday+Best",
+    "duration": "158000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "520161",
+    "playcount": "3830147",
+    "artist": {
+      "name": "Surfaces",
+      "mbid": "ae515b61-757e-49c2-b78b-b6534b255c83",
+      "url": "https://www.last.fm/music/Surfaces"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Sunday Best",
+      "url": "https://www.last.fm/music/Various+Artists/Sunday+Best",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2ff0b1f4c935f73485044b47575a4b4e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2ff0b1f4c935f73485044b47575a4b4e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2ff0b1f4c935f73485044b47575a4b4e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2ff0b1f4c935f73485044b47575a4b4e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "UN PREVIEW",
+    "mbid": "31040150-79ba-4409-a553-2fc2b381a08a",
+    "url": "https://www.last.fm/music/Bad+Bunny/_/UN+PREVIEW",
+    "duration": "165000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "188495",
+    "playcount": "1653312",
+    "artist": {
+      "name": "Bad Bunny",
+      "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "url": "https://www.last.fm/music/Bad+Bunny"
+    },
+    "album": {
+      "artist": "Bad Bunny",
+      "title": "UN PREVIEW",
+      "url": "https://www.last.fm/music/Bad+Bunny/UN+PREVIEW",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c237fe125345c5500e987aa34d3cda5c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c237fe125345c5500e987aa34d3cda5c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c237fe125345c5500e987aa34d3cda5c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c237fe125345c5500e987aa34d3cda5c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

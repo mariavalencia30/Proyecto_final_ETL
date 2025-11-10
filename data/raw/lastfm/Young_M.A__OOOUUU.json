@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "OOOUUU",
+    "url": "https://www.last.fm/music/Young+M.A/_/OOOUUU",
+    "duration": "235000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "255367",
+    "playcount": "1856951",
+    "artist": {
+      "name": "Young M.A",
+      "url": "https://www.last.fm/music/Young+M.A"
+    },
+    "album": {
+      "artist": "Young M.A",
+      "title": "Herstory - EP",
+      "url": "https://www.last.fm/music/Young+M.A/Herstory+-+EP",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/38a77d475fd11688e79e07ef4de2c7af.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/38a77d475fd11688e79e07ef4de2c7af.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/38a77d475fd11688e79e07ef4de2c7af.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/38a77d475fd11688e79e07ef4de2c7af.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "5 Foot 9",
+    "mbid": "0e141fb7-a91a-45ae-b7c5-e48093ace4d2",
+    "url": "https://www.last.fm/music/Tyler+Hubbard/_/5+Foot+9",
+    "duration": "189000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "64149",
+    "playcount": "576169",
+    "artist": {
+      "name": "Tyler Hubbard",
+      "mbid": "a0b0b576-d6bc-445d-b9db-70893547a4e1",
+      "url": "https://www.last.fm/music/Tyler+Hubbard"
+    },
+    "album": {
+      "artist": "Tyler Hubbard",
+      "title": "5 Foot 9",
+      "url": "https://www.last.fm/music/Tyler+Hubbard/5+Foot+9",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a347cdcbccf9a07a145e3d5fb809aa21.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a347cdcbccf9a07a145e3d5fb809aa21.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a347cdcbccf9a07a145e3d5fb809aa21.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a347cdcbccf9a07a145e3d5fb809aa21.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Freestyle",
+    "mbid": "4127f4d9-b9df-4cad-acc9-e9c3a3b17cdf",
+    "url": "https://www.last.fm/music/Lil+Baby/_/Freestyle",
+    "duration": "162000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "559871",
+    "playcount": "9627641",
+    "artist": {
+      "name": "Lil Baby",
+      "mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+      "url": "https://www.last.fm/music/Lil+Baby"
+    },
+    "album": {
+      "artist": "Lil Baby",
+      "title": "Too Hard",
+      "url": "https://www.last.fm/music/Lil+Baby/Too+Hard",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/99d0a5dbd78cd925d9ce5dbdab4a3338.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/99d0a5dbd78cd925d9ce5dbdab4a3338.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/99d0a5dbd78cd925d9ce5dbdab4a3338.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/99d0a5dbd78cd925d9ce5dbdab4a3338.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "Love",
+          "url": "https://www.last.fm/tag/Love"
+        },
+        {
+          "name": "lol",
+          "url": "https://www.last.fm/tag/lol"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "Hard",
+          "url": "https://www.last.fm/tag/Hard"
+        }
+      ]
+    }
+  }
+}

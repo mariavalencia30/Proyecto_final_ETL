@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Turn Yo Clic Up (feat. Future)",
+    "url": "https://www.last.fm/music/Quavo/_/Turn+Yo+Clic+Up+(feat.+Future)",
+    "duration": "230000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "150241",
+    "playcount": "919439",
+    "artist": {
+      "name": "Quavo",
+      "mbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+      "url": "https://www.last.fm/music/Quavo"
+    },
+    "album": {
+      "artist": "Quavo",
+      "title": "Turn Yo Clic Up (feat. Future)",
+      "url": "https://www.last.fm/music/Quavo/Turn+Yo+Clic+Up+(feat.+Future)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/575c0eab3701083d6a6b53650af1941a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/575c0eab3701083d6a6b53650af1941a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/575c0eab3701083d6a6b53650af1941a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/575c0eab3701083d6a6b53650af1941a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

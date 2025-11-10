@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Stuck In The Middle",
+    "mbid": "1f5e929b-2a19-44bd-9617-affc036fb647",
+    "url": "https://www.last.fm/music/BABYMONSTER/_/Stuck+In+The+Middle",
+    "duration": "246000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "59481",
+    "playcount": "703832",
+    "artist": {
+      "name": "BABYMONSTER",
+      "mbid": "5829cd4f-e693-4b03-abe5-1226243c23d6",
+      "url": "https://www.last.fm/music/BABYMONSTER"
+    },
+    "album": {
+      "artist": "BABYMONSTER",
+      "title": "Stuck in the Middle",
+      "url": "https://www.last.fm/music/BABYMONSTER/Stuck+in+the+Middle",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9a47cc9524d7d55c963451ddeafd52cc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9a47cc9524d7d55c963451ddeafd52cc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9a47cc9524d7d55c963451ddeafd52cc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9a47cc9524d7d55c963451ddeafd52cc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

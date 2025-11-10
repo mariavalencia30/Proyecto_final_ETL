@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Ya No Somos Ni Seremos",
+    "mbid": "4b7271c5-0391-4364-880e-cd01a3df225d",
+    "url": "https://www.last.fm/music/Christian+Nodal/_/Ya+No+Somos+Ni+Seremos",
+    "duration": "185000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "62250",
+    "playcount": "557274",
+    "artist": {
+      "name": "Christian Nodal",
+      "mbid": "7f464f95-2410-4040-a88e-1dbe96f17fcd",
+      "url": "https://www.last.fm/music/Christian+Nodal"
+    },
+    "album": {
+      "artist": "Christian Nodal",
+      "title": "Ya No Somos Ni Seremos",
+      "url": "https://www.last.fm/music/Christian+Nodal/Ya+No+Somos+Ni+Seremos",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/47d183e3bf54eee30d93c83ce9721a9f.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/47d183e3bf54eee30d93c83ce9721a9f.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/47d183e3bf54eee30d93c83ce9721a9f.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/47d183e3bf54eee30d93c83ce9721a9f.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

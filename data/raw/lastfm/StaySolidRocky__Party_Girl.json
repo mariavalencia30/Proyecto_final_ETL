@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Party Girl",
+    "mbid": "e9cc4e6b-9200-4069-84a4-e351699ae1ab",
+    "url": "https://www.last.fm/music/StaySolidRocky/_/Party+Girl",
+    "duration": "149000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "354464",
+    "playcount": "2924057",
+    "artist": {
+      "name": "StaySolidRocky",
+      "mbid": "c613510c-90f8-4da0-970b-a71f607016fe",
+      "url": "https://www.last.fm/music/StaySolidRocky"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "NOW That's What I Call Music! 106",
+      "url": "https://www.last.fm/music/Various+Artists/NOW+That%27s+What+I+Call+Music%21+106",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/980d3ab7861e224cbf7d16d33c0c32de.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/980d3ab7861e224cbf7d16d33c0c32de.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/980d3ab7861e224cbf7d16d33c0c32de.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/980d3ab7861e224cbf7d16d33c0c32de.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

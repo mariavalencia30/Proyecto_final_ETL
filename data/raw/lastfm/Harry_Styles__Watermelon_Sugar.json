@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Watermelon Sugar",
+    "mbid": "1ab009f2-d713-4f85-b4a3-c383c344e24a",
+    "url": "https://www.last.fm/music/Harry+Styles/_/Watermelon+Sugar",
+    "duration": "174000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1415288",
+    "playcount": "18818352",
+    "artist": {
+      "name": "Harry Styles",
+      "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+      "url": "https://www.last.fm/music/Harry+Styles"
+    },
+    "album": {
+      "artist": "Harry Styles",
+      "title": "Adore You",
+      "url": "https://www.last.fm/music/Harry+Styles/Adore+You",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8edb80ccae8875fe16ae186905094831.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8edb80ccae8875fe16ae186905094831.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8edb80ccae8875fe16ae186905094831.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8edb80ccae8875fe16ae186905094831.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "2019",
+          "url": "https://www.last.fm/tag/2019"
+        },
+        {
+          "name": "indie pop",
+          "url": "https://www.last.fm/tag/indie+pop"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "11 Aug 2020, 01:00",
+      "summary": "\"Watermelon Sugar\" is a song by English singer Harry Styles from his second studio album \"Fine Line\", included as the album's second track. Styles wrote the song with Mitch Rowland and its producers Tyler Johnson and Kid Harpoon. They were inspired by the 1968 American novel \"In Watermelon Sugar\" by Richard Brautigan. \"Watermelon Sugar\" is a horn and guitar-driven rock, funk-pop, and indie pop song. <a href=\"http://www.last.fm/music/Harry+Styles/_/Watermelon+Sugar\">Read more on Last.fm</a>.",
+      "content": "\"Watermelon Sugar\" is a song by English singer Harry Styles from his second studio album \"Fine Line\", included as the album's second track. Styles wrote the song with Mitch Rowland and its producers Tyler Johnson and Kid Harpoon. They were inspired by the 1968 American novel \"In Watermelon Sugar\" by Richard Brautigan. \"Watermelon Sugar\" is a horn and guitar-driven rock, funk-pop, and indie pop song. <a href=\"http://www.last.fm/music/Harry+Styles/_/Watermelon+Sugar\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Next Thing You Know",
+    "mbid": "fd1e89e1-af6a-4e18-8e02-daf3c4db1c9d",
+    "url": "https://www.last.fm/music/Jordan+Davis/_/Next+Thing+You+Know",
+    "duration": "175000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "92291",
+    "playcount": "792964",
+    "artist": {
+      "name": "Jordan Davis",
+      "mbid": "e90eaba7-aa99-40f6-8348-8b822dcf20d7",
+      "url": "https://www.last.fm/music/Jordan+Davis"
+    },
+    "album": {
+      "artist": "Jordan Davis",
+      "title": "Next Thing You Know",
+      "url": "https://www.last.fm/music/Jordan+Davis/Next+Thing+You+Know",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ac8861e572334d41f3aed1eb7e50d9e1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ac8861e572334d41f3aed1eb7e50d9e1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ac8861e572334d41f3aed1eb7e50d9e1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac8861e572334d41f3aed1eb7e50d9e1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

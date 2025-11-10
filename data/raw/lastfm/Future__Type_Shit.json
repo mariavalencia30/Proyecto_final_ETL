@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Type Shit",
+    "url": "https://www.last.fm/music/Future/_/Type+Shit",
+    "duration": "228000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "851429",
+    "playcount": "14008052",
+    "artist": {
+      "name": "Future",
+      "mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+      "url": "https://www.last.fm/music/Future"
+    },
+    "album": {
+      "artist": "Future",
+      "title": "WE DON'T TRUST YOU",
+      "url": "https://www.last.fm/music/Future/WE+DON%27T+TRUST+YOU",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed0b0acbc5af9cabb31acbf3ba9e79bb.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed0b0acbc5af9cabb31acbf3ba9e79bb.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed0b0acbc5af9cabb31acbf3ba9e79bb.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed0b0acbc5af9cabb31acbf3ba9e79bb.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "future",
+          "url": "https://www.last.fm/tag/future"
+        },
+        {
+          "name": "travis scott",
+          "url": "https://www.last.fm/tag/travis+scott"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://www.last.fm/tag/Playboi+Carti"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://www.last.fm/tag/Metro+Boomin"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "22 Mar 2024, 10:11",
+      "summary": "“Type Shit” is the 4th song off of WE DON'T TRUST YOU featuring Playboi Carti and Travis Scott. The track was first teased on January 2, 2024, where Metro posted a photo of the song’s project file on X. Carti would post a snippet of his verse via Instagram stories on March 13th, 2024, tagging Metro Boomin, Future, and Travis Scott. Future previewed his verse of the song on March 15, 2024, on his Instagram Story before performing the track with Metro and Travis on March 17, 2024, at Rolling Loud LA. <a href=\"http://www.last.fm/music/Future/_/Type+Shit\">Read more on Last.fm</a>.",
+      "content": "“Type Shit” is the 4th song off of WE DON'T TRUST YOU featuring Playboi Carti and Travis Scott. The track was first teased on January 2, 2024, where Metro posted a photo of the song’s project file on X. Carti would post a snippet of his verse via Instagram stories on March 13th, 2024, tagging Metro Boomin, Future, and Travis Scott. Future previewed his verse of the song on March 15, 2024, on his Instagram Story before performing the track with Metro and Travis on March 17, 2024, at Rolling Loud LA. <a href=\"http://www.last.fm/music/Future/_/Type+Shit\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

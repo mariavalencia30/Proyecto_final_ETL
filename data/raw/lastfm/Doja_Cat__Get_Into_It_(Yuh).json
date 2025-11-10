@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Get Into It (Yuh)",
+    "mbid": "eb3530dc-9712-441c-a683-b5da0b313f0b",
+    "url": "https://www.last.fm/music/Doja+Cat/_/Get+Into+It+(Yuh)",
+    "duration": "138000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1007014",
+    "playcount": "14076694",
+    "artist": {
+      "name": "Doja Cat",
+      "mbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+      "url": "https://www.last.fm/music/Doja+Cat"
+    },
+    "album": {
+      "artist": "Doja Cat",
+      "title": "Planet Her (Deluxe)",
+      "url": "https://www.last.fm/music/Doja+Cat/Planet+Her+(Deluxe)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/daf5b860d0a3f0718e7f9dfd2b520b42.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/daf5b860d0a3f0718e7f9dfd2b520b42.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/daf5b860d0a3f0718e7f9dfd2b520b42.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/daf5b860d0a3f0718e7f9dfd2b520b42.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "hyphy",
+          "url": "https://www.last.fm/tag/hyphy"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "26 Jun 2021, 08:36",
+      "summary": "\"Get into it (Yuh)\" is the fourth track from Doja Cat's third studio album, Planet Her. Produced by Y2K, the upbeat playful track is inspired by early Nicki Minaj music and even pays homage to the female rapper's song \"Massive Attack\", by saying, \"Thank you, Nicki. I love you. Got that big rocket launcher!\" <a href=\"http://www.last.fm/music/Doja+Cat/_/Get+Into+It+(Yuh)\">Read more on Last.fm</a>.",
+      "content": "\"Get into it (Yuh)\" is the fourth track from Doja Cat's third studio album, Planet Her. Produced by Y2K, the upbeat playful track is inspired by early Nicki Minaj music and even pays homage to the female rapper's song \"Massive Attack\", by saying, \"Thank you, Nicki. I love you. Got that big rocket launcher!\" <a href=\"http://www.last.fm/music/Doja+Cat/_/Get+Into+It+(Yuh)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Khairiyat",
+    "mbid": "5b0a018f-2072-439b-a0c9-2c0922bbcb64",
+    "url": "https://www.last.fm/music/Arijit+Singh/_/Khairiyat",
+    "duration": "231000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3105",
+    "playcount": "17696",
+    "artist": {
+      "name": "Arijit Singh",
+      "mbid": "ed3f4831-e3e0-4dc0-9381-f5649e9df221",
+      "url": "https://www.last.fm/music/Arijit+Singh"
+    },
+    "album": {
+      "artist": "Pritam",
+      "title": "Chhichhore",
+      "url": "https://www.last.fm/music/Pritam/Chhichhore",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d5803c0c1a964b86f8c97c4649f8d16b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d5803c0c1a964b86f8c97c4649f8d16b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d5803c0c1a964b86f8c97c4649f8d16b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d5803c0c1a964b86f8c97c4649f8d16b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

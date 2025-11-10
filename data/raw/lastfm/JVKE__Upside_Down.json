@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Upside Down",
+    "mbid": "9327920d-88ee-411f-9f62-933f1ced3e93",
+    "url": "https://www.last.fm/music/JVKE/_/Upside+Down",
+    "duration": "114000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "113707",
+    "playcount": "769125",
+    "artist": {
+      "name": "JVKE",
+      "mbid": "f29e031f-c6b6-4d52-8edd-dc8e14378e74",
+      "url": "https://www.last.fm/music/JVKE"
+    },
+    "album": {
+      "artist": "JVKE",
+      "title": "Upside Down - Single",
+      "url": "https://www.last.fm/music/JVKE/Upside+Down+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aa28d3933b8639e9fc090a9509afdd24.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aa28d3933b8639e9fc090a9509afdd24.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aa28d3933b8639e9fc090a9509afdd24.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aa28d3933b8639e9fc090a9509afdd24.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

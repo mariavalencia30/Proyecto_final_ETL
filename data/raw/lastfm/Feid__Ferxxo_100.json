@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Ferxxo 100",
+    "url": "https://www.last.fm/music/Feid/_/Ferxxo+100",
+    "duration": "167000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "110457",
+    "playcount": "1671353",
+    "artist": {
+      "name": "Feid",
+      "mbid": "eaee97f6-f2e4-414a-966c-f31a1fb4696a",
+      "url": "https://www.last.fm/music/Feid"
+    },
+    "album": {
+      "artist": "Feid",
+      "title": "Ferxxo 100",
+      "url": "https://www.last.fm/music/Feid/Ferxxo+100",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6161779608133e487e7c8f490ad6cad0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6161779608133e487e7c8f490ad6cad0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6161779608133e487e7c8f490ad6cad0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6161779608133e487e7c8f490ad6cad0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

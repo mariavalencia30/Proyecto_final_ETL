@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Location",
+    "mbid": "d771e740-6a84-44c2-9e2d-da0ab5c52ff0",
+    "url": "https://www.last.fm/music/Khalid/_/Location",
+    "duration": "219000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "836574",
+    "playcount": "7038090",
+    "artist": {
+      "name": "Khalid",
+      "mbid": "acc88434-f16e-4aad-83e0-ea0ee6bb6b3d",
+      "url": "https://www.last.fm/music/Khalid"
+    },
+    "album": {
+      "artist": "Khalid",
+      "title": "American Teen",
+      "url": "https://www.last.fm/music/Khalid/American+Teen",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/625d8735f4f0bf1cbf3c779fd4746bdc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/625d8735f4f0bf1cbf3c779fd4746bdc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/625d8735f4f0bf1cbf3c779fd4746bdc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/625d8735f4f0bf1cbf3c779fd4746bdc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "soul",
+          "url": "https://www.last.fm/tag/soul"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "chill",
+          "url": "https://www.last.fm/tag/chill"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "26 Jan 2017, 01:54",
+      "summary": "\"Location\" is the first single from American singer Khalid. It was released on August 26, 2016 by Right Hand and RCA Records. The song was produced by Syk Sense, Smash David, and Tunji Ige. <a href=\"http://www.last.fm/music/Khalid/_/Location\">Read more on Last.fm</a>.",
+      "content": "\"Location\" is the first single from American singer Khalid. It was released on August 26, 2016 by Right Hand and RCA Records. The song was produced by Syk Sense, Smash David, and Tunji Ige. <a href=\"http://www.last.fm/music/Khalid/_/Location\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

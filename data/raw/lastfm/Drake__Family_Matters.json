@@ -1,0 +1,63 @@
+{
+  "track": {
+    "name": "Family Matters",
+    "mbid": "98b50182-b932-4327-b5c1-efeb6a3c9ef6",
+    "url": "https://www.last.fm/music/Drake/_/Family+Matters",
+    "duration": "456000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "394331",
+    "playcount": "3377062",
+    "artist": {
+      "name": "Drake",
+      "mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+      "url": "https://www.last.fm/music/Drake"
+    },
+    "album": {
+      "artist": "Drake",
+      "title": "Family Matters",
+      "url": "https://www.last.fm/music/Drake/Family+Matters",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/994bfcc6194d5c7870db1a9b64b5e828.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/994bfcc6194d5c7870db1a9b64b5e828.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/994bfcc6194d5c7870db1a9b64b5e828.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/994bfcc6194d5c7870db1a9b64b5e828.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Drake",
+          "url": "https://www.last.fm/tag/Drake"
+        },
+        {
+          "name": "2024",
+          "url": "https://www.last.fm/tag/2024"
+        },
+        {
+          "name": "DAVE FREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+          "url": "https://www.last.fm/tag/DAVE+FREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "05 May 2024, 17:06",
+      "summary": "Serving as a response to Kendrick Lamar, \"Family Matters\" features Drake responding to claims in \"euphoria\" and \"6:16 in LA\". He also references Lamar's \"Worldwide Steppers\" to question his loyalty to his longtime partner Whitney Alford. <a href=\"http://www.last.fm/music/Drake/_/Family+Matters\">Read more on Last.fm</a>.",
+      "content": "Serving as a response to Kendrick Lamar, \"Family Matters\" features Drake responding to claims in \"euphoria\" and \"6:16 in LA\". He also references Lamar's \"Worldwide Steppers\" to question his loyalty to his longtime partner Whitney Alford. <a href=\"http://www.last.fm/music/Drake/_/Family+Matters\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

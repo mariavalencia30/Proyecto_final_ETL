@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "World Hold On - FISHER Rework",
+    "url": "https://www.last.fm/music/Bob+Sinclar/_/World+Hold+On+-+FISHER+Rework",
+    "duration": "178000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "159697",
+    "playcount": "1048083",
+    "artist": {
+      "name": "Bob Sinclar",
+      "mbid": "f9ab44f1-7b19-4ecb-830c-403abcf36cd1",
+      "url": "https://www.last.fm/music/Bob+Sinclar"
+    },
+    "album": {
+      "artist": "Bob Sinclar",
+      "title": "World Hold On (FISHER Rework)",
+      "url": "https://www.last.fm/music/Bob+Sinclar/World+Hold+On+(FISHER+Rework)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c8b891c8fa5004285a2befe145986634.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c8b891c8fa5004285a2befe145986634.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c8b891c8fa5004285a2befe145986634.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c8b891c8fa5004285a2befe145986634.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Paradise (feat. Dermot Kennedy)",
+    "mbid": "183bc889-fc06-437d-bf60-40bc8aaf8389",
+    "url": "https://www.last.fm/music/Meduza/_/Paradise+(feat.+Dermot+Kennedy)",
+    "duration": "168000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "190571",
+    "playcount": "1252087",
+    "artist": {
+      "name": "Meduza",
+      "mbid": "64614ee1-9add-4f2f-b970-5205b09ae218",
+      "url": "https://www.last.fm/music/Meduza"
+    },
+    "album": {
+      "artist": "Dermot Kennedy",
+      "title": "History",
+      "url": "https://www.last.fm/music/Dermot+Kennedy/History",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2e9d77afaaf6334d00bd23262a4a33ba.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2e9d77afaaf6334d00bd23262a4a33ba.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2e9d77afaaf6334d00bd23262a4a33ba.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2e9d77afaaf6334d00bd23262a4a33ba.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

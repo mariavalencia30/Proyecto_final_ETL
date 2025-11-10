@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Chanel",
+    "url": "https://www.last.fm/music/Becky+G/_/Chanel",
+    "duration": "201000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "77148",
+    "playcount": "673106",
+    "artist": {
+      "name": "Becky G",
+      "url": "https://www.last.fm/music/Becky+G"
+    },
+    "album": {
+      "artist": "Becky G",
+      "title": "Chanel",
+      "url": "https://www.last.fm/music/Becky+G/Chanel",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f500cb9510a6a7d68de7fed90a77f363.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f500cb9510a6a7d68de7fed90a77f363.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f500cb9510a6a7d68de7fed90a77f363.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f500cb9510a6a7d68de7fed90a77f363.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

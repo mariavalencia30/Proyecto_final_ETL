@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Savage Love (Laxed - Siren Beat)",
+    "url": "https://www.last.fm/music/Jawsh+685/_/Savage+Love+(Laxed+-+Siren+Beat)",
+    "duration": "171000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "298986",
+    "playcount": "2083367",
+    "artist": {
+      "name": "Jawsh 685",
+      "mbid": "b49817f8-3343-4639-9461-386fb951fa4b",
+      "url": "https://www.last.fm/music/Jawsh+685"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Now That's What I Call Music Vol. 83",
+      "url": "https://www.last.fm/music/Various+Artists/Now+That%27s+What+I+Call+Music+Vol.+83",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6406a634db64c91b49dff04b1b83ebbf.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6406a634db64c91b49dff04b1b83ebbf.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6406a634db64c91b49dff04b1b83ebbf.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6406a634db64c91b49dff04b1b83ebbf.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

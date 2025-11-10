@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Wife",
+    "mbid": "1067a4c8-a4c8-4914-94fb-f4fe0d472f78",
+    "url": "https://www.last.fm/music/(G)I-DLE/_/Wife",
+    "duration": "121000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "227510",
+    "playcount": "3653672",
+    "artist": {
+      "name": "(G)I-DLE",
+      "url": "https://www.last.fm/music/(G)I-DLE"
+    },
+    "album": {
+      "artist": "(G)I-DLE",
+      "title": "[2]",
+      "url": "https://www.last.fm/music/(G)I-DLE/%5B2%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ac452d52a92a02adfcde4472d1a2c09b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ac452d52a92a02adfcde4472d1a2c09b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ac452d52a92a02adfcde4472d1a2c09b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ac452d52a92a02adfcde4472d1a2c09b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

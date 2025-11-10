@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Cry",
+    "url": "https://www.last.fm/music/Benson+Boone/_/Cry",
+    "duration": "186000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "210828",
+    "playcount": "1581358",
+    "artist": {
+      "name": "Benson Boone",
+      "mbid": "62b914a7-d775-4bb4-bb5e-d46e7df115b5",
+      "url": "https://www.last.fm/music/Benson+Boone"
+    },
+    "album": {
+      "artist": "Benson Boone",
+      "title": "Fireworks & Rollerblades",
+      "url": "https://www.last.fm/music/Benson+Boone/Fireworks+&+Rollerblades",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/543513879cff3506d3f22f8abbfcd3a1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/543513879cff3506d3f22f8abbfcd3a1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/543513879cff3506d3f22f8abbfcd3a1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/543513879cff3506d3f22f8abbfcd3a1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

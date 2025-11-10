@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Dance the Night",
+    "mbid": "33cb99cc-ff23-4e84-95c1-60b617827cb1",
+    "url": "https://www.last.fm/music/Dua+Lipa/_/Dance+the+Night",
+    "duration": "176000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "350557",
+    "playcount": "2754641",
+    "artist": {
+      "name": "Dua Lipa",
+      "mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+      "url": "https://www.last.fm/music/Dua+Lipa"
+    },
+    "album": {
+      "artist": "Dua Lipa",
+      "title": "Dance The Night",
+      "url": "https://www.last.fm/music/Dua+Lipa/Dance+The+Night",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8adb3fbb91bee47204d65a43c370d35b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8adb3fbb91bee47204d65a43c370d35b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8adb3fbb91bee47204d65a43c370d35b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8adb3fbb91bee47204d65a43c370d35b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "26 May 2023, 05:25",
+      "summary": "\"Dance the Night\" is a song by English and Albanian singer Dua Lipa, released on 25 May 2023 by Atlantic Records as the lead single from Barbie: The Album, the soundtrack album from the film Barbie (2023). It is a disco song that features cello, violin, viola, strings, and bass in its instrumentation, \"Dance the Night\" is about dancing throughout the night despite enduring sadness. Its music video, which features a cameo from Greta Gerwig, was released alongside it. <a href=\"http://www.last.fm/music/Dua+Lipa/_/Dance+the+Night\">Read more on Last.fm</a>.",
+      "content": "\"Dance the Night\" is a song by English and Albanian singer Dua Lipa, released on 25 May 2023 by Atlantic Records as the lead single from Barbie: The Album, the soundtrack album from the film Barbie (2023). It is a disco song that features cello, violin, viola, strings, and bass in its instrumentation, \"Dance the Night\" is about dancing throughout the night despite enduring sadness. Its music video, which features a cameo from Greta Gerwig, was released alongside it. Commercially, the track was a huge international success, reaching the top 10 in eight countries. <a href=\"http://www.last.fm/music/Dua+Lipa/_/Dance+the+Night\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

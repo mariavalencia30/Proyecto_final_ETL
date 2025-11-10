@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Asiwaju",
+    "mbid": "ca192d10-aa96-4e89-ae88-d9c45093c7ac",
+    "url": "https://www.last.fm/music/Ruger/_/Asiwaju",
+    "duration": "216000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "64456",
+    "playcount": "539983",
+    "artist": {
+      "name": "Ruger",
+      "mbid": "d283ff34-7b3b-4a3f-b687-318e6282432c",
+      "url": "https://www.last.fm/music/Ruger"
+    },
+    "album": {
+      "artist": "Ruger",
+      "title": "Asiwaju",
+      "url": "https://www.last.fm/music/Ruger/Asiwaju",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8912094a47f89e5240c5065b7bf498b5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8912094a47f89e5240c5065b7bf498b5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8912094a47f89e5240c5065b7bf498b5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8912094a47f89e5240c5065b7bf498b5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "13 Dec 2023, 11:30",
+      "summary": "\"Champion\" <a href=\"http://www.last.fm/music/Ruger/_/Asiwaju\">Read more on Last.fm</a>.",
+      "content": "\"Champion\" <a href=\"http://www.last.fm/music/Ruger/_/Asiwaju\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

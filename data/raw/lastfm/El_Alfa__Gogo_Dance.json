@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Gogo Dance",
+    "url": "https://www.last.fm/music/El+Alfa/_/Gogo+Dance",
+    "duration": "173000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "107284",
+    "playcount": "636078",
+    "artist": {
+      "name": "El Alfa",
+      "mbid": "0887484d-aed1-4aa6-9862-930a25815696",
+      "url": "https://www.last.fm/music/El+Alfa"
+    },
+    "album": {
+      "artist": "El Alfa",
+      "title": "Sabiduria",
+      "url": "https://www.last.fm/music/El+Alfa/Sabiduria",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4f9df0fa6b426d0c91487b43a0eb166a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4f9df0fa6b426d0c91487b43a0eb166a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4f9df0fa6b426d0c91487b43a0eb166a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4f9df0fa6b426d0c91487b43a0eb166a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

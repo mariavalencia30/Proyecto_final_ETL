@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Cynical",
+    "url": "https://www.last.fm/music/twocolors/_/Cynical",
+    "duration": "191000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "81849",
+    "playcount": "513060",
+    "artist": {
+      "name": "twocolors",
+      "mbid": "69f3c930-4e8b-4798-9b36-08bd8ffa930c",
+      "url": "https://www.last.fm/music/twocolors"
+    },
+    "album": {
+      "artist": "twocolors",
+      "title": "Cynical",
+      "url": "https://www.last.fm/music/twocolors/Cynical",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9637a304649f8634794fef4863c61658.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9637a304649f8634794fef4863c61658.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9637a304649f8634794fef4863c61658.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9637a304649f8634794fef4863c61658.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

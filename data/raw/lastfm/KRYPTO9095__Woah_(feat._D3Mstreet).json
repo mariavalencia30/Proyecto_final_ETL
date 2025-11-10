@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Woah (feat. D3Mstreet)",
+    "url": "https://www.last.fm/music/KRYPTO9095/_/Woah+(feat.+D3Mstreet)",
+    "duration": "123000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "40410",
+    "playcount": "202721",
+    "artist": {
+      "name": "KRYPTO9095",
+      "mbid": "5337f73f-c279-4883-9d2e-9cf6f7ed6fc0",
+      "url": "https://www.last.fm/music/KRYPTO9095"
+    },
+    "album": {
+      "artist": "KRYPTO9095",
+      "title": "Woah (feat. D3Mstreet) - Single",
+      "url": "https://www.last.fm/music/KRYPTO9095/Woah+(feat.+D3Mstreet)+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7cdb7d2ab61b37f8b4bef57a64c9e192.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7cdb7d2ab61b37f8b4bef57a64c9e192.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7cdb7d2ab61b37f8b4bef57a64c9e192.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7cdb7d2ab61b37f8b4bef57a64c9e192.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

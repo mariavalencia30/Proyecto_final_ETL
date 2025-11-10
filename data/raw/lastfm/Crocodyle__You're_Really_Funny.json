@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "You're Really Funny",
+    "url": "https://www.last.fm/music/crocodyle/_/You%27re+Really+Funny",
+    "duration": "217000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "77",
+    "playcount": "138",
+    "artist": {
+      "name": "crocodyle",
+      "url": "https://www.last.fm/music/crocodyle"
+    },
+    "album": {
+      "artist": "crocodyle",
+      "title": "Rly Funny - EP",
+      "url": "https://www.last.fm/music/crocodyle/Rly+Funny+-+EP",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b7f9cf7ee9068e581f3b4f8ee786127e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b7f9cf7ee9068e581f3b4f8ee786127e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b7f9cf7ee9068e581f3b4f8ee786127e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b7f9cf7ee9068e581f3b4f8ee786127e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

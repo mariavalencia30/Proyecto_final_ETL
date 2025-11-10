@@ -1,0 +1,60 @@
+{
+  "track": {
+    "name": "METAMORPHOSIS",
+    "url": "https://www.last.fm/music/InterWorld/_/METAMORPHOSIS",
+    "duration": "142000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "490175",
+    "playcount": "6118330",
+    "artist": {
+      "name": "InterWorld",
+      "url": "https://www.last.fm/music/InterWorld"
+    },
+    "album": {
+      "artist": "InterWorld",
+      "title": "Metamorphosis - Single",
+      "url": "https://www.last.fm/music/InterWorld/Metamorphosis+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b0b0f5d567a6a7e1c9a9bcd23e172b63.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b0b0f5d567a6a7e1c9a9bcd23e172b63.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b0b0f5d567a6a7e1c9a9bcd23e172b63.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b0b0f5d567a6a7e1c9a9bcd23e172b63.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "mid",
+          "url": "https://www.last.fm/tag/mid"
+        },
+        {
+          "name": "phonk",
+          "url": "https://www.last.fm/tag/phonk"
+        },
+        {
+          "name": "drift phonk",
+          "url": "https://www.last.fm/tag/drift+phonk"
+        },
+        {
+          "name": "tiktok",
+          "url": "https://www.last.fm/tag/tiktok"
+        }
+      ]
+    }
+  }
+}

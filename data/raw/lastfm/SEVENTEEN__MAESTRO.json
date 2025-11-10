@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "MAESTRO",
+    "mbid": "0a3eea9b-bbb0-4e78-8f27-6f5394d218a4",
+    "url": "https://www.last.fm/music/Seventeen/_/MAESTRO",
+    "duration": "198000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "158383",
+    "playcount": "3854618",
+    "artist": {
+      "name": "Seventeen",
+      "mbid": "61741918-09b4-453c-adc0-d4ad9b5c4b44",
+      "url": "https://www.last.fm/music/Seventeen"
+    },
+    "album": {
+      "artist": "Seventeen",
+      "title": "17 IS RIGHT HERE",
+      "url": "https://www.last.fm/music/Seventeen/17+IS+RIGHT+HERE",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c4414c10ad3cdb51e691db7d5fa30f56.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c4414c10ad3cdb51e691db7d5fa30f56.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c4414c10ad3cdb51e691db7d5fa30f56.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c4414c10ad3cdb51e691db7d5fa30f56.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "21 May 2024, 21:22",
+      "summary": "\"Maestro\" (stylized \"MAESTRO\") is a song recorded by South Korean boy band SEVENTEEN. It was released on April 29, 2024, as the lead single from the compilation album SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'. It debuted at number one on the Circle Digital Chart. <a href=\"http://www.last.fm/music/Seventeen/_/MAESTRO\">Read more on Last.fm</a>.",
+      "content": "\"Maestro\" (stylized \"MAESTRO\") is a song recorded by South Korean boy band SEVENTEEN. It was released on April 29, 2024, as the lead single from the compilation album SEVENTEEN BEST ALBUM '17 IS RIGHT HERE'. It debuted at number one on the Circle Digital Chart. <a href=\"http://www.last.fm/music/Seventeen/_/MAESTRO\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

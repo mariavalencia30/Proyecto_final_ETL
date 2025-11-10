@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "I Don't Care (with Justin Bieber)",
+    "mbid": "09fe14ca-7734-4fa0-9365-8159d236d7af",
+    "url": "https://www.last.fm/music/Ed+Sheeran/_/I+Don%27t+Care+(with+Justin+Bieber)",
+    "duration": "219000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "476487",
+    "playcount": "3660968",
+    "artist": {
+      "name": "Ed Sheeran",
+      "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+      "url": "https://www.last.fm/music/Ed+Sheeran"
+    },
+    "album": {
+      "artist": "Ed Sheeran & Justin Bieber",
+      "title": "I Don’t Care",
+      "url": "https://www.last.fm/music/Ed+Sheeran+&+Justin+Bieber/I+Don%E2%80%99t+Care",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b0c93f81d8c987aa4a80936838e176b2.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b0c93f81d8c987aa4a80936838e176b2.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b0c93f81d8c987aa4a80936838e176b2.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b0c93f81d8c987aa4a80936838e176b2.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "11 May 2019, 07:49",
+      "summary": "“I Don’t Care” is an upbeat collaboration between pop stars Ed Sheeran and Justin Bieber.\n\nBoth singers use this track to describe being at a party, but wanting to leave due to feeling lonely or having social anxiety. That special someone by their side saves the day and makes them feel less alone in the end.\n\nThe duo had previously worked together on Purpose single, “Love Yourself” and “Cold Water.” <a href=\"http://www.last.fm/music/Ed+Sheeran/_/I+Don%27t+Care+(with+Justin+Bieber)\">Read more on Last.fm</a>.",
+      "content": "“I Don’t Care” is an upbeat collaboration between pop stars Ed Sheeran and Justin Bieber.\n\nBoth singers use this track to describe being at a party, but wanting to leave due to feeling lonely or having social anxiety. That special someone by their side saves the day and makes them feel less alone in the end.\n\nThe duo had previously worked together on Purpose single, “Love Yourself” and “Cold Water.” <a href=\"http://www.last.fm/music/Ed+Sheeran/_/I+Don%27t+Care+(with+Justin+Bieber)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

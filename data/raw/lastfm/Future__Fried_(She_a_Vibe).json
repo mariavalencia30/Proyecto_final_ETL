@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Fried (She a Vibe)",
+    "url": "https://www.last.fm/music/Future/_/Fried+(She+a+Vibe)",
+    "duration": "210000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "282575",
+    "playcount": "2328397",
+    "artist": {
+      "name": "Future",
+      "mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+      "url": "https://www.last.fm/music/Future"
+    },
+    "album": {
+      "artist": "Future",
+      "title": "WE DON'T TRUST YOU",
+      "url": "https://www.last.fm/music/Future/WE+DON%27T+TRUST+YOU",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ed0b0acbc5af9cabb31acbf3ba9e79bb.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ed0b0acbc5af9cabb31acbf3ba9e79bb.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ed0b0acbc5af9cabb31acbf3ba9e79bb.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ed0b0acbc5af9cabb31acbf3ba9e79bb.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

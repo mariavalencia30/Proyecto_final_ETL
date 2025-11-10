@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Cough",
+    "url": "https://www.last.fm/music/Kizz+Daniel/_/Cough",
+    "duration": "177000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "5045",
+    "playcount": "22533",
+    "artist": {
+      "name": "Kizz Daniel",
+      "mbid": "c203e6dc-3f1e-4783-afc3-d0274b0e23ee",
+      "url": "https://www.last.fm/music/Kizz+Daniel"
+    },
+    "album": {
+      "artist": "Kizz Daniel",
+      "title": "Cough",
+      "url": "https://www.last.fm/music/Kizz+Daniel/Cough",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4761279dae0ca1ff13651c9f02e764e1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4761279dae0ca1ff13651c9f02e764e1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4761279dae0ca1ff13651c9f02e764e1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4761279dae0ca1ff13651c9f02e764e1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

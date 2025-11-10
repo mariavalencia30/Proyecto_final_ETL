@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Piel",
+    "url": "https://www.last.fm/music/Tiago+PZK/_/Piel",
+    "duration": "142000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "54299",
+    "playcount": "466373",
+    "artist": {
+      "name": "Tiago PZK",
+      "url": "https://www.last.fm/music/Tiago+PZK"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "what's hot?",
+      "url": "https://www.last.fm/music/Various+Artists/what%27s+hot%3F",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3224510238f1b3e0ea5e3fbe92ced9c0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3224510238f1b3e0ea5e3fbe92ced9c0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3224510238f1b3e0ea5e3fbe92ced9c0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3224510238f1b3e0ea5e3fbe92ced9c0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

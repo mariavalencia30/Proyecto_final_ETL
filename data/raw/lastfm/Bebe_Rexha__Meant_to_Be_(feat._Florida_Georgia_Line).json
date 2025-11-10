@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Meant to Be (feat. Florida Georgia Line)",
+    "mbid": "53c1376c-86e9-4a90-8403-88d163ab2a82",
+    "url": "https://www.last.fm/music/Bebe+Rexha/_/Meant+to+Be+(feat.+Florida+Georgia+Line)",
+    "duration": "164000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "425907",
+    "playcount": "3466268",
+    "artist": {
+      "name": "Bebe Rexha",
+      "mbid": "db8fad3a-e131-47a1-8782-c2ee93708cdd",
+      "url": "https://www.last.fm/music/Bebe+Rexha"
+    },
+    "album": {
+      "artist": "Bebe Rexha",
+      "title": "All Your Fault: Pt. 2",
+      "url": "https://www.last.fm/music/Bebe+Rexha/All+Your+Fault:+Pt.+2",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3cbc8979398e324e25d69ed03f727b50.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3cbc8979398e324e25d69ed03f727b50.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3cbc8979398e324e25d69ed03f727b50.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3cbc8979398e324e25d69ed03f727b50.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

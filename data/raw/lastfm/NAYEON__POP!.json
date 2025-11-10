@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "POP!",
+    "mbid": "89ac7339-b145-4628-94e3-25b57114404c",
+    "url": "https://www.last.fm/music/NAYEON/_/POP%21",
+    "duration": "168000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "593450",
+    "playcount": "12119735",
+    "artist": {
+      "name": "NAYEON",
+      "mbid": "e107bde8-78f0-4646-8925-68007a15880e",
+      "url": "https://www.last.fm/music/NAYEON"
+    },
+    "album": {
+      "artist": "NAYEON",
+      "title": "IM NAYEON",
+      "url": "https://www.last.fm/music/NAYEON/IM+NAYEON",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d842bea788c1c3fca32b00a4c3557b10.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d842bea788c1c3fca32b00a4c3557b10.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d842bea788c1c3fca32b00a4c3557b10.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d842bea788c1c3fca32b00a4c3557b10.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "k-pop",
+          "url": "https://www.last.fm/tag/k-pop"
+        },
+        {
+          "name": "pop pop pop",
+          "url": "https://www.last.fm/tag/pop+pop+pop"
+        },
+        {
+          "name": "vocal",
+          "url": "https://www.last.fm/tag/vocal"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "Queen",
+          "url": "https://www.last.fm/tag/Queen"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "05 Nov 2022, 21:02",
+      "summary": "Following the South Korean girl group TWICE’s third full-length studio album Formula of Love: O+T=˂3 in November 2021 and their sold-out North American tour in early 2022, the group’s center NAYEON returns with the bubbly “POP!”. The song marks the first solo release from any member of TWICE and is the leading single from NAYEON’s debut solo EP IM NAYEON.\n\nCo-written by several frequent collaborators of TWICE, “POP!” expresses affection and exhilaration of love <a href=\"http://www.last.fm/music/NAYEON/_/POP%21\">Read more on Last.fm</a>.",
+      "content": "Following the South Korean girl group TWICE’s third full-length studio album Formula of Love: O+T=˂3 in November 2021 and their sold-out North American tour in early 2022, the group’s center NAYEON returns with the bubbly “POP!”. The song marks the first solo release from any member of TWICE and is the leading single from NAYEON’s debut solo EP IM NAYEON.\n\nCo-written by several frequent collaborators of TWICE, “POP!” expresses affection and exhilaration of love, continuing to explore some of the familiar themes in TWICE’s discography. The summery music video of the song is accompanied by imageries including balloons, bubbles, and lollipops, showcasing the vibrant choreography and colorful sets.\n\nInterestingly, as fans noticed, although the apostrophe is not included in the EP title, it is highlighted in the music video as NAYEON throws her jacket and also points between the letters “I” and “M”: <a href=\"http://www.last.fm/music/NAYEON/_/POP%21\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

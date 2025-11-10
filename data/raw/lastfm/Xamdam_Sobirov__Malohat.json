@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Malohat",
+    "url": "https://www.last.fm/music/Xamdam+Sobirov/_/Malohat",
+    "duration": "213000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "167",
+    "playcount": "1579",
+    "artist": {
+      "name": "Xamdam Sobirov",
+      "mbid": "f6264595-47ce-43c8-9c13-7c2147812033",
+      "url": "https://www.last.fm/music/Xamdam+Sobirov"
+    },
+    "album": {
+      "artist": "Xamdam Sobirov",
+      "title": "Malohat",
+      "url": "https://www.last.fm/music/Xamdam+Sobirov/Malohat",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/77bb0756010f7f0ca4155ff80a1d38b8.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/77bb0756010f7f0ca4155ff80a1d38b8.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/77bb0756010f7f0ca4155ff80a1d38b8.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/77bb0756010f7f0ca4155ff80a1d38b8.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

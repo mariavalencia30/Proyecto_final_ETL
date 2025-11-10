@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Loco Contigo (feat. J. Balvin & Tyga)",
+    "mbid": "a14f8a83-83a3-4224-901d-b52d8c9c5d68",
+    "url": "https://www.last.fm/music/DJ+Snake/_/Loco+Contigo+(feat.+J.+Balvin+&+Tyga)",
+    "duration": "185000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "253432",
+    "playcount": "1584513",
+    "artist": {
+      "name": "DJ Snake",
+      "mbid": "aa114151-4a17-42b0-8e20-37b434627479",
+      "url": "https://www.last.fm/music/DJ+Snake"
+    },
+    "album": {
+      "artist": "DJ Snake, J. Balvin & Tyga",
+      "title": "Loco Contigo (feat. J. Balvin & Tyga)",
+      "url": "https://www.last.fm/music/DJ+Snake,+J.+Balvin+&+Tyga/Loco+Contigo+(feat.+J.+Balvin+&+Tyga)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6dbe6f634d302ab6096b525442ef1e49.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6dbe6f634d302ab6096b525442ef1e49.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6dbe6f634d302ab6096b525442ef1e49.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6dbe6f634d302ab6096b525442ef1e49.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

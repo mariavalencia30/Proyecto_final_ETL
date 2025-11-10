@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "One Call Away",
+    "mbid": "7d3f2fe8-690a-4618-8cff-71a0a307cb42",
+    "url": "https://www.last.fm/music/Charlie+Puth/_/One+Call+Away",
+    "duration": "194000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "408617",
+    "playcount": "2522328",
+    "artist": {
+      "name": "Charlie Puth",
+      "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+      "url": "https://www.last.fm/music/Charlie+Puth"
+    },
+    "album": {
+      "artist": "Charlie Puth",
+      "title": "Nine Track Mind",
+      "url": "https://www.last.fm/music/Charlie+Puth/Nine+Track+Mind",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/003a0fc6117294c106ec986514fec8ce.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/003a0fc6117294c106ec986514fec8ce.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/003a0fc6117294c106ec986514fec8ce.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/003a0fc6117294c106ec986514fec8ce.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "24 May 2024, 17:51",
+      "summary": "Charlie Puth embraces the ability to call his beloved in “One Call Away”, the lead single of his debut album, Nine Track Mind. (Songs from his EP Some Type Of Love were included on the album as well.)\n\nStructurally, it’s a light ballad, featuring no synth production of any kind. MTV called it an instantly catchy tune. <a href=\"http://www.last.fm/music/Charlie+Puth/_/One+Call+Away\">Read more on Last.fm</a>.",
+      "content": "Charlie Puth embraces the ability to call his beloved in “One Call Away”, the lead single of his debut album, Nine Track Mind. (Songs from his EP Some Type Of Love were included on the album as well.)\n\nStructurally, it’s a light ballad, featuring no synth production of any kind. MTV called it an instantly catchy tune. <a href=\"http://www.last.fm/music/Charlie+Puth/_/One+Call+Away\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

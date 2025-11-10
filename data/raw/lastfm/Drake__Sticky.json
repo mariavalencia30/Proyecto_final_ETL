@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Sticky",
+    "mbid": "a21e7747-6c00-41e7-9103-df9b31647c75",
+    "url": "https://www.last.fm/music/Drake/_/Sticky",
+    "duration": "240000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "436078",
+    "playcount": "5225419",
+    "artist": {
+      "name": "Drake",
+      "mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+      "url": "https://www.last.fm/music/Drake"
+    },
+    "album": {
+      "artist": "Drake",
+      "title": "Honestly, Nevermind",
+      "url": "https://www.last.fm/music/Drake/Honestly,+Nevermind",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/4b3dd886c386b3a667a6993128485c07.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/4b3dd886c386b3a667a6993128485c07.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/4b3dd886c386b3a667a6993128485c07.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/4b3dd886c386b3a667a6993128485c07.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "jersey club",
+          "url": "https://www.last.fm/tag/jersey+club"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "Drake",
+          "url": "https://www.last.fm/tag/Drake"
+        },
+        {
+          "name": "hip house",
+          "url": "https://www.last.fm/tag/hip+house"
+        },
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "18 Jun 2022, 19:05",
+      "summary": "On “Sticky,” Drake details the “sticky” situations he finds himself in, hence why he surrounds himself with dangerous individuals.\n\nThroughout the track, Drizzy discusses a variety of topics, ranging from his mother’s views on his career choices, his relationship with women, luxury jewelry purchases, Young Thug’s incarceration, and the late Virgil Abloh, the latter of which is sampled on the song’s outro. <a href=\"http://www.last.fm/music/Drake/_/Sticky\">Read more on Last.fm</a>.",
+      "content": "On “Sticky,” Drake details the “sticky” situations he finds himself in, hence why he surrounds himself with dangerous individuals.\n\nThroughout the track, Drizzy discusses a variety of topics, ranging from his mother’s views on his career choices, his relationship with women, luxury jewelry purchases, Young Thug’s incarceration, and the late Virgil Abloh, the latter of which is sampled on the song’s outro. <a href=\"http://www.last.fm/music/Drake/_/Sticky\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

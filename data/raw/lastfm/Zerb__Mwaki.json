@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Mwaki",
+    "mbid": "4e3f3c51-36ca-48ef-b540-3a518b9138af",
+    "url": "https://www.last.fm/music/zerb/_/Mwaki",
+    "duration": "208000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "149937",
+    "playcount": "884202",
+    "artist": {
+      "name": "zerb",
+      "url": "https://www.last.fm/music/zerb"
+    },
+    "album": {
+      "artist": "zerb",
+      "title": "Surrender - EP",
+      "url": "https://www.last.fm/music/zerb/Surrender+-+EP",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dabb8345d91be02902c0e1e1f2fc7d4e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dabb8345d91be02902c0e1e1f2fc7d4e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dabb8345d91be02902c0e1e1f2fc7d4e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dabb8345d91be02902c0e1e1f2fc7d4e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

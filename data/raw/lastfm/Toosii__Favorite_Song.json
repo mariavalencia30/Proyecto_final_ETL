@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Favorite Song",
+    "mbid": "a2a4a86a-a9ea-49c0-a53d-192229b50508",
+    "url": "https://www.last.fm/music/Toosii/_/Favorite+Song",
+    "duration": "209000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "123485",
+    "playcount": "1081363",
+    "artist": {
+      "name": "Toosii",
+      "mbid": "87d59d19-2615-4ada-853f-d552bf3b56e5",
+      "url": "https://www.last.fm/music/Toosii"
+    },
+    "album": {
+      "artist": "Toosii",
+      "title": "Favorite Song - Single",
+      "url": "https://www.last.fm/music/Toosii/Favorite+Song+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5dc26dd2b0341058c540e61b4f2c70b7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5dc26dd2b0341058c540e61b4f2c70b7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5dc26dd2b0341058c540e61b4f2c70b7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5dc26dd2b0341058c540e61b4f2c70b7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

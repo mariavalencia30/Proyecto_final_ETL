@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Iko Iko (My Bestie)",
+    "mbid": "e5f53ac4-04b9-4399-b32b-551ab07db90e",
+    "url": "https://www.last.fm/music/Justin+Wellington/_/Iko+Iko+(My+Bestie)",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "87127",
+    "playcount": "493205",
+    "artist": {
+      "name": "Justin Wellington",
+      "mbid": "af0a5691-1af2-4e76-bb58-004a3756bdf7",
+      "url": "https://www.last.fm/music/Justin+Wellington"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "NRJ party hits 2021",
+      "url": "https://www.last.fm/music/Various+Artists/NRJ+party+hits+2021",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8ca39e5f3fa95b306f0dd6640fa8dc9c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8ca39e5f3fa95b306f0dd6640fa8dc9c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8ca39e5f3fa95b306f0dd6640fa8dc9c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ca39e5f3fa95b306f0dd6640fa8dc9c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

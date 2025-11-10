@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Love Me JeJe",
+    "mbid": "b99c05a6-dea5-454b-b439-a07cd6543735",
+    "url": "https://www.last.fm/music/Tems/_/Love+Me+JeJe",
+    "duration": "178000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "169807",
+    "playcount": "1117823",
+    "artist": {
+      "name": "Tems",
+      "mbid": "5b2a8faa-ffee-4706-a1a8-58f109bc8ca2",
+      "url": "https://www.last.fm/music/Tems"
+    },
+    "album": {
+      "artist": "Tems",
+      "title": "Love Me Jeje",
+      "url": "https://www.last.fm/music/Tems/Love+Me+Jeje",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1ec9ba0a1eaba582db8b2807ad8fa74a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1ec9ba0a1eaba582db8b2807ad8fa74a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1ec9ba0a1eaba582db8b2807ad8fa74a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1ec9ba0a1eaba582db8b2807ad8fa74a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

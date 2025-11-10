@@ -1,0 +1,20 @@
+{
+  "track": {
+    "name": "Bad idea",
+    "url": "https://www.last.fm/music/kurochuu/_/Bad+idea",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "73",
+    "playcount": "260",
+    "artist": {
+      "name": "kurochuu",
+      "url": "https://www.last.fm/music/kurochuu"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

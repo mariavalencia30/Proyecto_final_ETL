@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "L$d",
+    "mbid": "28cee2eb-b801-4564-a304-94e6e78ccc36",
+    "url": "https://www.last.fm/music/Luclover/_/L$d",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "47899",
+    "playcount": "346924",
+    "artist": {
+      "name": "Luclover",
+      "mbid": "69a9db9d-23bd-4b93-8e64-2956b9922309",
+      "url": "https://www.last.fm/music/Luclover"
+    },
+    "album": {
+      "artist": "Luclover",
+      "title": "Deaf 2 Society",
+      "url": "https://www.last.fm/music/Luclover/Deaf+2+Society",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/64a95377dc34ce046178dfeca8d1f2cf.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/64a95377dc34ce046178dfeca8d1f2cf.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/64a95377dc34ce046178dfeca8d1f2cf.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/64a95377dc34ce046178dfeca8d1f2cf.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

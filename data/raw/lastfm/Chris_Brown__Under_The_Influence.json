@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Under the Influence",
+    "mbid": "92cd3a7e-d69b-45d8-97d8-f058c461c23d",
+    "url": "https://www.last.fm/music/Chris+Brown/_/Under+the+Influence",
+    "duration": "184000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "741105",
+    "playcount": "8474703",
+    "artist": {
+      "name": "Chris Brown",
+      "mbid": "c234fa42-e6a6-443e-937e-2f4b073538a3",
+      "url": "https://www.last.fm/music/Chris+Brown"
+    },
+    "album": {
+      "artist": "Chris Brown",
+      "title": "Indigo (Extended)",
+      "url": "https://www.last.fm/music/Chris+Brown/Indigo+(Extended)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/ad53a2b1eedf5d63c4fbc9bf3dd05a02.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/ad53a2b1eedf5d63c4fbc9bf3dd05a02.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/ad53a2b1eedf5d63c4fbc9bf3dd05a02.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/ad53a2b1eedf5d63c4fbc9bf3dd05a02.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "a vocal-centric aesthetic",
+          "url": "https://www.last.fm/tag/a+vocal-centric+aesthetic"
+        },
+        {
+          "name": "minor key tonality",
+          "url": "https://www.last.fm/tag/minor+key+tonality"
+        },
+        {
+          "name": "a subtle use of vocal harmony",
+          "url": "https://www.last.fm/tag/a+subtle+use+of+vocal+harmony"
+        },
+        {
+          "name": "synthetic sonority",
+          "url": "https://www.last.fm/tag/synthetic+sonority"
+        },
+        {
+          "name": "extensive vamping",
+          "url": "https://www.last.fm/tag/extensive+vamping"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "01 Oct 2022, 17:44",
+      "summary": "Over chilled production, “Under the Influence” finds Chris “under the influence” of Robitussin cough syrup and the impression of his lover as he croons for her to come over to his place for the night.\n\n“Under the Influence” marks Nigerian producer Kiddominant’s second production credit on Indigo (Extended), also penning the Davido-assisted “Lower Body.” <a href=\"http://www.last.fm/music/Chris+Brown/_/Under+the+Influence\">Read more on Last.fm</a>.",
+      "content": "Over chilled production, “Under the Influence” finds Chris “under the influence” of Robitussin cough syrup and the impression of his lover as he croons for her to come over to his place for the night.\n\n“Under the Influence” marks Nigerian producer Kiddominant’s second production credit on Indigo (Extended), also penning the Davido-assisted “Lower Body.” <a href=\"http://www.last.fm/music/Chris+Brown/_/Under+the+Influence\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

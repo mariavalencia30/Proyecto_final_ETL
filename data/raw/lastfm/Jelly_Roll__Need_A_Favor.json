@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Need a Favor",
+    "url": "https://www.last.fm/music/Jelly+Roll/_/Need+a+Favor",
+    "duration": "194000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "95685",
+    "playcount": "643255",
+    "artist": {
+      "name": "Jelly Roll",
+      "mbid": "ab5a7a60-1b71-4e5b-b622-e0ae2ce84c32",
+      "url": "https://www.last.fm/music/Jelly+Roll"
+    },
+    "album": {
+      "artist": "Jelly Roll",
+      "title": "Need a Favor",
+      "url": "https://www.last.fm/music/Jelly+Roll/Need+a+Favor",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8ae1bc53c32c20be97941614c0b3da23.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8ae1bc53c32c20be97941614c0b3da23.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8ae1bc53c32c20be97941614c0b3da23.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ae1bc53c32c20be97941614c0b3da23.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Fingers Crossed",
+    "mbid": "ec2eb394-9da1-43f2-82d6-c93b1340f0c1",
+    "url": "https://www.last.fm/music/Lauren+Spencer+Smith/_/Fingers+Crossed",
+    "duration": "175000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "182300",
+    "playcount": "1340245",
+    "artist": {
+      "name": "Lauren Spencer Smith",
+      "mbid": "0a727c70-cb97-4e3d-a973-219a0575349c",
+      "url": "https://www.last.fm/music/Lauren+Spencer+Smith"
+    },
+    "album": {
+      "artist": "Lauren Spencer Smith",
+      "title": "Fingers Crossed",
+      "url": "https://www.last.fm/music/Lauren+Spencer+Smith/Fingers+Crossed",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b8c32087ea5b8b2da03da6e89c53be17.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b8c32087ea5b8b2da03da6e89c53be17.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b8c32087ea5b8b2da03da6e89c53be17.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b8c32087ea5b8b2da03da6e89c53be17.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

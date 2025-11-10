@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Papercut",
+    "mbid": "6193b553-c2bf-410d-9bfc-d950681510ea",
+    "url": "https://www.last.fm/music/Linkin+Park/_/Papercut",
+    "duration": "288000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1660372",
+    "playcount": "17855671",
+    "artist": {
+      "name": "Linkin Park",
+      "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+      "url": "https://www.last.fm/music/Linkin+Park"
+    },
+    "album": {
+      "artist": "Linkin Park",
+      "title": "Hybrid Theory",
+      "url": "https://www.last.fm/music/Linkin+Park/Hybrid+Theory",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c21b3923a4d3ff5629996f3f8e178140.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c21b3923a4d3ff5629996f3f8e178140.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c21b3923a4d3ff5629996f3f8e178140.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c21b3923a4d3ff5629996f3f8e178140.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Nu Metal",
+          "url": "https://www.last.fm/tag/Nu+Metal"
+        },
+        {
+          "name": "rock",
+          "url": "https://www.last.fm/tag/rock"
+        },
+        {
+          "name": "alternative rock",
+          "url": "https://www.last.fm/tag/alternative+rock"
+        },
+        {
+          "name": "alternative",
+          "url": "https://www.last.fm/tag/alternative"
+        },
+        {
+          "name": "Linkin Park",
+          "url": "https://www.last.fm/tag/Linkin+Park"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "18 Nov 2023, 23:26",
+      "summary": "\"Papercut\" is a song by American rock band Linkin Park. It was released as the third single from their debut album Hybrid Theory (2000) and appears as the opening track on the record. It combines multiple genres in a way that Chester Bennington said captured the essence of the band. He also said it was one of his favorite Linkin Park tracks. The song reached number 14 on the UK Singles Chart, and was certified Gold by the Recording Industry Association of America. <a href=\"http://www.last.fm/music/Linkin+Park/_/Papercut\">Read more on Last.fm</a>.",
+      "content": "\"Papercut\" is a song by American rock band Linkin Park. It was released as the third single from their debut album Hybrid Theory (2000) and appears as the opening track on the record. It combines multiple genres in a way that Chester Bennington said captured the essence of the band. He also said it was one of his favorite Linkin Park tracks. The song reached number 14 on the UK Singles Chart, and was certified Gold by the Recording Industry Association of America.\n\nBefore his death, Bennington stated multiple times that \"Papercut\" was one of his favorite Linkin Park songs.\n\nThe song has also been released in various forms as remixes. Linkin Park's remix album Reanimation (2002) features a version of \"Papercut\" remixed by Cheapshot and entitled \"Ppr:Kut\". The band's EP collaborating with Jay-Z, Collision Course (2004) features a mash up of the track with Jay-Z's \"Big Pimpin'\". <a href=\"http://www.last.fm/music/Linkin+Park/_/Papercut\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

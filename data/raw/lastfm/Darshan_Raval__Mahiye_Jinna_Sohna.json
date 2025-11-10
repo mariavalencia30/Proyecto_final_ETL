@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Mahiye Jinna Sohna",
+    "url": "https://www.last.fm/music/Darshan+Raval/_/Mahiye+Jinna+Sohna",
+    "duration": "181000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "28946",
+    "playcount": "305606",
+    "artist": {
+      "name": "Darshan Raval",
+      "mbid": "20eb6186-ad4d-42d6-a4aa-0a92c9cedd58",
+      "url": "https://www.last.fm/music/Darshan+Raval"
+    },
+    "album": {
+      "artist": "Darshan Raval",
+      "title": "Mahiye Jinna Sohna",
+      "url": "https://www.last.fm/music/Darshan+Raval/Mahiye+Jinna+Sohna",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/18f431f9c718473864cb9a5f0c6ae339.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/18f431f9c718473864cb9a5f0c6ae339.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/18f431f9c718473864cb9a5f0c6ae339.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/18f431f9c718473864cb9a5f0c6ae339.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

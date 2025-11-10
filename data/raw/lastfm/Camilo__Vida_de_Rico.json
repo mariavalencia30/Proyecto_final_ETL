@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Vida de Rico",
+    "mbid": "8ade0091-c005-4386-8887-525c7d5d37cc",
+    "url": "https://www.last.fm/music/Camilo/_/Vida+de+Rico",
+    "duration": "184000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "51350",
+    "playcount": "306865",
+    "artist": {
+      "name": "Camilo",
+      "mbid": "66287707-f62f-44f1-bc81-63489c8a4e3a",
+      "url": "https://www.last.fm/music/Camilo"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Los Nº1 de Cadena 100 (2021)",
+      "url": "https://www.last.fm/music/Various+Artists/Los+N%C2%BA1+de+Cadena+100+(2021)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a18f14c0ca2bd1fe1cb431842b27b0de.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a18f14c0ca2bd1fe1cb431842b27b0de.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a18f14c0ca2bd1fe1cb431842b27b0de.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a18f14c0ca2bd1fe1cb431842b27b0de.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

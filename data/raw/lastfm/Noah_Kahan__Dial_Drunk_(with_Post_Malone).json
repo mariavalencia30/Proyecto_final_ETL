@@ -1,0 +1,57 @@
+{
+  "track": {
+    "name": "Dial Drunk (with Post Malone)",
+    "url": "https://www.last.fm/music/Noah+Kahan/_/Dial+Drunk+(with+Post+Malone)",
+    "duration": "213000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "390244",
+    "playcount": "4633999",
+    "artist": {
+      "name": "Noah Kahan",
+      "mbid": "a2a3f910-b188-43e7-81d0-f1ac2a2f3e12",
+      "url": "https://www.last.fm/music/Noah+Kahan"
+    },
+    "album": {
+      "artist": "Noah Kahan",
+      "title": "Dial Drunk (with Post Malone)",
+      "url": "https://www.last.fm/music/Noah+Kahan/Dial+Drunk+(with+Post+Malone)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/18d5025852a008d4054ff53044c01936.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/18d5025852a008d4054ff53044c01936.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/18d5025852a008d4054ff53044c01936.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/18d5025852a008d4054ff53044c01936.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "americana",
+          "url": "https://www.last.fm/tag/americana"
+        },
+        {
+          "name": "folk rock",
+          "url": "https://www.last.fm/tag/folk+rock"
+        },
+        {
+          "name": "indie folk",
+          "url": "https://www.last.fm/tag/indie+folk"
+        }
+      ]
+    }
+  }
+}

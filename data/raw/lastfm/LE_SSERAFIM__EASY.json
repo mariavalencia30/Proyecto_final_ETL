@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "EASY",
+    "mbid": "071162ec-2160-4c44-bbaf-4aa00a437824",
+    "url": "https://www.last.fm/music/LE+SSERAFIM/_/EASY",
+    "duration": "164000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "521054",
+    "playcount": "11078975",
+    "artist": {
+      "name": "LE SSERAFIM",
+      "mbid": "1ee37742-1e3d-4e61-84d2-bc85f4c1459a",
+      "url": "https://www.last.fm/music/LE+SSERAFIM"
+    },
+    "album": {
+      "artist": "LE SSERAFIM",
+      "title": "EASY",
+      "url": "https://www.last.fm/music/LE+SSERAFIM/EASY",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0e4cc9281dc52c0957416b3b64fb9d05.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0e4cc9281dc52c0957416b3b64fb9d05.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0e4cc9281dc52c0957416b3b64fb9d05.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0e4cc9281dc52c0957416b3b64fb9d05.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "Kpop",
+          "url": "https://www.last.fm/tag/Kpop"
+        },
+        {
+          "name": "k-pop",
+          "url": "https://www.last.fm/tag/k-pop"
+        },
+        {
+          "name": "easy",
+          "url": "https://www.last.fm/tag/easy"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "28 Feb 2024, 23:18",
+      "summary": "“EASY” is the title track of K-pop girl group LE SSERAFIM’s third mini album of the same name. It follows an unconventional take on the quintet’s music style. Based on a trap genre, it incorporates catchy vocals of an R&B style with an addictive, fluid melody.\n\nThe lyrics deliver a meaning of how nothing is easy. However, they are willing to make everything easy. It continues the team narrative that has been going on since its debut.\n\nBefore its release <a href=\"http://www.last.fm/music/LE+SSERAFIM/_/EASY\">Read more on Last.fm</a>.",
+      "content": "“EASY” is the title track of K-pop girl group LE SSERAFIM’s third mini album of the same name. It follows an unconventional take on the quintet’s music style. Based on a trap genre, it incorporates catchy vocals of an R&B style with an addictive, fluid melody.\n\nThe lyrics deliver a meaning of how nothing is easy. However, they are willing to make everything easy. It continues the team narrative that has been going on since its debut.\n\nBefore its release, KBS had banned its music video from broadcast due to the “risk of imitation” as explained by the company. <a href=\"http://www.last.fm/music/LE+SSERAFIM/_/EASY\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

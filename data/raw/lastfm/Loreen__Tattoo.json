@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Tattoo",
+    "mbid": "8a878f89-5454-46b7-a445-42c4ebc95830",
+    "url": "https://www.last.fm/music/Loreen/_/Tattoo",
+    "duration": "183000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "338439",
+    "playcount": "5695486",
+    "artist": {
+      "name": "Loreen",
+      "mbid": "1e234774-8e37-4378-b01d-b7dd6ced769c",
+      "url": "https://www.last.fm/music/Loreen"
+    },
+    "album": {
+      "artist": "Loreen",
+      "title": "Tattoo",
+      "url": "https://www.last.fm/music/Loreen/Tattoo",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aad0e34e89f8d83b9cb8b93a5e344fac.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aad0e34e89f8d83b9cb8b93a5e344fac.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aad0e34e89f8d83b9cb8b93a5e344fac.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aad0e34e89f8d83b9cb8b93a5e344fac.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Eurovision",
+          "url": "https://www.last.fm/tag/Eurovision"
+        },
+        {
+          "name": "Eurovision 2023",
+          "url": "https://www.last.fm/tag/Eurovision+2023"
+        },
+        {
+          "name": "ESC",
+          "url": "https://www.last.fm/tag/ESC"
+        },
+        {
+          "name": "Eurovision Song Contest",
+          "url": "https://www.last.fm/tag/Eurovision+Song+Contest"
+        },
+        {
+          "name": "eurovision winner",
+          "url": "https://www.last.fm/tag/eurovision+winner"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "12 Mar 2023, 20:03",
+      "summary": "\"Tattoo\" is a song by Swedish singer Loreen, released as a single on 25 February 2023. The song won Melodifestivalen 2023 and represented Sweden in the Eurovision Song Contest 2023, which it went on to win as well. It debuted at number one on the Swedish singles chart and has since gone on to chart in 14 other countries. <a href=\"http://www.last.fm/music/Loreen/_/Tattoo\">Read more on Last.fm</a>.",
+      "content": "\"Tattoo\" is a song by Swedish singer Loreen, released as a single on 25 February 2023. The song won Melodifestivalen 2023 and represented Sweden in the Eurovision Song Contest 2023, which it went on to win as well. It debuted at number one on the Swedish singles chart and has since gone on to chart in 14 other countries. <a href=\"http://www.last.fm/music/Loreen/_/Tattoo\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

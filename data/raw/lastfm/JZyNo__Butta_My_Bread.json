@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Butta My Bread",
+    "url": "https://www.last.fm/music/JZyNO/_/Butta+My+Bread",
+    "duration": "140000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "18103",
+    "playcount": "143590",
+    "artist": {
+      "name": "JZyNO",
+      "url": "https://www.last.fm/music/JZyNO"
+    },
+    "album": {
+      "artist": "JZyNO",
+      "title": "Butta My Bread",
+      "url": "https://www.last.fm/music/JZyNO/Butta+My+Bread",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7155a1a8cf74838733b6ebd1d5b0e692.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7155a1a8cf74838733b6ebd1d5b0e692.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7155a1a8cf74838733b6ebd1d5b0e692.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7155a1a8cf74838733b6ebd1d5b0e692.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

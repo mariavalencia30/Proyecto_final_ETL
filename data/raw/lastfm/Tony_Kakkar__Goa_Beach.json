@@ -1,0 +1,20 @@
+{
+  "track": {
+    "name": "Goa Beach",
+    "url": "https://www.last.fm/music/Tony+Kakkar/_/Goa+Beach",
+    "duration": "218000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3045",
+    "playcount": "11559",
+    "artist": {
+      "name": "Tony Kakkar",
+      "url": "https://www.last.fm/music/Tony+Kakkar"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

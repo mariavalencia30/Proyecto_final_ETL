@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Jale 2 (feat. Vinay Yadav & Neha Shukla)",
+    "url": "https://www.last.fm/music/Shiva+Choudhary/_/Jale+2+(feat.+Vinay+Yadav+&+Neha+Shukla)",
+    "duration": "134000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1",
+    "playcount": "1",
+    "artist": {
+      "name": "Shiva Choudhary",
+      "url": "https://www.last.fm/music/Shiva+Choudhary"
+    },
+    "album": {
+      "artist": "Shiva Choudhary",
+      "title": "Jale 2 (feat. Vinay Yadav & Neha Shukla) - Single",
+      "url": "https://www.last.fm/music/Shiva+Choudhary/Jale+2+(feat.+Vinay+Yadav+&+Neha+Shukla)+-+Single",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

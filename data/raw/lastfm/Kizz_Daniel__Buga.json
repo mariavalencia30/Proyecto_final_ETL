@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Buga",
+    "url": "https://www.last.fm/music/Kizz+Daniel/_/Buga",
+    "duration": "183000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "961",
+    "playcount": "3965",
+    "artist": {
+      "name": "Kizz Daniel",
+      "mbid": "c203e6dc-3f1e-4783-afc3-d0274b0e23ee",
+      "url": "https://www.last.fm/music/Kizz+Daniel"
+    },
+    "album": {
+      "artist": "Kizz Daniel",
+      "title": "Buga",
+      "url": "https://www.last.fm/music/Kizz+Daniel/Buga",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

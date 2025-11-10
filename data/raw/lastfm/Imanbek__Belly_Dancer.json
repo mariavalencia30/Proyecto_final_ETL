@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Belly Dancer",
+    "mbid": "539fb21f-fe85-42d1-9a66-b58270ff94ca",
+    "url": "https://www.last.fm/music/Imanbek/_/Belly+Dancer",
+    "duration": "151000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "250480",
+    "playcount": "1495227",
+    "artist": {
+      "name": "Imanbek",
+      "mbid": "23c723b3-f54f-4634-83dc-b2989d05ae88",
+      "url": "https://www.last.fm/music/Imanbek"
+    },
+    "album": {
+      "artist": "Imanbek",
+      "title": "Belly Dancer",
+      "url": "https://www.last.fm/music/Imanbek/Belly+Dancer",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7da833c82f12b9c039d799392b5e36d6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7da833c82f12b9c039d799392b5e36d6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7da833c82f12b9c039d799392b5e36d6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7da833c82f12b9c039d799392b5e36d6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

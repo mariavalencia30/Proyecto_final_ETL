@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "WHERE SHE GOES",
+    "mbid": "ce4e3184-ee50-4556-b112-b5d8641ea717",
+    "url": "https://www.last.fm/music/Bad+Bunny/_/WHERE+SHE+GOES",
+    "duration": "152000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "368146",
+    "playcount": "4757436",
+    "artist": {
+      "name": "Bad Bunny",
+      "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "url": "https://www.last.fm/music/Bad+Bunny"
+    },
+    "album": {
+      "artist": "Bad Bunny",
+      "title": "WHERE SHE GOES - Single",
+      "url": "https://www.last.fm/music/Bad+Bunny/WHERE+SHE+GOES+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6dea83a7c6a837f2217e3ddf73c0aa64.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6dea83a7c6a837f2217e3ddf73c0aa64.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6dea83a7c6a837f2217e3ddf73c0aa64.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6dea83a7c6a837f2217e3ddf73c0aa64.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "latin",
+          "url": "https://www.last.fm/tag/latin"
+        },
+        {
+          "name": "philly club",
+          "url": "https://www.last.fm/tag/philly+club"
+        },
+        {
+          "name": "jersey club",
+          "url": "https://www.last.fm/tag/jersey+club"
+        },
+        {
+          "name": "chillwave",
+          "url": "https://www.last.fm/tag/chillwave"
+        },
+        {
+          "name": "latin pop",
+          "url": "https://www.last.fm/tag/latin+pop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "23 May 2023, 08:11",
+      "summary": "“WHERE SHE GOES” was revealed on may, 15, 2023, via Bad Bunny’s TikTok and Instagram accounts, where he showed a sneak peek <a href=\"http://www.last.fm/music/Bad+Bunny/_/WHERE+SHE+GOES\">Read more on Last.fm</a>.",
+      "content": "“WHERE SHE GOES” was revealed on may, 15, 2023, via Bad Bunny’s TikTok and Instagram accounts, where he showed a sneak peek <a href=\"http://www.last.fm/music/Bad+Bunny/_/WHERE+SHE+GOES\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

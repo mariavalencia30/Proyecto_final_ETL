@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Chill Vibes",
+    "url": "https://www.last.fm/music/Tollan+Kim/_/Chill+Vibes",
+    "duration": "192000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "3240",
+    "playcount": "16710",
+    "artist": {
+      "name": "Tollan Kim",
+      "url": "https://www.last.fm/music/Tollan+Kim"
+    },
+    "album": {
+      "artist": "Tollan Kim",
+      "title": "Chill Vibes",
+      "url": "https://www.last.fm/music/Tollan+Kim/Chill+Vibes",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

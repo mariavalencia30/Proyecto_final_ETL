@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "That's What I Like",
+    "mbid": "661e19b7-5c69-48af-bee9-9c2110495d45",
+    "url": "https://www.last.fm/music/Bruno+Mars/_/That%27s+What+I+Like",
+    "duration": "206000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1651755",
+    "playcount": "15287549",
+    "artist": {
+      "name": "Bruno Mars",
+      "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+      "url": "https://www.last.fm/music/Bruno+Mars"
+    },
+    "album": {
+      "artist": "Bruno Mars",
+      "title": "24K Magic",
+      "url": "https://www.last.fm/music/Bruno+Mars/24K+Magic",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f18dc30b48412484b34ebff24ba615be.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f18dc30b48412484b34ebff24ba615be.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f18dc30b48412484b34ebff24ba615be.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f18dc30b48412484b34ebff24ba615be.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "funk",
+          "url": "https://www.last.fm/tag/funk"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "new jack swing",
+          "url": "https://www.last.fm/tag/new+jack+swing"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "2016",
+          "url": "https://www.last.fm/tag/2016"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "25 Oct 2017, 01:57",
+      "summary": "\"That's What I Like\" is a song from Bruno Mars' third studio album, 24K Magic. The song was released as the album's second single on January 30, 2017. It is the highest charting single in the United States from Mars' studio album 24K Magic, surpassing the single of the same name by reaching number one on the Billboard Hot 100. \"That's What I Like\" won three Grammys in 2018: Song of the Year, Best R&B Song, and Best R&B Performance. <a href=\"http://www.last.fm/music/Bruno+Mars/_/That%27s+What+I+Like\">Read more on Last.fm</a>.",
+      "content": "\"That's What I Like\" is a song from Bruno Mars' third studio album, 24K Magic. The song was released as the album's second single on January 30, 2017. It is the highest charting single in the United States from Mars' studio album 24K Magic, surpassing the single of the same name by reaching number one on the Billboard Hot 100. \"That's What I Like\" won three Grammys in 2018: Song of the Year, Best R&B Song, and Best R&B Performance. <a href=\"http://www.last.fm/music/Bruno+Mars/_/That%27s+What+I+Like\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

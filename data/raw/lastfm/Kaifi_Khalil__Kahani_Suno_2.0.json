@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Kahani Suno 2.0",
+    "url": "https://www.last.fm/music/Kaifi+Khalil/_/Kahani+Suno+2.0",
+    "duration": "173000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "24393",
+    "playcount": "235990",
+    "artist": {
+      "name": "Kaifi Khalil",
+      "mbid": "19fc95db-6a4d-4912-ace6-9177560ccbe4",
+      "url": "https://www.last.fm/music/Kaifi+Khalil"
+    },
+    "album": {
+      "artist": "Kaifi Khalil",
+      "title": "Kahani Suno 2.0",
+      "url": "https://www.last.fm/music/Kaifi+Khalil/Kahani+Suno+2.0",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/424655ea4a28d1b801926c39bc365b16.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/424655ea4a28d1b801926c39bc365b16.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/424655ea4a28d1b801926c39bc365b16.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/424655ea4a28d1b801926c39bc365b16.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

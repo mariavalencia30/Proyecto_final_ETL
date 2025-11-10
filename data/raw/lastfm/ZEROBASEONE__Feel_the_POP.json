@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Feel the POP",
+    "mbid": "bbc66f61-5091-4e80-b222-4955d8155c64",
+    "url": "https://www.last.fm/music/ZEROBASEONE/_/Feel+the+POP",
+    "duration": "176000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "94320",
+    "playcount": "2161338",
+    "artist": {
+      "name": "ZEROBASEONE",
+      "mbid": "fe038151-1099-4de8-901b-39be66d6e493",
+      "url": "https://www.last.fm/music/ZEROBASEONE"
+    },
+    "album": {
+      "artist": "ZEROBASEONE",
+      "title": "You had me at HELLO",
+      "url": "https://www.last.fm/music/ZEROBASEONE/You+had+me+at+HELLO",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/5b60ce60133a7a02259a20e6d09b69f5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/5b60ce60133a7a02259a20e6d09b69f5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/5b60ce60133a7a02259a20e6d09b69f5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/5b60ce60133a7a02259a20e6d09b69f5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "02 May 2024, 15:25",
+      "summary": "\"Feel the POP\" is a song recorded by South Korean boy group ZEROBASEONE. It was released on May 13, 2024 as the second single of their third extended play You had me at HELLO. The track was written by lalala studio's Soo-ji Kim & Hyung-joo Lee, 153/Joombas' Yoon-ah Ha, XYXX's 12h51m, ARTiffect's So-ha Kim, David Wilson, Max Schneider and Sean Douglas, composed by David Wilson, Max Schneider and Sean Douglas & arranged by dwilly.\n\nThe Japanese-language version of the track was released on May 17 <a href=\"http://www.last.fm/music/ZEROBASEONE/_/Feel+the+POP\">Read more on Last.fm</a>.",
+      "content": "\"Feel the POP\" is a song recorded by South Korean boy group ZEROBASEONE. It was released on May 13, 2024 as the second single of their third extended play You had me at HELLO. The track was written by lalala studio's Soo-ji Kim & Hyung-joo Lee, 153/Joombas' Yoon-ah Ha, XYXX's 12h51m, ARTiffect's So-ha Kim, David Wilson, Max Schneider and Sean Douglas, composed by David Wilson, Max Schneider and Sean Douglas & arranged by dwilly.\n\nThe Japanese-language version of the track was released on May 17, 2024 as the group's second Japanese single (third overall). <a href=\"http://www.last.fm/music/ZEROBASEONE/_/Feel+the+POP\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

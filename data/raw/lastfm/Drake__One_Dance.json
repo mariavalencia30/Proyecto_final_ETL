@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "One Dance",
+    "mbid": "1b352d1e-a749-4d33-b7f5-dc6691ef825b",
+    "url": "https://www.last.fm/music/Drake/_/One+Dance",
+    "duration": "174000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1762093",
+    "playcount": "19903405",
+    "artist": {
+      "name": "Drake",
+      "mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+      "url": "https://www.last.fm/music/Drake"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "NOW That's What I Call Music! 95",
+      "url": "https://www.last.fm/music/Various+Artists/NOW+That%27s+What+I+Call+Music%21+95",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/af326b88a59dc84beb438bc528a6ac54.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/af326b88a59dc84beb438bc528a6ac54.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/af326b88a59dc84beb438bc528a6ac54.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/af326b88a59dc84beb438bc528a6ac54.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Drake",
+          "url": "https://www.last.fm/tag/Drake"
+        },
+        {
+          "name": "Kyla",
+          "url": "https://www.last.fm/tag/Kyla"
+        },
+        {
+          "name": "wizkid",
+          "url": "https://www.last.fm/tag/wizkid"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "2016",
+          "url": "https://www.last.fm/tag/2016"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "17 May 2016, 02:00",
+      "summary": "\"One Dance\" is a song by Drake from his 2016 studio album, Views. It features guest vocals from Nigerian Afrobeat artist Wizkid and British singer Kyla.  It samples Crazy Cousinz and Kyla's 2008 song \"Do You Mind?\", and is produced by Nineteen85, DJ Maphorisa, 40, Wizkid and Sarz. and written by Drake, Nineteen85, Noah \"40\" Shebib, Wizkid, Kyla, GRIND 6-6 and Errol Reid.  It was released for digital download on April 5, 2016 and was serviced to US urban contemporary, rhythmic contemporary, and contemporary hit radio on April 12, 2016. <a href=\"http://www.last.fm/music/Drake/_/One+Dance\">Read more on Last.fm</a>.",
+      "content": "\"One Dance\" is a song by Drake from his 2016 studio album, Views. It features guest vocals from Nigerian Afrobeat artist Wizkid and British singer Kyla.  It samples Crazy Cousinz and Kyla's 2008 song \"Do You Mind?\", and is produced by Nineteen85, DJ Maphorisa, 40, Wizkid and Sarz. and written by Drake, Nineteen85, Noah \"40\" Shebib, Wizkid, Kyla, GRIND 6-6 and Errol Reid.  It was released for digital download on April 5, 2016 and was serviced to US urban contemporary, rhythmic contemporary, and contemporary hit radio on April 12, 2016.\n\n\"One Dance\" was released shortly after the release date for Views was announced, alongside \"Pop Style\". In the United States and Canada, \"One Dance\" reached number one, becoming Drake's first number-one single in both countries as a lead artist (previously, he had reached number one in the U.S. with \"What's My Name?\" and \"Work\" with Rihanna as the lead). Outside North America, \"One Dance\" also topped the charts in Australia, France, Germany, Ireland, the Netherlands, New Zealand and the United Kingdom. <a href=\"http://www.last.fm/music/Drake/_/One+Dance\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

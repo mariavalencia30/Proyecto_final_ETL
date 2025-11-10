@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Someday I'll Get It",
+    "mbid": "53a8b10f-2f65-4cc5-b2e3-f3e78c415833",
+    "url": "https://www.last.fm/music/Alek+Olsen/_/Someday+I%27ll+Get+It",
+    "duration": "94000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "407736",
+    "playcount": "6200240",
+    "artist": {
+      "name": "Alek Olsen",
+      "mbid": "0984b87f-cd86-4865-888c-ea1f30e99387",
+      "url": "https://www.last.fm/music/Alek+Olsen"
+    },
+    "album": {
+      "artist": "Alek Olsen",
+      "title": "Someday I'll Get It",
+      "url": "https://www.last.fm/music/Alek+Olsen/Someday+I%27ll+Get+It",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/535a04edf988309859e9005d5bfafa95.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/535a04edf988309859e9005d5bfafa95.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/535a04edf988309859e9005d5bfafa95.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/535a04edf988309859e9005d5bfafa95.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "sad",
+          "url": "https://www.last.fm/tag/sad"
+        },
+        {
+          "name": "Love",
+          "url": "https://www.last.fm/tag/Love"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "singer-songwriter",
+          "url": "https://www.last.fm/tag/singer-songwriter"
+        },
+        {
+          "name": "cinematic",
+          "url": "https://www.last.fm/tag/cinematic"
+        }
+      ]
+    }
+  }
+}

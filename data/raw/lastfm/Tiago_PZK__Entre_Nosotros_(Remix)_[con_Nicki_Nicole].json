@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
+    "url": "https://www.last.fm/music/Tiago+PZK/_/Entre+Nosotros+(Remix)+%5Bcon+Nicki+Nicole%5D",
+    "duration": "260000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "68574",
+    "playcount": "853222",
+    "artist": {
+      "name": "Tiago PZK",
+      "mbid": "5013fedb-a4aa-4467-b60e-374d704e5337",
+      "url": "https://www.last.fm/music/Tiago+PZK"
+    },
+    "album": {
+      "artist": "Tiago PZK",
+      "title": "Entre Nosotros (Remix) [con Nicki Nicole]",
+      "url": "https://www.last.fm/music/Tiago+PZK/Entre+Nosotros+(Remix)+%5Bcon+Nicki+Nicole%5D",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/65f5addd025d134fe7227bcc25369db7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/65f5addd025d134fe7227bcc25369db7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/65f5addd025d134fe7227bcc25369db7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/65f5addd025d134fe7227bcc25369db7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

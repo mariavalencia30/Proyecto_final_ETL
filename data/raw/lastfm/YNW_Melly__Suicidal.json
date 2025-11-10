@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Suicidal",
+    "url": "https://www.last.fm/music/YNW+Melly/_/Suicidal",
+    "duration": "222000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "313375",
+    "playcount": "2670015",
+    "artist": {
+      "name": "YNW Melly",
+      "url": "https://www.last.fm/music/YNW+Melly"
+    },
+    "album": {
+      "artist": "YNW Melly",
+      "title": "Melly vs. Melvin",
+      "url": "https://www.last.fm/music/YNW+Melly/Melly+vs.+Melvin",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7d80ce2664cd520e804b2a01428f94ef.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7d80ce2664cd520e804b2a01428f94ef.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7d80ce2664cd520e804b2a01428f94ef.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7d80ce2664cd520e804b2a01428f94ef.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

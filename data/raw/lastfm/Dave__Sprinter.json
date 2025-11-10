@@ -1,0 +1,65 @@
+{
+  "track": {
+    "name": "Sprinter",
+    "url": "https://www.last.fm/music/Dave/_/Sprinter",
+    "duration": "229000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "663796",
+    "playcount": "9677580",
+    "artist": {
+      "name": "Dave",
+      "mbid": "c7740223-c657-4b0a-a0a4-b8349169e760",
+      "url": "https://www.last.fm/music/Dave"
+    },
+    "album": {
+      "artist": "Dave",
+      "title": "Sprinter",
+      "url": "https://www.last.fm/music/Dave/Sprinter",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/91b3f70f9eba192e3c87a1f87e35d9df.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/91b3f70f9eba192e3c87a1f87e35d9df.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/91b3f70f9eba192e3c87a1f87e35d9df.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/91b3f70f9eba192e3c87a1f87e35d9df.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Central Cee",
+          "url": "https://www.last.fm/tag/Central+Cee"
+        },
+        {
+          "name": "UK hip hop",
+          "url": "https://www.last.fm/tag/UK+hip+hop"
+        },
+        {
+          "name": "dave",
+          "url": "https://www.last.fm/tag/dave"
+        },
+        {
+          "name": "2023",
+          "url": "https://www.last.fm/tag/2023"
+        },
+        {
+          "name": "UK Drill",
+          "url": "https://www.last.fm/tag/UK+Drill"
+        }
+      ]
+    }
+  }
+}

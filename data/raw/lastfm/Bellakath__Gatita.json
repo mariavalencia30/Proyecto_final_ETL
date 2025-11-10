@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Gatita",
+    "url": "https://www.last.fm/music/Bellakath/_/Gatita",
+    "duration": "153000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "101377",
+    "playcount": "591224",
+    "artist": {
+      "name": "Bellakath",
+      "mbid": "89d2befc-5884-4e91-ae96-74cc63db7c7a",
+      "url": "https://www.last.fm/music/Bellakath"
+    },
+    "album": {
+      "artist": "Bellakath",
+      "title": "Gatita - Single",
+      "url": "https://www.last.fm/music/Bellakath/Gatita+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6fa20c7bd09b6099ca9c6b7f375bb09d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6fa20c7bd09b6099ca9c6b7f375bb09d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6fa20c7bd09b6099ca9c6b7f375bb09d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6fa20c7bd09b6099ca9c6b7f375bb09d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

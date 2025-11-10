@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Baby Shark",
+    "url": "https://www.last.fm/music/Bebefinn/_/Baby+Shark",
+    "duration": "174000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "858",
+    "playcount": "3234",
+    "artist": {
+      "name": "Bebefinn",
+      "url": "https://www.last.fm/music/Bebefinn"
+    },
+    "album": {
+      "artist": "Bebefinn",
+      "title": "Pinkfong Bebefinn (Pt. 1)",
+      "url": "https://www.last.fm/music/Bebefinn/Pinkfong+Bebefinn+(Pt.+1)",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

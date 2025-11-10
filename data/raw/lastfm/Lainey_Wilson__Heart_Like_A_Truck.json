@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Heart Like a Truck",
+    "mbid": "cf06c5fb-4182-4269-aa19-75caac01dd6a",
+    "url": "https://www.last.fm/music/Lainey+Wilson/_/Heart+Like+a+Truck",
+    "duration": "198000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "76773",
+    "playcount": "575261",
+    "artist": {
+      "name": "Lainey Wilson",
+      "mbid": "a6e613d6-ff65-4972-beff-303a1b10ab05",
+      "url": "https://www.last.fm/music/Lainey+Wilson"
+    },
+    "album": {
+      "artist": "Lainey Wilson",
+      "title": "Heart Like a Truck",
+      "url": "https://www.last.fm/music/Lainey+Wilson/Heart+Like+a+Truck",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0ab72e088be1fbab393b914894c4bd02.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0ab72e088be1fbab393b914894c4bd02.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0ab72e088be1fbab393b914894c4bd02.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0ab72e088be1fbab393b914894c4bd02.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

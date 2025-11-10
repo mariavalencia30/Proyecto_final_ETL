@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Saturn",
+    "mbid": "9b6b096f-36d8-4297-b181-ea501c4b41a2",
+    "url": "https://www.last.fm/music/SZA/_/Saturn",
+    "duration": "186000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1109559",
+    "playcount": "16652651",
+    "artist": {
+      "name": "SZA",
+      "mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+      "url": "https://www.last.fm/music/SZA"
+    },
+    "album": {
+      "artist": "SZA",
+      "title": "Saturn",
+      "url": "https://www.last.fm/music/SZA/Saturn",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2271106c089819b7b4242d49a2b9fac9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2271106c089819b7b4242d49a2b9fac9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2271106c089819b7b4242d49a2b9fac9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2271106c089819b7b4242d49a2b9fac9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "alternative rnb",
+          "url": "https://www.last.fm/tag/alternative+rnb"
+        },
+        {
+          "name": "space",
+          "url": "https://www.last.fm/tag/space"
+        },
+        {
+          "name": "Neo-Soul",
+          "url": "https://www.last.fm/tag/Neo-Soul"
+        },
+        {
+          "name": "psychedelic pop",
+          "url": "https://www.last.fm/tag/psychedelic+pop"
+        },
+        {
+          "name": "2024",
+          "url": "https://www.last.fm/tag/2024"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "01 Mar 2024, 01:56",
+      "summary": "\"Saturn\" is a song by American singer-songwriter SZA and the lead single of Lana, the deluxe reissue of her second studio album, SOS. It was surprise-released through Top Dawg Entertainment and RCA Records on February 22, 2024. <a href=\"http://www.last.fm/music/SZA/_/Saturn\">Read more on Last.fm</a>.",
+      "content": "\"Saturn\" is a song by American singer-songwriter SZA and the lead single of Lana, the deluxe reissue of her second studio album, SOS. It was surprise-released through Top Dawg Entertainment and RCA Records on February 22, 2024. <a href=\"http://www.last.fm/music/SZA/_/Saturn\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

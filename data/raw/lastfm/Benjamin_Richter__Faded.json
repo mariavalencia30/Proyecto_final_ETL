@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Faded",
+    "mbid": "4c93ad99-8a4a-4299-9d00-39344389826d",
+    "url": "https://www.last.fm/music/Benjamin+Richter/_/Faded",
+    "duration": "202000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "2336",
+    "playcount": "9055",
+    "artist": {
+      "name": "Benjamin Richter",
+      "mbid": "36355a5b-5aac-4030-a912-f0ed5741f9e5",
+      "url": "https://www.last.fm/music/Benjamin+Richter"
+    },
+    "album": {
+      "artist": "Benjamin Richter",
+      "title": "Memory Lane",
+      "url": "https://www.last.fm/music/Benjamin+Richter/Memory+Lane",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/25a0b12cec28495af6b4702dbd48d456.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/25a0b12cec28495af6b4702dbd48d456.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/25a0b12cec28495af6b4702dbd48d456.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/25a0b12cec28495af6b4702dbd48d456.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

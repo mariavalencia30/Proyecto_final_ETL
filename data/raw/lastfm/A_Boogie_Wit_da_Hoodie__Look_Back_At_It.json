@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Look Back At It",
+    "mbid": "07a47aee-0e5e-4f33-b8e2-e7d7e68a965c",
+    "url": "https://www.last.fm/music/A+Boogie+wit+da+Hoodie/_/Look+Back+At+It",
+    "duration": "179000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "491545",
+    "playcount": "5633358",
+    "artist": {
+      "name": "A Boogie wit da Hoodie",
+      "url": "https://www.last.fm/music/A+Boogie+wit+da+Hoodie"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Planète Rap 2019, Vol. 2",
+      "url": "https://www.last.fm/music/Various+Artists/Plan%C3%A8te+Rap+2019,+Vol.+2",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d0ee5c2c1279010cc46648aaceea7d2a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d0ee5c2c1279010cc46648aaceea7d2a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d0ee5c2c1279010cc46648aaceea7d2a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d0ee5c2c1279010cc46648aaceea7d2a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "trap",
+          "url": "https://www.last.fm/tag/trap"
+        },
+        {
+          "name": "melodic part writing",
+          "url": "https://www.last.fm/tag/melodic+part+writing"
+        },
+        {
+          "name": "e flat minor",
+          "url": "https://www.last.fm/tag/e+flat+minor"
+        },
+        {
+          "name": "radio friendly stylings",
+          "url": "https://www.last.fm/tag/radio+friendly+stylings"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "27 Jul 2022, 09:02",
+      "summary": "“Look Back at It” sees A Boogie interpolate the flow and rhythm from Michael Jackson’s “You Rock My World\" throughout the verses and “Remember the Time” during the post-chorus.\n\nPeculiarly, a snippet released on Boogie’s Instagram dates back to December 21, 2017, almost a year before the song’s full release. <a href=\"http://www.last.fm/music/A+Boogie+wit+da+Hoodie/_/Look+Back+At+It\">Read more on Last.fm</a>.",
+      "content": "“Look Back at It” sees A Boogie interpolate the flow and rhythm from Michael Jackson’s “You Rock My World\" throughout the verses and “Remember the Time” during the post-chorus.\n\nPeculiarly, a snippet released on Boogie’s Instagram dates back to December 21, 2017, almost a year before the song’s full release. <a href=\"http://www.last.fm/music/A+Boogie+wit+da+Hoodie/_/Look+Back+At+It\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

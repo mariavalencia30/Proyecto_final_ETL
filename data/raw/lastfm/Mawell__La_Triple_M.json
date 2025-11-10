@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "La Triple M",
+    "url": "https://www.last.fm/music/Mawell/_/La+Triple+M",
+    "duration": "201000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "7163",
+    "playcount": "47599",
+    "artist": {
+      "name": "Mawell",
+      "mbid": "6849651f-5cf8-45f4-8aba-1b53611169a6",
+      "url": "https://www.last.fm/music/Mawell"
+    },
+    "album": {
+      "artist": "Mawell",
+      "title": "La Triple M",
+      "url": "https://www.last.fm/music/Mawell/La+Triple+M",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e178af94018dfb159dc4031210199e4c.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e178af94018dfb159dc4031210199e4c.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e178af94018dfb159dc4031210199e4c.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e178af94018dfb159dc4031210199e4c.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

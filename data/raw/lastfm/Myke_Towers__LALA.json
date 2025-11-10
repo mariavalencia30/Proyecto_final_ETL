@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "LALA",
+    "mbid": "4c964cc0-5d93-46b7-b202-cf1fa2dbb432",
+    "url": "https://www.last.fm/music/Myke+Towers/_/LALA",
+    "duration": "197000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "260231",
+    "playcount": "2151019",
+    "artist": {
+      "name": "Myke Towers",
+      "mbid": "d2945137-b01d-4195-9f82-64d20f8ba657",
+      "url": "https://www.last.fm/music/Myke+Towers"
+    },
+    "album": {
+      "artist": "Myke Towers",
+      "title": "LA VIDA ES UNA",
+      "url": "https://www.last.fm/music/Myke+Towers/LA+VIDA+ES+UNA",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/94515221447f74ccfd70f786caaaf251.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/94515221447f74ccfd70f786caaaf251.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/94515221447f74ccfd70f786caaaf251.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/94515221447f74ccfd70f786caaaf251.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

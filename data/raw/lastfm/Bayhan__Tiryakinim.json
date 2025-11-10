@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Tiryakinim",
+    "url": "https://www.last.fm/music/Bayhan/_/Tiryakinim",
+    "duration": "199000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "7852",
+    "playcount": "78764",
+    "artist": {
+      "name": "Bayhan",
+      "url": "https://www.last.fm/music/Bayhan"
+    },
+    "album": {
+      "artist": "Bayhan",
+      "title": "Tiryakinim - Single",
+      "url": "https://www.last.fm/music/Bayhan/Tiryakinim+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/b0608b48f8ed0ddd7e599ea48a07167d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/b0608b48f8ed0ddd7e599ea48a07167d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/b0608b48f8ed0ddd7e599ea48a07167d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/b0608b48f8ed0ddd7e599ea48a07167d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

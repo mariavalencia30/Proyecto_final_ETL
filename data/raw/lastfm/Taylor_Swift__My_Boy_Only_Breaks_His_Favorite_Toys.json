@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "My Boy Only Breaks His Favorite Toys",
+    "mbid": "b1c44139-75ff-43a2-8dc6-c332ee8e16a4",
+    "url": "https://www.last.fm/music/Taylor+Swift/_/My+Boy+Only+Breaks+His+Favorite+Toys",
+    "duration": "204000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "623741",
+    "playcount": "16559142",
+    "artist": {
+      "name": "Taylor Swift",
+      "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+      "url": "https://www.last.fm/music/Taylor+Swift"
+    },
+    "album": {
+      "artist": "Taylor Swift",
+      "title": "THE TORTURED POETS DEPARTMENT",
+      "url": "https://www.last.fm/music/Taylor+Swift/THE+TORTURED+POETS+DEPARTMENT",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/81fbd21feee8ac0eeea93cdc118745bb.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/81fbd21feee8ac0eeea93cdc118745bb.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/81fbd21feee8ac0eeea93cdc118745bb.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/81fbd21feee8ac0eeea93cdc118745bb.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "best of 2024",
+          "url": "https://www.last.fm/tag/best+of+2024"
+        },
+        {
+          "name": "synthpop",
+          "url": "https://www.last.fm/tag/synthpop"
+        },
+        {
+          "name": "female vocalists",
+          "url": "https://www.last.fm/tag/female+vocalists"
+        },
+        {
+          "name": "Colleen Hoover",
+          "url": "https://www.last.fm/tag/Colleen+Hoover"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "19 Apr 2024, 22:29",
+      "summary": "“My Boy Only Breaks His Favorite Toys” is a poignant anthem that explores the complexities of love and loss using the motif and metaphor of broken toys. The song explores the emotional chaos of a turbulent relationship, with Taylor linking its downfall to her partner’s penchant for dismantling dolls and demolishing sand castles. <a href=\"http://www.last.fm/music/Taylor+Swift/_/My+Boy+Only+Breaks+His+Favorite+Toys\">Read more on Last.fm</a>.",
+      "content": "“My Boy Only Breaks His Favorite Toys” is a poignant anthem that explores the complexities of love and loss using the motif and metaphor of broken toys. The song explores the emotional chaos of a turbulent relationship, with Taylor linking its downfall to her partner’s penchant for dismantling dolls and demolishing sand castles. <a href=\"http://www.last.fm/music/Taylor+Swift/_/My+Boy+Only+Breaks+His+Favorite+Toys\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

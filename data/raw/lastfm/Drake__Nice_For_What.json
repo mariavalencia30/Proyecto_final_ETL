@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Nice for What",
+    "mbid": "46ab997e-be53-4787-96d8-010be3b1e82b",
+    "url": "https://www.last.fm/music/Drake/_/Nice+for+What",
+    "duration": "142000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "893246",
+    "playcount": "11251167",
+    "artist": {
+      "name": "Drake",
+      "mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+      "url": "https://www.last.fm/music/Drake"
+    },
+    "album": {
+      "artist": "Drake",
+      "title": "Nice for What",
+      "url": "https://www.last.fm/music/Drake/Nice+for+What",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/cec04030574f19f86692019701fb0ef1.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/cec04030574f19f86692019701fb0ef1.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/cec04030574f19f86692019701fb0ef1.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/cec04030574f19f86692019701fb0ef1.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "2018",
+          "url": "https://www.last.fm/tag/2018"
+        },
+        {
+          "name": "hip hop",
+          "url": "https://www.last.fm/tag/hip+hop"
+        },
+        {
+          "name": "Drake",
+          "url": "https://www.last.fm/tag/Drake"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "17 Apr 2018, 17:40",
+      "summary": "The New Orleans bounce music-inflected “Nice For What” is Drake’s third single of 2018, coming after the Scary Hours EP which was released in January. It samples Lauryn Hill’s “Ex-Factor.”\n\nThroughout the song, Drake speaks about female empowerment in the digital age. Women can be found trying to gain a following and live in the light, but that also comes with some resistance and hate. Despite what they go through, Drake shows that he understands and appreciates the hustle. <a href=\"http://www.last.fm/music/Drake/_/Nice+for+What\">Read more on Last.fm</a>.",
+      "content": "The New Orleans bounce music-inflected “Nice For What” is Drake’s third single of 2018, coming after the Scary Hours EP which was released in January. It samples Lauryn Hill’s “Ex-Factor.”\n\nThroughout the song, Drake speaks about female empowerment in the digital age. Women can be found trying to gain a following and live in the light, but that also comes with some resistance and hate. Despite what they go through, Drake shows that he understands and appreciates the hustle.\n\nIt was first teased by Lauryn Hill’s son, Joshua Marley on social media in early March of 2018 under the name “Showin' Off.” <a href=\"http://www.last.fm/music/Drake/_/Nice+for+What\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

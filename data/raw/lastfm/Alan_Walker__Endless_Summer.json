@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "Endless Summer",
+    "url": "https://www.last.fm/music/Alan+Walker/_/Endless+Summer",
+    "duration": "187000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "36477",
+    "playcount": "166627",
+    "artist": {
+      "name": "Alan Walker",
+      "mbid": "71d524e4-2ae2-4a3e-baa0-0c021925db7a",
+      "url": "https://www.last.fm/music/Alan+Walker"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

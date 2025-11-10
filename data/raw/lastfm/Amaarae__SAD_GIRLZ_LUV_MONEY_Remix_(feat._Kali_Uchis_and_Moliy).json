@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
+    "mbid": "bd4e3763-74cb-4a69-bf67-753ee9a4a021",
+    "url": "https://www.last.fm/music/Amaarae/_/SAD+GIRLZ+LUV+MONEY+Remix+(feat.+Kali+Uchis+and+Moliy)",
+    "duration": "204000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "586497",
+    "playcount": "6868576",
+    "artist": {
+      "name": "Amaarae",
+      "mbid": "29fab96f-c3a2-4251-80f6-7ccda50da706",
+      "url": "https://www.last.fm/music/Amaarae"
+    },
+    "album": {
+      "artist": "Tove Lo",
+      "title": "WALK IN P*$$Y FIRST",
+      "url": "https://www.last.fm/music/Tove+Lo/WALK+IN+P%2A$$Y+FIRST",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/6b055fefd38dba28ba3a2472861aa6e6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/6b055fefd38dba28ba3a2472861aa6e6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/6b055fefd38dba28ba3a2472861aa6e6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/6b055fefd38dba28ba3a2472861aa6e6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        },
+        {
+          "name": "latin",
+          "url": "https://www.last.fm/tag/latin"
+        },
+        {
+          "name": "afrobeat",
+          "url": "https://www.last.fm/tag/afrobeat"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "bbe",
+          "url": "https://www.last.fm/tag/bbe"
+        }
+      ]
+    }
+  }
+}

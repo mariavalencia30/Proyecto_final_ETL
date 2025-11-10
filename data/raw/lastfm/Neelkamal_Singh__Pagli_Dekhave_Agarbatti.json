@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Pagli Dekhave Agarbatti",
+    "url": "https://www.last.fm/music/Neelkamal+Singh/_/Pagli+Dekhave+Agarbatti",
+    "duration": "213000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "685",
+    "playcount": "2260",
+    "artist": {
+      "name": "Neelkamal Singh",
+      "mbid": "340cfff3-0874-4ad3-b212-1f1182a29ead",
+      "url": "https://www.last.fm/music/Neelkamal+Singh"
+    },
+    "album": {
+      "artist": "Neelkamal Singh",
+      "title": "Pagli Dekhave Agarbatti",
+      "url": "https://www.last.fm/music/Neelkamal+Singh/Pagli+Dekhave+Agarbatti",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

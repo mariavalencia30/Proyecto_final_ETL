@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Be Alright",
+    "mbid": "8b544538-97e4-4286-8c06-d158f93bf427",
+    "url": "https://www.last.fm/music/Dean+Lewis/_/Be+Alright",
+    "duration": "196000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "536770",
+    "playcount": "5823803",
+    "artist": {
+      "name": "Dean Lewis",
+      "mbid": "21e9df94-3c2c-4c15-b069-fefa58bcd650",
+      "url": "https://www.last.fm/music/Dean+Lewis"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "De Mooiste Openingsdansen",
+      "url": "https://www.last.fm/music/Various+Artists/De+Mooiste+Openingsdansen",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/25248c8ec5a171ab57578a9ca3fabadc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/25248c8ec5a171ab57578a9ca3fabadc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/25248c8ec5a171ab57578a9ca3fabadc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/25248c8ec5a171ab57578a9ca3fabadc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "australian",
+          "url": "https://www.last.fm/tag/australian"
+        },
+        {
+          "name": "indie pop",
+          "url": "https://www.last.fm/tag/indie+pop"
+        },
+        {
+          "name": "singer-songwriter",
+          "url": "https://www.last.fm/tag/singer-songwriter"
+        },
+        {
+          "name": "acoustic rhythm guitars",
+          "url": "https://www.last.fm/tag/acoustic+rhythm+guitars"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "04 Jul 2018, 22:54",
+      "summary": "\"Be Alright\" is the lead single from Dean Lewis' debut album \"A Place We Knew\". <a href=\"http://www.last.fm/music/Dean+Lewis/_/Be+Alright\">Read more on Last.fm</a>.",
+      "content": "\"Be Alright\" is the lead single from Dean Lewis' debut album \"A Place We Knew\". <a href=\"http://www.last.fm/music/Dean+Lewis/_/Be+Alright\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

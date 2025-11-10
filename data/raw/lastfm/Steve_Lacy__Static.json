@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Static",
+    "mbid": "99b48239-18cf-44fc-bc4c-9f1e2f60c65b",
+    "url": "https://www.last.fm/music/Steve+Lacy/_/Static",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "955091",
+    "playcount": "12857141",
+    "artist": {
+      "name": "Steve Lacy",
+      "mbid": "ca9766a0-1c30-43e6-a213-bac1334efc4a",
+      "url": "https://www.last.fm/music/Steve+Lacy"
+    },
+    "album": {
+      "artist": "Steve Lacy",
+      "title": "Gemini Rights",
+      "url": "https://www.last.fm/music/Steve+Lacy/Gemini+Rights",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/12dcf1122cccf14bd8d943480d04cd58.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/12dcf1122cccf14bd8d943480d04cd58.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/12dcf1122cccf14bd8d943480d04cd58.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/12dcf1122cccf14bd8d943480d04cd58.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "indie pop",
+          "url": "https://www.last.fm/tag/indie+pop"
+        },
+        {
+          "name": "Neo-Soul",
+          "url": "https://www.last.fm/tag/Neo-Soul"
+        },
+        {
+          "name": "Bittersweet",
+          "url": "https://www.last.fm/tag/Bittersweet"
+        },
+        {
+          "name": "Incredible",
+          "url": "https://www.last.fm/tag/Incredible"
+        },
+        {
+          "name": "love at first listen",
+          "url": "https://www.last.fm/tag/love+at+first+listen"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "17 Jul 2022, 22:26",
+      "summary": "\"Static\" by Steve Lacy is the first track on his studio release, Gemini Rights, released on July 15, 2022. The song contains soft-spoken lyrics and a mix of piano and guitar.\n\nSteve talks about his past lover’s struggles with coping empty feelings. He explains to them that he doesn’t need the same old partner like he needed before to keep moving forward. <a href=\"http://www.last.fm/music/Steve+Lacy/_/Static\">Read more on Last.fm</a>.",
+      "content": "\"Static\" by Steve Lacy is the first track on his studio release, Gemini Rights, released on July 15, 2022. The song contains soft-spoken lyrics and a mix of piano and guitar.\n\nSteve talks about his past lover’s struggles with coping empty feelings. He explains to them that he doesn’t need the same old partner like he needed before to keep moving forward. <a href=\"http://www.last.fm/music/Steve+Lacy/_/Static\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

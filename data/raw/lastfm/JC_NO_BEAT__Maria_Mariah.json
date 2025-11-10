@@ -1,0 +1,20 @@
+{
+  "track": {
+    "name": "Maria Mariah",
+    "url": "https://www.last.fm/music/JC+NO+BEAT/_/Maria+Mariah",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "40103",
+    "playcount": "193886",
+    "artist": {
+      "name": "JC NO BEAT",
+      "url": "https://www.last.fm/music/JC+NO+BEAT"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

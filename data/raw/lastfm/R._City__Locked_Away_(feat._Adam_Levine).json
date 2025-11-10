@@ -1,0 +1,22 @@
+{
+  "track": {
+    "name": "Locked Away (feat. Adam Levine)",
+    "mbid": "545c7ee2-7638-4146-8ba7-6c5746c8e834",
+    "url": "https://www.last.fm/music/R.+City/_/Locked+Away+(feat.+Adam+Levine)",
+    "duration": "0",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "372185",
+    "playcount": "2647049",
+    "artist": {
+      "name": "R. City",
+      "mbid": "c68422fe-b5e0-4568-be71-127d4bfed6ca",
+      "url": "https://www.last.fm/music/R.+City"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

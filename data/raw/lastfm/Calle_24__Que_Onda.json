@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Que Onda",
+    "url": "https://www.last.fm/music/Calle+24/_/Que+Onda",
+    "duration": "191000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "145843",
+    "playcount": "2173685",
+    "artist": {
+      "name": "Calle 24",
+      "mbid": "6e3ac07f-e83c-4fab-9ad0-fc1c13d8ceae",
+      "url": "https://www.last.fm/music/Calle+24"
+    },
+    "album": {
+      "artist": "Calle 24",
+      "title": "Que Onda",
+      "url": "https://www.last.fm/music/Calle+24/Que+Onda",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8377e47adbbb16f229af6067c7fb10ba.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8377e47adbbb16f229af6067c7fb10ba.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8377e47adbbb16f229af6067c7fb10ba.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8377e47adbbb16f229af6067c7fb10ba.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

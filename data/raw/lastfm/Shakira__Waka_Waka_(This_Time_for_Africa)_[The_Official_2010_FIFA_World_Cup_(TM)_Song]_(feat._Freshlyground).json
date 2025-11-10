@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+    "mbid": "da0e3600-59de-45b1-8588-0960dc939857",
+    "url": "https://www.last.fm/music/Shakira/_/Waka+Waka+(This+Time+for+Africa)+%5BThe+Official+2010+FIFA+World+Cup+(TM)+Song%5D+(feat.+Freshlyground)",
+    "duration": "202000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "590199",
+    "playcount": "2997262",
+    "artist": {
+      "name": "Shakira",
+      "mbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
+      "url": "https://www.last.fm/music/Shakira"
+    },
+    "album": {
+      "artist": "Shakira",
+      "title": "Sale el Sol (Deluxe Edition)",
+      "url": "https://www.last.fm/music/Shakira/Sale+el+Sol+(Deluxe+Edition)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1d20d6ec8a3755a554dedea63783f386.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1d20d6ec8a3755a554dedea63783f386.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1d20d6ec8a3755a554dedea63783f386.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1d20d6ec8a3755a554dedea63783f386.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

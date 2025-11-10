@@ -1,0 +1,49 @@
+{
+  "track": {
+    "name": "LAGUNAS",
+    "url": "https://www.last.fm/music/Peso+Pluma/_/LAGUNAS",
+    "duration": "231000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "115624",
+    "playcount": "2031795",
+    "artist": {
+      "name": "Peso Pluma",
+      "mbid": "75e4f8ef-34c3-44fd-8467-88a7d9599f77",
+      "url": "https://www.last.fm/music/Peso+Pluma"
+    },
+    "album": {
+      "artist": "Peso Pluma",
+      "title": "GÉNESIS",
+      "url": "https://www.last.fm/music/Peso+Pluma/G%C3%89NESIS",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e1798a004f87e216e8d2789e29e7a5a5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e1798a004f87e216e8d2789e29e7a5a5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e1798a004f87e216e8d2789e29e7a5a5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e1798a004f87e216e8d2789e29e7a5a5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "18 Sep 2023, 03:15",
+      "summary": "\"LAGUNAS\" es la segunda colaboración entre Jasiel Nuñez y Peso Pluma en su álbum GÉNESIS. El tema habla sobre los sentimientos y lamentos que persisten después de una relación fallida. Ya sea un \"casi algo\" o simplemente una relación que no pudo ser. La letra menciona a la luna llena y su energía positiva pero tal es que el protagonista no puede disfrutarla porque trata de alejarse de la persona que él quiere y lidia con el dolor que es la separación, recuerdos y pensamientos de que pudo haber sido de ellos. <a href=\"http://www.last.fm/music/Peso+Pluma/_/LAGUNAS\">Read more on Last.fm</a>.",
+      "content": "\"LAGUNAS\" es la segunda colaboración entre Jasiel Nuñez y Peso Pluma en su álbum GÉNESIS. El tema habla sobre los sentimientos y lamentos que persisten después de una relación fallida. Ya sea un \"casi algo\" o simplemente una relación que no pudo ser. La letra menciona a la luna llena y su energía positiva pero tal es que el protagonista no puede disfrutarla porque trata de alejarse de la persona que él quiere y lidia con el dolor que es la separación, recuerdos y pensamientos de que pudo haber sido de ellos. En resumen, habla sobre las secuelas de un romance fallido, la lucha de lo que es alejarse de una persona que amas y dejar ir su recuerdo. <a href=\"http://www.last.fm/music/Peso+Pluma/_/LAGUNAS\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

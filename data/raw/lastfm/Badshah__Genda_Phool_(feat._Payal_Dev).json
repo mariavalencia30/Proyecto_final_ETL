@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Genda Phool (feat. Payal Dev)",
+    "url": "https://www.last.fm/music/Badshah/_/Genda+Phool+(feat.+Payal+Dev)",
+    "duration": "170000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "13412",
+    "playcount": "60541",
+    "artist": {
+      "name": "Badshah",
+      "mbid": "cd67b8c8-8b2f-4d56-b564-fbd837490256",
+      "url": "https://www.last.fm/music/Badshah"
+    },
+    "album": {
+      "artist": "Badshah",
+      "title": "Genda Phool (feat. Payal Dev)",
+      "url": "https://www.last.fm/music/Badshah/Genda+Phool+(feat.+Payal+Dev)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/9aa684a7703aa0a954a923ea6669a2bb.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/9aa684a7703aa0a954a923ea6669a2bb.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/9aa684a7703aa0a954a923ea6669a2bb.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/9aa684a7703aa0a954a923ea6669a2bb.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

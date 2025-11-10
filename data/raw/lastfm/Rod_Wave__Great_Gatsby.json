@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Great Gatsby",
+    "mbid": "4a7da557-8f15-4144-8493-de8215f6c3cc",
+    "url": "https://www.last.fm/music/Rod+Wave/_/Great+Gatsby",
+    "duration": "146000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "68618",
+    "playcount": "760059",
+    "artist": {
+      "name": "Rod Wave",
+      "mbid": "cb3d3e49-bf08-4cdb-bfa8-4dc7c458cea1",
+      "url": "https://www.last.fm/music/Rod+Wave"
+    },
+    "album": {
+      "artist": "Rod Wave",
+      "title": "Nostalgia",
+      "url": "https://www.last.fm/music/Rod+Wave/Nostalgia",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/581577e3d82c0b1b5b19008dd142d1b9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/581577e3d82c0b1b5b19008dd142d1b9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/581577e3d82c0b1b5b19008dd142d1b9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/581577e3d82c0b1b5b19008dd142d1b9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

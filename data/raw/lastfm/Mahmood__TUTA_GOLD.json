@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Tuta gold",
+    "mbid": "7fb2ef49-ebce-4791-a158-3f3aaecc0af7",
+    "url": "https://www.last.fm/music/Mahmood/_/Tuta+gold",
+    "duration": "178000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "63015",
+    "playcount": "1239449",
+    "artist": {
+      "name": "Mahmood",
+      "mbid": "ecd032cc-19c8-4a05-902c-e539d3bc75fd",
+      "url": "https://www.last.fm/music/Mahmood"
+    },
+    "album": {
+      "artist": "Mahmood",
+      "title": "TUTA GOLD - Single",
+      "url": "https://www.last.fm/music/Mahmood/TUTA+GOLD+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c79589a0628242c27f9a6e4532927f9b.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c79589a0628242c27f9a6e4532927f9b.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c79589a0628242c27f9a6e4532927f9b.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c79589a0628242c27f9a6e4532927f9b.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "track": {
+    "name": "The Color Violet",
+    "mbid": "52a0345e-497d-479e-99ca-f869f45dfefc",
+    "url": "https://www.last.fm/music/Tory+Lanez/_/The+Color+Violet",
+    "duration": "226000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1006483",
+    "playcount": "24904997",
+    "artist": {
+      "name": "Tory Lanez",
+      "mbid": "5b8ec72b-9e39-4a06-a2bf-964166b92a71",
+      "url": "https://www.last.fm/music/Tory+Lanez"
+    },
+    "album": {
+      "artist": "Tory Lanez",
+      "title": "Alone at Prom",
+      "url": "https://www.last.fm/music/Tory+Lanez/Alone+at+Prom",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/aece583659ca803df09d3a0576ce8cd5.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/aece583659ca803df09d3a0576ce8cd5.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/aece583659ca803df09d3a0576ce8cd5.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/aece583659ca803df09d3a0576ce8cd5.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "synthwave",
+          "url": "https://www.last.fm/tag/synthwave"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "13 Mar 2023, 14:10",
+      "summary": "“The Color Violet“ is the fourth song to appear on Tory’s Alone At Prom album. Tory sings about heartbreak and tells us a story about a woman whom he lusts for but she’s appears to be no good for him. She eventually breaks his heart while “playing games of love” to deceive Tory. Lanez doesn’t think he can recover from this hence the chorus “I won’t dance again”.\n\n“The Color Violet” debuted at #87 on the Billboard Hot 100 during the chart week ending of January 14, 2023. <a href=\"http://www.last.fm/music/Tory+Lanez/_/The+Color+Violet\">Read more on Last.fm</a>.",
+      "content": "“The Color Violet“ is the fourth song to appear on Tory’s Alone At Prom album. Tory sings about heartbreak and tells us a story about a woman whom he lusts for but she’s appears to be no good for him. She eventually breaks his heart while “playing games of love” to deceive Tory. Lanez doesn’t think he can recover from this hence the chorus “I won’t dance again”.\n\n“The Color Violet” debuted at #87 on the Billboard Hot 100 during the chart week ending of January 14, 2023. <a href=\"http://www.last.fm/music/Tory+Lanez/_/The+Color+Violet\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

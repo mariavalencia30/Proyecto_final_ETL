@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Alone",
+    "mbid": "ebfc98da-1214-47c6-962e-69a277eba185",
+    "url": "https://www.last.fm/music/Alan+Walker/_/Alone",
+    "duration": "149000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "349552",
+    "playcount": "2688525",
+    "artist": {
+      "name": "Alan Walker",
+      "mbid": "71d524e4-2ae2-4a3e-baa0-0c021925db7a",
+      "url": "https://www.last.fm/music/Alan+Walker"
+    },
+    "album": {
+      "artist": "Alan Walker",
+      "title": "Alone",
+      "url": "https://www.last.fm/music/Alan+Walker/Alone",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/913313c540b713755a222464599583b6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/913313c540b713755a222464599583b6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/913313c540b713755a222464599583b6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/913313c540b713755a222464599583b6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "29 Nov 2023, 23:22",
+      "summary": "\"Alone\" is a song by Norwegian record producer and DJ Alan Walker, which incorporates uncredited vocals provided by Swedish singer Noonie Bao. It was released commercially for digital download on 2 December 2016. \n\nFollowing the release of \"Alone\", two sequels to the song were released: \"Alone, Pt. II\" (2019), which features American singer Ava Max and \"Better Off (Alone, Pt. III)\" (2023), which is a collaboration with Dutch electronic music group Dash Berlin and British YouTuber Vikram Barn, better known as Vikkstar. <a href=\"http://www.last.fm/music/Alan+Walker/_/Alone\">Read more on Last.fm</a>.",
+      "content": "\"Alone\" is a song by Norwegian record producer and DJ Alan Walker, which incorporates uncredited vocals provided by Swedish singer Noonie Bao. It was released commercially for digital download on 2 December 2016. \n\nFollowing the release of \"Alone\", two sequels to the song were released: \"Alone, Pt. II\" (2019), which features American singer Ava Max and \"Better Off (Alone, Pt. III)\" (2023), which is a collaboration with Dutch electronic music group Dash Berlin and British YouTuber Vikram Barn, better known as Vikkstar.\n\nIn a press release on 2 December, Walker stated: \"For me, Alone is about cohesion. A song that praises the feeling and comfort of solidarity. When I started making music it was never about to be any (particular), but about creating something for others who could enjoy it with me. What I have experienced by making music and sharing it with (others) are stunning.\" <a href=\"http://www.last.fm/music/Alan+Walker/_/Alone\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

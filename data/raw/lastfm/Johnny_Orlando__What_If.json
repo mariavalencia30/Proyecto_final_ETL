@@ -1,0 +1,21 @@
+{
+  "track": {
+    "name": "What If",
+    "url": "https://www.last.fm/music/Johnny+Orlando/_/What+If",
+    "duration": "219000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "7046",
+    "playcount": "47338",
+    "artist": {
+      "name": "Johnny Orlando",
+      "mbid": "9ffa60f2-4ac1-47cd-9765-ba913677f85b",
+      "url": "https://www.last.fm/music/Johnny+Orlando"
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

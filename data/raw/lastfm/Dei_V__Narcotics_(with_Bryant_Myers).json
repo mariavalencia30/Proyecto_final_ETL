@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Narcotics (with Bryant Myers)",
+    "url": "https://www.last.fm/music/Dei+V/_/Narcotics+(with+Bryant+Myers)",
+    "duration": "173000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "62397",
+    "playcount": "852267",
+    "artist": {
+      "name": "Dei V",
+      "mbid": "b9de03fa-04ac-4249-8481-badfd26b9190",
+      "url": "https://www.last.fm/music/Dei+V"
+    },
+    "album": {
+      "artist": "Dei V",
+      "title": "Narcotics (with Bryant Myers)",
+      "url": "https://www.last.fm/music/Dei+V/Narcotics+(with+Bryant+Myers)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c835ceb1e87964ad546492f6230d89d7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c835ceb1e87964ad546492f6230d89d7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c835ceb1e87964ad546492f6230d89d7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c835ceb1e87964ad546492f6230d89d7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

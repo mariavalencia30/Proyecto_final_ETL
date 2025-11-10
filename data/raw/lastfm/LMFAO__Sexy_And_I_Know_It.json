@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Sexy and I Know It",
+    "mbid": "84d45222-0414-4e33-989c-50212c7bad7a",
+    "url": "https://www.last.fm/music/LMFAO/_/Sexy+and+I+Know+It",
+    "duration": "199000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "995716",
+    "playcount": "5969070",
+    "artist": {
+      "name": "LMFAO",
+      "mbid": "ed5d9086-e8cd-473a-b96c-d81ad6c98f0d",
+      "url": "https://www.last.fm/music/LMFAO"
+    },
+    "album": {
+      "artist": "LMFAO",
+      "title": "Sorry for Party Rocking",
+      "url": "https://www.last.fm/music/LMFAO/Sorry+for+Party+Rocking",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eceae582936049c38f1666de3571a2e0.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eceae582936049c38f1666de3571a2e0.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eceae582936049c38f1666de3571a2e0.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eceae582936049c38f1666de3571a2e0.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "electronic",
+          "url": "https://www.last.fm/tag/electronic"
+        },
+        {
+          "name": "lmfao",
+          "url": "https://www.last.fm/tag/lmfao"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "12 Oct 2011, 17:33",
+      "summary": "\"Sexy and I Know It\" peaked at #1 on the U.S. Billboard Hot Dance Club Play Chart in the Winter of 2011, as well as the Billboard Hot 100 in 2012. <a href=\"http://www.last.fm/music/LMFAO/_/Sexy+and+I+Know+It\">Read more on Last.fm</a>.",
+      "content": "\"Sexy and I Know It\" peaked at #1 on the U.S. Billboard Hot Dance Club Play Chart in the Winter of 2011, as well as the Billboard Hot 100 in 2012. <a href=\"http://www.last.fm/music/LMFAO/_/Sexy+and+I+Know+It\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

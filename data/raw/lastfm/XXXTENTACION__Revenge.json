@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Revenge",
+    "mbid": "8383f08c-2ad4-48b7-8f4d-53b5e4fb9106",
+    "url": "https://www.last.fm/music/XXXTENTACION/_/Revenge",
+    "duration": "120000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1208537",
+    "playcount": "20004446",
+    "artist": {
+      "name": "XXXTENTACION",
+      "mbid": "61af87f4-16ee-4431-8504-cc06187079fb",
+      "url": "https://www.last.fm/music/XXXTENTACION"
+    },
+    "album": {
+      "artist": "XXXTENTACION",
+      "title": "17",
+      "url": "https://www.last.fm/music/XXXTENTACION/17",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e4ecd32d08c4669c4ddf057baaa87938.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e4ecd32d08c4669c4ddf057baaa87938.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e4ecd32d08c4669c4ddf057baaa87938.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e4ecd32d08c4669c4ddf057baaa87938.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "emo rap",
+          "url": "https://www.last.fm/tag/emo+rap"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://www.last.fm/tag/XXXTENTACION"
+        },
+        {
+          "name": "alternative rock",
+          "url": "https://www.last.fm/tag/alternative+rock"
+        },
+        {
+          "name": "acoustic",
+          "url": "https://www.last.fm/tag/acoustic"
+        },
+        {
+          "name": "post-nerdcore",
+          "url": "https://www.last.fm/tag/post-nerdcore"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "20 May 2017, 04:29",
+      "summary": "This song was first previewed on Twitter on May 9th and released officially on X’s SoundCloud on May 18th.\n\nX posted a Snapchat about the video saying,\n\n\"For those of you that saw that video on my Twitter, I produced that..all of it..completely original.\" <a href=\"http://www.last.fm/music/XXXTENTACION/_/Revenge\">Read more on Last.fm</a>.",
+      "content": "This song was first previewed on Twitter on May 9th and released officially on X’s SoundCloud on May 18th.\n\nX posted a Snapchat about the video saying,\n\n\"For those of you that saw that video on my Twitter, I produced that..all of it..completely original.\" <a href=\"http://www.last.fm/music/XXXTENTACION/_/Revenge\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

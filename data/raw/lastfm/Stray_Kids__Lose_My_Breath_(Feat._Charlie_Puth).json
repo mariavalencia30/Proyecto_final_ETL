@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Lose My Breath (Feat. Charlie Puth)",
+    "url": "https://www.last.fm/music/Stray+Kids/_/Lose+My+Breath+(Feat.+Charlie+Puth)",
+    "duration": "166000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "151414",
+    "playcount": "1929289",
+    "artist": {
+      "name": "Stray Kids",
+      "mbid": "142b343d-bf5a-428c-a64f-6d1a7566bbe9",
+      "url": "https://www.last.fm/music/Stray+Kids"
+    },
+    "album": {
+      "artist": "Stray Kids",
+      "title": "Lose My Breath (feat. Charlie Puth) - Single",
+      "url": "https://www.last.fm/music/Stray+Kids/Lose+My+Breath+(feat.+Charlie+Puth)+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0c6d07df1ec67385ee7de10a3a399313.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0c6d07df1ec67385ee7de10a3a399313.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0c6d07df1ec67385ee7de10a3a399313.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0c6d07df1ec67385ee7de10a3a399313.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

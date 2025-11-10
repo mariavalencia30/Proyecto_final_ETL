@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Tennessee Whiskey",
+    "mbid": "0f634255-bcb0-404a-86f3-8f090b3fbe3a",
+    "url": "https://www.last.fm/music/Chris+Stapleton/_/Tennessee+Whiskey",
+    "duration": "295000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "501273",
+    "playcount": "4836837",
+    "artist": {
+      "name": "Chris Stapleton",
+      "mbid": "d996d607-52e4-40c7-b369-211653df6d18",
+      "url": "https://www.last.fm/music/Chris+Stapleton"
+    },
+    "album": {
+      "artist": "Chris Stapleton",
+      "title": "Traveller",
+      "url": "https://www.last.fm/music/Chris+Stapleton/Traveller",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/e2eec0e4218908c908edfb20c80ed2e3.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/e2eec0e4218908c908edfb20c80ed2e3.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/e2eec0e4218908c908edfb20c80ed2e3.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/e2eec0e4218908c908edfb20c80ed2e3.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "blues",
+          "url": "https://www.last.fm/tag/blues"
+        },
+        {
+          "name": "country",
+          "url": "https://www.last.fm/tag/country"
+        },
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "2015",
+          "url": "https://www.last.fm/tag/2015"
+        },
+        {
+          "name": "americana",
+          "url": "https://www.last.fm/tag/americana"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "14 Jul 2021, 16:22",
+      "summary": "\"Tennessee Whiskey\" is a country song written by Dean Dillon and Linda Hargrove. It was originally recorded by American country music artist David Allan Coe for his album of the same name Tennessee Whiskey, whose version peaked at number 77 on the Billboard Hot Country Singles chart in 1981.[1] George Jones' 1983 version of the song was included on his album Shine On, and reached number 2 on the Hot Country Singles chart. The song has been covered by several artists, including Chris Stapleton. <a href=\"http://www.last.fm/music/Chris+Stapleton/_/Tennessee+Whiskey\">Read more on Last.fm</a>.",
+      "content": "\"Tennessee Whiskey\" is a country song written by Dean Dillon and Linda Hargrove. It was originally recorded by American country music artist David Allan Coe for his album of the same name Tennessee Whiskey, whose version peaked at number 77 on the Billboard Hot Country Singles chart in 1981.[1] George Jones' 1983 version of the song was included on his album Shine On, and reached number 2 on the Hot Country Singles chart. The song has been covered by several artists, including Chris Stapleton. <a href=\"http://www.last.fm/music/Chris+Stapleton/_/Tennessee+Whiskey\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

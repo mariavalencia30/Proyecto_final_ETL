@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Broadway Girls (feat. Morgan Wallen)",
+    "url": "https://www.last.fm/music/Lil+Durk/_/Broadway+Girls+(feat.+Morgan+Wallen)",
+    "duration": "185000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "150052",
+    "playcount": "1791600",
+    "artist": {
+      "name": "Lil Durk",
+      "mbid": "c9cd225b-4883-428e-82c2-73e0b6282fb6",
+      "url": "https://www.last.fm/music/Lil+Durk"
+    },
+    "album": {
+      "artist": "Lil Durk",
+      "title": "Broadway Girls (feat. Morgan Wallen)",
+      "url": "https://www.last.fm/music/Lil+Durk/Broadway+Girls+(feat.+Morgan+Wallen)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/c04dd5364a653b97f72de693f851bd06.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/c04dd5364a653b97f72de693f851bd06.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/c04dd5364a653b97f72de693f851bd06.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/c04dd5364a653b97f72de693f851bd06.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

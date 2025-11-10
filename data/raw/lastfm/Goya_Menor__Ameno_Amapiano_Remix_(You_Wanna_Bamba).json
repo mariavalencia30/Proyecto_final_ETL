@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Ameno Amapiano Remix (You Wanna Bamba)",
+    "mbid": "2f75d134-2ce6-48a3-9582-5f3488fa4efb",
+    "url": "https://www.last.fm/music/Goya+Menor/_/Ameno+Amapiano+Remix+(You+Wanna+Bamba)",
+    "duration": "228000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "19672",
+    "playcount": "109287",
+    "artist": {
+      "name": "Goya Menor",
+      "mbid": "38ee0058-5261-4ec8-b344-0ff85b81b59e",
+      "url": "https://www.last.fm/music/Goya+Menor"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "NRJ Hits List 2022",
+      "url": "https://www.last.fm/music/Various+Artists/NRJ+Hits+List+2022",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/80000b46677b1c1c745e305da6c9096e.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/80000b46677b1c1c745e305da6c9096e.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/80000b46677b1c1c745e305da6c9096e.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/80000b46677b1c1c745e305da6c9096e.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

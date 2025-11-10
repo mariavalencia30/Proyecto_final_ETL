@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Kesariya (From \"Brahmastra\")",
+    "url": "https://www.last.fm/music/Pritam/_/Kesariya+(From+%22Brahmastra%22)",
+    "duration": "268000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "42100",
+    "playcount": "440765",
+    "artist": {
+      "name": "Pritam",
+      "mbid": "52db98c1-0cc9-4aab-9f2d-ea8d359234f3",
+      "url": "https://www.last.fm/music/Pritam"
+    },
+    "album": {
+      "artist": "Pritam",
+      "title": "Kesariya (From \"Brahmastra\")",
+      "url": "https://www.last.fm/music/Pritam/Kesariya+(From+%22Brahmastra%22)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/8ec3da3ec3ee4ebf477e89ab9049d5f9.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/8ec3da3ec3ee4ebf477e89ab9049d5f9.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/8ec3da3ec3ee4ebf477e89ab9049d5f9.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/8ec3da3ec3ee4ebf477e89ab9049d5f9.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

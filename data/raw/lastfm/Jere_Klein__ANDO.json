@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "ANDO",
+    "mbid": "2aca6067-5514-4cda-afcc-570d0590813f",
+    "url": "https://www.last.fm/music/Jere+Klein/_/ANDO",
+    "duration": "172000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "72913",
+    "playcount": "853373",
+    "artist": {
+      "name": "Jere Klein",
+      "mbid": "a5d5354e-3bf2-4479-b20a-a860b81962d9",
+      "url": "https://www.last.fm/music/Jere+Klein"
+    },
+    "album": {
+      "artist": "Jere Klein",
+      "title": "Énfasis",
+      "url": "https://www.last.fm/music/Jere+Klein/%C3%89nfasis",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a1e1d44f77b5e549e6e60746fcae8f8d.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a1e1d44f77b5e549e6e60746fcae8f8d.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a1e1d44f77b5e549e6e60746fcae8f8d.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a1e1d44f77b5e549e6e60746fcae8f8d.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

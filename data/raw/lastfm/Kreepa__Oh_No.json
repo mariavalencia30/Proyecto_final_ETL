@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Oh No",
+    "mbid": "613bb23b-fe60-4ab3-8a2d-f666c84df0b8",
+    "url": "https://www.last.fm/music/Kreepa/_/Oh+No",
+    "duration": "166000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "27622",
+    "playcount": "108932",
+    "artist": {
+      "name": "Kreepa",
+      "url": "https://www.last.fm/music/Kreepa"
+    },
+    "album": {
+      "artist": "Kreepa",
+      "title": "Cold As Ice",
+      "url": "https://www.last.fm/music/Kreepa/Cold+As+Ice",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/0faa42045d25689abafd8ced838b2ad6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/0faa42045d25689abafd8ced838b2ad6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/0faa42045d25689abafd8ced838b2ad6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/0faa42045d25689abafd8ced838b2ad6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

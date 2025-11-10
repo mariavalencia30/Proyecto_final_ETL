@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Milf Song",
+    "url": "https://www.last.fm/music/The+Puddleducks/_/Milf+Song",
+    "duration": "179000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "8324",
+    "playcount": "47916",
+    "artist": {
+      "name": "The Puddleducks",
+      "url": "https://www.last.fm/music/The+Puddleducks"
+    },
+    "album": {
+      "artist": "The Puddleducks",
+      "title": "Milf Song",
+      "url": "https://www.last.fm/music/The+Puddleducks/Milf+Song",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2525c01666049fb8322a79f40c788f97.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2525c01666049fb8322a79f40c788f97.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2525c01666049fb8322a79f40c788f97.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2525c01666049fb8322a79f40c788f97.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

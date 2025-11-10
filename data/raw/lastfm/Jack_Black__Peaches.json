@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Peaches",
+    "mbid": "e5212757-ed69-442e-8cf7-bc3b73acaac3",
+    "url": "https://www.last.fm/music/Jack+Black/_/Peaches",
+    "duration": "95000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "239293",
+    "playcount": "1774253",
+    "artist": {
+      "name": "Jack Black",
+      "mbid": "caf8a53e-7f43-4be4-95d6-18d55e1f6e18",
+      "url": "https://www.last.fm/music/Jack+Black"
+    },
+    "album": {
+      "artist": "Brian Tyler",
+      "title": "The Super Mario Bros. Movie (Original Motion Picture Soundtrack)",
+      "url": "https://www.last.fm/music/Brian+Tyler/The+Super+Mario+Bros.+Movie+(Original+Motion+Picture+Soundtrack)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/dbe64ca6f53d8ca06c730ea8cab4e035.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/dbe64ca6f53d8ca06c730ea8cab4e035.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/dbe64ca6f53d8ca06c730ea8cab4e035.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/dbe64ca6f53d8ca06c730ea8cab4e035.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "24 Apr 2023, 23:04",
+      "summary": "“Peaches” is a love song that appears at two segments in The Super Mario Bros. Movie. (2023)\n\nIn one idle moment, Bowser (voiced by Jack Black) sits at his piano and belts out this power ballad about his love for Princess Peach (voiced by Anya Taylor-Joy) and his plan to force her into a marriage with him. Later, in the mid-credits scene, a miniaturized and imprisoned Bowser is heard reprising this song in his cage while he plays a miniature piano. <a href=\"http://www.last.fm/music/Jack+Black/_/Peaches\">Read more on Last.fm</a>.",
+      "content": "“Peaches” is a love song that appears at two segments in The Super Mario Bros. Movie. (2023)\n\nIn one idle moment, Bowser (voiced by Jack Black) sits at his piano and belts out this power ballad about his love for Princess Peach (voiced by Anya Taylor-Joy) and his plan to force her into a marriage with him. Later, in the mid-credits scene, a miniaturized and imprisoned Bowser is heard reprising this song in his cage while he plays a miniature piano. <a href=\"http://www.last.fm/music/Jack+Black/_/Peaches\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

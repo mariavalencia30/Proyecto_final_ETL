@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Go Back (feat. Julia Church)",
+    "mbid": "d10add0b-6af1-4c68-9f63-da6f5cf88a03",
+    "url": "https://www.last.fm/music/John+Summit/_/Go+Back+(feat.+Julia+Church)",
+    "duration": "220000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "129508",
+    "playcount": "1189466",
+    "artist": {
+      "name": "John Summit",
+      "mbid": "2547c5e3-314c-4332-981d-f18c902a4086",
+      "url": "https://www.last.fm/music/John+Summit"
+    },
+    "album": {
+      "artist": "John Summit",
+      "title": "Go Back (feat. Julia Church)",
+      "url": "https://www.last.fm/music/John+Summit/Go+Back+(feat.+Julia+Church)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/a9e595e35034283f74c92760de06ed19.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/a9e595e35034283f74c92760de06ed19.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/a9e595e35034283f74c92760de06ed19.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/a9e595e35034283f74c92760de06ed19.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

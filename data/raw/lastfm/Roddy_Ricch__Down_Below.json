@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "Down Below",
+    "mbid": "e6465fd2-d986-4d2a-a1a5-a9f23572ecbb",
+    "url": "https://www.last.fm/music/Roddy+Ricch/_/Down+Below",
+    "duration": "224000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "279820",
+    "playcount": "2718624",
+    "artist": {
+      "name": "Roddy Ricch",
+      "mbid": "5721c227-4caf-48b1-bbfc-1a4ed3276963",
+      "url": "https://www.last.fm/music/Roddy+Ricch"
+    },
+    "album": {
+      "artist": "Roddy Ricch",
+      "title": "Feed Tha Streets ll",
+      "url": "https://www.last.fm/music/Roddy+Ricch/Feed+Tha+Streets+ll",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/74a26ffee31c64105c52bd6144aea586.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/74a26ffee31c64105c52bd6144aea586.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/74a26ffee31c64105c52bd6144aea586.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/74a26ffee31c64105c52bd6144aea586.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "16 Jun 2023, 09:30",
+      "summary": "On “Down Below”, Roddy reminisces on his come-up from the impoverished projects of Compton, Los Angeles.\n\nThe rapper confirmed that the track went gold on the live performance Trap Symphony. <a href=\"http://www.last.fm/music/Roddy+Ricch/_/Down+Below\">Read more on Last.fm</a>.",
+      "content": "On “Down Below”, Roddy reminisces on his come-up from the impoverished projects of Compton, Los Angeles.\n\nThe rapper confirmed that the track went gold on the live performance Trap Symphony. <a href=\"http://www.last.fm/music/Roddy+Ricch/_/Down+Below\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

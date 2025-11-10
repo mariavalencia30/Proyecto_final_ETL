@@ -1,0 +1,50 @@
+{
+  "track": {
+    "name": "All the Stars (with SZA)",
+    "mbid": "a0a38516-c9c3-4a05-a2bf-523b6ca219ab",
+    "url": "https://www.last.fm/music/Kendrick+Lamar/_/All+the+Stars+(with+SZA)",
+    "duration": "232000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1841075",
+    "playcount": "26437084",
+    "artist": {
+      "name": "Kendrick Lamar",
+      "mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+      "url": "https://www.last.fm/music/Kendrick+Lamar"
+    },
+    "album": {
+      "artist": "Kendrick Lamar & SZA",
+      "title": "All The Stars (with SZA)",
+      "url": "https://www.last.fm/music/Kendrick+Lamar+&+SZA/All+The+Stars+(with+SZA)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1f4995d8240d88c8e5bebe380264a679.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1f4995d8240d88c8e5bebe380264a679.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1f4995d8240d88c8e5bebe380264a679.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1f4995d8240d88c8e5bebe380264a679.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    },
+    "wiki": {
+      "published": "05 Jan 2018, 01:43",
+      "summary": "“All the Stars” is the lead single from the Black Panther soundtrack. Released on January 4, 2018, the single was announced as part of the soundtrack that would be produced and curated by Kendrick and Anthony “Top Dawg” Tiffith.\n\nThis is the third collaboration between Kendrick Lamar and SZA, following Babylon and Doves in the Wind. <a href=\"http://www.last.fm/music/Kendrick+Lamar/_/All+the+Stars+(with+SZA)\">Read more on Last.fm</a>.",
+      "content": "“All the Stars” is the lead single from the Black Panther soundtrack. Released on January 4, 2018, the single was announced as part of the soundtrack that would be produced and curated by Kendrick and Anthony “Top Dawg” Tiffith.\n\nThis is the third collaboration between Kendrick Lamar and SZA, following Babylon and Doves in the Wind. <a href=\"http://www.last.fm/music/Kendrick+Lamar/_/All+the+Stars+(with+SZA)\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

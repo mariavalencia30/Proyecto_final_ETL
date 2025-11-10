@@ -1,0 +1,70 @@
+{
+  "track": {
+    "name": "Someone You Loved",
+    "url": "https://www.last.fm/music/Lewis+Capaldi/_/Someone+You+Loved",
+    "duration": "182000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1006954",
+    "playcount": "11706673",
+    "artist": {
+      "name": "Lewis Capaldi",
+      "mbid": "526aab94-697f-44a9-b630-41d1c0505953",
+      "url": "https://www.last.fm/music/Lewis+Capaldi"
+    },
+    "album": {
+      "artist": "Various Artists",
+      "title": "Best of Electronic Music",
+      "url": "https://www.last.fm/music/Various+Artists/Best+of+Electronic+Music",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eeead76fc5cd35025d97a0e74725a307.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eeead76fc5cd35025d97a0e74725a307.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eeead76fc5cd35025d97a0e74725a307.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eeead76fc5cd35025d97a0e74725a307.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "2010s",
+          "url": "https://www.last.fm/tag/2010s"
+        },
+        {
+          "name": "pop",
+          "url": "https://www.last.fm/tag/pop"
+        },
+        {
+          "name": "2018",
+          "url": "https://www.last.fm/tag/2018"
+        },
+        {
+          "name": "2019",
+          "url": "https://www.last.fm/tag/2019"
+        },
+        {
+          "name": "rnb",
+          "url": "https://www.last.fm/tag/rnb"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "27 Jun 2019, 15:50",
+      "summary": "Lewis writes this song to a past partner whom he misses. He feels as though he gave the relationship everything and she left him anyway. Now, he just wants someone to love because he misses the way it felt with his ex. It was a number hit across Europe, hitting number one in The UK, Scotland and Ireland. <a href=\"http://www.last.fm/music/Lewis+Capaldi/_/Someone+You+Loved\">Read more on Last.fm</a>.",
+      "content": "Lewis writes this song to a past partner whom he misses. He feels as though he gave the relationship everything and she left him anyway. Now, he just wants someone to love because he misses the way it felt with his ex. It was a number hit across Europe, hitting number one in The UK, Scotland and Ireland. <a href=\"http://www.last.fm/music/Lewis+Capaldi/_/Someone+You+Loved\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

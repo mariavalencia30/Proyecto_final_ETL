@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Chegou A Hora de Ir Para Cama (Playback)",
+    "url": "https://www.last.fm/music/3+Palavrinhas/_/Chegou+A+Hora+de+Ir+Para+Cama+(Playback)",
+    "duration": "168000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1",
+    "playcount": "1",
+    "artist": {
+      "name": "3 Palavrinhas",
+      "mbid": "1de8db98-8e12-46e8-b358-060825c86836",
+      "url": "https://www.last.fm/music/3+Palavrinhas"
+    },
+    "album": {
+      "artist": "3 Palavrinhas",
+      "title": "3 Palavrinhas Vol.9 (Playback)",
+      "url": "https://www.last.fm/music/3+Palavrinhas/3+Palavrinhas+Vol.9+(Playback)",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

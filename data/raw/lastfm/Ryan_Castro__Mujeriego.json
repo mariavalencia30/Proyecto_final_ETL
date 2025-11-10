@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Mujeriego",
+    "url": "https://www.last.fm/music/Ryan+Castro/_/Mujeriego",
+    "duration": "142000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "141957",
+    "playcount": "1215207",
+    "artist": {
+      "name": "Ryan Castro",
+      "mbid": "2f87ff5c-dd38-4e2f-8a63-ace112b44002",
+      "url": "https://www.last.fm/music/Ryan+Castro"
+    },
+    "album": {
+      "artist": "Ryan Castro",
+      "title": "Mujeriego",
+      "url": "https://www.last.fm/music/Ryan+Castro/Mujeriego",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/391d3c788b8bf2342f5c3e10bbf2afb6.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/391d3c788b8bf2342f5c3e10bbf2afb6.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/391d3c788b8bf2342f5c3e10bbf2afb6.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/391d3c788b8bf2342f5c3e10bbf2afb6.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

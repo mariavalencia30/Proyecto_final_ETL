@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Caramelo",
+    "mbid": "2820affe-7876-4b5c-a103-d9a4a4673f75",
+    "url": "https://www.last.fm/music/Ozuna/_/Caramelo",
+    "duration": "217000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "94589",
+    "playcount": "676565",
+    "artist": {
+      "name": "Ozuna",
+      "mbid": "f2651b63-a44d-4d1d-ba64-d981d971ecd1",
+      "url": "https://www.last.fm/music/Ozuna"
+    },
+    "album": {
+      "artist": "Ozuna",
+      "title": "ENOC",
+      "url": "https://www.last.fm/music/Ozuna/ENOC",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/7a0b6c97a1824fa2e19a39d25d588634.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/7a0b6c97a1824fa2e19a39d25d588634.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/7a0b6c97a1824fa2e19a39d25d588634.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/7a0b6c97a1824fa2e19a39d25d588634.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

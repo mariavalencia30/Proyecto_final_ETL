@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "Armageddon",
+    "mbid": "3fb5e8d9-e9a3-43c8-a6be-1e7f6ea7406f",
+    "url": "https://www.last.fm/music/aespa/_/Armageddon",
+    "duration": "196000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "488773",
+    "playcount": "12711618",
+    "artist": {
+      "name": "aespa",
+      "mbid": "b51c672b-85e0-48fe-8648-470a2422229f",
+      "url": "https://www.last.fm/music/aespa"
+    },
+    "album": {
+      "artist": "aespa",
+      "title": "Armageddon",
+      "url": "https://www.last.fm/music/aespa/Armageddon",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/be03b7a5e82ebab5da134cf1f3150607.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/be03b7a5e82ebab5da134cf1f3150607.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/be03b7a5e82ebab5da134cf1f3150607.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/be03b7a5e82ebab5da134cf1f3150607.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "k-pop",
+          "url": "https://www.last.fm/tag/k-pop"
+        },
+        {
+          "name": "soty",
+          "url": "https://www.last.fm/tag/soty"
+        },
+        {
+          "name": "mofiselle",
+          "url": "https://www.last.fm/tag/mofiselle"
+        },
+        {
+          "name": "julia mofada",
+          "url": "https://www.last.fm/tag/julia+mofada"
+        },
+        {
+          "name": "Korean",
+          "url": "https://www.last.fm/tag/Korean"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "29 May 2024, 14:42",
+      "summary": "\"Armageddon\" is a song recorded by the South Korean girl group aespa. It was released on May 27, 2024, by SM Entertainment as the title track from their debut full studio album with the same name, \"Armageddon\". The track has been characterized as an \"old-school yet trendy\" composition, featuring a \"fluid R&B bridge\" that adds depth to the overall sound. Thematically, \"Armageddon\" delves into the complexities of interpersonal relationships and the challenges of navigating modern society. <a href=\"http://www.last.fm/music/aespa/_/Armageddon\">Read more on Last.fm</a>.",
+      "content": "\"Armageddon\" is a song recorded by the South Korean girl group aespa. It was released on May 27, 2024, by SM Entertainment as the title track from their debut full studio album with the same name, \"Armageddon\". The track has been characterized as an \"old-school yet trendy\" composition, featuring a \"fluid R&B bridge\" that adds depth to the overall sound. Thematically, \"Armageddon\" delves into the complexities of interpersonal relationships and the challenges of navigating modern society. The song's evocative lyrics and dynamic musical arrangement have garnered praise from both critics and audiences alike, solidifying aespa's position as a formidable presence in the K-pop landscape. <a href=\"http://www.last.fm/music/aespa/_/Armageddon\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

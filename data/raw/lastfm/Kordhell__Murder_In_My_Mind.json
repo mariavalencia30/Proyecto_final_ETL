@@ -1,0 +1,66 @@
+{
+  "track": {
+    "name": "Murder In My Mind",
+    "mbid": "eb27c076-7686-465a-8737-8722611486c5",
+    "url": "https://www.last.fm/music/Kordhell/_/Murder+In+My+Mind",
+    "duration": "145000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "532819",
+    "playcount": "6189272",
+    "artist": {
+      "name": "Kordhell",
+      "mbid": "e97e9533-a69b-431d-a88f-e9a519be6c0d",
+      "url": "https://www.last.fm/music/Kordhell"
+    },
+    "album": {
+      "artist": "Kordhell",
+      "title": "Murder In My Mind - Single",
+      "url": "https://www.last.fm/music/Kordhell/Murder+In+My+Mind+-+Single",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/220e751b9f28309051b539eede331292.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/220e751b9f28309051b539eede331292.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/220e751b9f28309051b539eede331292.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/220e751b9f28309051b539eede331292.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "drift phonk",
+          "url": "https://www.last.fm/tag/drift+phonk"
+        },
+        {
+          "name": "dance",
+          "url": "https://www.last.fm/tag/dance"
+        },
+        {
+          "name": "phonk",
+          "url": "https://www.last.fm/tag/phonk"
+        },
+        {
+          "name": "House",
+          "url": "https://www.last.fm/tag/House"
+        },
+        {
+          "name": "drop",
+          "url": "https://www.last.fm/tag/drop"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Never Be Lonely",
+    "mbid": "558bac02-6933-47a6-87da-b175872049cf",
+    "url": "https://www.last.fm/music/Jax+Jones/_/Never+Be+Lonely",
+    "duration": "134000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "39488",
+    "playcount": "207181",
+    "artist": {
+      "name": "Jax Jones",
+      "mbid": "a2507d4d-3387-4d31-a6e8-f2c9794fb37e",
+      "url": "https://www.last.fm/music/Jax+Jones"
+    },
+    "album": {
+      "artist": "Jax Jones",
+      "title": "Never Be Lonely",
+      "url": "https://www.last.fm/music/Jax+Jones/Never+Be+Lonely",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/eb814129106667bc515c0983ddbadb68.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/eb814129106667bc515c0983ddbadb68.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/eb814129106667bc515c0983ddbadb68.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/eb814129106667bc515c0983ddbadb68.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

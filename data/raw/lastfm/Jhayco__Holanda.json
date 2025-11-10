@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Holanda",
+    "mbid": "42cde069-ae2e-4df0-8757-380e04d3d1a7",
+    "url": "https://www.last.fm/music/Jhayco/_/Holanda",
+    "duration": "231000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "115535",
+    "playcount": "1316065",
+    "artist": {
+      "name": "Jhayco",
+      "mbid": "2b67658e-429f-425a-adf5-345b13112fc1",
+      "url": "https://www.last.fm/music/Jhayco"
+    },
+    "album": {
+      "artist": "Jhayco",
+      "title": "Holanda",
+      "url": "https://www.last.fm/music/Jhayco/Holanda",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/05522313afc81ee80f67f9ea842f1b07.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/05522313afc81ee80f67f9ea842f1b07.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/05522313afc81ee80f67f9ea842f1b07.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/05522313afc81ee80f67f9ea842f1b07.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

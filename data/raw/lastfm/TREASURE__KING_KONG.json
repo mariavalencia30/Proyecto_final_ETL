@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "King Kong",
+    "url": "https://www.last.fm/music/Treasure/_/King+Kong",
+    "duration": "196000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "32734",
+    "playcount": "517333",
+    "artist": {
+      "name": "Treasure",
+      "mbid": "43874654-7bba-4872-9b90-43cd9ead85b2",
+      "url": "https://www.last.fm/music/Treasure"
+    },
+    "album": {
+      "artist": "Treasure",
+      "title": "KING KONG",
+      "url": "https://www.last.fm/music/Treasure/KING+KONG",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/1c5080dd2219d17f10ebb46dcf3203d7.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/1c5080dd2219d17f10ebb46dcf3203d7.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/1c5080dd2219d17f10ebb46dcf3203d7.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/1c5080dd2219d17f10ebb46dcf3203d7.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

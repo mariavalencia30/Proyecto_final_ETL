@@ -1,0 +1,71 @@
+{
+  "track": {
+    "name": "I Like It",
+    "mbid": "48a3397c-69fb-4436-8a5d-5a8698390278",
+    "url": "https://www.last.fm/music/Cardi+B/_/I+Like+It",
+    "duration": "253000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "822995",
+    "playcount": "6537533",
+    "artist": {
+      "name": "Cardi B",
+      "mbid": "2f3c4d70-0462-40da-bba3-0aec5772c556",
+      "url": "https://www.last.fm/music/Cardi+B"
+    },
+    "album": {
+      "artist": "Cardi B",
+      "title": "I Like It (Demo)",
+      "url": "https://www.last.fm/music/Cardi+B/I+Like+It+(Demo)",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/d990d4516b16b3cd58374e32aa62eb30.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/d990d4516b16b3cd58374e32aa62eb30.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/d990d4516b16b3cd58374e32aa62eb30.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/d990d4516b16b3cd58374e32aa62eb30.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": [
+        {
+          "name": "rap",
+          "url": "https://www.last.fm/tag/rap"
+        },
+        {
+          "name": "Hip-Hop",
+          "url": "https://www.last.fm/tag/Hip-Hop"
+        },
+        {
+          "name": "pop rap",
+          "url": "https://www.last.fm/tag/pop+rap"
+        },
+        {
+          "name": "Latin Rap",
+          "url": "https://www.last.fm/tag/Latin+Rap"
+        },
+        {
+          "name": "2018",
+          "url": "https://www.last.fm/tag/2018"
+        }
+      ]
+    },
+    "wiki": {
+      "published": "29 May 2018, 21:22",
+      "summary": "\"I Like It\" is a song recorded by American rapper Cardi B for her first studio album Invasion of Privacy, with Puerto Rican recording artist Bad Bunny and Colombian singer J Balvin. It was released on May 25, 2018 as the fourth single from her debut studio album. <a href=\"http://www.last.fm/music/Cardi+B/_/I+Like+It\">Read more on Last.fm</a>.",
+      "content": "\"I Like It\" is a song recorded by American rapper Cardi B for her first studio album Invasion of Privacy, with Puerto Rican recording artist Bad Bunny and Colombian singer J Balvin. It was released on May 25, 2018 as the fourth single from her debut studio album. <a href=\"http://www.last.fm/music/Cardi+B/_/I+Like+It\">Read more on Last.fm</a>. User-contributed text is available under the Creative Commons By-SA License; additional terms may apply."
+    }
+  }
+}

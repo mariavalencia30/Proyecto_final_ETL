@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Daytona",
+    "url": "https://www.last.fm/music/Cris+Mj/_/Daytona",
+    "duration": "173000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "97089",
+    "playcount": "1469731",
+    "artist": {
+      "name": "Cris Mj",
+      "url": "https://www.last.fm/music/Cris+Mj"
+    },
+    "album": {
+      "artist": "Cris Mj",
+      "title": "Partyson",
+      "url": "https://www.last.fm/music/Cris+Mj/Partyson",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/2ca2d614e08eaf558732394dadd19e19.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/2ca2d614e08eaf558732394dadd19e19.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/2ca2d614e08eaf558732394dadd19e19.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/2ca2d614e08eaf558732394dadd19e19.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

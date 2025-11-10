@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Peaches & Eggplants (feat. 21 Savage)",
+    "url": "https://www.last.fm/music/Young+Nudy/_/Peaches+&+Eggplants+(feat.+21+Savage)",
+    "duration": "203000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "318852",
+    "playcount": "3167684",
+    "artist": {
+      "name": "Young Nudy",
+      "mbid": "79c9b9a6-4b78-4738-8b81-95b066321ea9",
+      "url": "https://www.last.fm/music/Young+Nudy"
+    },
+    "album": {
+      "artist": "Young Nudy",
+      "title": "Gumbo",
+      "url": "https://www.last.fm/music/Young+Nudy/Gumbo",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/f39fc98a67a9a330aa16a109d715f233.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/f39fc98a67a9a330aa16a109d715f233.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/f39fc98a67a9a330aa16a109d715f233.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/f39fc98a67a9a330aa16a109d715f233.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

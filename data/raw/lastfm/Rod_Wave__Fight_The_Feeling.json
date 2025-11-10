@@ -1,0 +1,45 @@
+{
+  "track": {
+    "name": "Fight The Feeling",
+    "mbid": "c1cea348-8472-45dd-8789-62f28ea26b7d",
+    "url": "https://www.last.fm/music/Rod+Wave/_/Fight+The+Feeling",
+    "duration": "160000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "72175",
+    "playcount": "759190",
+    "artist": {
+      "name": "Rod Wave",
+      "mbid": "cb3d3e49-bf08-4cdb-bfa8-4dc7c458cea1",
+      "url": "https://www.last.fm/music/Rod+Wave"
+    },
+    "album": {
+      "artist": "Rod Wave",
+      "title": "Fight The Feeling",
+      "url": "https://www.last.fm/music/Rod+Wave/Fight+The+Feeling",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/3e9faef662351e6e21804398c5b3a3cc.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/3e9faef662351e6e21804398c5b3a3cc.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/3e9faef662351e6e21804398c5b3a3cc.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/3e9faef662351e6e21804398c5b3a3cc.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "track": {
+    "name": "Jedag Jedug Capcut 2024",
+    "url": "https://www.last.fm/music/Afrian+Af/_/Jedag+Jedug+Capcut+2024",
+    "duration": "202000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "1",
+    "playcount": "1",
+    "artist": {
+      "name": "Afrian Af",
+      "url": "https://www.last.fm/music/Afrian+Af"
+    },
+    "album": {
+      "artist": "Afrian Af",
+      "title": "Jedag Jedug Capcut 2024 - Single",
+      "url": "https://www.last.fm/music/Afrian+Af/Jedag+Jedug+Capcut+2024+-+Single",
+      "image": [
+        {
+          "#text": "",
+          "size": "small"
+        },
+        {
+          "#text": "",
+          "size": "medium"
+        },
+        {
+          "#text": "",
+          "size": "large"
+        },
+        {
+          "#text": "",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}

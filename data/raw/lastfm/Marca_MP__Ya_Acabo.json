@@ -1,0 +1,44 @@
+{
+  "track": {
+    "name": "Ya Acabo",
+    "url": "https://www.last.fm/music/Marca+MP/_/Ya+Acabo",
+    "duration": "174000",
+    "streamable": {
+      "#text": "0",
+      "fulltrack": "0"
+    },
+    "listeners": "39637",
+    "playcount": "365890",
+    "artist": {
+      "name": "Marca MP",
+      "mbid": "733c7354-5da5-4acb-a4d1-5af2feccb237",
+      "url": "https://www.last.fm/music/Marca+MP"
+    },
+    "album": {
+      "artist": "Marca MP",
+      "title": "DEV, Vol. 2",
+      "url": "https://www.last.fm/music/Marca+MP/DEV,+Vol.+2",
+      "image": [
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/34s/714aacb7ff62b070767217a976a2769a.png",
+          "size": "small"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/64s/714aacb7ff62b070767217a976a2769a.png",
+          "size": "medium"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/174s/714aacb7ff62b070767217a976a2769a.png",
+          "size": "large"
+        },
+        {
+          "#text": "https://lastfm.freetls.fastly.net/i/u/300x300/714aacb7ff62b070767217a976a2769a.png",
+          "size": "extralarge"
+        }
+      ]
+    },
+    "toptags": {
+      "tag": []
+    }
+  }
+}
