@@ -1,0 +1,73 @@
+# === Python general ===
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# === Entornos virtuales ===
+venv/
+ENV/
+env/
+.venv/
+
+# === Jupyter Notebooks ===
+.ipynb_checkpoints/
+*.ipynb~
+
+# === Archivos de configuración sensibles ===
+.env
+*.env
+.env.*
+
+# === Airflow ===
+airflow.db
+airflow.cfg
+logs/
+unittests.cfg
+webserver_config.py
+
+# === Docker ===
+*.pid
+*.sock
+*.tar
+*.gz
+*.bak
+
+# === VSCode / IDEs ===
+.vscode/
+.idea/
+*.swp
+
+# === MacOS / Linux / Windows ===
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# === Reportes y resultados ===
+reports/
+data/curated/
+data/raw/
+*.csv
+*.parquet
+*.xlsx
+*.html
+*.json
+
+# === GitGuardian / seguridad ===
+*.key
+*.pem
+*.crt
+*.db
+*.sqlite
+
+# === Otros ===
+*.zip
+*.rar
+*.7z
+*.bak
+*.tmp
